@@ -68,26 +68,47 @@ public class ForceObject : MonoBehaviour
         }
         // calculate forces
         Velocity += (m_allForces / Mass) * Time.fixedDeltaTime;
-
-        if(collide)
-        {
-           RaycastHit2D hit = collide.SolveCollision(this);
-
-           if (hit.collider &&  hit.distance <= 0.03f)  
-           {
-                ColliderDistance2D distance = gameObject.GetComponent<BoxCollider2D>().Distance(hit.collider);
-                Vector3 correction = distance.normal * (distance.distance);
-                transform.Translate(correction);
-
-                float vn = Vector2.Dot(Velocity, hit.normal);
-                Velocity -= vn * hit.normal;
-           }
-           
-        }
-
         Vector2 pos = Velocity * Time.fixedDeltaTime;
         gameObject.transform.Translate(pos);
-
         this.ClearForces();
+        
+        if (collide)
+        {
+            IsGrounded = false;
+
+            // TODO chose a version
+            //Collider2D[] hits = collide.SolveCollision();
+            //BoxCollider2D collider = collide.Collider;
+            //if (hits.Length != 0)
+            //    IsGrounded = true;
+            //foreach (var col in hits)
+            //{
+            //    ColliderDistance2D distance = Physics2D.Distance(collider, col);
+            //    Vector3 correction = distance.normal * (distance.distance);
+            //    transform.Translate(correction);
+            //    Velocity -= Vector2.Dot(Velocity, distance.normal) * distance.normal;
+            //}
+            // 
+
+
+            Collider2D collider = collide.Collider;
+            RaycastHit2D hit = collide.SolveCollisionTest(this);
+            if (hit.collider)
+            {
+                ColliderDistance2D distance = Physics2D.Distance(collider, hit.collider);
+                if (distance.isOverlapped)
+                {
+                    IsGrounded = true;
+                    Vector3 correction = distance.normal * (distance.distance);
+                    transform.Translate(correction);
+
+                    float vn = Vector2.Dot(Velocity, hit.normal);
+                    Velocity -= vn * hit.normal;
+                    // TODO add friction with material
+                }
+                
+            }
+        }
+      
     }
 }
