@@ -2,12 +2,10 @@
 public abstract class PlayerState : MonoBehaviour
 {
     protected PlayerCharacter character;
-    protected PlayerStateMachine stateMachine;
 
-    public PlayerState(PlayerCharacter character, PlayerStateMachine stateMachine)
+    public PlayerState(PlayerCharacter character)
     {
         this.character = character;
-        this.stateMachine = stateMachine;
     }
     public virtual void Enter() { }
     public virtual void Update() { }

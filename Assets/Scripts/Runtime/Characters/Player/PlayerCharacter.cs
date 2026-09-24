@@ -1,10 +1,14 @@
-using System;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerCharacter : MonoBehaviour
 {
+    private PlayerStateMachine _playerStateMachine;
+    public PlayerStateMachine PlayerStateMachine => _playerStateMachine;
+
     [Header("Animator")]
-    [SerializeField] private PlayerAnimator _playerAnimator;
+    [SerializeField] private PlayerAnimator _animatorPlayer;
+    public PlayerAnimator AnimatorPlayer => _animatorPlayer;
 
     [Header("Collision")]
     [SerializeField] private BoxCollider2D _collider;
@@ -13,100 +17,126 @@ public class PlayerCharacter : MonoBehaviour
 
     [Header("Movement")]
     [SerializeField] private float _moveSpeed = 10f;
-    [SerializeField] private float _maxMoveSpeed = 20f;
-    [SerializeField] private float _groundAcceleration = 100f;
-    [SerializeField] private float _groundDeceleration = 100f;
-    [SerializeField] private float _airAcceleration = 100f;
-    [SerializeField] private float _airDeceleration = 100f;
+    public float maxMoveSpeed = 20f;
+    public float groundAcceleration = 100f;
+    public float groundDeceleration = 100f;
+    public float airAcceleration = 100f;
+    public float airDeceleration = 100f;
+    [HideInInspector] public bool isSprinting = false;
+    [HideInInspector] public float acceleration;
 
     [Header("Gravity")]
     [SerializeField] private float _fallingGravity = 15f;
     [SerializeField] private float _risingingGravity = 25f;
 
     [Header("Jump")]
-    [SerializeField] private float _jumpForce = 20f;
-    [SerializeField] private float _jumpInputBuffer = 0.1f;
-    [SerializeField] private float _coyoteTime = 0.065f;
+    public float jumpForce = 20f;
+    public float jumpInputBuffer = 0.1f;
+    public float coyoteTime = 0.065f;
+
+    public bool IsGrounded => _collisionInfo._below;
+    public CollisionInfo CollisionInfo => _collisionInfo;
 
 
 
-    private Vector2 _velocity;
+    [HideInInspector] public Vector2 velocity;
     private CollisionInfo _collisionInfo;
 
-    private Vector2 _moveInput;
-    private float _lastJumpInputTime = float.MinValue;
-    private float _lastGroundedTime = float.MinValue;
-    private bool _canCoyoteJump = false;
+    [HideInInspector] public Vector2 moveInput;
+    [HideInInspector] public float lastJumpInputTime = float.MinValue;
+    [HideInInspector] public float lastGroundedTime = float.MinValue;
+    [HideInInspector] public bool canCoyoteJump = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        _playerStateMachine = new PlayerStateMachine();
+        var states = new Dictionary<PlayerStateType, PlayerState>
+        {
+            { PlayerStateType.Idle, new IdleState(this) },
+            { PlayerStateType.Walk, new WalkState(this) },
+            { PlayerStateType.Run, new RunState(this) },
+            { PlayerStateType.Jump, new JumpState(this) },
+            { PlayerStateType.Fall, new FallState(this) },
+            { PlayerStateType.TP, new TPState(this) },
+            { PlayerStateType.WallJump, new WallJumpState(this) },
+            { PlayerStateType.VineSwing, new VineSwingState(this) },
+            { PlayerStateType.Death, new DeathState(this) },
+            { PlayerStateType.UI, new UIState(this) }
+        };
+        _playerStateMachine.Initialized(states);
+        _playerStateMachine.ChangeState(PlayerStateType.Idle);
     }
 
     // Update is called once per frame
     void Update()
     {
+        _playerStateMachine.Update();
         //if (_collisionInfo._left || _collisionInfo._right)
         //{
         //    _velocity.x = 0;
         //}
 
-        if (_collisionInfo._below || _collisionInfo._above)
+        // Si on touche le sol en descendant, ou le plafond en montant
+        if ((_collisionInfo._below && velocity.y < 0) || (_collisionInfo._above && velocity.y > 0))
         {
-            _velocity.y = 0;
+            velocity.y = 0;
         }
 
-        ProcessJump();
+        //ProcessJump();
 
-        float gravity = _velocity.y >= 0 ? _risingingGravity : _fallingGravity; // on choisit la gravité en fonction de la direction du mouvement
-        _velocity.y -= gravity * Time.deltaTime; // acc * delta = vitesse, Time.deltaTime pour l'accumulation
+        float gravity = velocity.y >= 0 ? _risingingGravity : _fallingGravity; // on choisit la gravité en fonction de la direction du mouvement
+        velocity.y -= gravity * Time.deltaTime; // acc * delta = vitesse, Time.deltaTime pour l'accumulation
 
-        float targetVelocityX = _moveInput.x * _moveSpeed;
-        float acceleration;
-        if (_collisionInfo._below)
-        {
-            acceleration = _moveInput.x != 0 ? _groundAcceleration : _groundDeceleration;
-        }
-        else
-        {
-            acceleration = _moveInput.x != 0 ? _airAcceleration : _airDeceleration;
-            _playerAnimator.AnimatorPlayer.SetFloat("JumpVelocity", _velocity.y);
-            _playerAnimator.AnimatorPlayer.SetBool("IsGrounded", false);
-        }
-        _velocity.x = Mathf.MoveTowards(_velocity.x, targetVelocityX, acceleration * Time.deltaTime);
+        float targetVelocityX = isSprinting ? moveInput.x * maxMoveSpeed : moveInput.x * _moveSpeed;
+        //float acceleration;
+        //if (_collisionInfo._below)
+        //{
+        //    acceleration = moveInput.x != 0 ? groundAcceleration : groundDeceleration;
+        //}
+        //else
+        //{
+        //    acceleration = moveInput.x != 0 ? airAcceleration : airDeceleration;
+            
+        //}
+        velocity.x = Mathf.MoveTowards(velocity.x, targetVelocityX, acceleration * Time.deltaTime);
 
-        Vector2 deltaPosition = _velocity * Time.deltaTime; // vitesse * delta = position
+        Vector2 deltaPosition = velocity * Time.deltaTime; // vitesse * delta = position
 
         _collisionInfo.Reset();
         ProcessMove(ref deltaPosition); // on modifie la position en fonction des collisions
 
-        if (_collisionInfo._below)
-        {
-            _lastGroundedTime = Time.time;
-            _canCoyoteJump = true;
-            _playerAnimator.AnimatorPlayer.SetBool("IsGrounded", true);
-        }// on met à jour le temps de la dernière fois que le personnage était au sol
+        //if (_collisionInfo._below)
+        //{
+        //    lastGroundedTime = Time.time;
+        //    canCoyoteJump = true;
+        //    _animatorPlayer.AnimatorPlayer.SetBool("IsGrounded", true);
+        //}// on met à jour le temps de la dernière fois que le personnage était au sol
 
         transform.Translate(deltaPosition); // on donne la position au transform
-        _playerAnimator.SetMoveAnimation(_velocity.x, _maxMoveSpeed); // on met à jour l'animation en fonction de la vitesse
+        _animatorPlayer.SetMoveAnimation(velocity.x, maxMoveSpeed); // on met à jour l'animation en fonction de la vitesse
     }
 
-    private void ProcessJump()
+    private void FixedUpdate()
     {
-        bool isJumpBuffered = Time.time - _lastJumpInputTime <= _jumpInputBuffer;
-        if (!isJumpBuffered)
-        {
-            return;
-        }
-        if (_collisionInfo._below || (_canCoyoteJump && Time.time - _lastGroundedTime <= _coyoteTime))
-        {
-            _velocity.y = _jumpForce;
-            _playerAnimator.AnimatorPlayer.SetTrigger("Jump");
-            _lastJumpInputTime = float.MinValue; // Reset du jump input
-            _canCoyoteJump = false;
-        }
+        _playerStateMachine.FixedUpdate();
     }
+
+    //private void ProcessJump()
+    //{
+    //    bool isJumpBuffered = Time.time - _lastJumpInputTime <= _jumpInputBuffer;
+    //    if (!isJumpBuffered)
+    //    {
+    //        return;
+    //    }
+    //    if (_collisionInfo._below || (_canCoyoteJump && Time.time - _lastGroundedTime <= _coyoteTime))
+    //    {
+    //        _velocity.y = _jumpForce;
+    //        _playerAnimator.AnimatorPlayer.SetTrigger("Jump");
+    //        _lastJumpInputTime = float.MinValue; // Reset du jump input
+    //        _canCoyoteJump = false;
+    //    }
+    //}
 
     private void ProcessMove(ref Vector2 deltaPosition)
     {
@@ -165,11 +195,16 @@ public class PlayerCharacter : MonoBehaviour
 
     public void Move(Vector2 moveInput)
     {
-        _moveInput = moveInput;
+        this.moveInput = moveInput;
     }
 
     public void Jump()
     {
-        _lastJumpInputTime = Time.time;
+        lastJumpInputTime = Time.time;
+    }
+
+    public void Sprint(bool isSprinting)
+    {
+        this.isSprinting = isSprinting;
     }
 }

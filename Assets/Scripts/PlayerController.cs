@@ -76,14 +76,14 @@ public class PlayerController : MonoBehaviour
 
     public void ReceiveMoveInput(InputAction.CallbackContext ctx)
     {
-        Debug.Log($"ReceiveMoveInput: {ctx.ReadValue<Vector2>()}");
+        //Debug.Log($"ReceiveMoveInput: {ctx.ReadValue<Vector2>()}");
         Vector2 moveInput = ctx.ReadValue<Vector2>();
         _controlledCharacter.Move(moveInput);
     }
 
     public void ReceiveJumpInput(InputAction.CallbackContext ctx)
     {
-        Debug.Log($"ReceiveJumpInput: {ctx.ReadValue<float>()}");
+        //Debug.Log($"ReceiveJumpInput: {ctx.ReadValue<float>()}");
         // Handle jump input here
 
         if (ctx.started)
@@ -106,14 +106,42 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    // Update is called once per frame
-    void Update()
+    public void ReceiveSprintInput(InputAction.CallbackContext ctx)
     {
+        // Handle sprint input here
+        Debug.Log("Sprint input received");
+        if (ctx.started)
+        {
+            _controlledCharacter.Sprint(true);
+        }
 
+        if (ctx.canceled)
+        {
+            _controlledCharacter.Sprint(false);
+        }
     }
 
-    private void FixedUpdate()
+    public void ReceiveMenuInput(InputAction.CallbackContext ctx)
     {
+        // Handle menu input here
+        Debug.Log("Menu input received");
+        if (ctx.started)
+        {
+            // Open menu logic here
+            Debug.Log("Menu opened");
+        }
+    }
+
+    public void ReceiveTPInput(InputAction.CallbackContext ctx)
+    {
+        // Handle teleport input here
+        Debug.Log("Teleport input received");
+        if (ctx.started)
+        {
+            // Teleport logic here
+            Debug.Log("Teleporting...");
+            _controlledCharacter.PlayerStateMachine.PushState(PlayerStateType.TP);
+        }
     }
 
     public void SetPlayerCharacter(PlayerCharacter playerCharacter)

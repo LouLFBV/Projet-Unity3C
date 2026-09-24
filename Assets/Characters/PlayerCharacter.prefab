@@ -221,22 +221,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4699af04814c10e4cbd557bd982afc90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCharacter
-  _playerAnimator: {fileID: 9005233567772710317}
+  _animatorPlayer: {fileID: 9005233567772710317}
   _collider: {fileID: 1733951884111493655}
   _groundLayer:
     serializedVersion: 2
     m_Bits: 64
   _skinWidth: 0.01
   _moveSpeed: 10
+  maxMoveSpeed: 20
   _groundAcceleration: 120
   _groundDeceleration: 200
   _airAcceleration: 60
   _airDeceleration: 40
   _fallingGravity: 55
   _risingingGravity: 35
-  _jumpForce: 15
-  _jumpInputBuffer: 0.1
-  _coyoteTime: 0.065
+  jumpForce: 20
+  jumpInputBuffer: 0.1
+  coyoteTime: 0.065
+  velocity: {x: 0, y: 0}
+  lastJumpInputTime: -3.4028235e+38
+  lastGroundedTime: -3.4028235e+38
+  canCoyoteJump: 0
 --- !u!1 &8273637211017892109
 GameObject:
   m_ObjectHideFlags: 0

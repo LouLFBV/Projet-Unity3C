@@ -36,6 +36,7 @@ public class PlayerStateMachine : MonoBehaviour
 
     public void Update()
     {
+        Debug.Log($"<color=blue>Current State: {CurrentState?.GetType().Name}</color>");
         CurrentState?.Update();
     }
     public void FixedUpdate()
@@ -50,6 +51,7 @@ public enum PlayerStateType
     Walk,
     Run,
     Jump,
+    Fall,
     TP,
     WallJump,
     VineSwing,
