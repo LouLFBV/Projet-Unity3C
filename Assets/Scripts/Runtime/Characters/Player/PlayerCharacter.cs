@@ -8,12 +8,15 @@ public class PlayerCharacter : MonoBehaviour
 
     [Header("Animator")]
     [SerializeField] private PlayerAnimator _animatorPlayer;
-    public PlayerAnimator AnimatorPlayer => _animatorPlayer;
+    public PlayerAnimator AnimatorPlayerScript => _animatorPlayer;
 
     [Header("Collision")]
     [SerializeField] private BoxCollider2D _collider;
     [SerializeField] private LayerMask _groundLayer;
     [SerializeField] private float _skinWidth = 0.01f;
+    public BoxCollider2D Collider => _collider;
+    public LayerMask GroundLayer => _groundLayer;
+    public float SkinWidth => _skinWidth;
 
     [Header("Movement")]
     [SerializeField] private float _moveSpeed = 10f;
@@ -34,13 +37,24 @@ public class PlayerCharacter : MonoBehaviour
     public float jumpInputBuffer = 0.1f;
     public float coyoteTime = 0.065f;
 
+    [Header("Wall Jump")]   
+    public bool canWallJump = false;
+    public float wallJumpForce = 20f;
+    public float wallJumpHorizontalForce = 10f;
+    public float wallJumpGravity = 5f;
+    public float lastWallJumpTime = float.MinValue;
+
     public bool IsGrounded => _collisionInfo._below;
-    public CollisionInfo CollisionInfo => _collisionInfo;
+
+    [Header("TP")]
+    public float distanceToTP = 2f;
+    public float FacingDirection { get; private set; } = 1f;
 
 
 
     [HideInInspector] public Vector2 velocity;
     private CollisionInfo _collisionInfo;
+    public CollisionInfo CollisionInfo => _collisionInfo;
 
     [HideInInspector] public Vector2 moveInput;
     [HideInInspector] public float lastJumpInputTime = float.MinValue;
@@ -53,16 +67,16 @@ public class PlayerCharacter : MonoBehaviour
         _playerStateMachine = new PlayerStateMachine();
         var states = new Dictionary<PlayerStateType, PlayerState>
         {
-            { PlayerStateType.Idle, new IdleState(this) },
-            { PlayerStateType.Walk, new WalkState(this) },
-            { PlayerStateType.Run, new RunState(this) },
-            { PlayerStateType.Jump, new JumpState(this) },
-            { PlayerStateType.Fall, new FallState(this) },
-            { PlayerStateType.TP, new TPState(this) },
-            { PlayerStateType.WallJump, new WallJumpState(this) },
-            { PlayerStateType.VineSwing, new VineSwingState(this) },
-            { PlayerStateType.Death, new DeathState(this) },
-            { PlayerStateType.UI, new UIState(this) }
+            { PlayerStateType.Idle, new IdleState(this, _playerStateMachine) },
+            { PlayerStateType.Walk, new WalkState(this, _playerStateMachine) },
+            { PlayerStateType.Run, new RunState(this, _playerStateMachine) },
+            { PlayerStateType.Jump, new JumpState(this, _playerStateMachine) },
+            { PlayerStateType.Fall, new FallState(this, _playerStateMachine) },
+            { PlayerStateType.TP, new TPState(this, _playerStateMachine) },
+            { PlayerStateType.WallJump, new WallJumpState(this, _playerStateMachine) },
+            { PlayerStateType.VineSwing, new VineSwingState(this, _playerStateMachine) },
+            { PlayerStateType.Death, new DeathState(this, _playerStateMachine) },
+            { PlayerStateType.UI, new UIState(this, _playerStateMachine) }
         };
         _playerStateMachine.Initialized(states);
         _playerStateMachine.ChangeState(PlayerStateType.Idle);
@@ -85,10 +99,10 @@ public class PlayerCharacter : MonoBehaviour
 
         //ProcessJump();
 
-        float gravity = velocity.y >= 0 ? _risingingGravity : _fallingGravity; // on choisit la gravité en fonction de la direction du mouvement
+        float gravity = velocity.y >= 0 ? _risingingGravity : canWallJump ? wallJumpGravity : _fallingGravity; // on choisit la gravité en fonction de la direction du mouvement
         velocity.y -= gravity * Time.deltaTime; // acc * delta = vitesse, Time.deltaTime pour l'accumulation
 
-        float targetVelocityX = isSprinting ? moveInput.x * maxMoveSpeed : moveInput.x * _moveSpeed;
+        float targetVelocityX = isSprinting && _collisionInfo._below ? moveInput.x * maxMoveSpeed : moveInput.x * _moveSpeed;
         //float acceleration;
         //if (_collisionInfo._below)
         //{
@@ -97,7 +111,7 @@ public class PlayerCharacter : MonoBehaviour
         //else
         //{
         //    acceleration = moveInput.x != 0 ? airAcceleration : airDeceleration;
-            
+
         //}
         velocity.x = Mathf.MoveTowards(velocity.x, targetVelocityX, acceleration * Time.deltaTime);
 
@@ -113,8 +127,22 @@ public class PlayerCharacter : MonoBehaviour
         //    _animatorPlayer.AnimatorPlayer.SetBool("IsGrounded", true);
         //}// on met à jour le temps de la dernière fois que le personnage était au sol
 
-        transform.Translate(deltaPosition); // on donne la position au transform
+        //if (!canWallJump)
+        //{ 
+        //    //transform.Translate(deltaPosition); // on donne la position au transform
+        //}
+        transform.Translate(deltaPosition);
+
         _animatorPlayer.SetMoveAnimation(velocity.x, maxMoveSpeed); // on met à jour l'animation en fonction de la vitesse
+
+        if (moveInput.x > 0)
+        {
+            FacingDirection = 1f;
+        }
+        else if (moveInput.x < 0)
+        {
+            FacingDirection = -1f;
+        }
     }
 
     private void FixedUpdate()
@@ -206,5 +234,10 @@ public class PlayerCharacter : MonoBehaviour
     public void Sprint(bool isSprinting)
     {
         this.isSprinting = isSprinting;
+    }
+
+    public void TP()
+    {
+        _playerStateMachine.PushState(PlayerStateType.TP);
     }
 }

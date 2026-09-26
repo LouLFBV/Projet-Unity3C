@@ -1,6 +1,6 @@
 ﻿class FallState : AirboneState
 {
-    public FallState(PlayerCharacter character) : base(character) { }
+    public FallState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
     public override void Enter() 
     {
         base.Enter();
@@ -10,7 +10,7 @@
         base.Update();
         if (character.IsGrounded)
         {
-            character.PlayerStateMachine.ChangeState(PlayerStateType.Idle);
+            stateMachine.ChangeState(PlayerStateType.Idle);
         }
     }
     public override void FixedUpdate() { }

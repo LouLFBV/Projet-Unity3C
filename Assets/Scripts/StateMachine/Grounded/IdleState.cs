@@ -1,6 +1,6 @@
 ﻿class IdleState : GroundedState
 {
-    public IdleState(PlayerCharacter character) : base(character) { }
+    public IdleState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
     public override void Enter() 
     {
         base.Enter();
@@ -10,7 +10,7 @@
         base.Update();
         if (character.velocity.x > 0.1f)
         {
-            character.PlayerStateMachine.ChangeState(PlayerStateType.Walk);
+            stateMachine.ChangeState(PlayerStateType.Walk);
         }
     }
     public override void FixedUpdate() { }

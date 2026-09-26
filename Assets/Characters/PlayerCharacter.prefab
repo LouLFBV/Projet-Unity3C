@@ -127,6 +127,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 873f014022b73c74fbd143bade2deecc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerAnimator
+  _playerCharacter: {fileID: 15774686431770509}
   _sprite: {fileID: 6235061317924918140}
   _animator: {fileID: 1003611574976760382}
 --- !u!1 &7617122035831649858
@@ -229,16 +230,25 @@ MonoBehaviour:
   _skinWidth: 0.01
   _moveSpeed: 10
   maxMoveSpeed: 20
-  _groundAcceleration: 120
-  _groundDeceleration: 200
-  _airAcceleration: 60
-  _airDeceleration: 40
+  groundAcceleration: 100
+  groundDeceleration: 100
+  airAcceleration: 100
+  airDeceleration: 100
+  isSprinting: 0
+  acceleration: 0
   _fallingGravity: 55
   _risingingGravity: 35
   jumpForce: 20
   jumpInputBuffer: 0.1
   coyoteTime: 0.065
+  canWallJump: 0
+  wallJumpForce: 20
+  wallJumpHorizontalForce: 10
+  timeToJumpOnWall: 0.2
+  lastWallJumpTime: -3.4028235e+38
+  distanceToTP: 4
   velocity: {x: 0, y: 0}
+  moveInput: {x: 0, y: 0}
   lastJumpInputTime: -3.4028235e+38
   lastGroundedTime: -3.4028235e+38
   canCoyoteJump: 0

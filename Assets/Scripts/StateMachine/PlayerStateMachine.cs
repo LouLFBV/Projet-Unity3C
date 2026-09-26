@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerStateMachine : MonoBehaviour
+public class PlayerStateMachine
 {
     private Stack<PlayerState> _stateStack = new Stack<PlayerState>();
     private Dictionary<PlayerStateType, PlayerState> _stateDictionary = new Dictionary<PlayerStateType, PlayerState>();
@@ -11,13 +11,20 @@ public class PlayerStateMachine : MonoBehaviour
 
     public void ChangeState(PlayerStateType newState)
     {
+        if (CurrentState is TPState)
+        {
+            return;
+        }
         if (CurrentState != null)
         {
-            CurrentState.Exit();
+            PlayerState stateToExit = CurrentState;
+
             _stateStack.Pop();
+            stateToExit.Exit();
         }
+
         _stateStack.Push(_stateDictionary[newState]);
-        _stateDictionary[newState].Enter();
+        CurrentState.Enter();
     }
 
     public void PushState(PlayerStateType newState)

@@ -140,7 +140,7 @@ public class PlayerController : MonoBehaviour
         {
             // Teleport logic here
             Debug.Log("Teleporting...");
-            _controlledCharacter.PlayerStateMachine.PushState(PlayerStateType.TP);
+            _controlledCharacter.TP();
         }
     }
 

@@ -1,21 +1,21 @@
 ﻿class AirboneState : PlayerState
 {
-    public AirboneState(PlayerCharacter character) : base(character) { }
+    public AirboneState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
     public override void Enter() 
     {
-        character.AnimatorPlayer.AnimatorPlayer.SetBool("IsGrounded", false);
+        character.AnimatorPlayerScript.AnimatorPlayer.SetBool("IsGrounded", false);
     }
     public override void Update()
     {
-        character.AnimatorPlayer.AnimatorPlayer.SetFloat("JumpVelocity", character.velocity.y);
+        character.AnimatorPlayerScript.AnimatorPlayer.SetFloat("JumpVelocity", character.velocity.y);
         character.acceleration = character.moveInput.x != 0 ? character.airAcceleration : character.airDeceleration;
         if (character.IsGrounded)
         {
-            character.PlayerStateMachine.ChangeState(PlayerStateType.Idle);
+            stateMachine.ChangeState(PlayerStateType.Idle);
         }
         if (character.CollisionInfo._left || character.CollisionInfo._right)
         {
-            character.PlayerStateMachine.ChangeState(PlayerStateType.WallJump);
+            stateMachine.ChangeState(PlayerStateType.WallJump);
         }
     }
     public override void FixedUpdate() { }

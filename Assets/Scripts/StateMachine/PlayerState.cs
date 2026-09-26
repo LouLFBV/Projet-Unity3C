@@ -1,11 +1,13 @@
 ﻿using UnityEngine;
-public abstract class PlayerState : MonoBehaviour
+public abstract class PlayerState
 {
     protected PlayerCharacter character;
+    protected PlayerStateMachine stateMachine;
 
-    public PlayerState(PlayerCharacter character)
+    public PlayerState(PlayerCharacter character, PlayerStateMachine stateMachine)
     {
         this.character = character;
+        this.stateMachine = stateMachine;
     }
     public virtual void Enter() { }
     public virtual void Update() { }
