@@ -5,9 +5,12 @@ public class GameMode : MonoBehaviour
 {
     [SerializeField] private CinemachineCamera _cinemachineCamera;
 
+    [SerializeField] private GameObject _timerManager;
+
 
     [SerializeField] private GameObject _playerControllerPrefab;
     [SerializeField] private GameObject _playerCharacterPrefab;
+
 
     [SerializeField] private Transform _spawnPoint;
     private void Start()
@@ -21,6 +24,8 @@ public class GameMode : MonoBehaviour
         playerController.SetPlayerCharacter(playerCharacter);
 
         _cinemachineCamera.Follow = playerCharacter.transform;
+
+        GameObject timerManagerObj = Instantiate(_timerManager);
     }
 
     // Update is called once per frame

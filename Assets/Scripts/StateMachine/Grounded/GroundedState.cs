@@ -9,7 +9,7 @@ class GroundedState : PlayerState
     public override void Update() 
     {
         ProcessJump();
-        character.acceleration = character.moveInput.x != 0 ? character.groundAcceleration : character.groundDeceleration;
+        //character.acceleration = character.moveInput.x != 0 ? character.groundAcceleration : character.groundDeceleration;
 
         if (!character.IsGrounded)
         {

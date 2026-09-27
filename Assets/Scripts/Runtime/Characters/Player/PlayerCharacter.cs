@@ -22,7 +22,9 @@ public class PlayerCharacter : MonoBehaviour
     [SerializeField] private float _moveSpeed = 10f;
     public float maxMoveSpeed = 20f;
     public float groundAcceleration = 100f;
-    public float groundDeceleration = 100f;
+    public float groundDeceleration = 100f; 
+    public float sprintAcceleration = 10f;
+    public float sprintDeceleration = 10f;
     public float airAcceleration = 100f;
     public float airDeceleration = 100f;
     [HideInInspector] public bool isSprinting = false;
@@ -47,6 +49,9 @@ public class PlayerCharacter : MonoBehaviour
     public bool IsGrounded => _collisionInfo._below;
 
     [Header("TP")]
+    [SerializeField] private ManaSystem _manaSystem;
+    public ManaSystem ManaSystem => _manaSystem;
+    public float costTP = 30f;
     public float distanceToTP = 2f;
     public float FacingDirection { get; private set; } = 1f;
 
@@ -86,6 +91,7 @@ public class PlayerCharacter : MonoBehaviour
     void Update()
     {
         _playerStateMachine.Update();
+
         //if (_collisionInfo._left || _collisionInfo._right)
         //{
         //    _velocity.x = 0;
@@ -97,22 +103,12 @@ public class PlayerCharacter : MonoBehaviour
             velocity.y = 0;
         }
 
-        //ProcessJump();
 
         float gravity = velocity.y >= 0 ? _risingingGravity : canWallJump ? wallJumpGravity : _fallingGravity; // on choisit la gravité en fonction de la direction du mouvement
         velocity.y -= gravity * Time.deltaTime; // acc * delta = vitesse, Time.deltaTime pour l'accumulation
 
         float targetVelocityX = isSprinting && _collisionInfo._below ? moveInput.x * maxMoveSpeed : moveInput.x * _moveSpeed;
-        //float acceleration;
-        //if (_collisionInfo._below)
-        //{
-        //    acceleration = moveInput.x != 0 ? groundAcceleration : groundDeceleration;
-        //}
-        //else
-        //{
-        //    acceleration = moveInput.x != 0 ? airAcceleration : airDeceleration;
-
-        //}
+        
         velocity.x = Mathf.MoveTowards(velocity.x, targetVelocityX, acceleration * Time.deltaTime);
 
         Vector2 deltaPosition = velocity * Time.deltaTime; // vitesse * delta = position
@@ -120,17 +116,6 @@ public class PlayerCharacter : MonoBehaviour
         _collisionInfo.Reset();
         ProcessMove(ref deltaPosition); // on modifie la position en fonction des collisions
 
-        //if (_collisionInfo._below)
-        //{
-        //    lastGroundedTime = Time.time;
-        //    canCoyoteJump = true;
-        //    _animatorPlayer.AnimatorPlayer.SetBool("IsGrounded", true);
-        //}// on met à jour le temps de la dernière fois que le personnage était au sol
-
-        //if (!canWallJump)
-        //{ 
-        //    //transform.Translate(deltaPosition); // on donne la position au transform
-        //}
         transform.Translate(deltaPosition);
 
         _animatorPlayer.SetMoveAnimation(velocity.x, maxMoveSpeed); // on met à jour l'animation en fonction de la vitesse
@@ -150,21 +135,6 @@ public class PlayerCharacter : MonoBehaviour
         _playerStateMachine.FixedUpdate();
     }
 
-    //private void ProcessJump()
-    //{
-    //    bool isJumpBuffered = Time.time - _lastJumpInputTime <= _jumpInputBuffer;
-    //    if (!isJumpBuffered)
-    //    {
-    //        return;
-    //    }
-    //    if (_collisionInfo._below || (_canCoyoteJump && Time.time - _lastGroundedTime <= _coyoteTime))
-    //    {
-    //        _velocity.y = _jumpForce;
-    //        _playerAnimator.AnimatorPlayer.SetTrigger("Jump");
-    //        _lastJumpInputTime = float.MinValue; // Reset du jump input
-    //        _canCoyoteJump = false;
-    //    }
-    //}
 
     private void ProcessMove(ref Vector2 deltaPosition)
     {

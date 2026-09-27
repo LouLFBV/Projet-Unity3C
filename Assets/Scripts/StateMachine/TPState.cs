@@ -12,7 +12,7 @@ class TPState : PlayerState
         Debug.Log("<color=yellow>TPState Enter</color>");
         //ExecuteTP(); // Pour ne pas avoir l'animation
 
-        if (character.AnimatorPlayerScript.isTPing)
+        if (character.AnimatorPlayerScript.isTPing || !character.ManaSystem.HasEnoughMana(character.costTP))
         {
             stateMachine.PopState();
             return;
@@ -42,6 +42,8 @@ class TPState : PlayerState
         character.transform.Translate(deltaPosition);
 
         character.AnimatorPlayerScript.isTPing = false;
+
+        character.ManaSystem.ConsumeMana(character.costTP);
 
         stateMachine.PopState();
     }

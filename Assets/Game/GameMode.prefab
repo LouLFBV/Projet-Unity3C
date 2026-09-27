@@ -44,6 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4809d91fc3b7f9e4a9f06fff32a45100, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameMode
+  _cinemachineCamera: {fileID: 0}
+  _timerManager: {fileID: 9078016641456234711, guid: 44d4cd3ebb4f5be42a5dbc7a740e5d22, type: 3}
   _playerControllerPrefab: {fileID: 1442044718968126522, guid: 833b92f9b988945489239afc647fca5f, type: 3}
   _playerCharacterPrefab: {fileID: 7617122035831649858, guid: 23fdbea5953c62f48a8ae352e9ae3cb9, type: 3}
   _spawnPoint: {fileID: 0}

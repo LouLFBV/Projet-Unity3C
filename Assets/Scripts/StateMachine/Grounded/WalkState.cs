@@ -8,6 +8,7 @@
     public override void Update()
     {
         base.Update();
+        character.acceleration = character.moveInput.x != 0 ? character.groundAcceleration : character.groundDeceleration;
         if (character.isSprinting)
         {
             stateMachine.ChangeState(PlayerStateType.Run);
