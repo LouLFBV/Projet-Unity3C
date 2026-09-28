@@ -251,7 +251,7 @@ Transform:
   m_GameObject: {fileID: 332715598}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.16014992, w: 0.9870927}
-  m_LocalPosition: {x: -5.53, y: 1.59, z: 0}
+  m_LocalPosition: {x: -7.7, y: -7.3, z: 0}
   m_LocalScale: {x: 6.7387595, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -389,7 +389,7 @@ Transform:
   m_GameObject: {fileID: 771673153}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: 0.84849274, w: 0.52920705}
-  m_LocalPosition: {x: -1.41, y: -2.37, z: 0}
+  m_LocalPosition: {x: -1.2, y: -11.4, z: 0}
   m_LocalScale: {x: 6.7387595, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -527,8 +527,8 @@ Transform:
   m_GameObject: {fileID: 1128635636}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.79, y: -4.38, z: 0}
-  m_LocalScale: {x: 5, y: 1, z: 1}
+  m_LocalPosition: {x: 1.79, y: 0.4, z: 0}
+  m_LocalScale: {x: 50, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -690,6 +690,8 @@ GameObject:
   - component: {fileID: 1507349964}
   - component: {fileID: 1507349958}
   - component: {fileID: 1507349966}
+  - component: {fileID: 1507349968}
+  - component: {fileID: 1507349967}
   m_Layer: 0
   m_Name: NewPlayer
   m_TagString: Untagged
@@ -818,8 +820,8 @@ MonoBehaviour:
   m_ActionEvents:
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1507349959}
-        m_TargetAssemblyTypeName: TestMovement, Assembly-CSharp
+      - m_Target: {fileID: 1507349968}
+        m_TargetAssemblyTypeName: TestController, Assembly-CSharp
         m_MethodName: OnMove
         m_Mode: 0
         m_Arguments:
@@ -850,8 +852,8 @@ MonoBehaviour:
     m_ActionName: 'Player/Crouch[/Keyboard/c]'
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1507349959}
-        m_TargetAssemblyTypeName: TestMovement, Assembly-CSharp
+      - m_Target: {fileID: 1507349968}
+        m_TargetAssemblyTypeName: TestController, Assembly-CSharp
         m_MethodName: OnJump
         m_Mode: 0
         m_Arguments:
@@ -935,7 +937,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::TestMovement
   _body: {fileID: 1507349957}
   _infos: {fileID: 1507349966}
-  _moveForce: 8
+  _moveForce: 450
   _jumpForce: 375
 --- !u!114 &1507349960
 MonoBehaviour:
@@ -1073,6 +1075,32 @@ MonoBehaviour:
   Right: {x: 1, y: 0}
   Up: {x: 0, y: 1}
   IsGrounded: 0
+--- !u!114 &1507349967
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1507349954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e56982f089129d045a73b1b747d66893, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TestControllerPort
+  _sender: {fileID: 1507349968}
+--- !u!114 &1507349968
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1507349954}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e73b577fbb67dbb4fa4b79770439703a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::TestController
+  _controllerPort: {fileID: 1507349967}
 --- !u!1 &1553068926
 GameObject:
   m_ObjectHideFlags: 0
@@ -1205,7 +1233,7 @@ Transform:
   m_GameObject: {fileID: 1553068926}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0.7071068, w: 0.7071068}
-  m_LocalPosition: {x: 4.6, y: 3.07, z: 0}
+  m_LocalPosition: {x: 8.3, y: -17.5, z: 0}
   m_LocalScale: {x: 20, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

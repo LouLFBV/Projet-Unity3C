@@ -24,15 +24,16 @@ public class TestMovement : MonoBehaviour
             ForceType.Impulse);
         }
     }
-    public void OnMove(InputAction.CallbackContext ctx)
+
+    public void Move(Vector2 input)
     {
-        _input = ctx.ReadValue<Vector2>();
+        _input = input;
         _input.y = 0;
-        if(_input.x != 0)
-        _input.x = _input.x > 0 ? 1 : - 1;
+        if (_input.x != 0)
+            _input.x = _input.x > 0 ? 1 : -1;
     }
-    public void OnJump(InputAction.CallbackContext ctx)
+    public void Jump( float jump)
     {
-        _jump = ctx.ReadValue<float>();
+        _jump = jump;
     }
 }
