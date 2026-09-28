@@ -50,22 +50,33 @@ public class PhysicBody : MonoBehaviour
     /// </summary>
     [SerializeField] private bool _enableSolver = true;
     /// <summary>
-    /// Gravity object used to apply gravitational force to the body.
+    /// The predefined celestial body used to determine the gravitational acceleration.
     /// </summary>
-    [SerializeField] private GravityObject _gravity = null;
+    [SerializeField] private GravityPreset _gravity = GravityPreset.Earth;
+    /// <summary>
+    /// A custom gravitational acceleration value.
+    /// A value of <c>0.0f</c> causes the selected <see cref="GravityPreset"/> to be used instead.
+    /// </summary>
+    [SerializeField] private float _customGravity = 0.0f;
+    /// <summary>
+    /// Gets the effective gravitational acceleration.
+    /// Uses the custom value when it is different from zero; otherwise, uses the selected preset.
+    /// </summary>
+    private float _realGravity => _customGravity == 0.0f ? GravityObject.GetGrav(_gravity) : _customGravity;
     /// <summary>
     /// Determines whether gravity is enabled.
     /// </summary>
     [SerializeField] private bool _enableGravity = true;
     /// <summary>
-    /// Friction object used to apply frictional force to the body.
+    /// The magnitude of the drag coefficient applied by this object.
     /// </summary>
-    [SerializeField] private FrictionObject _friction = null;
+    [SerializeField, Range(0, float.MaxValue)] private float _dragCoefficient = 10;
 
     /// <summary>
     /// Determines whether friction is enabled.
     /// </summary>
     [SerializeField] private bool _enableFriction = true;
+
     /// <summary>
     /// Sum of all forces currently accumulated on the body.
     /// </summary>
@@ -131,8 +142,8 @@ public class PhysicBody : MonoBehaviour
 
     public bool IsStatic => _massKg == 0;
     /// <summary>
-    /// Initializes the body's physics position and retrieves the required
-    /// physics components when they are not explicitly assigned.
+    /// Initializes the body's physics state and retrieves the collision solver
+    /// from the current GameObject when collision solving is enabled and no solver is assigned.
     /// </summary>
 
     private void Awake()
@@ -150,25 +161,8 @@ public class PhysicBody : MonoBehaviour
             }
 
         }
-        if (_enableGravity && !_gravity)
-        {
-            _gravity = gameObject.GetComponent<GravityObject>();
-            if (!_gravity)
-            {
-                Debug.LogError("no solver found set it manualy");
-                _enableGravity = false;
-            }
-
-        }
-        if (_enableFriction && !_friction)
-        {
-            _friction = gameObject.GetComponent<FrictionObject>();
-            if (!_friction)
-            {
-                Debug.LogError("no solver found set it manualy");
-                _enableFriction = false;
-            }
-        }
+       
+       
     }
     /// <summary>
     /// Interpolates the rendered transform position between the previous
@@ -177,14 +171,21 @@ public class PhysicBody : MonoBehaviour
     private void Update()
     {
         if (!_enableInterpolation)
-            return;
+        {
+            transform.position = _position; 
+        }
+        else
+        {
+            float alpha = (Time.time - Time.deltaTime) * _inverseFixedDeltaTime;
+            transform.position = (Vector3)Vector2.Lerp(_lastPosition, _position, alpha);
+        }
 
-        float alpha = (Time.time - Time.deltaTime) * _inverseFixedDeltaTime;
-        transform.position = (Vector3)Vector2.Lerp(_lastPosition, _position, alpha); 
+        
+    
     }
     /// <summary>
-    /// Performs the physics update by applying gravity and friction,
-    /// integrating forces into velocity, resolving collisions,
+    /// Performs the physics update by applying gravity and friction as accelerations,
+    /// integrating accumulated forces into velocity, resolving collisions,
     /// and updating the body's physics position.
     /// </summary>
     private void FixedUpdate()
@@ -194,13 +195,13 @@ public class PhysicBody : MonoBehaviour
         if (IsStatic)
             return;
 
-        if (_gravity && _enableGravity)
+        if (_enableGravity)
         {
-            this.AddForce(Vector2.down * _gravity.RealGravity, ForceType.Acceleration);
+            this.AddForce(Vector2.down * _realGravity, ForceType.Acceleration);
         }
-        if (_friction && _enableFriction)
+        if (_enableFriction)
         {
-            this.AddForce(_friction.DragCoefficient * Velocity.magnitude * Velocity.normalized, ForceType.Acceleration);
+            this.AddForce(-_dragCoefficient * Velocity.magnitude * Velocity.normalized, ForceType.Acceleration);
         }
 
         _velocity += (_allForces / _massKg) * Time.fixedDeltaTime;
@@ -265,45 +266,34 @@ public class PhysicBody : MonoBehaviour
 
     }
     /// <summary>
-    /// Enables or disables gravity and optionally assigns a gravity object.
+    /// Enables or disables gravity and sets the gravitational acceleration using a predefined preset.
     /// </summary>
     /// <param name="active">Whether gravity should be enabled.</param>
-    /// <param name="gravity">Optional gravity object to assign.</param>
-    public void SetGravity(bool active, GravityObject gravity = null)
+    /// <param name="presept">The predefined gravity preset to use.</param>
+    public void SetGravity(bool active, GravityPreset presept)
     {
         _enableGravity = active;
-        if (gravity)
-            _gravity = gravity;
-        else if (_enableGravity)
-        {
-            _gravity = gameObject.GetComponent<GravityObject>();
-            if (!_gravity)
-            {
-                Debug.LogError("no solver found set it manualy");
-                _enableGravity = false;
-            }
-        }
-
+        _gravity = presept;
     }
     /// <summary>
-    /// Enables or disables friction and optionally assigns a friction object.
+    /// Enables or disables gravity and sets a custom gravitational acceleration.
+    /// </summary>
+    /// <param name="active">Whether gravity should be enabled.</param>
+    /// <param name="customGravity">The custom gravitational acceleration to use.</param>   
+    public void SetGravity(bool active, float customGravity)
+    {
+        _enableGravity = active;
+        _customGravity = customGravity;
+    }
+    /// <summary>
+    /// Enables or disables friction and sets the drag coefficient used to calculate friction.
     /// </summary>
     /// <param name="active">Whether friction should be enabled.</param>
-    /// <param name="friction">Optional friction object to assign.</param>
-    public void SetFriction(bool active, FrictionObject friction = null)
+    /// <param name="dragCoeficient">The drag coefficient used for friction calculations.</param>
+    public void SetFriction(bool active, float dragCoeficient)
     {
         _enableFriction = active;
-        if (friction)
-            _friction = friction;
-        else if (_enableFriction)
-        {
-            _friction = gameObject.GetComponent<FrictionObject>();
-            if (!_gravity)
-            {
-                Debug.LogError("no solver found set it manualy");
-                _enableFriction = false;
-            }
-        }
+        _dragCoefficient = dragCoeficient;
 
     }
 

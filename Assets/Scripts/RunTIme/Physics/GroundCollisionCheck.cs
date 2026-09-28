@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 /// <summary>
@@ -51,8 +52,6 @@ public class GroundCollisionCheck : CollisionCheck
     /// <param name="rayCount">Number of valid raycast results in the array.</param>
     override protected void ExecuteChildCollision(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts,int rayCount)
     {
-        
-        
         _moveToContact = Vector2.zero;
         _right = Vector2.right;
         _normal = Vector2.zero;
@@ -91,7 +90,7 @@ public class GroundCollisionCheck : CollisionCheck
                 if (dot < 0f)
                 {
                         Vector2 vTangent = _body.Velocity - dot * hitNormal;
-                        _body.SetVelocity(vTangent/*Vector2.zero*/);
+                        _body.SetVelocity(vTangent);
                     
                 }
 
@@ -99,14 +98,17 @@ public class GroundCollisionCheck : CollisionCheck
             }
             _normal = _normal.normalized;
             float angle = Vector2.Angle(_normal, Vector2.up);
-            if (angle > _maxAngle)
-                _right = Vector2.zero;
-            else
+
+            if ( angle >_maxAngle)
             {
+                _right = Vector2.right;
+            }
+            else
+            {          
                 _right.x = _normal.y;
                 _right.y = -_normal.x;
             }
-            _isGrounded = true;
+            _isGrounded = angle > 90.0f ? false : true;
 
 
         }

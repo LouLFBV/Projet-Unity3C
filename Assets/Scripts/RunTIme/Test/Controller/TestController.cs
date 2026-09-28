@@ -7,7 +7,6 @@ public class TestController : Controller<TestMovement>
     private float _jump;
     public void OnMove(InputAction.CallbackContext ctx)
     {
-        Debug.Log("Move");
         _input = ctx.ReadValue<Vector2>();
         _controllerPort.ExecuteAction(this, Move);
     }
@@ -17,7 +16,6 @@ public class TestController : Controller<TestMovement>
     }
     public void OnJump(InputAction.CallbackContext ctx)
     {
-        Debug.Log("Jump");
         _jump = ctx.ReadValue<float>();
         _controllerPort.ExecuteAction(this, Jump);
     }

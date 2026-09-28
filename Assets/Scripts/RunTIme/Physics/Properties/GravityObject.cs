@@ -47,34 +47,9 @@ public enum GravityPreset
 /// Defines the gravitational acceleration applied to an object.
 /// Supports predefined celestial body values or a custom gravity value.
 /// </summary>
-public class GravityObject : MonoBehaviour
+public class GravityObject
 {
-    [Header("Properties")]
-    /// <summary>
-    /// The predefined celestial body used to determine the gravitational acceleration.
-    /// </summary>
-    [SerializeField] private GravityPreset _gravity = GravityPreset.Earth;
-    /// <summary>
-    /// A custom gravitational acceleration value.
-    /// A value of <c>0.0f</c> causes the selected <see cref="GravityPreset"/> to be used instead.
-    /// </summary>
-    [SerializeField] private float _customGravity = 0.0f;
-    /// <summary>
-    /// Gets the effective gravitational acceleration.
-    /// Uses the custom value when it is different from zero; otherwise, uses the selected preset.
-    /// </summary>
-    private float _realGravity => _customGravity == 0.0f ?  GravityObject.GetGrav(_gravity) : _customGravity;
-
-    /// <summary>
-    /// Gets the effective gravitational acceleration applied by this object.
-    /// </summary>
-    public float RealGravity  => _realGravity;
-    /// <summary>
-    /// Gets the gravitational acceleration associated with the specified preset.
-    /// </summary>
-    /// <param name="preseptG">The gravitational preset to evaluate.</param>
-    /// <returns>The gravitational acceleration associated with the specified preset.</returns>
-    static float GetGrav(GravityPreset preseptG)
+    public static float GetGrav(GravityPreset preseptG)
     {
         switch (preseptG)
         {
