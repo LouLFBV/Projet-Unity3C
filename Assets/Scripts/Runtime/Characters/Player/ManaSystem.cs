@@ -63,4 +63,10 @@ public class ManaSystem : MonoBehaviour
         Debug.Log($"Vérification du mana: {_currentMana} >= {manaCost} ?");
         return _currentMana >= manaCost;
     }
+
+    public void ResetMana()
+    {
+        _currentMana = maxMana;
+        OnManaChanged?.Invoke();
+    }
 }

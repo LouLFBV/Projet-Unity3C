@@ -7,6 +7,8 @@ public class GameMode : MonoBehaviour
 
     [SerializeField] private GameObject _timerManager;
 
+    [SerializeField] private GameObject _checkpointManager;
+
 
     [SerializeField] private GameObject _playerControllerPrefab;
     [SerializeField] private GameObject _playerCharacterPrefab;
@@ -26,11 +28,9 @@ public class GameMode : MonoBehaviour
         _cinemachineCamera.Follow = playerCharacter.transform;
 
         GameObject timerManagerObj = Instantiate(_timerManager);
+
+        GameObject checkpointManagerObj = Instantiate(_checkpointManager);
+        checkpointManagerObj.GetComponent<CheckpointManager>().SetCheckpoint(_spawnPoint.position);
     }
 
-    // Update is called once per frame
-    private void Update()
-    {
-        
-    }
 }

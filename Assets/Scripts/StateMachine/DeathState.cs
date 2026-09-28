@@ -5,7 +5,9 @@ class DeathState : PlayerState
     public override void Enter() 
     {
         Debug.Log("<color=red>Le joueur est mort, réapparition au dernier checkpoint !</color>");
-        // TP le joueur au dernier checkpoint
+        CheckpointManager.Instance.RespawnPlayer(character);
+        character.ManaSystem.ResetMana();
+        character.PlayerStateMachine.ChangeState(PlayerStateType.Idle);
     }
     public override void Update() { }
     public override void FixedUpdate() { }

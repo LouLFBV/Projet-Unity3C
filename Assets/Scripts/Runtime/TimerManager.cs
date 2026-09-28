@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class TimerManager : MonoBehaviour
 {
@@ -7,10 +8,12 @@ public class TimerManager : MonoBehaviour
 
     [Header("UI")]
     [SerializeField] private TextMeshProUGUI _timerText;
+    [SerializeField] private TextMeshProUGUI _recordText;
 
 
     private float _elapsedTime;
     private bool _isTimerRunning;
+    private string _currentSceneName;
 
     private void Awake()
     {
@@ -23,7 +26,10 @@ public class TimerManager : MonoBehaviour
     }
 
     private void Start()
-    {
+    { 
+        _currentSceneName = SceneManager.GetActiveScene().name;
+
+        DisplayBestRecord();
         StartTimer();
     }
 
@@ -45,6 +51,8 @@ public class TimerManager : MonoBehaviour
     {
         _isTimerRunning = false;
         Debug.Log($"Temps final : {FormatTime(_elapsedTime)}");
+
+        CheckAndSaveRecord();
     }
 
     private void UpdateTimerUI()
@@ -52,6 +60,39 @@ public class TimerManager : MonoBehaviour
         if (_timerText != null)
         {
             _timerText.text = FormatTime(_elapsedTime);
+        }
+    }
+
+    private void CheckAndSaveRecord()
+    {
+        string recordKey = $"BestTime_{_currentSceneName}";
+
+        float previousBest = PlayerPrefs.GetFloat(recordKey, float.MaxValue);
+
+        if (_elapsedTime < previousBest)
+        {
+            PlayerPrefs.SetFloat(recordKey, _elapsedTime);
+            PlayerPrefs.Save(); 
+
+            Debug.Log($"<color=green>Nouveau Record pour {_currentSceneName} : {FormatTime(_elapsedTime)} !</color>");
+            DisplayBestRecord();
+        }
+    }
+
+    private void DisplayBestRecord()
+    {
+        if (_recordText == null) return;
+
+        string recordKey = $"BestTime_{_currentSceneName}";
+
+        if (PlayerPrefs.HasKey(recordKey))
+        {
+            float bestTime = PlayerPrefs.GetFloat(recordKey);
+            _recordText.text = $"Record: {FormatTime(bestTime)}";
+        }
+        else
+        {
+            _recordText.text = "Record: --:--.---";
         }
     }
 
