@@ -27,7 +27,7 @@ public class ColliderCircleStrategy : ColliderStrategy
     /// <summary>
     /// Performs a circle cast using the current collider and frame movement data.
     /// </summary>
-    /// <param name="data">Physics data containing the movement direction and magnitude.</param>
+    /// <param name="data">Physics data containing the movement direction magnitude and deltaPos.</param>
     /// <param name="rayCasts">Array used to store the collision results.</param>
     /// <param name="Filter">Contact filter used to determine which colliders are detected.</param>
     /// <returns>The number of colliders detected by the circle cast.</returns>
@@ -35,7 +35,7 @@ public class ColliderCircleStrategy : ColliderStrategy
     {
         if (!_circleCollider)
             return 0;
-        return Physics2D.CircleCast(_circleCollider.transform.position, _circleCollider.radius + HalfSkin, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude);
+        return Physics2D.CircleCast((_circleCollider.transform.position - (Vector3)data.DeltaPos) + (Vector3)_circleCollider.offset, _circleCollider.radius + HalfSkin, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude);
     }
     /// <summary>
     /// Calculates the distance between the current circle collider and the target collider.

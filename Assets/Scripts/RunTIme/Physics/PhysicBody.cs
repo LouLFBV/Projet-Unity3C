@@ -93,6 +93,7 @@ public class PhysicBody : MonoBehaviour
     /// <summary>
     /// Current physics position of the body.
     /// </summary>
+    [SerializeField]
     private Vector2 _position = Vector2.zero;
     /// <summary>
     /// Cached inverse of the fixed physics timestep used for interpolation.
@@ -203,13 +204,12 @@ public class PhysicBody : MonoBehaviour
         {
             this.AddForce(-_dragCoefficient * Velocity.magnitude * Velocity.normalized, ForceType.Acceleration);
         }
-
         _velocity += (_allForces / _massKg) * Time.fixedDeltaTime;
         _allForces = Vector2.zero;
         Vector2 move = Vector2.zero;
         move = _velocity * Time.deltaTime;
         if (_enableSolver && _solver)
-            _solver.Dispatch(ref move);
+            _solver.Dispatch(ref move, gameObject.transform.position - (Vector3)_position);
         _position += move;    
     }
     /// <summary>

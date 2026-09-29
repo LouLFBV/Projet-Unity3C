@@ -25,7 +25,7 @@ public class ColliderBoxStrategy : ColliderStrategy
     /// <summary>
     /// Performs a box cast using the current collider and frame movement data.
     /// </summary>
-    /// <param name="data">Physics data containing the movement direction and magnitude.</param>
+    /// <param name="data">Physics data containing the movement direction magnitude and deltaPos.</param>
     /// <param name="rayCasts">Array used to store the collision results.</param>
     /// <param name="Filter">Contact filter used to determine which colliders are detected.</param>
     /// <returns>The number of colliders detected by the box cast.</returns>
@@ -33,7 +33,7 @@ public class ColliderBoxStrategy : ColliderStrategy
     {
         if (!_boxCollider)
             return 0;
-       return  Physics2D.BoxCast(_boxCollider.transform.position, _boxCollider.size + SizeSkinVec, _collider.transform.rotation.z, data.MoveNormalized, Filter,rayCasts, data.MoveMagnitude);
+       return  Physics2D.BoxCast((_boxCollider.transform.position - (Vector3)data.DeltaPos)+ (Vector3 )_boxCollider.offset, _boxCollider.size + SizeSkinVec, _collider.transform.rotation.z, data.MoveNormalized, Filter,rayCasts, data.MoveMagnitude);
     }
     /// <summary>
     /// Calculates the distance between the current box collider and the target collider.

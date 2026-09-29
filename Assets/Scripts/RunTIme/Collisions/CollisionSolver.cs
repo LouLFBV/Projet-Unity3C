@@ -7,7 +7,11 @@ using UnityEngine.UIElements;
 /// Contains the movement data used during a physics frame.
 /// </summary>
 public class FramePhysicsData
-{
+{  
+    /// <summary>
+    /// Current delta position betwen render and physics.
+    /// </summary>
+    public Vector2 DeltaPos = Vector2.zero;
     /// <summary>
     /// Current movement vector.
     /// </summary>
@@ -40,10 +44,13 @@ public class CollisionSolver : MonoBehaviour
     /// <param name="move">
     /// Movement to process. The value is updated with the result
     /// of the collision resolution.
+    /// <param name="offsetPos">
+    /// The offset position betweew render and physics
     /// </param>
-    public void Dispatch(ref Vector2 move)
+    public void Dispatch(ref Vector2 move, Vector2 offsetPos)
     {
         _frameData.Move = move;
+        _frameData.DeltaPos = offsetPos;
         foreach (var check in _checks)
         {
             if (!check)

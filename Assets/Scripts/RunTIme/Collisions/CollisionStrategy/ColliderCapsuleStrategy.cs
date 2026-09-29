@@ -24,7 +24,7 @@ public class ColliderCapsuleStrategy : ColliderStrategy
     /// <summary>
     /// Performs a capsule cast using the current collider and frame movement data.
     /// </summary>
-    /// <param name="data">Physics data containing the movement direction and magnitude.</param>
+    /// <param name="data">Physics data containing the movement direction magnitude and deltaPos.</param>
     /// <param name="rayCasts">Array used to store the collision results.</param>
     /// <param name="Filter">Contact filter used to determine which colliders are detected.</param>
     /// <returns>The number of colliders detected by the capsule cast.</returns>
@@ -32,7 +32,7 @@ public class ColliderCapsuleStrategy : ColliderStrategy
     {
         if (!_capsuleCollider)
             return 0;
-        return Physics2D.CapsuleCast(_capsuleCollider.transform.position, _capsuleCollider.size + SizeSkinVec,_capsuleCollider.direction, _collider.transform.rotation.z, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude );
+        return Physics2D.CapsuleCast((_capsuleCollider.transform.position - (Vector3)data.DeltaPos) + (Vector3)_capsuleCollider.offset, _capsuleCollider.size + SizeSkinVec,_capsuleCollider.direction, _collider.transform.rotation.z, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude );
     }
     /// <summary>
     /// Calculates the distance between the current capsule collider and the target collider.
