@@ -19,7 +19,13 @@ public class PlayerAnimator : MonoBehaviour
         }
     }
 
+    public void SetTriggerPlayer(string triggerName)
+    {
+        Debug.Log("<color=purple> Appel dans SetTriggerPlayer</color>");
+        _animator.SetTrigger(triggerName);
+    }
 
+    
     // Méthodes pour passer en état de téléportation et déclencher l'animation correspondante, mis en commentaire parce qu'en changeant d'état, TPState se faisait écrasze
     public void SetTPAnimation()
     {

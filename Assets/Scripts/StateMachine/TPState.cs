@@ -10,23 +10,25 @@ class TPState : PlayerState
     public override void Enter()
     {
         Debug.Log("<color=yellow>TPState Enter</color>");
-        //ExecuteTP(); // Pour ne pas avoir l'animation
 
         if (character.AnimatorPlayerScript.isTPing || !character.ManaSystem.HasEnoughMana(character.costTP))
         {
             stateMachine.PopState();
             return;
         }
-        _tpTimer = Time.time;
-       character.AnimatorPlayerScript.SetTPAnimation();
+
+       ExecuteTP(); // Pour ne pas avoir l'animation
+
+       // _tpTimer = Time.time;
+       //character.AnimatorPlayerScript.SetTPAnimation();
     }
 
     public override void Update() 
     {
-        if (Time.time - _tpTimer >= _tpAnimationDuration)
-        {
-            ExecuteTP();
-        }
+        //if (Time.time - _tpTimer >= _tpAnimationDuration)
+        //{
+        //    ExecuteTP();
+        //}
     }
     public override void FixedUpdate() { }
 

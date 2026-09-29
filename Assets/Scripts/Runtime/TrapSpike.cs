@@ -42,9 +42,13 @@ public class TrapSpike : MonoBehaviour
             _playerLayer
             );
 
-            if (hit)
+            if (hit && hit.collider.TryGetComponent<PlayerCharacter>(out var playerCharacter))
             {
-                hit.collider.GetComponent<PlayerCharacter>().PlayerStateMachine.ChangeState(PlayerStateType.Death);
+                if (playerCharacter.PlayerStateMachine.CurrentState is not DeathState)
+                {
+                    playerCharacter.PlayerStateMachine.ChangeState(PlayerStateType.Death);
+                    _isAttacking = false;
+                }
             }
         }
 

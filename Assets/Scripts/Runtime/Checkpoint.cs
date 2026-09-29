@@ -3,6 +3,7 @@ using UnityEngine;
 public class Checkpoint : MonoBehaviour
 {
     [SerializeField] private BoxCollider2D _collider;
+    [SerializeField] private Animator _animator;
     [SerializeField] private LayerMask _playerLayer;
 
     private bool _isAlreadyActivated = false;
@@ -11,6 +12,10 @@ public class Checkpoint : MonoBehaviour
         if (_collider == null)
         {
             _collider = GetComponent<BoxCollider2D>();
+        }
+        if (_animator == null)
+        {
+            _animator = GetComponent<Animator>();
         }
     }
 
@@ -38,6 +43,8 @@ public class Checkpoint : MonoBehaviour
         {
             GiveHisPosition();
             _isAlreadyActivated = true;
+            _animator.SetTrigger("Break");
+            collider.collider.GetComponentInChildren<PlayerAnimator>().SetTriggerPlayer("Attack");
         }
     }
 

@@ -6,6 +6,7 @@ public class PlayerCharacter : MonoBehaviour
     private PlayerStateMachine _playerStateMachine;
     public PlayerStateMachine PlayerStateMachine => _playerStateMachine;
 
+
     [Header("Animator")]
     [SerializeField] private PlayerAnimator _animatorPlayer;
     public PlayerAnimator AnimatorPlayerScript => _animatorPlayer;
