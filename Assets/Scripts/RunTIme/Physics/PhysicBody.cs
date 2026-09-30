@@ -1,3 +1,5 @@
+using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEngine;
 using static UnityEditor.Experimental.GraphView.GraphView;
@@ -30,6 +32,7 @@ public enum ForceType
 
 public class PhysicBody : MonoBehaviour
 {
+
     [Header("Properties")]
     /// <summary>
     /// Mass of the physics body in kilograms.
@@ -177,7 +180,7 @@ public class PhysicBody : MonoBehaviour
         }
         else
         {
-            float alpha = (Time.time - Time.deltaTime) * _inverseFixedDeltaTime;
+            float alpha = (Time.time - Time.fixedTime) * _inverseFixedDeltaTime;
             transform.position = (Vector3)Vector2.Lerp(_lastPosition, _position, alpha);
         }
 
@@ -206,11 +209,10 @@ public class PhysicBody : MonoBehaviour
         }
         _velocity += (_allForces / _massKg) * Time.fixedDeltaTime;
         _allForces = Vector2.zero;
-        Vector2 move = Vector2.zero;
-        move = _velocity * Time.deltaTime;
         if (_enableSolver && _solver)
-            _solver.Dispatch(ref move, gameObject.transform.position - (Vector3)_position);
-        _position += move;    
+            _solver.Dispatch();
+        
+        _position += _velocity * Time.deltaTime;    
     }
     /// <summary>
     /// Sets the mass of the body.
@@ -275,7 +277,7 @@ public class PhysicBody : MonoBehaviour
         _enableGravity = active;
         _gravity = presept;
     }
-    /// <summary>
+    /// <summary>   
     /// Enables or disables gravity and sets a custom gravitational acceleration.
     /// </summary>
     /// <param name="active">Whether gravity should be enabled.</param>

@@ -47,17 +47,16 @@ public class CollisionSolver : MonoBehaviour
     /// <param name="offsetPos">
     /// The offset position betweew render and physics
     /// </param>
-    public void Dispatch(ref Vector2 move, Vector2 offsetPos)
+    public void Dispatch()
     {
-        _frameData.Move = move;
-        _frameData.DeltaPos = offsetPos;
+
         foreach (var check in _checks)
         {
             if (!check)
                 continue;
-            check.ExecuteCollision(ref _frameData);
+            check.ExecuteCollision();
         }
-        move = _frameData.Move;
+      
     }
     /// <summary>
     /// Adds a collision check to the list of checks executed during resolution.

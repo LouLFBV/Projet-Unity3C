@@ -1,3 +1,5 @@
+using NUnit.Framework;
+using Unity.Burst.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -20,143 +22,86 @@ public class GroundCollisionCheck : CollisionCheck
     /// Collision information updated with the current ground state and surface directions.
     /// </summary>
     [SerializeField] private GroundCollisionInfo _info;
-    /// <summary>
-    /// Direction along the ground surface.
-    /// </summary>
-    private Vector2 _right = Vector2.right;
-    /// <summary>
-    /// Current averaged ground normal.
-    /// </summary>
-    private Vector2 _normal = Vector2.zero;
-    /// <summary>
-    /// Indicates whether a valid ground collision was detected during the current check.
-    /// </summary>
-    private bool _isGrounded = false;
-
-    /// <summary>
-    /// Movement vector calculated during the ground collision resolution. 
-    /// </summary>
-    private Vector2 _move = Vector2.zero;
-    /// <summary> /
-    /// Minimum distance to the closest detected collision.
-    /// </summary>
-    float _minDist = 0.0f;
-    /// <summary> 
-    /// Current velocity used while resolving ground collisions. 
-    /// </summary>
-    private Vector2 _veclocity = Vector2.zero;
-    /// <summary> 
-    /// Collider associated with the closest detected ground collision. 
-    /// </summary>
+ 
     Collider2D _collider = null;
-    /// <summary>
-    /// Processes the raycast results and resolves ground collisions.
-    /// Updates the body's velocity and movement according to the detected surfaces,
-    /// and stores the resulting ground information in the configured collision info.
-    /// </summary>
-    /// <param name="frameData">Physics data for the current frame.</param>
-    /// <param name="rayCasts">Array containing the raycast results.</param>
-    /// <param name="rayCount">Number of valid raycast results in the array.</param>
-    override protected void ExecuteChildCollision(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts,int rayCount)
+
+    Vector2 _minNormal = new();
+    Vector2 _acumulateNormal = Vector2.zero;
+    FramePhysicsData _physicData = new();
+    bool _bodyGrounded = false;
+
+    [SerializeField, UnityEngine.Range(2, 10)] private int _maxIteration = 5;
+    protected override void ExecuteChildCollision(RaycastHit2D[] hits)
     {
-        if (!_body)
+       
+        if(!_body)
         {
             Debug.LogError("no body set please set it manualy");
             return;
         }
-        _right = Vector2.right;
-        _normal = Vector2.zero;
-        _isGrounded = false;
 
-        if (rayCount != 0)
+       
+        _acumulateNormal = Vector2.zero;
+        _bodyGrounded = false;
+        _physicData.DeltaPos = (Vector2)_body.transform.position - _body.Position;
+        for (int i = 0; i < _maxIteration; i++)
         {
-            this.RealCollisionCheck(ref frameData, rayCasts, rayCount);
+            if (!StepCollision2(hits))
+                break;
         }
-
-        if (_info)
+        if (!_info)
+            return;
+        
+        _acumulateNormal.Normalize();
+        if (_acumulateNormal != Vector2.zero)
         {
-            _info.IsGrounded = _isGrounded;
-            _info.Right = _right;
-            _info.Up = _normal;
+            float angle = Vector2.Angle(_acumulateNormal, Vector2.up);
+                _bodyGrounded = angle > 90.0f ? false : true;
         }
+        _info.IsGrounded = _bodyGrounded;
+        _info.Right = Vector2.right;
+        _info.Up = _acumulateNormal == Vector2.zero ? Vector2.up : _acumulateNormal;
+    
     }
 
-
-    //private void Test(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts, int rayCount)
-    //{
-    //    uint _maxIteration = 5;
-    //    FramePhysicsData _currentFrame = frameData;
-
-    //    _currentFrame.DeltaPos += _move;
-    //    _currentFrame.Move = _move;
-    //    for(int i = 0; i < _maxIteration; ++i)
-    //    {
-    //       rayCount = Strategy.ProcessRayCast(_currentFrame, rayCasts, Filter);
-    //    }
-    //    frameData.Move = _move + _body.Velocity * Time.fixedDeltaTime;
-
-
-    //}
-    /// <summary>
-    /// Processes the detected ground collisions and calculates the resulting movement,
-    /// velocity, and ground normal.
-    /// </summary>
-    /// <param name="frameData">Physics data for the current frame.</param>
-    /// <param name="rayCasts">Array containing the raycast results.</param>
-    /// <param name="rayCount">Number of valid raycast results in the array.</param>
-    private void RealCollisionCheck(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts, int rayCount)
+    private bool StepCollision2(RaycastHit2D[] rayCasts)
     {
-        _minDist = float.MaxValue;
-        _veclocity = _body.Velocity;
-        _move = Vector2.zero;
-        for (int i = 0; i < rayCount; ++i)
+        _physicData.Move = _body.Velocity * Time.fixedDeltaTime;
+        int rayCount = this.ProcessRayCasts(ref _physicData, rayCasts);
+        if (rayCount == 0)
+            return false;
+
+        float minDist = float.MaxValue;
+         _minNormal = Vector2.zero;
+        for(int i = 0; i < rayCount; ++i)
         {
             RaycastHit2D hit = rayCasts[i];
-            if (hit.collider == Collider)
+            if (hit.collider == Collider) continue;
+            if (Vector2.Dot(_body.Velocity,hit.normal) >= 0f) continue;
+            if(hit.distance < minDist)
             {
-                Debug.LogError("shound not be colliding with himself change layer");
-                continue;
+                minDist = hit.distance;
+                _minNormal = hit.normal;
+                _acumulateNormal += hit.normal;
             }
-            if (hit.distance < _minDist)
-            {
-                _minDist = hit.distance;
-                _collider = hit.collider;
-            }
-            float dot = Vector2.Dot(_veclocity, hit.normal);
-            if (dot < 0f)
-            {
-                _veclocity -= dot * hit.normal;
-            }
-            _normal += hit.normal;
-
         }
 
-        if (Mathf.Approximately(_minDist, 0))
-            _move = Vector2.zero;
-        else
-            _move = frameData.MoveNormalized * _minDist;
+        if (_minNormal == Vector2.zero)
+            return false;
+        _bodyGrounded = true;
+        float dot = Vector2.Dot(_body.Velocity, _minNormal);
+        if (dot < 0)
+        {
+            _body.SetVelocity(_body.Velocity - _minNormal * dot);
+        }
 
-        _collider = null;
-        _normal.Normalize();
-        _body.SetVelocity(_veclocity);
-        frameData.Move = _move + _body.Velocity * Time.fixedDeltaTime;
-        float angle = Vector2.Angle(_normal, Vector2.up);
-        Debug.Log($"normal : {_normal},Up : {Vector2.up}, Angle : {angle}");
-        _isGrounded = angle > 90.0f ? false : true;
+
+        return true;
     }
-    //private void ResolveOverlap(Collider2D other,ref Vector2 move)
-    //{
-    //    ColliderDistance2D dist = Strategy.ProcessDistance(other);
-    //    if (dist.distance >= 0)
-    //    {
+    
+    private int ProcessRayCasts(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts)
+    {
+       return Strategy.ProcessRayCast(frameData, rayCasts, Filter);   
+    }
 
-    //        move = dist.normal * Mathf.Max(dist.distance - _distanceSlop, 0);
-    //    }
-    //    else
-    //    {
-
-    //        move = dist.normal * Mathf.Min(dist.distance + _distanceSlop, 0);
-    //    }
-
-    //}
 }   
