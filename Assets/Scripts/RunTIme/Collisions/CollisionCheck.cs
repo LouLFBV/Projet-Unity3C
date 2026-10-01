@@ -53,7 +53,7 @@ public abstract class CollisionCheck : MonoBehaviour
     /// <param name="frameData">
     /// Physics data for the current frame. The data may be modified by the collision check.
     /// </param>
-    public void ExecuteCollision(ref FramePhysicsData frameData) 
+    public void ExecuteCollision() 
     {
         
         if (_rayCasts == null)
@@ -62,8 +62,7 @@ public abstract class CollisionCheck : MonoBehaviour
             Debug.LogError("No strategy Set");
         else
         {
-           int count = _strategy.ProcessRayCast(frameData, _rayCasts, Filter);
-           ExecuteChildCollision(ref frameData, _rayCasts,count);
+           ExecuteChildCollision(_rayCasts);
         }
     }
     /// <summary>
@@ -76,8 +75,5 @@ public abstract class CollisionCheck : MonoBehaviour
     /// <param name="rayCasts">
     /// Array containing the raycast results.
     /// </param>
-    /// <param name="rayCount">
-    /// Number of valid raycast results contained in the array.
-    /// </param>
-    abstract protected void ExecuteChildCollision(ref FramePhysicsData move, RaycastHit2D[] rayCasts,int rayCount);
+    abstract protected void ExecuteChildCollision(RaycastHit2D[] rayCasts);
 }

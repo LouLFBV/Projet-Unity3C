@@ -1,5 +1,6 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.UIElements;
 
 public class TestMovement : MonoBehaviour
 {
@@ -14,15 +15,58 @@ public class TestMovement : MonoBehaviour
 
 private float _jumpTime = float.MinValue;
     [SerializeField] private float _jumpInterval = 0.1f;
+
+    [SerializeField] private bool _enableSwing = false;
+    [SerializeField] private Transform _transform;
+    [SerializeField] private float _swingForce = 0.5f;
+    [SerializeField] private float _ropeLength = 10.0f;
     private void FixedUpdate()
     {
-        if (_input != Vector2.zero)
+     
+        if (_enableSwing)
         {
-            _body.AddForce(_infos.Right * _input.x * _moveForce, ForceType.Force);
+            Vector2 rope = _transform.position - (Vector3)_body.Position;
+            Vector2 dir = rope.normalized;
+            Vector2 tengant = new Vector2(dir.y, -dir.x);
+
+            if (_input != Vector2.zero)
+                _body.AddForce(_input.x * _swingForce * tengant, ForceType.Force);
+            float distance = rope.magnitude;
+            Debug.Log($"Distance{distance} , ropeLength {_ropeLength}");
+
+            if (distance > _ropeLength)
+            {
+                float stretch = distance - _ropeLength;
+    
+                    _body.AddForce(dir * stretch, ForceType.Velocity);
+            }
+
+
+            //if (distance > _ropeLength)
+            //{
+            //    float stretch = distance - _ropeLength;
+
+            //    float radialVelocity = Vector2.Dot(_body.Velocity, dir);
+
+            //    float tension = stretch * 5000f - radialVelocity * 200f;
+
+            //    if (tension > 0)
+            //        _body.AddForce(dir * tension, ForceType.Force);
+            //}
+
+
+
+       
+
+        }
+        else if (_input != Vector2.zero )
+        {
+          
+             _body.AddForce(_infos.Right * _input.x * _moveForce, ForceType.Force);
         }
         if ((Time.time - _jumpTime) < _jumpInterval  && _infos.IsGrounded)
         { 
-            _jumpDir = (_infos.Up + Vector2.up  ).normalized;
+            _jumpDir = (_infos.Up + Vector2.up * 2  ).normalized;
             _body.AddForce(_jumpDir * _jumpForce,
             ForceType.Impulse);
             _jumpTime = float.MinValue;

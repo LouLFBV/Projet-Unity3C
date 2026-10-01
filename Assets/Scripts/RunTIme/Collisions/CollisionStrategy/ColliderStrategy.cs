@@ -17,7 +17,7 @@ public abstract class ColliderStrategy : MonoBehaviour
     /// Defines the half-width of the collision skin.
     /// </summary>
     [Header("Properties")]
-    [SerializeField, Range(0.05f, 1.0f)] private float _halfSkin = 0.05f;
+    [SerializeField, Range(0.0f, 1.0f)] private float _halfSkin = 0.05f;
     /// <summary>
     /// Gets the half-width of the collision skin.
     /// </summary>
