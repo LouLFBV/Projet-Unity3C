@@ -24,10 +24,12 @@ public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
     /// Initializes the managed component by retrieving it from the current GameObject
     /// when it has not already been assigned.
     /// </summary>
-    virtual protected void Awake()
+    virtual protected void Start()
     {
         if (!_object)
             _object = gameObject.GetComponent<T>();
+        if (!_object)
+
         if (!_object)
             Debug.LogError("no object found please set it manualy");
     }
@@ -38,6 +40,11 @@ public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
     public void SetController(Controller<T> newSender)
     {
         _sender = newSender;
+    }
+
+    public void SetObject(T targetObject)
+    {
+        _object = targetObject;
     }
     /// <summary>
     /// Executes an action on the managed component if the specified controller

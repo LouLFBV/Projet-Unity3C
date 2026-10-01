@@ -4,19 +4,16 @@ using UnityEngine;
 /// </summary>
 public class GroundCollisionInfo : MonoBehaviour
 {
-    [HideInInspector]
     /// <summary>
     /// Direction along the detected ground surface.
     /// </summary>
-    public Vector2 Right = Vector2.right;
-    [HideInInspector]
+    public Vector2 Right { get; set; } = Vector2.right;
     /// <summary>
     /// Normal direction of the detected ground surface.
     /// </summary>
-    public Vector2 Up = Vector2.up;
-    [HideInInspector]
+    public Vector2 Up { get; set; } = Vector2.up;
     /// <summary>
     /// Indicates whether the object is currently considered grounded.
     /// </summary>
-    public bool IsGrounded = false;
+    public bool IsGrounded { get; set; } = false;
 }

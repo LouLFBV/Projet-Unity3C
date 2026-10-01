@@ -6,6 +6,12 @@ public class PlayerCharacter : MonoBehaviour
     private PlayerStateMachine _playerStateMachine;
     public PlayerStateMachine PlayerStateMachine => _playerStateMachine;
 
+    [Header("Physics")]
+    [SerializeField] private PhysicBody _body;
+    [SerializeField] private GroundCollisionInfo _infos;
+
+    public PhysicBody Body => _body;
+    public GroundCollisionInfo GroundInfos => _infos;
 
     [Header("Animator")]
     [SerializeField] private PlayerAnimator _animatorPlayer;
@@ -39,6 +45,7 @@ public class PlayerCharacter : MonoBehaviour
     public float jumpForce = 20f;
     public float jumpInputBuffer = 0.1f;
     public float coyoteTime = 0.065f;
+    public Vector2 jumpDir = Vector2.zero;
 
     [Header("Wall Jump")]   
     public bool canWallJump = false;
@@ -47,7 +54,6 @@ public class PlayerCharacter : MonoBehaviour
     public float wallJumpGravity = 5f;
     public float lastWallJumpTime = float.MinValue;
 
-    public bool IsGrounded => _collisionInfo._below;
 
     [Header("TP")]
     [SerializeField] private ManaSystem _manaSystem;
@@ -58,7 +64,7 @@ public class PlayerCharacter : MonoBehaviour
 
 
 
-    [HideInInspector] public Vector2 velocity;
+    //[HideInInspector] public Vector2 velocity;
     private CollisionInfo _collisionInfo;
     public CollisionInfo CollisionInfo => _collisionInfo;
 
@@ -68,24 +74,19 @@ public class PlayerCharacter : MonoBehaviour
     [HideInInspector] public bool canCoyoteJump = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    void Awake()
     {
-        _playerStateMachine = new PlayerStateMachine();
-        var states = new Dictionary<PlayerStateType, PlayerState>
-        {
-            { PlayerStateType.Idle, new IdleState(this, _playerStateMachine) },
-            { PlayerStateType.Walk, new WalkState(this, _playerStateMachine) },
-            { PlayerStateType.Run, new RunState(this, _playerStateMachine) },
-            { PlayerStateType.Jump, new JumpState(this, _playerStateMachine) },
-            { PlayerStateType.Fall, new FallState(this, _playerStateMachine) },
-            { PlayerStateType.TP, new TPState(this, _playerStateMachine) },
-            { PlayerStateType.WallJump, new WallJumpState(this, _playerStateMachine) },
-            { PlayerStateType.VineSwing, new VineSwingState(this, _playerStateMachine) },
-            { PlayerStateType.Death, new DeathState(this, _playerStateMachine) },
-            { PlayerStateType.UI, new UIState(this, _playerStateMachine) }
-        };
-        _playerStateMachine.Initialized(states);
-        _playerStateMachine.ChangeState(PlayerStateType.Idle);
+        _playerStateMachine = new PlayerStateMachine(this);
+
+        _playerStateMachine.Register(new TPState(this));
+        _playerStateMachine.Register(new IdleState(this), true);
+        _playerStateMachine.Register(new WalkState(this));
+        _playerStateMachine.Register(new RunState(this));
+        _playerStateMachine.Register(new JumpState(this));
+        _playerStateMachine.Register(new FallState(this));
+        _playerStateMachine.Register(new WallSlideState(this));
+        _playerStateMachine.Register(new VineSwingState(this));
+        _playerStateMachine.Register(new DeathState(this));
     }
 
     // Update is called once per frame
@@ -99,27 +100,27 @@ public class PlayerCharacter : MonoBehaviour
         //}
 
         // Si on touche le sol en descendant, ou le plafond en montant
-        if ((_collisionInfo._below && velocity.y < 0) || (_collisionInfo._above && velocity.y > 0))
-        {
-            velocity.y = 0;
-        }
+        //if ((_collisionInfo._below && velocity.y < 0) || (_collisionInfo._above && velocity.y > 0))
+        //{
+        //    velocity.y = 0;
+        //}
 
 
-        float gravity = velocity.y >= 0 ? _risingingGravity : canWallJump ? wallJumpGravity : _fallingGravity; // on choisit la gravité en fonction de la direction du mouvement
-        velocity.y -= gravity * Time.deltaTime; // acc * delta = vitesse, Time.deltaTime pour l'accumulation
+        //float gravity = velocity.y >= 0 ? _risingingGravity : canWallJump ? wallJumpGravity : _fallingGravity; // on choisit la gravité en fonction de la direction du mouvement
+        //velocity.y -= gravity * Time.deltaTime; // acc * delta = vitesse, Time.deltaTime pour l'accumulation
 
-        float targetVelocityX = isSprinting && _collisionInfo._below ? moveInput.x * maxMoveSpeed : moveInput.x * _moveSpeed;
+        //float targetVelocityX = isSprinting && _collisionInfo._below ? moveInput.x * maxMoveSpeed : moveInput.x * _moveSpeed;
         
-        velocity.x = Mathf.MoveTowards(velocity.x, targetVelocityX, acceleration * Time.deltaTime);
+        //velocity.x = Mathf.MoveTowards(velocity.x, targetVelocityX, acceleration * Time.deltaTime);
 
-        Vector2 deltaPosition = velocity * Time.deltaTime; // vitesse * delta = position
+        //Vector2 deltaPosition = velocity * Time.deltaTime; // vitesse * delta = position
 
-        _collisionInfo.Reset();
-        ProcessMove(ref deltaPosition); // on modifie la position en fonction des collisions
+        //_collisionInfo.Reset();
+        //ProcessMove(ref deltaPosition); // on modifie la position en fonction des collisions
 
-        transform.Translate(deltaPosition);
+        //transform.Translate(deltaPosition);
 
-        _animatorPlayer.SetMoveAnimation(velocity.x, maxMoveSpeed); // on met à jour l'animation en fonction de la vitesse
+        _animatorPlayer.SetMoveAnimation(_body.Velocity.x, maxMoveSpeed); // on met à jour l'animation en fonction de la vitesse
 
         if (moveInput.x > 0)
         {
@@ -134,63 +135,74 @@ public class PlayerCharacter : MonoBehaviour
     private void FixedUpdate()
     {
         _playerStateMachine.FixedUpdate();
-    }
 
-
-    private void ProcessMove(ref Vector2 deltaPosition)
-    {
-
-        if (deltaPosition.x != 0)
+        if (moveInput.x != 0)
         {
-            ProcessHorizontalCollisions(ref deltaPosition);
+            // On applique directement la vitesse souhaitée
+            Vector2 targetVelocity = new Vector2(moveInput.x * _moveSpeed, _body.Velocity.y);
+            _body.SetVelocity(targetVelocity);
         }
-
-        if (deltaPosition.y != 0)
+        else if (_infos.IsGrounded)
         {
-            ProcessVerticalCollisions(ref deltaPosition);
+            // On stoppe le mouvement horizontal au sol si pas d'input
+            _body.SetVelocity(new Vector2(0, _body.Velocity.y));
         }
     }
 
-    private void ProcessVerticalCollisions(ref Vector2 deltaPosition)
-    {
-        float directionY = Mathf.Sign(deltaPosition.y);
-        RaycastHit2D hit = Physics2D.BoxCast(
-            transform.position + new Vector3(deltaPosition.x, 0),
-            _collider.size,
-            0,
-            Vector2.up * directionY,
-            Mathf.Abs(deltaPosition.y) + _skinWidth,
-            _groundLayer
-            );
+    //private void ProcessMove(ref Vector2 deltaPosition)
+    //{
 
-        if (hit)
-        {
-            deltaPosition.y = Mathf.Max(0, hit.distance - _skinWidth) * directionY;
-            _collisionInfo._below = directionY < 0;
-            _collisionInfo._above = directionY > 0;
+    //    if (deltaPosition.x != 0)
+    //    {
+    //        ProcessHorizontalCollisions(ref deltaPosition);
+    //    }
 
-        }
-    }
+    //    if (deltaPosition.y != 0)
+    //    {
+    //        ProcessVerticalCollisions(ref deltaPosition);
+    //    }
+    //}
 
-    private void ProcessHorizontalCollisions(ref Vector2 deltaPosition)
-    {
-        float directionX = Mathf.Sign(deltaPosition.x);
-        RaycastHit2D hit = Physics2D.BoxCast(
-            transform.position,
-            _collider.size,
-            0,
-            Vector2.right * directionX,
-            Mathf.Abs(deltaPosition.x) + _skinWidth,
-            _groundLayer
-            );
+    //private void ProcessVerticalCollisions(ref Vector2 deltaPosition)
+    //{
+    //    float directionY = Mathf.Sign(deltaPosition.y);
+    //    RaycastHit2D hit = Physics2D.BoxCast(
+    //        transform.position + new Vector3(deltaPosition.x, 0),
+    //        _collider.size,
+    //        0,
+    //        Vector2.up * directionY,
+    //        Mathf.Abs(deltaPosition.y) + _skinWidth,
+    //        _groundLayer
+    //        );
 
-        if (hit)
-        {
-            deltaPosition.x = Mathf.Max(0, hit.distance - _skinWidth) * directionX;
-            _collisionInfo._left = directionX < 0;
-            _collisionInfo._right = directionX > 0;
-        }
-    }
+    //    if (hit)
+    //    {
+    //        deltaPosition.y = Mathf.Max(0, hit.distance - _skinWidth) * directionY;
+    //        _collisionInfo._below = directionY < 0;
+    //        _collisionInfo._above = directionY > 0;
+
+    //    }
+    //}
+
+    //private void ProcessHorizontalCollisions(ref Vector2 deltaPosition)
+    //{
+    //    float directionX = Mathf.Sign(deltaPosition.x);
+    //    RaycastHit2D hit = Physics2D.BoxCast(
+    //        transform.position,
+    //        _collider.size,
+    //        0,
+    //        Vector2.right * directionX,
+    //        Mathf.Abs(deltaPosition.x) + _skinWidth,
+    //        _groundLayer
+    //        );
+
+    //    if (hit)
+    //    {
+    //        deltaPosition.x = Mathf.Max(0, hit.distance - _skinWidth) * directionX;
+    //        _collisionInfo._left = directionX < 0;
+    //        _collisionInfo._right = directionX > 0;
+    //    }
+    //}
 
     public void Move(Vector2 moveInput)
     {
@@ -202,6 +214,11 @@ public class PlayerCharacter : MonoBehaviour
         lastJumpInputTime = Time.time;
     }
 
+    public void Jump(float jump)
+    {
+
+    }
+
     public void Sprint(bool isSprinting)
     {
         this.isSprinting = isSprinting;
@@ -209,6 +226,7 @@ public class PlayerCharacter : MonoBehaviour
 
     public void TP()
     {
-        _playerStateMachine.PushState(PlayerStateType.TP);
+        _playerStateMachine.CurrentState.SetPushState<TPState>();
+        //_playerStateMachine.PushState(PlayerStateType.TP);
     }
 }

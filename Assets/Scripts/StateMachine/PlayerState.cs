@@ -1,16 +1,11 @@
-﻿using UnityEngine;
-public abstract class PlayerState
+﻿public abstract class PlayerState : State
 {
-    protected PlayerCharacter character;
-    protected PlayerStateMachine stateMachine;
+    protected PlayerCharacter Character => _character;
 
-    public PlayerState(PlayerCharacter character, PlayerStateMachine stateMachine)
+    private PlayerCharacter _character;
+
+    public PlayerState(PlayerCharacter character)
     {
-        this.character = character;
-        this.stateMachine = stateMachine;
+        _character = character;
     }
-    public virtual void Enter() { }
-    public virtual void Update() { }
-    public virtual void FixedUpdate() { }
-    public virtual void Exit() { }
 }

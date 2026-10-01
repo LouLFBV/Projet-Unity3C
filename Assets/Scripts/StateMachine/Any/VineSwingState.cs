@@ -1,6 +1,8 @@
-﻿class UIState : PlayerState
+﻿using UnityEngine.TextCore.Text;
+
+class VineSwingState : PlayerState
 {
-    public UIState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
+    public VineSwingState(PlayerCharacter character) : base(character) { }
     public override void Enter() { }
     public override void Update() { }
     public override void FixedUpdate() { }

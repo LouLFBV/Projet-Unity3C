@@ -1,21 +1,24 @@
-﻿class AirboneState : PlayerState
+﻿using UnityEngine;
+class AirboneState : PlayerState
 {
-    public AirboneState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
-    public override void Enter() 
+    public AirboneState(PlayerCharacter character) : base(character) { }
+    public override void Enter()
     {
-        character.AnimatorPlayerScript.AnimatorPlayer.SetBool("IsGrounded", false);
+        base.Enter();
+        Character.AnimatorPlayerScript.SetIsGrounded(false);
     }
     public override void Update()
     {
-        character.AnimatorPlayerScript.AnimatorPlayer.SetFloat("JumpVelocity", character.velocity.y);
-        character.acceleration = character.moveInput.x != 0 ? character.airAcceleration : character.airDeceleration;
-        if (character.IsGrounded)
+        Character.AnimatorPlayerScript.AnimatorPlayer.SetFloat("JumpVelocity", Character.Body.Velocity.y);
+        Character.acceleration = Character.moveInput.x != 0 ? Character.airAcceleration : Character.airDeceleration;
+        if (Character.GroundInfos.IsGrounded && Character.PlayerStateMachine.CurrentState is not JumpState)
         {
-            stateMachine.ChangeState(PlayerStateType.Idle);
+            SetNextState<IdleState>();
         }
-        if (character.CollisionInfo._left || character.CollisionInfo._right)
+        //if (Character.GroundInfos.Right == Vector2.right || Character.GroundInfos.Right ==  Vector2.left)
+        if (Character.CollisionInfo._left || Character.CollisionInfo._right)
         {
-            stateMachine.ChangeState(PlayerStateType.WallJump);
+            SetNextState<WallSlideState>();
         }
     }
     public override void FixedUpdate() { }

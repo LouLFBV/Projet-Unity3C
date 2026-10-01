@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.TextCore.Text;
 
 public class CheckpointManager : MonoBehaviour
 {
@@ -23,6 +24,6 @@ public class CheckpointManager : MonoBehaviour
 
     public void RespawnPlayer(PlayerCharacter player)
     {
-        player.transform.position = _currentSpawnPosition;
+        player.Body.SetPosition(_currentSpawnPosition);
     }
 }

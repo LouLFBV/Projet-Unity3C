@@ -1,41 +1,44 @@
 ﻿using UnityEngine;
+using UnityEngine.TextCore.Text;
 
 class GroundedState : PlayerState
-{    public GroundedState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
+{    public GroundedState(PlayerCharacter character) : base(character) { }
     public override void Enter()
     {
-        character.AnimatorPlayerScript.AnimatorPlayer.SetBool("IsGrounded", true);
+        base.Enter();
+        Character.AnimatorPlayerScript.SetIsGrounded(true);
     }
     public override void Update() 
     {
         ProcessJump();
         //character.acceleration = character.moveInput.x != 0 ? character.groundAcceleration : character.groundDeceleration;
 
-        if (!character.IsGrounded)
+        if (!Character.GroundInfos.IsGrounded)
         {
-            if (character.velocity.y < 0.1f)
+            if (Character.Body.Velocity.y < 0.1f)
             {
-                Debug.Log("Falling");
-                stateMachine.ChangeState(PlayerStateType.Fall);
+                SetNextState<FallState>();
+                //_stateMachine.ChangeState(PlayerStateType.Fall);
             }
         }
-        character.lastGroundedTime = Time.time;
-        character.canCoyoteJump = true;
+        Character.lastGroundedTime = Time.time;
+        Character.canCoyoteJump = true;
     }
     public override void FixedUpdate() { }
     public override void Exit() { }
 
     private void ProcessJump()
     {
-        bool isJumpBuffered = Time.time - character.lastJumpInputTime <= character.jumpInputBuffer;
+        bool isJumpBuffered = Time.time - Character.lastJumpInputTime <= Character.jumpInputBuffer;
         if (!isJumpBuffered)
         {
             return;
         }
-        if (character.CollisionInfo._below || (character.canCoyoteJump && Time.time - character.lastGroundedTime <= character.coyoteTime))
+        if (Character.GroundInfos.IsGrounded || (Character.canCoyoteJump && Time.time - Character.lastGroundedTime <= Character.coyoteTime))
         {
             //Debug.Log("Jumping");
-            stateMachine.ChangeState(PlayerStateType.Jump);
+            SetNextState<JumpState>();
+            //_stateMachine.ChangeState(PlayerStateType.Jump);
         }
     }
 }

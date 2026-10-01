@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Windows;
 
 //public class PlayerController : MonoBehaviour
 //{
@@ -66,19 +67,20 @@ using UnityEngine.InputSystem;
 
 #region VERSION PROF
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Controller<PlayerCharacter>
 {
     private PlayerCharacter _controlledCharacter;
-    void Start()
-    {
 
-    }
-
+    private Vector2 _input;
+    private float _jump;
     public void ReceiveMoveInput(InputAction.CallbackContext ctx)
     {
         //Debug.Log($"ReceiveMoveInput: {ctx.ReadValue<Vector2>()}");
-        Vector2 moveInput = ctx.ReadValue<Vector2>();
-        _controlledCharacter.Move(moveInput);
+         _input = ctx.ReadValue<Vector2>();
+        _controlledCharacter.Move(_input);
+
+
+        _controllerPort.ExecuteAction(this, Move);
     }
 
     public void ReceiveJumpInput(InputAction.CallbackContext ctx)
@@ -91,18 +93,10 @@ public class PlayerController : MonoBehaviour
             // Jump start logic here
             //Debug.Log("Jump started");
             _controlledCharacter.Jump();
-        }
 
-        if (ctx.canceled)
-        {
-            // Jump release logic here
-            //Debug.Log("Jump canceled");
-        }
 
-        if (ctx.performed)
-        {
-            // Jump logic here
-            //Debug.Log("Jump performed");
+            _jump = ctx.ReadValue<float>();
+            _controllerPort.ExecuteAction(this, Jump);
         }
     }
 
@@ -142,6 +136,15 @@ public class PlayerController : MonoBehaviour
             Debug.Log("Teleporting...");
             _controlledCharacter.TP();
         }
+    }
+
+    private void Move(PlayerCharacter movement)
+    {
+        movement.Move(_input);
+    }
+    private void Jump(PlayerCharacter movement)
+    {
+        movement.Jump(_jump);
     }
 
     public void SetPlayerCharacter(PlayerCharacter playerCharacter)

@@ -1,6 +1,7 @@
-﻿class IdleState : GroundedState
+﻿using UnityEngine;
+class IdleState : GroundedState
 {
-    public IdleState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
+    public IdleState(PlayerCharacter character) : base(character) { }
     public override void Enter() 
     {
         base.Enter();
@@ -8,9 +9,10 @@
     public override void Update() 
     {
         base.Update();
-        if (character.velocity.x > 0.1f)
+        if (Mathf.Abs(Character.Body.Velocity.x) > 0.1f)
         {
-            stateMachine.ChangeState(PlayerStateType.Walk);
+            SetNextState<WalkState>();
+            //_stateMachine.ChangeState(PlayerStateType.Walk);
         }
     }
     public override void FixedUpdate() { }

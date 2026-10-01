@@ -25,7 +25,12 @@ public class PlayerAnimator : MonoBehaviour
         _animator.SetTrigger(triggerName);
     }
 
-    
+    public void SetIsGrounded(bool isGrounded)
+    {
+       _animator.SetBool("IsGrounded", isGrounded);
+    }
+
+
     // Méthodes pour passer en état de téléportation et déclencher l'animation correspondante, mis en commentaire parce qu'en changeant d'état, TPState se faisait écrasze
     public void SetTPAnimation()
     {

@@ -1,6 +1,6 @@
 ﻿class RunState : GroundedState
 {
-    public RunState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
+    public RunState(PlayerCharacter character) : base(character) { }
     public override void Enter()
     {
         base.Enter();
@@ -8,10 +8,11 @@
     public override void Update()
     {
         base.Update();
-        character.acceleration = character.moveInput.x != 0 ? character.sprintAcceleration : character.sprintDeceleration;
-        if (!character.isSprinting)
+        Character.acceleration = Character.moveInput.x != 0 ? Character.sprintAcceleration : Character.sprintDeceleration;
+        if (!Character.isSprinting)
         {
-            stateMachine.ChangeState(PlayerStateType.Walk);
+            SetNextState<WalkState>();
+            //_stateMachine.ChangeState(PlayerStateType.Walk);
         }
     }
     public override void FixedUpdate() { }

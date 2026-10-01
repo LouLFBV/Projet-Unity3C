@@ -1,22 +1,33 @@
-﻿using UnityEngine;
+﻿
+using UnityEngine;
 
 class JumpState : AirboneState
 {
-    public JumpState(PlayerCharacter character, PlayerStateMachine stateMachine) : base(character, stateMachine) { }
-    public override void Enter() 
+    public JumpState(PlayerCharacter character) : base(character) { }
+    public override void Enter()
     {
         base.Enter();
-        character.velocity.y = character.jumpForce;
-        character.AnimatorPlayerScript.AnimatorPlayer.SetTrigger("Jump");
-        character.lastJumpInputTime = float.MinValue; // Reset du jump input
-        character.canCoyoteJump = false;
+
+        // On applique directement une vitesse verticale propre (ex: jumpForce = 15)
+        //_character.Body.AddForce(Vector2.up * _character.jumpForce, ForceType.Velocity);
+        Character.jumpDir = (Character.GroundInfos.Up + Vector2.up).normalized;
+        Character.Body.AddForce(Character.jumpDir * Character.jumpForce,
+        ForceType.Impulse);
+
+        Character.AnimatorPlayerScript.AnimatorPlayer.SetTrigger("Jump");
+        Character.lastJumpInputTime = float.MinValue;
+        Character.canCoyoteJump = false;
     }
-    public override void Update() 
+
+    public override void Update()
     {
         base.Update();
-        if (character.velocity.y < 0.1f)
+
+        // Utiliser la vitesse du PhysicBody
+        if (Character.Body.Velocity.y < 0f)
         {
-            stateMachine.ChangeState(PlayerStateType.Fall);
+            SetNextState<FallState>();
+            //_stateMachine.ChangeState(PlayerStateType.Fall);
         }
     }
     public override void FixedUpdate() { }

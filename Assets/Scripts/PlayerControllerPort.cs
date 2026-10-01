@@ -1,0 +1,1 @@
+public class PlayerControllerPort : ControllerPort<PlayerCharacter> { }

@@ -15,15 +15,22 @@ public class GameMode : MonoBehaviour
 
 
     [SerializeField] private Transform _spawnPoint;
-    private void Start()
+    private void Awake()
     {
         GameObject playerControllerObj = Instantiate(_playerControllerPrefab, _spawnPoint.position, Quaternion.identity);
+
         PlayerController playerController = playerControllerObj.GetComponent<PlayerController>();
+        PlayerControllerPort playerControllerPort = playerControllerObj.GetComponent<PlayerControllerPort>();
+
+        playerControllerPort.SetController(playerController);
+
 
         GameObject playerCharacterObj = Instantiate(_playerCharacterPrefab, _spawnPoint.position, Quaternion.identity);
         PlayerCharacter playerCharacter = playerCharacterObj.GetComponent<PlayerCharacter>();
 
+        playerControllerPort.SetObject(playerCharacter);
         playerController.SetPlayerCharacter(playerCharacter);
+
 
         _cinemachineCamera.Follow = playerCharacter.transform;
 
