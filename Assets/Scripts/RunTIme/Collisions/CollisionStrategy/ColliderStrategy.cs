@@ -51,5 +51,5 @@ public abstract class ColliderStrategy : MonoBehaviour
     /// </summary>
     /// <param name="target">Collider against which the distance is evaluated.</param>
     /// <returns>The calculated distance information between the two colliders.</returns>
-    public abstract ColliderDistance2D ProcessDistance(Collider2D target);
+    public abstract ColliderDistance2D ProcessDistance(FramePhysicsData data, Collider2D target);
 }

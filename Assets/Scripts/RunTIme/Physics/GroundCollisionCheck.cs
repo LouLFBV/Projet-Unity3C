@@ -21,16 +21,13 @@ public class GroundCollisionCheck : CollisionCheck
     /// <summary>
     /// Collision information updated with the current ground state and surface directions.
     /// </summary>
-    [SerializeField] private GroundCollisionInfo _info;
+    
  
     Collider2D _collider = null;
-
-    Vector2 _minNormal = new();
-    Vector2 _acumulateNormal = Vector2.zero;
     FramePhysicsData _physicData = new();
-    bool _bodyGrounded = false;
 
-    [SerializeField, UnityEngine.Range(2, 10)] private int _maxIteration = 5;
+    private Vector2 _minNormal = Vector2.zero;
+    [SerializeField, UnityEngine.Range(1, 10)] private int _maxIteration = 5;
     protected override void ExecuteChildCollision(RaycastHit2D[] hits)
     {
        
@@ -41,67 +38,81 @@ public class GroundCollisionCheck : CollisionCheck
         }
 
        
-        _acumulateNormal = Vector2.zero;
-        _bodyGrounded = false;
-        _physicData.DeltaPos = (Vector2)_body.transform.position - _body.Position;
-        for (int i = 0; i < _maxIteration; i++)
+       
+        int iteration = 0;
+        for (int i = 0; i < _maxIteration; i++ , iteration++)
         {
             if (!StepCollision2(hits))
                 break;
         }
-        if (!_info)
-            return;
         
-        _acumulateNormal.Normalize();
-        if (_acumulateNormal != Vector2.zero)
-        {
-            float angle = Vector2.Angle(_acumulateNormal, Vector2.up);
-                _bodyGrounded = angle > 90.0f ? false : true;
-        }
-        _info.IsGrounded = _bodyGrounded;
-        _info.Right = Vector2.right;
-        _info.Up = _acumulateNormal == Vector2.zero ? Vector2.up : _acumulateNormal;
     
     }
 
     private bool StepCollision2(RaycastHit2D[] rayCasts)
     {
         _physicData.Move = _body.Velocity * Time.fixedDeltaTime;
+        _physicData.Pos = _body.Position;
         int rayCount = this.ProcessRayCasts(ref _physicData, rayCasts);
         if (rayCount == 0)
             return false;
 
         float minDist = float.MaxValue;
-         _minNormal = Vector2.zero;
-        for(int i = 0; i < rayCount; ++i)
+        _minNormal = Vector2.zero;
+        int minIndex = 0;
+        for (int i = 0; i < rayCount; ++i)
         {
             RaycastHit2D hit = rayCasts[i];
             if (hit.collider == Collider) continue;
-            if (Vector2.Dot(_body.Velocity,hit.normal) >= 0f) continue;
-            if(hit.distance < minDist)
+            if (Vector2.Dot(_body.Velocity, hit.normal) >= 0f) continue;
+            if (hit.distance < minDist)
             {
                 minDist = hit.distance;
                 _minNormal = hit.normal;
-                _acumulateNormal += hit.normal;
+                minIndex = i;
             }
+
         }
 
         if (_minNormal == Vector2.zero)
             return false;
-        _bodyGrounded = true;
-        float dot = Vector2.Dot(_body.Velocity, _minNormal);
+        Vector2 move = new();
+        if (minDist <= 0.0001f)
+            ResolveOverlap(rayCasts[minIndex].collider, ref move);
+        else
+            move = _body.Velocity.normalized  * minDist;
+        //_body.SetPosition(_body.Position + move);
+
+        Vector2 velocity = move / Time.fixedDeltaTime;
+        Vector2 remainingVelocity = _body.Velocity - velocity;
+        float dot = Vector2.Dot(remainingVelocity, _minNormal);
         if (dot < 0)
         {
-            _body.SetVelocity(_body.Velocity - _minNormal * dot);
+            remainingVelocity -= _minNormal * dot;
         }
 
-
+        _body.SetVelocity(velocity + remainingVelocity);
         return true;
     }
-    
+
     private int ProcessRayCasts(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts)
     {
        return Strategy.ProcessRayCast(frameData, rayCasts, Filter);   
     }
+    private void ResolveOverlap(Collider2D other, ref Vector2 move)
+    {
+        ColliderDistance2D dist = Strategy.ProcessDistance(_physicData, other);
+        if (dist.distance >= 0)
+        {
 
-}   
+            move = dist.normal * Mathf.Max(dist.distance - 0.015f, 0);
+        }
+        else
+        {
+
+            move = dist.normal * Mathf.Min(dist.distance +0.015f, 0);
+        }
+    }
+}
+
+

@@ -5,7 +5,6 @@ using UnityEngine.UIElements;
 public class TestMovement : MonoBehaviour
 {
     [SerializeField] private PhysicBody _body;
-    [SerializeField] private GroundCollisionInfo _infos;
     private Vector2 _input = Vector2.zero;
     [SerializeField] private float _moveForce = 10.0f;
 
@@ -20,26 +19,54 @@ private float _jumpTime = float.MinValue;
     [SerializeField] private Transform _transform;
     [SerializeField] private float _swingForce = 0.5f;
     [SerializeField] private float _ropeLength = 10.0f;
+    [SerializeField] private ColliderStrategy _strategy = null;
+    private RaycastHit2D[] _hits = new RaycastHit2D[10];
+    ContactFilter2D _filter = new ContactFilter2D();
+    [SerializeField] private FramePhysicsData _data = new();
+    private void Awake()
+    {
+        _filter.useLayerMask = true;
+        _filter.layerMask = LayerMask.GetMask("Ground");
+    }
     private void FixedUpdate()
     {
-     
+        _data.Move = Vector2.zero;
+        _data.Pos = _body.Position;
+        int rayCount = _strategy.ProcessRayCast(_data,_hits,_filter);
+
+        Vector2 hitNormal = Vector2.zero;
+        for(int i = 0; i < rayCount; i++)
+        {
+            hitNormal += _hits[i].normal;
+        }
+        hitNormal.Normalize();
+       
+
+
         if (_enableSwing)
         {
             Vector2 rope = _transform.position - (Vector3)_body.Position;
             Vector2 dir = rope.normalized;
             Vector2 tengant = new Vector2(dir.y, -dir.x);
-
             if (_input != Vector2.zero)
-                _body.AddForce(_input.x * _swingForce * tengant, ForceType.Force);
-            float distance = rope.magnitude;
-            Debug.Log($"Distance{distance} , ropeLength {_ropeLength}");
-
-            if (distance > _ropeLength)
-            {
-                float stretch = distance - _ropeLength;
-    
-                    _body.AddForce(dir * stretch, ForceType.Velocity);
-            }
+               { 
+                 _body.AddForce(_input.x * _swingForce * tengant, ForceType.Force);
+               }
+           
+            _body.Actions.Add(()=> {
+                 Vector2 newBodyPos = _body.Position + _body.Velocity * Time.fixedDeltaTime;
+                Vector2 newRope = _transform.position - (Vector3)newBodyPos;
+                if(newRope.magnitude > _ropeLength)
+                {
+                    Vector2 romeDir = newRope.normalized;
+                    float dot = Vector2.Dot(_body.Velocity, romeDir);
+                   
+                        Vector2 radialVelocity = romeDir * dot;
+                        _body.SetVelocity(_body.Velocity - radialVelocity);
+                    
+                }
+       
+            });
 
 
             //if (distance > _ropeLength)
@@ -56,17 +83,17 @@ private float _jumpTime = float.MinValue;
 
 
 
-       
+
 
         }
         else if (_input != Vector2.zero )
         {
-          
-             _body.AddForce(_infos.Right * _input.x * _moveForce, ForceType.Force);
+     
+             _body.AddForce(Vector2.right* _input.x * _moveForce, ForceType.Force);
         }
-        if ((Time.time - _jumpTime) < _jumpInterval  && _infos.IsGrounded)
+        if ((Time.time - _jumpTime) < _jumpInterval  && hitNormal != Vector2.zero)
         { 
-            _jumpDir = (_infos.Up + Vector2.up * 2  ).normalized;
+            _jumpDir = (hitNormal + Vector2.up * 2  ).normalized;
             _body.AddForce(_jumpDir * _jumpForce,
             ForceType.Impulse);
             _jumpTime = float.MinValue;

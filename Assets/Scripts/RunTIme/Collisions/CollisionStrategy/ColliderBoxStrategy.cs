@@ -13,6 +13,7 @@ public class ColliderBoxStrategy : ColliderStrategy
     /// Initializes the box collider used by this collision strategy.
     /// Attempts to retrieve the collider from the current GameObject when none is assigned.
     /// </summary>
+    /// 
     private void Awake()
     {
         if (!_boxCollider)
@@ -33,7 +34,7 @@ public class ColliderBoxStrategy : ColliderStrategy
     {
         if (!_boxCollider)
             return 0;
-       return  Physics2D.BoxCast((_boxCollider.transform.position - (Vector3)data.DeltaPos)+ (Vector3 )_boxCollider.offset, _boxCollider.size + SizeSkinVec, _collider.transform.rotation.z, data.MoveNormalized, Filter,rayCasts, data.MoveMagnitude);
+       return  Physics2D.BoxCast(( (Vector3)data.Pos)+ (Vector3 )_boxCollider.offset, _boxCollider.size + SizeSkinVec, _collider.transform.rotation.z, data.MoveNormalized, Filter,rayCasts, data.MoveMagnitude);
     }
     /// <summary>
     /// Calculates the distance between the current box collider and the target collider.
@@ -41,11 +42,14 @@ public class ColliderBoxStrategy : ColliderStrategy
     /// </summary>
     /// <param name="target">Collider against which the distance is calculated.</param>
     /// <returns>The calculated distance information between the two colliders.</returns>
-    public override ColliderDistance2D ProcessDistance( Collider2D target) 
+    public override ColliderDistance2D ProcessDistance(FramePhysicsData data, Collider2D target) 
     {
+        Vector2 pos = _boxCollider.transform.position;
+        _boxCollider.transform.position = data.Pos + _boxCollider.offset;
         _boxCollider.size += SizeSkinVec;
         ColliderDistance2D result = Physics2D.Distance(_boxCollider, target);
         _boxCollider.size -= SizeSkinVec;
+        _boxCollider.transform.position = pos;
         return result;
     }
 }
