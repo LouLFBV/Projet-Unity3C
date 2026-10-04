@@ -45,8 +45,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameMode
   _cinemachineCamera: {fileID: 0}
-  _timerManager: {fileID: 9078016641456234711, guid: 44d4cd3ebb4f5be42a5dbc7a740e5d22, type: 3}
-  _checkpointManager: {fileID: 8872153240250127124, guid: 471718e516fe6664784b344fdf200f29, type: 3}
+  _timerManagerPrefab: {fileID: 9078016641456234711, guid: 44d4cd3ebb4f5be42a5dbc7a740e5d22, type: 3}
+  _checkpointManagerPrefab: {fileID: 8872153240250127124, guid: 471718e516fe6664784b344fdf200f29, type: 3}
+  _audioManagerPrefab: {fileID: 4187926660623262320, guid: 371cf108bafa6db428f2f6ec8eb17875, type: 3}
   _playerControllerPrefab: {fileID: 1442044718968126522, guid: 833b92f9b988945489239afc647fca5f, type: 3}
   _playerCharacterPrefab: {fileID: 7617122035831649858, guid: 23fdbea5953c62f48a8ae352e9ae3cb9, type: 3}
+  _musicClip: {fileID: 0}
   _spawnPoint: {fileID: 0}

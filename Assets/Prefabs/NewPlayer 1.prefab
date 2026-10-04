@@ -205,7 +205,7 @@ Transform:
   m_GameObject: {fileID: 4573764882132134648}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.25, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 5, y: 5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -307,7 +307,6 @@ MonoBehaviour:
   _playerCharacter: {fileID: 3688742989628052496}
   _sprite: {fileID: 8513060996248051785}
   _animator: {fileID: 3891075833445527029}
-  isTPing: 0
 --- !u!1 &5640405999092157094
 GameObject:
   m_ObjectHideFlags: 0
@@ -523,31 +522,29 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   _skinWidth: 0.01
-  _moveSpeed: 10
-  maxMoveSpeed: 20
+  _walkSpeed: 2000
+  _runSpeed: 6000
   groundAcceleration: 100
-  groundDeceleration: 100
-  sprintAcceleration: 10
-  sprintDeceleration: 10
+  groundDeceleration: 10000
+  sprintAcceleration: 1000
   airAcceleration: 100
   airDeceleration: 100
-  isSprinting: 0
   acceleration: 0
   _fallingGravity: 15
   _risingingGravity: 25
-  jumpForce: 3000
+  jumpForce: 3500
   jumpInputBuffer: 0.1
   coyoteTime: 0.065
   jumpDir: {x: 0, y: 0}
   canWallJump: 0
-  wallJumpForce: 20
+  wallJumpForce: 1000
   wallJumpHorizontalForce: 10
   wallJumpGravity: 5
   lastWallJumpTime: -3.4028235e+38
+  _castDistanceToWallJump: 0.3
   _manaSystem: {fileID: 7927457315766396263}
   costTP: 30
   distanceToTP: 2
-  velocity: {x: 0, y: 0}
   moveInput: {x: 0, y: 0}
   lastJumpInputTime: -3.4028235e+38
   lastGroundedTime: -3.4028235e+38
@@ -650,6 +647,7 @@ MonoBehaviour:
     m_Bits: 64
   _body: {fileID: 4496750156385597960}
   _info: {fileID: 8430871868433209815}
+  _maxIteration: 5
 --- !u!114 &8430871868433209815
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -662,9 +660,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 10e942ed72bc45d4fbd74d4a29415b15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GroundCollisionInfo
-  Right: {x: 1, y: 0}
-  Up: {x: 0, y: 1}
-  IsGrounded: 0
 --- !u!1 &8729472879040380471
 GameObject:
   m_ObjectHideFlags: 0

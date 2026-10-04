@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEngine;
+using UnityEngine.Rendering;
 using static UnityEditor.Experimental.GraphView.GraphView;
 /// <summary>
 /// Defines the different ways a force can be applied to a <see cref="PhysicBody"/>.
@@ -297,6 +298,11 @@ public class PhysicBody : MonoBehaviour
         _enableFriction = active;
         _dragCoefficient = dragCoeficient;
 
+    }
+
+    public void ResetVelocity()
+    {
+        _velocity = Vector2.zero;
     }
 
     /// <summary>

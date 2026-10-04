@@ -44,7 +44,7 @@ public class Checkpoint : MonoBehaviour
             GiveHisPosition();
             _isAlreadyActivated = true;
             _animator.SetTrigger("Break");
-            collider.collider.GetComponentInChildren<PlayerAnimator>().SetTriggerPlayer("Attack");
+            collider.collider.GetComponentInChildren<PlayerCharacter>().TriggerAttack();
         }
     }
 

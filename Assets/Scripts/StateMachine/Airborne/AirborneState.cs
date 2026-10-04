@@ -1,26 +1,51 @@
 ﻿using UnityEngine;
 class AirboneState : PlayerState
 {
+    protected int _wallJumpDirection = 0;
+    private bool _canWallSlide = false;
     public AirboneState(PlayerCharacter character) : base(character) { }
     public override void Enter()
     {
         base.Enter();
-        Character.AnimatorPlayerScript.SetIsGrounded(false);
+        Character.CurrentDeceleration = Character.airDeceleration;
+        Character.CurrentAcceleration = Character.airAcceleration;
+        //Character.AnimatorPlayerScript.SetIsGrounded(false);
     }
     public override void Update()
     {
-        Character.AnimatorPlayerScript.AnimatorPlayer.SetFloat("JumpVelocity", Character.Body.Velocity.y);
-        Character.acceleration = Character.moveInput.x != 0 ? Character.airAcceleration : Character.airDeceleration;
-        if (Character.GroundInfos.IsGrounded && Character.PlayerStateMachine.CurrentState is not JumpState)
-        {
-            SetNextState<IdleState>();
-        }
-        //if (Character.GroundInfos.Right == Vector2.right || Character.GroundInfos.Right ==  Vector2.left)
-        if (Character.CollisionInfo._left || Character.CollisionInfo._right)
+        //Character.AnimatorPlayerScript.SetJumpAnimation(Character.Body.Velocity.y);
+
+        ProcessWallSlide();
+        if (_canWallSlide)
         {
             SetNextState<WallSlideState>();
         }
     }
     public override void FixedUpdate() { }
     public override void Exit() { }
+
+    private void ProcessWallSlide()
+    {
+
+        RaycastHit2D hit = Physics2D.BoxCast(
+            Character.transform.position,
+            Character.Collider.size,
+            0,
+            Vector2.right * Character.GetPlayerDirection(),
+            Character.CastDistanceToWallJump + Character.SkinWidth,
+            Character.GroundLayer
+            ); ;
+
+        if (hit)
+        {
+            _canWallSlide = true;
+            _wallJumpDirection = -Character.GetPlayerDirection();
+        }
+        else
+        {
+            _canWallSlide = false;
+            _wallJumpDirection = 0;
+
+        }
+    }
 }

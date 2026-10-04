@@ -1,23 +1,20 @@
 ﻿class WalkState : GroundedState
 {
-    public WalkState(PlayerCharacter character) : base(character)
+    public WalkState(PlayerCharacter character) : base(character)    {    }
+    public override void Enter()
     {
         base.Enter();
     }
-    public override void Enter() {}
     public override void Update()
     {
         base.Update();
-        Character.acceleration = Character.moveInput.x != 0 ? Character.groundAcceleration : Character.groundDeceleration;
-        if (Character.isSprinting)
+        if (Character.IsSprinting)
         {
             SetNextState<RunState>();
-            //_stateMachine.ChangeState(PlayerStateType.Run);
         }
         if (Character.Body.Velocity.magnitude < 0.1f)
         {
             SetNextState<IdleState>();
-            //_stateMachine.ChangeState(PlayerStateType.Idle);
         }
     }
     public override void FixedUpdate() { }

@@ -13,41 +13,34 @@ public class TrapSpike : MonoBehaviour
 
     private void Awake()
     {
-        if (_triggerCollider == null)
-        {
-            _triggerCollider = GetComponent<BoxCollider2D>();
-        }
-        if (_detectionCollider == null)
-        {
-            _detectionCollider = GetComponent<CircleCollider2D>();
-        }
+        if (_triggerCollider == null) _triggerCollider = GetComponent<BoxCollider2D>();
+        if (_detectionCollider == null) _detectionCollider = GetComponent<CircleCollider2D>();
     }
 
     private void Start()
     {
-        _animator.SetBool("IsAutomatic", _isAutomatic);
+        if (_animator != null)
+        {
+            _animator.SetBool("IsAutomatic", _isAutomatic);
+        }
     }
-
 
     private void Update()
     {
         if (_isAttacking)
         {
-            RaycastHit2D hit = Physics2D.BoxCast(
-            transform.position + (Vector3)_triggerCollider.offset,
-            _triggerCollider.size,
-            0f,
-            Vector2.zero,
-            0f,
-            _playerLayer
+            Collider2D hit = Physics2D.OverlapBox(
+                _triggerCollider.bounds.center,
+                _triggerCollider.bounds.size,
+                transform.eulerAngles.z,
+                _playerLayer
             );
 
-            if (hit && hit.collider.TryGetComponent<PlayerCharacter>(out var playerCharacter))
+            if (hit != null && hit.TryGetComponent<PlayerCharacter>(out var playerCharacter))
             {
                 if (playerCharacter.PlayerStateMachine.CurrentState is not DeathState)
                 {
                     playerCharacter.PlayerStateMachine.CurrentState.SetNextState<DeathState>();
-                    //playerCharacter.PlayerStateMachine.ChangeState(PlayerStateType.Death);
                     _isAttacking = false;
                 }
             }
@@ -55,41 +48,23 @@ public class TrapSpike : MonoBehaviour
 
         if (!_isAutomatic)
         {
-            // Calcul du vrai rayon (en prenant en compte le scaling X ou Y du GameObject)
-            float currentScale = Mathf.Max(transform.lossyScale.x, transform.lossyScale.y);
-            float realRadius = _detectionCollider.radius * currentScale;
+            float radius = _detectionCollider.radius * Mathf.Max(transform.lossyScale.x, transform.lossyScale.y);
 
-
-            Collider2D[] colliders = Physics2D.OverlapCircleAll(
-                transform.position + (Vector3)_detectionCollider.offset,
-                realRadius,
+            Collider2D detectedPlayer = Physics2D.OverlapCircle(
+                _detectionCollider.bounds.center,
+                radius,
                 _playerLayer
             );
 
-            if (colliders.Length > 0 && !_isAttacking && !_isInAnimation)
+            if (detectedPlayer != null && !_isAttacking && !_isInAnimation)
             {
                 _animator.SetTrigger("Attack");
             }
-        }        
+        }
     }
 
-    public void ActiveAttack()
-    {
-        _isAttacking = true;
-    }
-
-    public void DesactiveAttack()
-    {
-        _isAttacking = false;
-    }
-
-    public void ActiveIsInAnimation()
-    {
-        _isInAnimation = true;
-    }
-
-    public void DesactiveIsInAnimation()
-    {
-        _isInAnimation = false;
-    }
+    public void AE_ActiveAttack() => _isAttacking = true;
+    public void AE_DesactiveAttack() => _isAttacking = false;
+    public void AE_ActiveIsInAnimation() => _isInAnimation = true;
+    public void AE_DesactiveIsInAnimation() => _isInAnimation = false;
 }

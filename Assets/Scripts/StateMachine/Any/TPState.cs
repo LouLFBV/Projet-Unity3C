@@ -10,7 +10,7 @@ class TPState : PlayerState
     {
         Debug.Log("<color=yellow>TPState Enter</color>");
 
-        if (Character.AnimatorPlayerScript.isTPing || !Character.ManaSystem.HasEnoughMana(Character.costTP))
+        if (!Character.ManaSystem.HasEnoughMana(Character.costTP))
         {
             SetPopState(1);
             //_stateMachine.PopState();
@@ -69,6 +69,8 @@ class TPState : PlayerState
         {
             Character.ManaSystem.ConsumeMana(Character.costTP);
         }
+
+        Character.TriggerTP();
 
         SetPopState(1);
         //_stateMachine.PopState();

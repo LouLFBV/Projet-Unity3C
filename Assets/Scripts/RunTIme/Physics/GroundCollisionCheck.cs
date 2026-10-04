@@ -60,8 +60,7 @@ public class GroundCollisionCheck : CollisionCheck
         }
         _info.IsGrounded = _bodyGrounded;
         _info.Right = Vector2.right;
-        _info.Up = _acumulateNormal == Vector2.zero ? Vector2.up : _acumulateNormal;
-    
+        _info.Up = _acumulateNormal == Vector2.zero ? Vector2.up : _acumulateNormal;    
     }
 
     private bool StepCollision2(RaycastHit2D[] rayCasts)

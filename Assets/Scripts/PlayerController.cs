@@ -96,7 +96,7 @@ public class PlayerController : Controller<PlayerCharacter>
 
 
             _jump = ctx.ReadValue<float>();
-            _controllerPort.ExecuteAction(this, Jump);
+            //_controllerPort.ExecuteAction(this, Jump);
         }
     }
 
@@ -142,10 +142,10 @@ public class PlayerController : Controller<PlayerCharacter>
     {
         movement.Move(_input);
     }
-    private void Jump(PlayerCharacter movement)
-    {
-        movement.Jump(_jump);
-    }
+    //private void Jump(PlayerCharacter movement)
+    //{
+    //    movement.Jump(_jump);
+    //}
 
     public void SetPlayerCharacter(PlayerCharacter playerCharacter)
     {

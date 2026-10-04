@@ -4,15 +4,14 @@
     public override void Enter()
     {
         base.Enter();
+        Character.TriggerSprint();
     }
     public override void Update()
     {
         base.Update();
-        Character.acceleration = Character.moveInput.x != 0 ? Character.sprintAcceleration : Character.sprintDeceleration;
-        if (!Character.isSprinting)
+        if (!Character.IsSprinting)
         {
             SetNextState<WalkState>();
-            //_stateMachine.ChangeState(PlayerStateType.Walk);
         }
     }
     public override void FixedUpdate() { }

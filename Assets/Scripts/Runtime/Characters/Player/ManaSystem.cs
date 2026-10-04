@@ -6,15 +6,14 @@ public class ManaSystem : MonoBehaviour
     [SerializeField] private float manaRegenRate = 5f;
     [SerializeField] private float manaRegenDelay = 2f;
     [SerializeField] private float maxMana = 100f;
-    private float _currentMana;
 
     public float CurrentMana => _currentMana;
     public float MaxMana => maxMana;
 
-    private float _lastManaUseTime;
-
     public event Action OnManaChanged;
 
+    private float _currentMana;
+    private float _lastManaUseTime;
     private void Start()
     {
         _currentMana = maxMana;
