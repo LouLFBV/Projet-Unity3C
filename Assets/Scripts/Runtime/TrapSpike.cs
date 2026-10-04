@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class TrapSpike : MonoBehaviour
 {
     [SerializeField] private LayerMask _playerLayer;
@@ -7,14 +8,18 @@ public class TrapSpike : MonoBehaviour
     [SerializeField] private BoxCollider2D _triggerCollider;
     [SerializeField] private CircleCollider2D _detectionCollider;
     [SerializeField] private Animator _animator;
+    [SerializeField] private AudioClip _audioclip;
 
     private bool _isAttacking = false;
     private bool _isInAnimation = false;
+    private AudioSource _audioSource;
 
     private void Awake()
     {
         if (_triggerCollider == null) _triggerCollider = GetComponent<BoxCollider2D>();
         if (_detectionCollider == null) _detectionCollider = GetComponent<CircleCollider2D>();
+        if (_animator == null) _animator = GetComponent<Animator>();
+        _audioSource = GetComponent<AudioSource>();
     }
 
     private void Start()
@@ -63,8 +68,17 @@ public class TrapSpike : MonoBehaviour
         }
     }
 
+    #region Animator Events
     public void AE_ActiveAttack() => _isAttacking = true;
     public void AE_DesactiveAttack() => _isAttacking = false;
     public void AE_ActiveIsInAnimation() => _isInAnimation = true;
     public void AE_DesactiveIsInAnimation() => _isInAnimation = false;
+    public void AE_PlayAudioClip()
+    {
+        if (_audioSource != null && _audioclip != null)
+        {
+            _audioSource.PlayOneShot(_audioclip);
+        }
+    }
+    #endregion 
 }

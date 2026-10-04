@@ -8,14 +8,14 @@ class JumpState : AirboneState
     {
         base.Enter();
 
-        Character.jumpDir = (Character.HitNormal + Vector2.up * 2).normalized;
-        Character.Body.AddForce(Character.jumpDir * Character.jumpForce,
+        Character.JumpDir = (Character.HitNormal + Vector2.up * 2).normalized;
+        Character.Body.AddForce(Character.JumpDir * Character.JumpForce,
         ForceType.Impulse);
 
         Character.TriggerJump();
 
-        Character.lastJumpInputTime = float.MinValue;
-        Character.canCoyoteJump = false;
+        Character.LastJumpInputTime = float.MinValue;
+        Character.CanCoyoteJump = false;
     }
 
     public override void Update()

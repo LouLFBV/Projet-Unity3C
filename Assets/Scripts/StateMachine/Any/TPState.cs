@@ -10,7 +10,7 @@ class TPState : PlayerState
     {
         Debug.Log("<color=yellow>TPState Enter</color>");
 
-        if (!Character.ManaSystem.HasEnoughMana(Character.costTP))
+        if (!Character.ManaSystem.HasEnoughMana(Character.CostTP))
         {
             SetPopState(1);
             //_stateMachine.PopState();
@@ -52,8 +52,8 @@ class TPState : PlayerState
 
     private void ExecuteTP()
     {
-        float tpDistance = Character.distanceToTP;
-        Vector2 deltaPosition = new Vector2(tpDistance * Character.FacingDirection, 0);
+        float tpDistance = Character.DistanceTP;
+        Vector2 deltaPosition = new(tpDistance * Character.FacingDirection, 0);
 
         // Appliquer directement la nouvelle position sur le PhysicBody
         Character.Body.SetPosition(Character.Body.Position + deltaPosition);
@@ -67,7 +67,7 @@ class TPState : PlayerState
 
         if (Character.ManaSystem != null)
         {
-            Character.ManaSystem.ConsumeMana(Character.costTP);
+            Character.ManaSystem.ConsumeMana(Character.CostTP);
         }
 
         Character.TriggerTP();

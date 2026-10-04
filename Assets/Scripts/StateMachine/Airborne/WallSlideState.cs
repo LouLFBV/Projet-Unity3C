@@ -7,7 +7,7 @@ class WallSlideState : AirboneState
     {
         base.Enter();
 
-        Character.canWallJump = true;
+        Character.CanWallJump = true;
     }
     public override void Update() 
     {
@@ -23,12 +23,12 @@ class WallSlideState : AirboneState
     public override void FixedUpdate() { }
     public override void Exit() 
     {
-        Character.canWallJump = false;
+        Character.CanWallJump = false;
     }
 
     private void ProcessWallJump()
     {
-        bool isWallJumpBuffered = Time.time - Character.lastJumpInputTime <= Character.jumpInputBuffer;
+        bool isWallJumpBuffered = Time.time - Character.LastJumpInputTime <= Character.JumpInputBuffer;
         if (!isWallJumpBuffered) return;
 
         SetNextState<JumpState>(); 

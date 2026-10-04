@@ -7,14 +7,11 @@ class AirboneState : PlayerState
     public override void Enter()
     {
         base.Enter();
-        Character.CurrentDeceleration = Character.airDeceleration;
-        Character.CurrentAcceleration = Character.airAcceleration;
-        //Character.AnimatorPlayerScript.SetIsGrounded(false);
+        Character.CurrentDeceleration = Character.AirDeceleration;
+        Character.CurrentAcceleration = Character.AirAcceleration;
     }
     public override void Update()
     {
-        //Character.AnimatorPlayerScript.SetJumpAnimation(Character.Body.Velocity.y);
-
         ProcessWallSlide();
         if (_canWallSlide)
         {

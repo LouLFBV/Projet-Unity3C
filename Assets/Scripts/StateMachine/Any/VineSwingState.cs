@@ -1,6 +1,4 @@
-﻿using UnityEngine.TextCore.Text;
-
-class VineSwingState : PlayerState
+﻿class VineSwingState : PlayerState
 {
     public VineSwingState(PlayerCharacter character) : base(character) { }
     public override void Enter() { }

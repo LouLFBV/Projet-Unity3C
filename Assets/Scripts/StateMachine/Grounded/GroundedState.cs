@@ -8,8 +8,8 @@ class GroundedState : PlayerState
         //Character.AnimatorPlayerScript.SetIsGrounded(true);
         Character.TriggerGround();
 
-        Character.CurrentDeceleration = Character.groundDeceleration;
-        Character.CurrentAcceleration = Character.groundAcceleration;
+        Character.CurrentDeceleration = Character.GroundDeceleration;
+        Character.CurrentAcceleration = Character.GroundAcceleration;
 
     }
     public override void Update() 
@@ -20,20 +20,20 @@ class GroundedState : PlayerState
         {
             SetNextState<FallState>();
         }
-        Character.lastGroundedTime = Time.time;
-        Character.canCoyoteJump = true;
+        Character.LastGroundedTime = Time.time;
+        Character.CanCoyoteJump = true;
     }
     public override void FixedUpdate() { }
     public override void Exit() { }
 
     private void ProcessJump()
     {
-        bool isJumpBuffered = Time.time - Character.lastJumpInputTime <= Character.jumpInputBuffer;
+        bool isJumpBuffered = Time.time - Character.LastJumpInputTime <= Character.JumpInputBuffer;
         if (!isJumpBuffered)
         {
             return;
         }
-        if (Character.HitNormal != Vector2.zero || (Character.canCoyoteJump && Time.time - Character.lastGroundedTime <= Character.coyoteTime))
+        if (Character.HitNormal != Vector2.zero || (Character.CanCoyoteJump && Time.time - Character.LastGroundedTime <= Character.CoyoteTime))
         {
             SetNextState<JumpState>();
         }

@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: -8501008014617353420}
   - component: {fileID: 1693674654042701665}
   - component: {fileID: -2225560988503808825}
-  - component: {fileID: -310054557306762944}
   m_Layer: 0
   m_Name: AudioManager
   m_TagString: Untagged
@@ -68,7 +67,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -249,11 +248,3 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!81 &-310054557306762944
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4187926660623262320}
-  m_Enabled: 1
