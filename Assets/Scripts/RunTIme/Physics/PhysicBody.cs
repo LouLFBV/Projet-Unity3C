@@ -33,7 +33,7 @@ public enum ForceType
 
 public class PhysicBody : MonoBehaviour
 {
-
+    public List<Action> Actions = new();
     [Header("Properties")]
     /// <summary>
     /// Mass of the physics body in kilograms.
@@ -183,10 +183,10 @@ public class PhysicBody : MonoBehaviour
         {
             float alpha = (Time.time - Time.fixedTime) * _inverseFixedDeltaTime;
             transform.position = (Vector3)Vector2.Lerp(_lastPosition, _position, alpha);
+          
         }
 
-        
-    
+
     }
     /// <summary>
     /// Performs the physics update by applying gravity and friction as accelerations,
@@ -210,10 +210,18 @@ public class PhysicBody : MonoBehaviour
         }
         _velocity += (_allForces / _massKg) * Time.fixedDeltaTime;
         _allForces = Vector2.zero;
+
+        foreach(var action in Actions)
+        {
+            action?.Invoke();
+        }
+        Actions.Clear();
+
         if (_enableSolver && _solver)
             _solver.Dispatch();
+
+        _position += _velocity * Time.fixedDeltaTime;
         
-        _position += _velocity * Time.deltaTime;    
     }
     /// <summary>
     /// Sets the mass of the body.

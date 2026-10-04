@@ -11,7 +11,7 @@ public class FramePhysicsData
     /// <summary>
     /// Current delta position betwen render and physics.
     /// </summary>
-    public Vector2 DeltaPos = Vector2.zero;
+    public Vector2 Pos = Vector2.zero;
     /// <summary>
     /// Current movement vector.
     /// </summary>

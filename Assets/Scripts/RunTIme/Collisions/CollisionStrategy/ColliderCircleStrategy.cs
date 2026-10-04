@@ -35,7 +35,7 @@ public class ColliderCircleStrategy : ColliderStrategy
     {
         if (!_circleCollider)
             return 0;
-        return Physics2D.CircleCast((_circleCollider.transform.position - (Vector3)data.DeltaPos) + (Vector3)_circleCollider.offset, _circleCollider.radius + HalfSkin, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude);
+        return Physics2D.CircleCast( (Vector3)data.Pos + (Vector3)_circleCollider.offset, _circleCollider.radius + HalfSkin, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude);
     }
     /// <summary>
     /// Calculates the distance between the current circle collider and the target collider.
@@ -43,12 +43,15 @@ public class ColliderCircleStrategy : ColliderStrategy
     /// </summary>
     /// <param name="target">Collider against which the distance is calculated.</param>
     /// <returns>The calculated distance information between the two colliders.</returns>
-    public override ColliderDistance2D ProcessDistance(Collider2D target)
+    public override ColliderDistance2D ProcessDistance(FramePhysicsData data, Collider2D target)
     {
-       
+        Vector2 pos = _circleCollider.transform.position;
+        _circleCollider.transform.position = data.Pos + _circleCollider.offset;
         _circleCollider.radius += HalfSkin;
       ColliderDistance2D result =  Physics2D.Distance(_circleCollider, target);
         _circleCollider.radius -= HalfSkin;
+        _circleCollider.transform.position = pos;
+
         return result;
     }
 }

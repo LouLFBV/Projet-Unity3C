@@ -32,7 +32,7 @@ public class ColliderCapsuleStrategy : ColliderStrategy
     {
         if (!_capsuleCollider)
             return 0;
-        return Physics2D.CapsuleCast((_capsuleCollider.transform.position - (Vector3)data.DeltaPos) + (Vector3)_capsuleCollider.offset, _capsuleCollider.size + SizeSkinVec,_capsuleCollider.direction, _collider.transform.rotation.z, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude );
+        return Physics2D.CapsuleCast((Vector3)data.Pos + (Vector3)_capsuleCollider.offset, _capsuleCollider.size + SizeSkinVec,_capsuleCollider.direction, _collider.transform.rotation.z, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude );
     }
     /// <summary>
     /// Calculates the distance between the current capsule collider and the target collider.
@@ -40,11 +40,15 @@ public class ColliderCapsuleStrategy : ColliderStrategy
     /// </summary>
     /// <param name="target">Collider against which the distance is calculated.</param>
     /// <returns>The calculated distance information between the two colliders.</returns>
-    public override ColliderDistance2D ProcessDistance(Collider2D target)
+    public override ColliderDistance2D ProcessDistance(FramePhysicsData data, Collider2D target)
     {
+        Vector2 pos = _capsuleCollider.transform.position;
+        _capsuleCollider.transform.position = data.Pos + _capsuleCollider.offset;
         _capsuleCollider.size += SizeSkinVec;
         ColliderDistance2D result = Physics2D.Distance(_capsuleCollider, target);
         _capsuleCollider.size -= SizeSkinVec;
+        _capsuleCollider.transform.position = pos;
+
         return result;
     }
 }
