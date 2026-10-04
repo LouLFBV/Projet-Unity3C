@@ -10,7 +10,7 @@ class FallState : AirboneState
     public override void Update() 
     {
         base.Update();
-        if (Character.GroundInfos.IsGrounded && Character.Body.Velocity.y <= 0.1f && _wallJumpDirection == 0)
+        if (Character.HitNormal.y > 0.5f && Character.Body.Velocity.y <= 0.1f && _wallJumpDirection == 0)
         {
             Debug.Log("<color=green>FallState</color> - Grounded");
             SetNextState<IdleState>();

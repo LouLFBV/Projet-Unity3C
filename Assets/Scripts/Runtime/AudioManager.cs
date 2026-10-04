@@ -13,6 +13,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] private AudioClip _sprintClip;
     [SerializeField] private AudioClip _tpClip;
     [SerializeField] private AudioClip _groundClip;
+    [SerializeField] private AudioClip _attackClip;
 
     private PlayerCharacter _playerCharacter;
 
@@ -26,6 +27,7 @@ public class AudioManager : MonoBehaviour
         _playerCharacter.OnSprint += PlaySprintSound;
         _playerCharacter.OnTP += PlayTPSound;
         _playerCharacter.OnGround += PlayGroundSound;
+        _playerCharacter.OnAttack += PlayAttackSound;
     }
 
     private void OnDisable()
@@ -37,6 +39,7 @@ public class AudioManager : MonoBehaviour
         _playerCharacter.OnSprint -= PlaySprintSound;
         _playerCharacter.OnTP -= PlayTPSound;
         _playerCharacter.OnGround -= PlayGroundSound;
+        _playerCharacter.OnAttack -= PlayAttackSound;
     }
     #endregion
 
@@ -73,11 +76,54 @@ public class AudioManager : MonoBehaviour
     #endregion
 
     #region Play Sound Methods
-    private void PlayJumpSound() => PlayClip(_jumpClip);
-    private void PlayHurtSound() => PlayClip(_hurtClip);
-    private void PlaySprintSound() => PlayClip(_sprintClip);
-    private void PlayTPSound() => PlayClip(_tpClip);
-    private void PlayGroundSound() => PlayClip(_tpClip);
+    private void PlayJumpSound()
+    {
+        if (_jumpClip == null)
+        {
+            return;
+        }
+        PlayClip(_jumpClip);
+    }
+    private void PlayHurtSound()
+    {
+        if (_hurtClip == null)
+        {
+            return;
+        }
+        PlayClip(_hurtClip);
+    }
+    private void PlaySprintSound()
+    {
+        if (_sprintClip == null)
+        {
+            return;
+        }
+        PlayClip(_sprintClip);
+    }
+    private void PlayTPSound()
+    {
+        if (_tpClip == null)
+        {
+            return;
+        }
+        PlayClip(_tpClip);
+    }
+    private void PlayGroundSound()
+    {
+        if (_groundClip == null)
+        {
+            return;
+        }
+        PlayClip(_groundClip);
+    }
+    private void PlayAttackSound()
+    {
+        if (_attackClip == null)
+        {
+            return;
+        }
+        PlayClip(_attackClip);
+    }
 
     private void PlayClip(AudioClip clip)
     {

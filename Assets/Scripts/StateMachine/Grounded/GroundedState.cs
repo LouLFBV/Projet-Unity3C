@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEngine.TextCore.Text;
 
 class GroundedState : PlayerState
 {    public GroundedState(PlayerCharacter character) : base(character) { }
@@ -17,12 +16,9 @@ class GroundedState : PlayerState
     {
         ProcessJump();
 
-        if (!Character.GroundInfos.IsGrounded)
+        if (Character.HitNormal == Vector2.zero && Character.Body.Velocity.y < 0.1f)
         {
-            if (Character.Body.Velocity.y < 0.1f)
-            {
-                SetNextState<FallState>();
-            }
+            SetNextState<FallState>();
         }
         Character.lastGroundedTime = Time.time;
         Character.canCoyoteJump = true;
@@ -37,7 +33,7 @@ class GroundedState : PlayerState
         {
             return;
         }
-        if (Character.GroundInfos.IsGrounded || (Character.canCoyoteJump && Time.time - Character.lastGroundedTime <= Character.coyoteTime))
+        if (Character.HitNormal != Vector2.zero || (Character.canCoyoteJump && Time.time - Character.lastGroundedTime <= Character.coyoteTime))
         {
             SetNextState<JumpState>();
         }

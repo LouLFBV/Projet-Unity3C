@@ -53,6 +53,8 @@ MonoBehaviour:
   _hurtClip: {fileID: 8300000, guid: 60e31abc39876e64caf282ffcdb09ac0, type: 3}
   _sprintClip: {fileID: 0}
   _tpClip: {fileID: 8300000, guid: 56b394f6cea25a749a963f1c999d4917, type: 3}
+  _groundClip: {fileID: 0}
+  _attackClip: {fileID: 8300000, guid: 357bc95fcb8fcf148aa08cd93adc1c21, type: 3}
 --- !u!82 &1693674654042701665
 AudioSource:
   m_ObjectHideFlags: 0

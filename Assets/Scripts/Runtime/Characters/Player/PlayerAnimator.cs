@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.TextCore.Text;
 
 public class PlayerAnimator : MonoBehaviour
 {
@@ -81,7 +82,7 @@ public class PlayerAnimator : MonoBehaviour
 
     private void UpdatePhysicsAnimation()
     {
-        _animator.SetBool(AnimatorHashes.IsGrounded, _playerCharacter.GroundInfos.IsGrounded);
+        _animator.SetBool(AnimatorHashes.IsGrounded, _playerCharacter.HitNormal.y != Vector2.zero.y);
 
         _animator.SetFloat(AnimatorHashes.JumpVelocity, _playerCharacter.Body.Velocity.y);
     }

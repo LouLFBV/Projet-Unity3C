@@ -21,8 +21,8 @@ public class GroundCollisionCheck : CollisionCheck
     /// <summary>
     /// Collision information updated with the current ground state and surface directions.
     /// </summary>
-    
- 
+
+
     Collider2D _collider = null;
     FramePhysicsData _physicData = new();
 
@@ -30,23 +30,23 @@ public class GroundCollisionCheck : CollisionCheck
     [SerializeField, UnityEngine.Range(1, 10)] private int _maxIteration = 5;
     protected override void ExecuteChildCollision(RaycastHit2D[] hits)
     {
-       
-        if(!_body)
+
+        if (!_body)
         {
             Debug.LogError("no body set please set it manualy");
             return;
         }
 
-       
-       
+
+
         int iteration = 0;
-        for (int i = 0; i < _maxIteration; i++ , iteration++)
+        for (int i = 0; i < _maxIteration; i++, iteration++)
         {
             if (!StepCollision2(hits))
                 break;
         }
-        
-    
+
+
     }
 
     private bool StepCollision2(RaycastHit2D[] rayCasts)
@@ -80,7 +80,7 @@ public class GroundCollisionCheck : CollisionCheck
         if (minDist <= 0.0001f)
             ResolveOverlap(rayCasts[minIndex].collider, ref move);
         else
-            move = _body.Velocity.normalized  * minDist;
+            move = _body.Velocity.normalized * minDist;
         //_body.SetPosition(_body.Position + move);
 
         Vector2 velocity = move / Time.fixedDeltaTime;
@@ -97,7 +97,7 @@ public class GroundCollisionCheck : CollisionCheck
 
     private int ProcessRayCasts(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts)
     {
-       return Strategy.ProcessRayCast(frameData, rayCasts, Filter);   
+        return Strategy.ProcessRayCast(frameData, rayCasts, Filter);
     }
     private void ResolveOverlap(Collider2D other, ref Vector2 move)
     {
@@ -110,9 +110,8 @@ public class GroundCollisionCheck : CollisionCheck
         else
         {
 
-            move = dist.normal * Mathf.Min(dist.distance +0.015f, 0);
+            move = dist.normal * Mathf.Min(dist.distance + 0.015f, 0);
         }
     }
 }
-
 

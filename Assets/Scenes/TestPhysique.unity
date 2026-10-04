@@ -995,7 +995,6 @@ GameObject:
   - component: {fileID: 1507349960}
   - component: {fileID: 1507349959}
   - component: {fileID: 1507349958}
-  - component: {fileID: 1507349966}
   - component: {fileID: 1507349968}
   - component: {fileID: 1507349967}
   m_Layer: 0
@@ -1287,21 +1286,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CollisionSolver
   _checks:
   - {fileID: 1507349962}
---- !u!114 &1507349966
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1507349954}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 10e942ed72bc45d4fbd74d4a29415b15, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GroundCollisionInfo
-  Right: {x: 1, y: 0}
-  Up: {x: 0, y: 1}
-  IsGrounded: 0
 --- !u!114 &1507349967
 MonoBehaviour:
   m_ObjectHideFlags: 0

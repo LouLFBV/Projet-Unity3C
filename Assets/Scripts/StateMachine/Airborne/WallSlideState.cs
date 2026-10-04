@@ -15,7 +15,7 @@ class WallSlideState : AirboneState
 
         ProcessWallJump();
 
-        if (!Character.GroundInfos.IsGrounded)
+        if (Character.HitNormal == Vector2.zero)
         {
             SetNextState<FallState>();
         }

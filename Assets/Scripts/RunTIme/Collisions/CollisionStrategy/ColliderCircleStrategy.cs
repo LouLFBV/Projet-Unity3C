@@ -31,11 +31,11 @@ public class ColliderCircleStrategy : ColliderStrategy
     /// <param name="rayCasts">Array used to store the collision results.</param>
     /// <param name="Filter">Contact filter used to determine which colliders are detected.</param>
     /// <returns>The number of colliders detected by the circle cast.</returns>
-    public override int ProcessRayCast(FramePhysicsData data, RaycastHit2D[] rayCasts,ContactFilter2D Filter)
+    public override int ProcessRayCast(FramePhysicsData data, RaycastHit2D[] rayCasts, ContactFilter2D Filter)
     {
         if (!_circleCollider)
             return 0;
-        return Physics2D.CircleCast( (Vector3)data.Pos + (Vector3)_circleCollider.offset, _circleCollider.radius + HalfSkin, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude);
+        return Physics2D.CircleCast((Vector3)data.Pos + (Vector3)_circleCollider.offset, _circleCollider.radius + HalfSkin, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude);
     }
     /// <summary>
     /// Calculates the distance between the current circle collider and the target collider.
@@ -48,11 +48,10 @@ public class ColliderCircleStrategy : ColliderStrategy
         Vector2 pos = _circleCollider.transform.position;
         _circleCollider.transform.position = data.Pos + _circleCollider.offset;
         _circleCollider.radius += HalfSkin;
-      ColliderDistance2D result =  Physics2D.Distance(_circleCollider, target);
+        ColliderDistance2D result = Physics2D.Distance(_circleCollider, target);
         _circleCollider.radius -= HalfSkin;
         _circleCollider.transform.position = pos;
 
         return result;
     }
 }
-

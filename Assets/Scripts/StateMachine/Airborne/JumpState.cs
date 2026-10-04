@@ -8,7 +8,7 @@ class JumpState : AirboneState
     {
         base.Enter();
 
-        Character.jumpDir = (Character.GroundInfos.Up + Vector2.up * 2).normalized;
+        Character.jumpDir = (Character.HitNormal + Vector2.up * 2).normalized;
         Character.Body.AddForce(Character.jumpDir * Character.jumpForce,
         ForceType.Impulse);
 

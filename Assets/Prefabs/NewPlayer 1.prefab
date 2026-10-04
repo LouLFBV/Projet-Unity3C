@@ -431,7 +431,6 @@ GameObject:
   - component: {fileID: 1647930559576125769}
   - component: {fileID: 3263928275076402152}
   - component: {fileID: 8895516031387436719}
-  - component: {fileID: 8430871868433209815}
   m_Layer: 7
   m_Name: NewPlayer 1
   m_TagString: Player
@@ -515,7 +514,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCharacter
   _body: {fileID: 4496750156385597960}
-  _infos: {fileID: 8430871868433209815}
   _animatorPlayer: {fileID: 1976976269921042749}
   _collider: {fileID: 687130720681233357}
   _groundLayer:
@@ -524,9 +522,8 @@ MonoBehaviour:
   _skinWidth: 0.01
   _walkSpeed: 2000
   _runSpeed: 6000
-  groundAcceleration: 100
   groundDeceleration: 10000
-  sprintAcceleration: 1000
+  groundAcceleration: 100
   airAcceleration: 100
   airDeceleration: 100
   acceleration: 0
@@ -537,10 +534,7 @@ MonoBehaviour:
   coyoteTime: 0.065
   jumpDir: {x: 0, y: 0}
   canWallJump: 0
-  wallJumpForce: 1000
-  wallJumpHorizontalForce: 10
   wallJumpGravity: 5
-  lastWallJumpTime: -3.4028235e+38
   _castDistanceToWallJump: 0.3
   _manaSystem: {fileID: 7927457315766396263}
   costTP: 30
@@ -549,6 +543,7 @@ MonoBehaviour:
   lastJumpInputTime: -3.4028235e+38
   lastGroundedTime: -3.4028235e+38
   canCoyoteJump: 0
+  _strategy: {fileID: 3668530780165263128}
 --- !u!114 &4496750156385597960
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -646,20 +641,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   _body: {fileID: 4496750156385597960}
-  _info: {fileID: 8430871868433209815}
   _maxIteration: 5
---- !u!114 &8430871868433209815
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8682556239004448390}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 10e942ed72bc45d4fbd74d4a29415b15, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::GroundCollisionInfo
 --- !u!1 &8729472879040380471
 GameObject:
   m_ObjectHideFlags: 0

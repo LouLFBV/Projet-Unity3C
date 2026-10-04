@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class Checkpoint : MonoBehaviour
 {
     [SerializeField] private BoxCollider2D _collider;
@@ -7,7 +8,10 @@ public class Checkpoint : MonoBehaviour
     [SerializeField] private LayerMask _playerLayer;
 
     private bool _isAlreadyActivated = false;
-    void Start()
+    private AudioSource _audioSource;
+
+    [SerializeField] private AudioClip[] _audioClip;
+    private void Awake()
     {
         if (_collider == null)
         {
@@ -17,10 +21,11 @@ public class Checkpoint : MonoBehaviour
         {
             _animator = GetComponent<Animator>();
         }
+        _audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
-    void Update()
+    private void Update()
     {
         if (!_isAlreadyActivated)
         {
@@ -43,6 +48,7 @@ public class Checkpoint : MonoBehaviour
         {
             GiveHisPosition();
             _isAlreadyActivated = true;
+            PlaySoundEffect();
             _animator.SetTrigger("Break");
             collider.collider.GetComponentInChildren<PlayerCharacter>().TriggerAttack();
         }
@@ -52,5 +58,15 @@ public class Checkpoint : MonoBehaviour
     {
         CheckpointManager.Instance.SetCheckpoint(transform.position);
         Debug.Log("Checkpoint activated at position: " + transform.position);
+    }
+
+    public void PlaySoundEffect()
+    {
+        if (_audioSource != null && _audioClip.Length > 0)
+        {
+            int randomIndex = Random.Range(0, _audioClip.Length);
+            AudioClip clipToPlay = _audioClip[randomIndex];
+            _audioSource.PlayOneShot(clipToPlay);
+        }
     }
 }

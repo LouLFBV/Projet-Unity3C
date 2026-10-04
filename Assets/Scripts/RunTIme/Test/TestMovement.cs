@@ -12,7 +12,7 @@ public class TestMovement : MonoBehaviour
     [SerializeField] private float _jumpForce = 10.0f;
     private Vector2 _jumpDir = Vector2.zero;
 
-private float _jumpTime = float.MinValue;
+    private float _jumpTime = float.MinValue;
     [SerializeField] private float _jumpInterval = 0.1f;
 
     [SerializeField] private bool _enableSwing = false;
@@ -32,15 +32,15 @@ private float _jumpTime = float.MinValue;
     {
         _data.Move = Vector2.zero;
         _data.Pos = _body.Position;
-        int rayCount = _strategy.ProcessRayCast(_data,_hits,_filter);
+        int rayCount = _strategy.ProcessRayCast(_data, _hits, _filter);
 
         Vector2 hitNormal = Vector2.zero;
-        for(int i = 0; i < rayCount; i++)
+        for (int i = 0; i < rayCount; i++)
         {
             hitNormal += _hits[i].normal;
         }
         hitNormal.Normalize();
-       
+
 
 
         if (_enableSwing)
@@ -49,23 +49,23 @@ private float _jumpTime = float.MinValue;
             Vector2 dir = rope.normalized;
             Vector2 tengant = new Vector2(dir.y, -dir.x);
             if (_input != Vector2.zero)
-               { 
-                 _body.AddForce(_input.x * _swingForce * tengant, ForceType.Force);
-               }
-           
-            _body.Actions.Add(()=> {
-                 Vector2 newBodyPos = _body.Position + _body.Velocity * Time.fixedDeltaTime;
+            {
+                _body.AddForce(_input.x * _swingForce * tengant, ForceType.Force);
+            }
+
+            _body.Actions.Add(() => {
+                Vector2 newBodyPos = _body.Position + _body.Velocity * Time.fixedDeltaTime;
                 Vector2 newRope = _transform.position - (Vector3)newBodyPos;
-                if(newRope.magnitude > _ropeLength)
+                if (newRope.magnitude > _ropeLength)
                 {
                     Vector2 romeDir = newRope.normalized;
                     float dot = Vector2.Dot(_body.Velocity, romeDir);
-                   
-                        Vector2 radialVelocity = romeDir * dot;
-                        _body.SetVelocity(_body.Velocity - radialVelocity);
-                    
+
+                    Vector2 radialVelocity = romeDir * dot;
+                    _body.SetVelocity(_body.Velocity - radialVelocity);
+
                 }
-       
+
             });
 
 
@@ -86,14 +86,14 @@ private float _jumpTime = float.MinValue;
 
 
         }
-        else if (_input != Vector2.zero )
+        else if (_input != Vector2.zero)
         {
-     
-             _body.AddForce(Vector2.right* _input.x * _moveForce, ForceType.Force);
+
+            _body.AddForce(Vector2.right * _input.x * _moveForce, ForceType.Force);
         }
-        if ((Time.time - _jumpTime) < _jumpInterval  && hitNormal != Vector2.zero)
-        { 
-            _jumpDir = (hitNormal + Vector2.up * 2  ).normalized;
+        if ((Time.time - _jumpTime) < _jumpInterval && hitNormal != Vector2.zero)
+        {
+            _jumpDir = (hitNormal + Vector2.up * 2).normalized;
             _body.AddForce(_jumpDir * _jumpForce,
             ForceType.Impulse);
             _jumpTime = float.MinValue;
@@ -107,7 +107,7 @@ private float _jumpTime = float.MinValue;
         if (_input.x != 0)
             _input.x = _input.x > 0 ? 1 : -1;
     }
-    public void Jump( float jump)
+    public void Jump(float jump)
     {
         if (jump != 0)
             _jumpTime = Time.time;

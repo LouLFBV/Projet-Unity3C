@@ -28,11 +28,11 @@ public class ColliderCapsuleStrategy : ColliderStrategy
     /// <param name="rayCasts">Array used to store the collision results.</param>
     /// <param name="Filter">Contact filter used to determine which colliders are detected.</param>
     /// <returns>The number of colliders detected by the capsule cast.</returns>
-    public override int ProcessRayCast(FramePhysicsData data, RaycastHit2D[] rayCasts, ContactFilter2D Filter) 
+    public override int ProcessRayCast(FramePhysicsData data, RaycastHit2D[] rayCasts, ContactFilter2D Filter)
     {
         if (!_capsuleCollider)
             return 0;
-        return Physics2D.CapsuleCast((Vector3)data.Pos + (Vector3)_capsuleCollider.offset, _capsuleCollider.size + SizeSkinVec,_capsuleCollider.direction, _collider.transform.rotation.z, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude );
+        return Physics2D.CapsuleCast((Vector3)data.Pos + (Vector3)_capsuleCollider.offset, _capsuleCollider.size + SizeSkinVec, _capsuleCollider.direction, _collider.transform.rotation.z, data.MoveNormalized, Filter, rayCasts, data.MoveMagnitude);
     }
     /// <summary>
     /// Calculates the distance between the current capsule collider and the target collider.

@@ -12,7 +12,6 @@ class IdleState : GroundedState
         if (Mathf.Abs(Character.Body.Velocity.x) > 0.1f)
         {
             SetNextState<WalkState>();
-            //_stateMachine.ChangeState(PlayerStateType.Walk);
         }
     }
     public override void FixedUpdate() { }

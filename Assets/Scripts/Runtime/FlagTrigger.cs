@@ -1,16 +1,20 @@
 using UnityEngine;
 
+[RequireComponent(typeof(AudioSource))]
 public class FlagTrigger : MonoBehaviour
 {
     [SerializeField] private LayerMask _playerLayer;
     [SerializeField] private BoxCollider2D _triggerCollider;
+    [SerializeField] private AudioClip _flagSound;
 
     private bool _hasTriggered = false;
+    private AudioSource _audioSource;
 
     private void Awake()
     {
         if (_triggerCollider == null)
             _triggerCollider = GetComponent<BoxCollider2D>();
+        _audioSource = GetComponent<AudioSource>();
     }
 
     private void Update()
@@ -29,6 +33,10 @@ public class FlagTrigger : MonoBehaviour
         if (hit)
         {
             _hasTriggered = true;
+            if (_audioSource != null && _flagSound != null)
+            {
+                _audioSource.PlayOneShot(_flagSound);
+            }
             Debug.Log("Le joueur a franchi la ligne d'arrivée !");
 
             if (TimerManager.Instance != null)
