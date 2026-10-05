@@ -104,7 +104,7 @@ public class PhysicBody : MonoBehaviour
 
     private float _inverseFixedDeltaTime = 0.0f;
 
-
+    public Vector2 FrameVelocity { private set; get; } = Vector2.zero;
 
     /// <summary>
     /// Gets the mass of the body in kilograms.
@@ -143,6 +143,7 @@ public class PhysicBody : MonoBehaviour
     /// <summary>
     /// Gets the current physics position of the body.
     /// </summary>
+    public Vector2 LastPosition => _lastPosition;
 
     public bool IsStatic => _massKg == 0;
     /// <summary>
@@ -155,18 +156,18 @@ public class PhysicBody : MonoBehaviour
         _position = transform.position;
         _lastPosition = transform.position;
         _inverseFixedDeltaTime = 1.0f / Time.fixedDeltaTime;
-        if (_enableSolver && !_solver)
+        if(_enableSolver && !_solver)
         {
             _solver = gameObject.GetComponent<CollisionSolver>();
             if (!_solver)
-            {
+            { 
                 Debug.LogError("no solver found set it manualy");
                 _enableSolver = false;
             }
 
         }
-
-
+       
+       
     }
     /// <summary>
     /// Interpolates the rendered transform position between the previous
@@ -176,13 +177,13 @@ public class PhysicBody : MonoBehaviour
     {
         if (!_enableInterpolation)
         {
-            transform.position = _position;
+            transform.position = _position; 
         }
         else
         {
             float alpha = (Time.time - Time.fixedTime) * _inverseFixedDeltaTime;
             transform.position = (Vector3)Vector2.Lerp(_lastPosition, _position, alpha);
-
+          
         }
 
 
@@ -195,7 +196,6 @@ public class PhysicBody : MonoBehaviour
     private void FixedUpdate()
     {
         _lastPosition = _position;
-
         if (IsStatic)
             return;
 
@@ -207,10 +207,13 @@ public class PhysicBody : MonoBehaviour
         {
             this.AddForce(-_dragCoefficient * Velocity.magnitude * Velocity.normalized, ForceType.Acceleration);
         }
-        _velocity += (_allForces / _massKg) * Time.fixedDeltaTime;
+        FrameVelocity = (_allForces / _massKg) * Time.fixedDeltaTime;
+
+        _velocity += FrameVelocity;
+
         _allForces = Vector2.zero;
 
-        foreach (var action in Actions)
+        foreach(var action in Actions)
         {
             action?.Invoke();
         }
@@ -219,8 +222,8 @@ public class PhysicBody : MonoBehaviour
         if (_enableSolver && _solver)
             _solver.Dispatch();
 
-        _position += _velocity * Time.fixedDeltaTime;
 
+        _position += _velocity * Time.fixedDeltaTime;
     }
     /// <summary>
     /// Sets the mass of the body.
@@ -234,7 +237,7 @@ public class PhysicBody : MonoBehaviour
     /// Sets the current velocity of the body.
     /// </summary>
     /// <param name="velocity">New velocity vector.</param>
-    public void SetVelocity(Vector2 velocity)
+    public void SetVelocity( Vector2 velocity)
     {
         _velocity = velocity;
     }
@@ -245,6 +248,11 @@ public class PhysicBody : MonoBehaviour
     public void SetPosition(Vector2 position)
     {
         _position = position;
+    }
+    public void Tp (Vector2 position)
+    {
+        _position = position;
+        _lastPosition = position;
     }
     /// <summary>
     /// Enables or disables position interpolation.
@@ -259,7 +267,7 @@ public class PhysicBody : MonoBehaviour
     /// </summary>
     /// <param name="active">Whether collision solving should be enabled.</param>
     /// <param name="solver">Optional collision solver to assign.</param>
-    public void SetSolver(bool active, CollisionSolver solver = null)
+    public void SetSolver(bool active,CollisionSolver solver = null)
     {
         _enableSolver = active;
         if (solver)
@@ -319,7 +327,7 @@ public class PhysicBody : MonoBehaviour
     /// </summary>
     /// <param name="force">Force, acceleration, impulse, or velocity to apply.</param>
     /// <param name="type">Type of force application to perform.</param>
-    public void AddForce(Vector2 force, ForceType type)
+    public void AddForce(Vector2 force,ForceType type)
     {
         switch (type)
         {
@@ -327,7 +335,7 @@ public class PhysicBody : MonoBehaviour
                 _allForces += force * _massKg;
                 break;
             case ForceType.Force:
-                _allForces += force;
+                _allForces += force ;
                 break;
             case ForceType.Impulse:
                 _velocity += (force / _massKg);
