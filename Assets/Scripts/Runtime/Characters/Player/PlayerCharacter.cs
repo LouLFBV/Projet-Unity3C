@@ -35,11 +35,15 @@ public class PlayerCharacter : MonoBehaviour
     [Header("Movement")]
     [SerializeField] private float _walkSpeed = 10f;
     [SerializeField] private float _runSpeed = 20f;
+    [SerializeField] private float _groundDeceleration = 10f;
+    [SerializeField] private float _groundAcceleration = 20f;
+    [SerializeField] private float _airAcceleration = 10f;
+    [SerializeField] private float _airDeceleration = 20f;
 
-    public float GroundDeceleration { get; private set; } = 100f;
-    public float GroundAcceleration { get; private set; } = 10f;
-    public float AirAcceleration { get; private set; } = 100f;
-    public float AirDeceleration { get; private set; } = 100f;
+    public float GroundDeceleration => _groundDeceleration;
+    public float GroundAcceleration => _groundAcceleration;
+    public float AirAcceleration => _airAcceleration;
+    public float AirDeceleration => _airDeceleration;
     public float CurrentAcceleration { get; set; }
     public float CurrentDeceleration { get; set; }
     public float MaxMoveSpeed => _maxMoveSpeed;

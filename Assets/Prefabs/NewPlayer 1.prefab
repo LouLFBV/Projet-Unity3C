@@ -523,6 +523,10 @@ MonoBehaviour:
   _skinWidth: 0.01
   _walkSpeed: 2000
   _runSpeed: 6000
+  _groundDeceleration: 400
+  _groundAcceleration: 750
+  _airAcceleration: 10
+  _airDeceleration: 20
   _fallingGravity: 15
   _risingingGravity: 25
   _jumpForce: 3500

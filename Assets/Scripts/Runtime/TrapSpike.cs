@@ -45,7 +45,7 @@ public class TrapSpike : MonoBehaviour
             {
                 if (playerCharacter.PlayerStateMachine.CurrentState is not DeathState)
                 {
-                    playerCharacter.PlayerStateMachine.CurrentState.SetNextState<DeathState>();
+                    playerCharacter.PlayerStateMachine.CurrentState.SetNextState<DeathState>(true);
                     _isAttacking = false;
                 }
             }

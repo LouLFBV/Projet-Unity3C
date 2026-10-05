@@ -32,8 +32,12 @@ public abstract class State
                 break;
         }
     }
-    public void SetNextState<StateT>() where StateT : State
+    public void SetNextState<StateT>(bool force = false) where StateT : State
     {
+        if (!force && NextState != null)
+        {
+            return;
+        }
         NextState = typeof(StateT);
     }
     public void SetPushState<StateT>() where StateT : State

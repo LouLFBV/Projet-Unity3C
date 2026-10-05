@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Unity.VisualScripting;
+using UnityEngine;
 class AirboneState : PlayerState
 {
     protected int _wallJumpDirection = 0;
@@ -23,7 +24,6 @@ class AirboneState : PlayerState
 
     private void ProcessWallSlide()
     {
-
         RaycastHit2D hit = Physics2D.BoxCast(
             Character.transform.position,
             Character.Collider.size,
