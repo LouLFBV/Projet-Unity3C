@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: c8ba75101fc42194d9d61514a60cca58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8626729044849779244
+    second: jp_crow_swarm_0
+  - first:
+      213: -4442603229526709865
+    second: jp_crow_swarm_1
+  - first:
+      213: 4537909891660732045
+    second: jp_crow_swarm_2
+  - first:
+      213: 1278809904760173086
+    second: jp_crow_swarm_3
+  - first:
+      213: -4559930165481434718
+    second: jp_crow_swarm_4
+  - first:
+      213: -396193033321277868
+    second: jp_crow_swarm_5
+  - first:
+      213: 1985543592626931534
+    second: jp_crow_swarm_6
+  - first:
+      213: -6896193560323074018
+    second: jp_crow_swarm_7
+  - first:
+      213: -7572413916334213941
+    second: jp_crow_swarm_8
+  - first:
+      213: -8016854649407110478
+    second: jp_crow_swarm_9
+  - first:
+      213: -546182270625025707
+    second: jp_crow_swarm_10
+  - first:
+      213: 589674561397243851
+    second: jp_crow_swarm_11
+  - first:
+      213: -3676794106910856868
+    second: jp_crow_swarm_12
+  - first:
+      213: 6483391532651194538
+    second: jp_crow_swarm_13
+  - first:
+      213: 5145464385664851757
+    second: jp_crow_swarm_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_crow_swarm_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 254
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22e0d32c5c48b770800000000000000
+      internalID: 8626729044849779244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 10
+        width: 258
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ae0296e3b852c0800000000000000
+      internalID: -4442603229526709865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 10
+        width: 258
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d865b2be005e9fe30800000000000000
+      internalID: 4537909891660732045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 10
+        width: 256
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e123b7c35de3fb110800000000000000
+      internalID: 1278809904760173086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 10
+        width: 254
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a114ed8cafd7b0c0800000000000000
+      internalID: -4559930165481434718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_5
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 10
+        width: 256
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456966a0980708af0800000000000000
+      internalID: -396193033321277868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 10
+        width: 258
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47c49ca0611e8b10800000000000000
+      internalID: 1985543592626931534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 10
+        width: 258
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e185b969e7ccb40a0800000000000000
+      internalID: -6896193560323074018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_8
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 10
+        width: 256
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4bca8d9a169e690800000000000000
+      internalID: -7572413916334213941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_9
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 10
+        width: 254
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b28626eb296eb090800000000000000
+      internalID: -8016854649407110478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_10
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 9
+        width: 256
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55177c06e129b68f0800000000000000
+      internalID: -546182270625025707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_11
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 9
+        width: 258
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfba2da3e1fe2800800000000000000
+      internalID: 589674561397243851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 9
+        width: 258
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5924518d3769fcc0800000000000000
+      internalID: -3676794106910856868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_13
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 9
+        width: 256
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8237b9f32a9f950800000000000000
+      internalID: 6483391532651194538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_crow_swarm_14
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 9
+        width: 255
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f1affc89c586740800000000000000
+      internalID: 5145464385664851757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_crow_swarm_0: 8626729044849779244
+      jp_crow_swarm_1: -4442603229526709865
+      jp_crow_swarm_10: -546182270625025707
+      jp_crow_swarm_11: 589674561397243851
+      jp_crow_swarm_12: -3676794106910856868
+      jp_crow_swarm_13: 6483391532651194538
+      jp_crow_swarm_14: 5145464385664851757
+      jp_crow_swarm_2: 4537909891660732045
+      jp_crow_swarm_3: 1278809904760173086
+      jp_crow_swarm_4: -4559930165481434718
+      jp_crow_swarm_5: -396193033321277868
+      jp_crow_swarm_6: 1985543592626931534
+      jp_crow_swarm_7: -6896193560323074018
+      jp_crow_swarm_8: -7572413916334213941
+      jp_crow_swarm_9: -8016854649407110478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

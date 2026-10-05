@@ -1,9 +1,8 @@
-﻿using Unity.VisualScripting;
-using UnityEngine;
+﻿using UnityEngine;
 class AirboneState : PlayerState
 {
     protected int _wallJumpDirection = 0;
-    private bool _canWallSlide = false;
+    protected bool _canWallSlide = false;
     public AirboneState(PlayerCharacter character) : base(character) { }
     public override void Enter()
     {
@@ -21,28 +20,26 @@ class AirboneState : PlayerState
     }
     public override void FixedUpdate() { }
     public override void Exit() { }
-
-    private void ProcessWallSlide()
+    protected void ProcessWallSlide() 
     {
         RaycastHit2D hit = Physics2D.BoxCast(
             Character.transform.position,
             Character.Collider.size,
             0,
-            Vector2.right * Character.GetPlayerDirection(),
+            Vector2.right * Character.FacingDirection,
             Character.CastDistanceToWallJump + Character.SkinWidth,
             Character.GroundLayer
-            ); ;
+        );
 
-        if (hit)
+        if (hit && Mathf.Abs(hit.normal.y) < 0.1f)
         {
             _canWallSlide = true;
-            _wallJumpDirection = -Character.GetPlayerDirection();
+            _wallJumpDirection = (int)-Character.FacingDirection;
         }
         else
         {
             _canWallSlide = false;
             _wallJumpDirection = 0;
-
         }
     }
 }

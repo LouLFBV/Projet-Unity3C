@@ -527,12 +527,13 @@ MonoBehaviour:
   _groundAcceleration: 750
   _airAcceleration: 10
   _airDeceleration: 20
-  _fallingGravity: 15
-  _risingingGravity: 25
+  _fallingGravity: 50
+  _risingingGravity: 100
   _jumpForce: 3500
   _jumpInputBuffer: 0.1
   _coyoteTime: 0.065
   _castDistanceToWallJump: 0.3
+  _wallJumpGravity: 20
   _manaSystem: {fileID: 7927457315766396263}
   _animatorPlayer: {fileID: 1976976269921042749}
 --- !u!114 &4496750156385597960

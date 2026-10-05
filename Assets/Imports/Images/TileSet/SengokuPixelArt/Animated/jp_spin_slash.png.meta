@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: d2cac6b462947a74e8240dc36a39a3c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3353468843032686066
+    second: jp_spin_slash_0
+  - first:
+      213: 2447474880942405852
+    second: jp_spin_slash_1
+  - first:
+      213: 8396633310549566577
+    second: jp_spin_slash_2
+  - first:
+      213: 5875222004953525629
+    second: jp_spin_slash_3
+  - first:
+      213: 8819469481388235999
+    second: jp_spin_slash_4
+  - first:
+      213: 2332087838767712081
+    second: jp_spin_slash_5
+  - first:
+      213: 8950541525304133767
+    second: jp_spin_slash_6
+  - first:
+      213: -706815665134595531
+    second: jp_spin_slash_7
+  - first:
+      213: 3291880802910483214
+    second: jp_spin_slash_8
+  - first:
+      213: -5097350065275943531
+    second: jp_spin_slash_9
+  - first:
+      213: 6101470170131595820
+    second: jp_spin_slash_10
+  - first:
+      213: -490885408835090147
+    second: jp_spin_slash_11
+  - first:
+      213: 8598311047835504787
+    second: jp_spin_slash_12
+  - first:
+      213: 1563522561987529541
+    second: jp_spin_slash_13
+  - first:
+      213: -3506467632603817787
+    second: jp_spin_slash_14
+  - first:
+      213: -9054268852759172647
+    second: jp_spin_slash_15
+  - first:
+      213: 3475892310392913880
+    second: jp_spin_slash_16
+  - first:
+      213: 987886164656110879
+    second: jp_spin_slash_17
+  - first:
+      213: 1357606890689944636
+    second: jp_spin_slash_18
+  - first:
+      213: 25442189030769288
+    second: jp_spin_slash_19
+  - first:
+      213: 905348384614816363
+    second: jp_spin_slash_20
+  - first:
+      213: -6980238739831625783
+    second: jp_spin_slash_21
+  - first:
+      213: -2670095339896778131
+    second: jp_spin_slash_22
+  - first:
+      213: -6671629507419617483
+    second: jp_spin_slash_23
+  - first:
+      213: -3757129651188077161
+    second: jp_spin_slash_24
+  - first:
+      213: -3492526606274023076
+    second: jp_spin_slash_25
+  - first:
+      213: -2544190510098283199
+    second: jp_spin_slash_26
+  - first:
+      213: -4163758709555245541
+    second: jp_spin_slash_27
+  - first:
+      213: 385727321477996499
+    second: jp_spin_slash_28
+  - first:
+      213: -9200702699526333629
+    second: jp_spin_slash_29
+  - first:
+      213: 721359572559788255
+    second: jp_spin_slash_30
+  - first:
+      213: -1609662277360157726
+    second: jp_spin_slash_31
+  - first:
+      213: 7978439213667997986
+    second: jp_spin_slash_32
+  - first:
+      213: -2146601779219012633
+    second: jp_spin_slash_33
+  - first:
+      213: -4081283181703761251
+    second: jp_spin_slash_34
+  - first:
+      213: -7884699699907301112
+    second: jp_spin_slash_35
+  - first:
+      213: 3452037031506569243
+    second: jp_spin_slash_36
+  - first:
+      213: -1300795273853875571
+    second: jp_spin_slash_37
+  - first:
+      213: -4365860245581232034
+    second: jp_spin_slash_38
+  - first:
+      213: 6288303108667152728
+    second: jp_spin_slash_39
+  - first:
+      213: -8329023545929948257
+    second: jp_spin_slash_40
+  - first:
+      213: -2240733743369210817
+    second: jp_spin_slash_41
+  - first:
+      213: -6686978449988215646
+    second: jp_spin_slash_42
+  - first:
+      213: 4794426886924922839
+    second: jp_spin_slash_43
+  - first:
+      213: -2865177716436638862
+    second: jp_spin_slash_44
+  - first:
+      213: 6970088003315263023
+    second: jp_spin_slash_45
+  - first:
+      213: 9057737956664004779
+    second: jp_spin_slash_46
+  - first:
+      213: -1887606081018498572
+    second: jp_spin_slash_47
+  - first:
+      213: -4027758107585612937
+    second: jp_spin_slash_48
+  - first:
+      213: -7977553231437684083
+    second: jp_spin_slash_49
+  - first:
+      213: 3675171273554307289
+    second: jp_spin_slash_50
+  - first:
+      213: 1765298294907494824
+    second: jp_spin_slash_51
+  - first:
+      213: -9200618741256194986
+    second: jp_spin_slash_52
+  - first:
+      213: 7199572317232352731
+    second: jp_spin_slash_53
+  - first:
+      213: 3353913445526065356
+    second: jp_spin_slash_54
+  - first:
+      213: 2916161420635560638
+    second: jp_spin_slash_55
+  - first:
+      213: -6045724374980436181
+    second: jp_spin_slash_56
+  - first:
+      213: 3895682998945637932
+    second: jp_spin_slash_57
+  - first:
+      213: -5981739951928421245
+    second: jp_spin_slash_58
+  - first:
+      213: 1359752085604360711
+    second: jp_spin_slash_59
+  - first:
+      213: 3856234066199826483
+    second: jp_spin_slash_60
+  - first:
+      213: -2759801739490413680
+    second: jp_spin_slash_61
+  - first:
+      213: -9188026288995843810
+    second: jp_spin_slash_62
+  - first:
+      213: -3390928585385785050
+    second: jp_spin_slash_63
+  - first:
+      213: 4349443882725780253
+    second: jp_spin_slash_64
+  - first:
+      213: 2749258203477535170
+    second: jp_spin_slash_65
+  - first:
+      213: -9131833038877822186
+    second: jp_spin_slash_66
+  - first:
+      213: -6435559822095652
+    second: jp_spin_slash_67
+  - first:
+      213: -2741917696830636251
+    second: jp_spin_slash_68
+  - first:
+      213: 5981562695727203389
+    second: jp_spin_slash_69
+  - first:
+      213: -4588928397558721308
+    second: jp_spin_slash_70
+  - first:
+      213: 8534344544929781820
+    second: jp_spin_slash_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_spin_slash_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 11
+        width: 229
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdad42352ae98e20800000000000000
+      internalID: 3353468843032686066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_1
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 243
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8734bdf6d27f120800000000000000
+      internalID: 2447474880942405852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_2
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 232
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174e4883285d68470800000000000000
+      internalID: 8396633310549566577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 247
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d20d5094bf88150800000000000000
+      internalID: 5875222004953525629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_4
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 11
+        width: 229
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc5b8904cc056a70800000000000000
+      internalID: 8819469481388235999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 9
+        width: 228
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15702ce888d3d5020800000000000000
+      internalID: 2332087838767712081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_6
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 11
+        width: 228
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788c2236816b63c70800000000000000
+      internalID: 8950541525304133767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_7
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 19
+        width: 228
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53298fdb5e2e036f0800000000000000
+      internalID: -706815665134595531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_8
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 11
+        width: 230
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03386c262c1fad20800000000000000
+      internalID: 3291880802910483214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_9
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 195
+        width: 119
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c96f5f139249b0800000000000000
+      internalID: -5097350065275943531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_10
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 197
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c220652fac6cca450800000000000000
+      internalID: 6101470170131595820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_11
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 228
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1946fc42560039f0800000000000000
+      internalID: -490885408835090147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_12
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 226
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3905d8a9756535770800000000000000
+      internalID: 8598311047835504787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_13
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 221
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b43997c7fb2b510800000000000000
+      internalID: 1563522561987529541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_14
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 228
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c89e362446865fc0800000000000000
+      internalID: -3506467632603817787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_15
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 228
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9e7623376c85280800000000000000
+      internalID: -9054268852759172647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 197
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3b76e3a9dc3030800000000000000
+      internalID: 3475892310392913880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_17
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 88
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db9d29b3da5bd00800000000000000
+      internalID: 987886164656110879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_18
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 47
+        width: 110
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c5230364037d210800000000000000
+      internalID: 1357606890689944636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_19
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 132
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882cc7f39836a5000800000000000000
+      internalID: 25442189030769288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_20
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 200
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a90fe1f81709c00800000000000000
+      internalID: 905348384614816363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_21
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 206
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c76ae859d5312f90800000000000000
+      internalID: -6980238739831625783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_22
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 198
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d6056f6ae1fad0800000000000000
+      internalID: -2670095339896778131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_23
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 55
+        width: 155
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5374d319f4c9963a0800000000000000
+      internalID: -6671629507419617483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 187
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de8d50d7efbdbc0800000000000000
+      internalID: -3757129651188077161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_25
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 109
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51bf684e8d088fc0800000000000000
+      internalID: -3492526606274023076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_26
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 155
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1450ca4f53831bcd0800000000000000
+      internalID: -2544190510098283199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_27
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 158
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e4582a38b5736c0800000000000000
+      internalID: -4163758709555245541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_28
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 165
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfdbd884f06a5500800000000000000
+      internalID: 385727321477996499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_29
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 185
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b51c664a9805080800000000000000
+      internalID: -9200702699526333629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_30
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 158
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f0c595b8c20a00800000000000000
+      internalID: 721359572559788255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_31
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 177
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebf995efa459a9e0800000000000000
+      internalID: -1609662277360157726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_32
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 170
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2295ab8713c19be60800000000000000
+      internalID: 7978439213667997986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_33
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 151
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3ed631e0db532e0800000000000000
+      internalID: -2146601779219012633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_34
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 173
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9275ced19e5c57c0800000000000000
+      internalID: -4081283181703761251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_35
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 57
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801756ad56be39290800000000000000
+      internalID: -7884699699907301112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_36
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 153
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b186176f36918ef20800000000000000
+      internalID: 3452037031506569243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_37
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 151
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ace602795a2fde0800000000000000
+      internalID: -1300795273853875571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_38
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 118
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58812bec395963c0800000000000000
+      internalID: -4365860245581232034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_39
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 108
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85917184c5a844750800000000000000
+      internalID: 6288303108667152728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_40
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 137
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932bfac63d596c80800000000000000
+      internalID: -8329023545929948257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_41
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f343f36488057e0e0800000000000000
+      internalID: -2240733743369210817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_42
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 11
+        width: 115
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac92c367841333a0800000000000000
+      internalID: -6686978449988215646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_43
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 118
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfedb80ad9398240800000000000000
+      internalID: 4794426886924922839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_44
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 122
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273ed691c08dc38d0800000000000000
+      internalID: -2865177716436638862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_45
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 118
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2661d22c1abab060800000000000000
+      internalID: 6970088003315263023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_46
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 88
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0d78f7eac83bd70800000000000000
+      internalID: 9057737956664004779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_47
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 49
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f176013540edc5e0800000000000000
+      internalID: -1887606081018498572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_48
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773f82457578a18c0800000000000000
+      internalID: -4027758107585612937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_49
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 90
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8223675a990a4190800000000000000
+      internalID: -7977553231437684083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_50
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 57
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8ace82dc4d00330800000000000000
+      internalID: 3675171273554307289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_51
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 62
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1609e32799f7810800000000000000
+      internalID: 1765298294907494824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_52
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 62
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6547f957006d05080800000000000000
+      internalID: -9200618741256194986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_53
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 88
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddce57a0e40ae360800000000000000
+      internalID: 7199572317232352731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_54
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 63
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0dcf7428e7b8e20800000000000000
+      internalID: 3353913445526065356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_55
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 51
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5ea09c59487820800000000000000
+      internalID: 2916161420635560638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_56
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 57
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fde5b66b5491ca0800000000000000
+      internalID: -6045724374980436181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_57
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 59
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26eead1c0f301630800000000000000
+      internalID: 3895682998945637932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_58
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 61
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3845b82d4379cfca0800000000000000
+      internalID: -5981739951928421245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_59
+      rect:
+        serializedVersion: 2
+        x: 2766
+        y: 64
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7026b0d415fced210800000000000000
+      internalID: 1359752085604360711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_60
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 11
+        width: 86
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d996b378148530800000000000000
+      internalID: 3856234066199826483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_61
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 29
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0933b23a0f633b9d0800000000000000
+      internalID: -2759801739490413680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_62
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 39
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11c37935c29d7080800000000000000
+      internalID: -9188026288995843810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_63
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 43
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629cc51ea6001f0d0800000000000000
+      internalID: -3390928585385785050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_64
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bad50ca245c5c30800000000000000
+      internalID: 4349443882725780253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_65
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 13
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c96b1615c3572620800000000000000
+      internalID: 2749258203477535170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_66
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 20
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613f281db36354180800000000000000
+      internalID: -9131833038877822186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_67
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 11
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda8fd674e229eff0800000000000000
+      internalID: -6435559822095652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_68
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 10
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f7d0dc160c2f9d0800000000000000
+      internalID: -2741917696830636251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_69
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 11
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d344c808497c20350800000000000000
+      internalID: 5981562695727203389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_70
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e45fc38fe9d050c0800000000000000
+      internalID: -4588928397558721308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_spin_slash_71
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 4
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38155f8525107670800000000000000
+      internalID: 8534344544929781820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_spin_slash_0: 3353468843032686066
+      jp_spin_slash_1: 2447474880942405852
+      jp_spin_slash_10: 6101470170131595820
+      jp_spin_slash_11: -490885408835090147
+      jp_spin_slash_12: 8598311047835504787
+      jp_spin_slash_13: 1563522561987529541
+      jp_spin_slash_14: -3506467632603817787
+      jp_spin_slash_15: -9054268852759172647
+      jp_spin_slash_16: 3475892310392913880
+      jp_spin_slash_17: 987886164656110879
+      jp_spin_slash_18: 1357606890689944636
+      jp_spin_slash_19: 25442189030769288
+      jp_spin_slash_2: 8396633310549566577
+      jp_spin_slash_20: 905348384614816363
+      jp_spin_slash_21: -6980238739831625783
+      jp_spin_slash_22: -2670095339896778131
+      jp_spin_slash_23: -6671629507419617483
+      jp_spin_slash_24: -3757129651188077161
+      jp_spin_slash_25: -3492526606274023076
+      jp_spin_slash_26: -2544190510098283199
+      jp_spin_slash_27: -4163758709555245541
+      jp_spin_slash_28: 385727321477996499
+      jp_spin_slash_29: -9200702699526333629
+      jp_spin_slash_3: 5875222004953525629
+      jp_spin_slash_30: 721359572559788255
+      jp_spin_slash_31: -1609662277360157726
+      jp_spin_slash_32: 7978439213667997986
+      jp_spin_slash_33: -2146601779219012633
+      jp_spin_slash_34: -4081283181703761251
+      jp_spin_slash_35: -7884699699907301112
+      jp_spin_slash_36: 3452037031506569243
+      jp_spin_slash_37: -1300795273853875571
+      jp_spin_slash_38: -4365860245581232034
+      jp_spin_slash_39: 6288303108667152728
+      jp_spin_slash_4: 8819469481388235999
+      jp_spin_slash_40: -8329023545929948257
+      jp_spin_slash_41: -2240733743369210817
+      jp_spin_slash_42: -6686978449988215646
+      jp_spin_slash_43: 4794426886924922839
+      jp_spin_slash_44: -2865177716436638862
+      jp_spin_slash_45: 6970088003315263023
+      jp_spin_slash_46: 9057737956664004779
+      jp_spin_slash_47: -1887606081018498572
+      jp_spin_slash_48: -4027758107585612937
+      jp_spin_slash_49: -7977553231437684083
+      jp_spin_slash_5: 2332087838767712081
+      jp_spin_slash_50: 3675171273554307289
+      jp_spin_slash_51: 1765298294907494824
+      jp_spin_slash_52: -9200618741256194986
+      jp_spin_slash_53: 7199572317232352731
+      jp_spin_slash_54: 3353913445526065356
+      jp_spin_slash_55: 2916161420635560638
+      jp_spin_slash_56: -6045724374980436181
+      jp_spin_slash_57: 3895682998945637932
+      jp_spin_slash_58: -5981739951928421245
+      jp_spin_slash_59: 1359752085604360711
+      jp_spin_slash_6: 8950541525304133767
+      jp_spin_slash_60: 3856234066199826483
+      jp_spin_slash_61: -2759801739490413680
+      jp_spin_slash_62: -9188026288995843810
+      jp_spin_slash_63: -3390928585385785050
+      jp_spin_slash_64: 4349443882725780253
+      jp_spin_slash_65: 2749258203477535170
+      jp_spin_slash_66: -9131833038877822186
+      jp_spin_slash_67: -6435559822095652
+      jp_spin_slash_68: -2741917696830636251
+      jp_spin_slash_69: 5981562695727203389
+      jp_spin_slash_7: -706815665134595531
+      jp_spin_slash_70: -4588928397558721308
+      jp_spin_slash_71: 8534344544929781820
+      jp_spin_slash_8: 3291880802910483214
+      jp_spin_slash_9: -5097350065275943531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

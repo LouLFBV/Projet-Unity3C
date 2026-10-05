@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 0e1e58d7eec36d64f95f7dd06c417cc0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1588487051817001940
+    second: prop_sengoku_jar_0
+  - first:
+      213: 7460981468824976338
+    second: prop_sengoku_jar_1
+  - first:
+      213: -3924791003230116488
+    second: prop_sengoku_jar_2
+  - first:
+      213: -3968114758555744983
+    second: prop_sengoku_jar_3
+  - first:
+      213: -2760230252977185358
+    second: prop_sengoku_jar_4
+  - first:
+      213: -4772055069241349975
+    second: prop_sengoku_jar_5
+  - first:
+      213: -2467923099853071272
+    second: prop_sengoku_jar_6
+  - first:
+      213: 30474338358918287
+    second: prop_sengoku_jar_7
+  - first:
+      213: -1315193150229954614
+    second: prop_sengoku_jar_8
+  - first:
+      213: -6735802171012219744
+    second: prop_sengoku_jar_9
+  - first:
+      213: -3263784872063833477
+    second: prop_sengoku_jar_10
+  - first:
+      213: -7751033074763340897
+    second: prop_sengoku_jar_11
+  - first:
+      213: -1165194541667713430
+    second: prop_sengoku_jar_12
+  - first:
+      213: 6113522929033295606
+    second: prop_sengoku_jar_13
+  - first:
+      213: -5231579056932934663
+    second: prop_sengoku_jar_14
+  - first:
+      213: -5047296010532984444
+    second: prop_sengoku_jar_15
+  - first:
+      213: -2689345557466646267
+    second: prop_sengoku_jar_16
+  - first:
+      213: -3288624569090269844
+    second: prop_sengoku_jar_17
+  - first:
+      213: -8512918822499351390
+    second: prop_sengoku_jar_18
+  - first:
+      213: -6106739001086606938
+    second: prop_sengoku_jar_19
+  - first:
+      213: -6305884645040453493
+    second: prop_sengoku_jar_20
+  - first:
+      213: 6198756268935888870
+    second: prop_sengoku_jar_21
+  - first:
+      213: 8635261032573541996
+    second: prop_sengoku_jar_22
+  - first:
+      213: -6482699473434986732
+    second: prop_sengoku_jar_23
+  - first:
+      213: 7870918843216231734
+    second: prop_sengoku_jar_24
+  - first:
+      213: -5662410151464920729
+    second: prop_sengoku_jar_25
+  - first:
+      213: -8410746229919287143
+    second: prop_sengoku_jar_26
+  - first:
+      213: -4411699665666577930
+    second: prop_sengoku_jar_27
+  - first:
+      213: 6235309408910453889
+    second: prop_sengoku_jar_28
+  - first:
+      213: 7906658242074106104
+    second: prop_sengoku_jar_29
+  - first:
+      213: -5007755068452166072
+    second: prop_sengoku_jar_30
+  - first:
+      213: 2827932316834725120
+    second: prop_sengoku_jar_31
+  - first:
+      213: 767530430481861372
+    second: prop_sengoku_jar_32
+  - first:
+      213: 8582425021495637416
+    second: prop_sengoku_jar_33
+  - first:
+      213: -4503687358845224503
+    second: prop_sengoku_jar_34
+  - first:
+      213: -5316502156082030540
+    second: prop_sengoku_jar_35
+  - first:
+      213: -1623094516935438605
+    second: prop_sengoku_jar_36
+  - first:
+      213: 6173522956942909601
+    second: prop_sengoku_jar_37
+  - first:
+      213: 5459553937371555360
+    second: prop_sengoku_jar_38
+  - first:
+      213: -3760302722170214990
+    second: prop_sengoku_jar_39
+  - first:
+      213: 6646530872479892507
+    second: prop_sengoku_jar_40
+  - first:
+      213: -2035057428282696206
+    second: prop_sengoku_jar_41
+  - first:
+      213: -5596785597926385186
+    second: prop_sengoku_jar_42
+  - first:
+      213: -1911486346398676808
+    second: prop_sengoku_jar_43
+  - first:
+      213: 4830783640640689092
+    second: prop_sengoku_jar_44
+  - first:
+      213: -878363342881479083
+    second: prop_sengoku_jar_45
+  - first:
+      213: -8394564853913102541
+    second: prop_sengoku_jar_46
+  - first:
+      213: -2722775218444814781
+    second: prop_sengoku_jar_47
+  - first:
+      213: 515073511649794022
+    second: prop_sengoku_jar_48
+  - first:
+      213: 6657499052799038967
+    second: prop_sengoku_jar_49
+  - first:
+      213: -6940598483315304781
+    second: prop_sengoku_jar_50
+  - first:
+      213: -2910846535368739641
+    second: prop_sengoku_jar_51
+  - first:
+      213: 5560527664364483215
+    second: prop_sengoku_jar_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prop_sengoku_jar_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 38
+        width: 152
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd32a417f84f9e0800000000000000
+      internalID: -1588487051817001940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 38
+        width: 150
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbb51dad1bba8760800000000000000
+      internalID: 7460981468824976338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 38
+        width: 150
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875e1d280675889c0800000000000000
+      internalID: -3924791003230116488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_3
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 38
+        width: 150
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925cc4ca6ac6ee8c0800000000000000
+      internalID: -3968114758555744983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_4
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 38
+        width: 151
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd12019531b1b9d0800000000000000
+      internalID: -2760230252977185358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_5
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 36
+        width: 204
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8644da23146cdb0800000000000000
+      internalID: -4772055069241349975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_6
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 36
+        width: 207
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cd64c240d20cdd0800000000000000
+      internalID: -2467923099853071272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_7
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 36
+        width: 139
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cf5a0df344c6000800000000000000
+      internalID: 30474338358918287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_8
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 198
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf348d4cce7fbde0800000000000000
+      internalID: -1315193150229954614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_9
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 185
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acf28ffc9f9582a0800000000000000
+      internalID: -6735802171012219744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_10
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 194
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a675d73f4b4b2d0800000000000000
+      internalID: -3263784872063833477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_11
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 31
+        width: 210
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f936d683c7cce6490800000000000000
+      internalID: -7751033074763340897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_12
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 181
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6efba1ecb564dfe0800000000000000
+      internalID: -1165194541667713430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_13
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 91
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f63c3f86b897d450800000000000000
+      internalID: 6113522929033295606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_14
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 103
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fba329d092b567b0800000000000000
+      internalID: -5231579056932934663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_15
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 84
+        width: 76
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4896fe7250764f9b0800000000000000
+      internalID: -5047296010532984444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 101
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509fce8d6768daad0800000000000000
+      internalID: -2689345557466646267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_17
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 94
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d90c7d0657c52d0800000000000000
+      internalID: -3288624569090269844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_18
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 101
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4803f2f690cd980800000000000000
+      internalID: -8512918822499351390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_19
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 65
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a18530cb31804ba0800000000000000
+      internalID: -6106739001086606938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_20
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 94
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8806c9435ffc78a0800000000000000
+      internalID: -6305884645040453493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_21
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 101
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3623fbf7660650800000000000000
+      internalID: 6198756268935888870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_22
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 65
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e9155582c96d770800000000000000
+      internalID: 8635261032573541996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_23
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 85
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417bb4cfc23d806a0800000000000000
+      internalID: -6482699473434986732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_24
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 103
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63df4d96cfe1b3d60800000000000000
+      internalID: 7870918843216231734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_25
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 67
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7691e5dc7f31b61b0800000000000000
+      internalID: -5662410151464920729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_26
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 113
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99874bdadd6074b80800000000000000
+      internalID: -8410746229919287143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_27
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 97
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9eb3c378e76c2c0800000000000000
+      internalID: -4411699665666577930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_28
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 96
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c22ce0fd4488650800000000000000
+      internalID: 6235309408910453889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_29
+      rect:
+        serializedVersion: 2
+        x: 3474
+        y: 100
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8dd37a7c71abd60800000000000000
+      internalID: 7906658242074106104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_30
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 59
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8462fb62c41e08ab0800000000000000
+      internalID: -5007755068452166072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_31
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 44
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00df7c98575de3720800000000000000
+      internalID: 2827932316834725120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_32
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 56
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa8c272cd0d6aa00800000000000000
+      internalID: 767530430481861372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_33
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5fbadd516ea1770800000000000000
+      internalID: 8582425021495637416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_34
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 76
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9fc9c6530bf71c0800000000000000
+      internalID: -4503687358845224503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_35
+      rect:
+        serializedVersion: 2
+        x: 2926
+        y: 69
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438d123057df736b0800000000000000
+      internalID: -5316502156082030540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_36
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 64
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fecd29e22c9979e0800000000000000
+      internalID: -1623094516935438605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_37
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 31
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a02d4dab62cca550800000000000000
+      internalID: 6173522956942909601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_38
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 69
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ed1d416b34cb40800000000000000
+      internalID: 5459553937371555360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_39
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 31
+        width: 110
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52c1dd898b0dbc0800000000000000
+      internalID: -3760302722170214990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_40
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 34
+        width: 196
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14c4da1d983d3c50800000000000000
+      internalID: 6646530872479892507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_41
+      rect:
+        serializedVersion: 2
+        x: 3860
+        y: 31
+        width: 197
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd90b91d0602c3e0800000000000000
+      internalID: -2035057428282696206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_42
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 31
+        width: 197
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95397d6293452b0800000000000000
+      internalID: -5596785597926385186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_43
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 31
+        width: 198
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8c5e1ab490975e0800000000000000
+      internalID: -1911486346398676808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_44
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 31
+        width: 197
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3182760246a0340800000000000000
+      internalID: 4830783640640689092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_45
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 32
+        width: 79
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55623d3813d6fc3f0800000000000000
+      internalID: -878363342881479083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_46
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 32
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337d78eddb3808b80800000000000000
+      internalID: -8394564853913102541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_47
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 31
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3463c5d5d52c63ad0800000000000000
+      internalID: -2722775218444814781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_48
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 38
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7591f31a8e52700800000000000000
+      internalID: 515073511649794022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_49
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 38
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f516969d10346c50800000000000000
+      internalID: 6657499052799038967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_50
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 38
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b65069c37a0eaf90800000000000000
+      internalID: -6940598483315304781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_51
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 38
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c47ba79f789a97d0800000000000000
+      internalID: -2910846535368739641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_jar_52
+      rect:
+        serializedVersion: 2
+        x: 4887
+        y: 31
+        width: 196
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f827d262376fa2d40800000000000000
+      internalID: 5560527664364483215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      prop_sengoku_jar_0: -1588487051817001940
+      prop_sengoku_jar_1: 7460981468824976338
+      prop_sengoku_jar_10: -3263784872063833477
+      prop_sengoku_jar_11: -7751033074763340897
+      prop_sengoku_jar_12: -1165194541667713430
+      prop_sengoku_jar_13: 6113522929033295606
+      prop_sengoku_jar_14: -5231579056932934663
+      prop_sengoku_jar_15: -5047296010532984444
+      prop_sengoku_jar_16: -2689345557466646267
+      prop_sengoku_jar_17: -3288624569090269844
+      prop_sengoku_jar_18: -8512918822499351390
+      prop_sengoku_jar_19: -6106739001086606938
+      prop_sengoku_jar_2: -3924791003230116488
+      prop_sengoku_jar_20: -6305884645040453493
+      prop_sengoku_jar_21: 6198756268935888870
+      prop_sengoku_jar_22: 8635261032573541996
+      prop_sengoku_jar_23: -6482699473434986732
+      prop_sengoku_jar_24: 7870918843216231734
+      prop_sengoku_jar_25: -5662410151464920729
+      prop_sengoku_jar_26: -8410746229919287143
+      prop_sengoku_jar_27: -4411699665666577930
+      prop_sengoku_jar_28: 6235309408910453889
+      prop_sengoku_jar_29: 7906658242074106104
+      prop_sengoku_jar_3: -3968114758555744983
+      prop_sengoku_jar_30: -5007755068452166072
+      prop_sengoku_jar_31: 2827932316834725120
+      prop_sengoku_jar_32: 767530430481861372
+      prop_sengoku_jar_33: 8582425021495637416
+      prop_sengoku_jar_34: -4503687358845224503
+      prop_sengoku_jar_35: -5316502156082030540
+      prop_sengoku_jar_36: -1623094516935438605
+      prop_sengoku_jar_37: 6173522956942909601
+      prop_sengoku_jar_38: 5459553937371555360
+      prop_sengoku_jar_39: -3760302722170214990
+      prop_sengoku_jar_4: -2760230252977185358
+      prop_sengoku_jar_40: 6646530872479892507
+      prop_sengoku_jar_41: -2035057428282696206
+      prop_sengoku_jar_42: -5596785597926385186
+      prop_sengoku_jar_43: -1911486346398676808
+      prop_sengoku_jar_44: 4830783640640689092
+      prop_sengoku_jar_45: -878363342881479083
+      prop_sengoku_jar_46: -8394564853913102541
+      prop_sengoku_jar_47: -2722775218444814781
+      prop_sengoku_jar_48: 515073511649794022
+      prop_sengoku_jar_49: 6657499052799038967
+      prop_sengoku_jar_5: -4772055069241349975
+      prop_sengoku_jar_50: -6940598483315304781
+      prop_sengoku_jar_51: -2910846535368739641
+      prop_sengoku_jar_52: 5560527664364483215
+      prop_sengoku_jar_6: -2467923099853071272
+      prop_sengoku_jar_7: 30474338358918287
+      prop_sengoku_jar_8: -1315193150229954614
+      prop_sengoku_jar_9: -6735802171012219744
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

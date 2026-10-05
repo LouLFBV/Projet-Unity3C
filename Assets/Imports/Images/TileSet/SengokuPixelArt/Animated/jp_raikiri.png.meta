@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: ea143002e78221242a0516af2cbe751b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3858042672071679037
+    second: jp_raikiri_0
+  - first:
+      213: 7629962586682461555
+    second: jp_raikiri_1
+  - first:
+      213: -1165762217454725220
+    second: jp_raikiri_2
+  - first:
+      213: -6810667239027938863
+    second: jp_raikiri_3
+  - first:
+      213: -6691352793002665810
+    second: jp_raikiri_4
+  - first:
+      213: 1790418719306692116
+    second: jp_raikiri_5
+  - first:
+      213: 7223291685182310846
+    second: jp_raikiri_6
+  - first:
+      213: -1789208783817472612
+    second: jp_raikiri_7
+  - first:
+      213: -1684124620606212852
+    second: jp_raikiri_8
+  - first:
+      213: 4618294393537272657
+    second: jp_raikiri_9
+  - first:
+      213: 1159273274046271006
+    second: jp_raikiri_10
+  - first:
+      213: 1963541807001396800
+    second: jp_raikiri_11
+  - first:
+      213: 4973896275050021817
+    second: jp_raikiri_12
+  - first:
+      213: -1233430645354490284
+    second: jp_raikiri_13
+  - first:
+      213: -2380615463661574911
+    second: jp_raikiri_14
+  - first:
+      213: -646828105607605498
+    second: jp_raikiri_15
+  - first:
+      213: 2941227684621101115
+    second: jp_raikiri_16
+  - first:
+      213: -6335905082586017523
+    second: jp_raikiri_17
+  - first:
+      213: 6447723462819117637
+    second: jp_raikiri_18
+  - first:
+      213: -1563777907543521064
+    second: jp_raikiri_19
+  - first:
+      213: -1387292654706126978
+    second: jp_raikiri_20
+  - first:
+      213: 5485804431140130077
+    second: jp_raikiri_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_raikiri_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c91259e558a8530800000000000000
+      internalID: 3858042672071679037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d8abc1c8213e960800000000000000
+      internalID: 7629962586682461555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 152
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c971a00907162dfe0800000000000000
+      internalID: -1165762217454725220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 152
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d969560b36ab71a0800000000000000
+      internalID: -6810667239027938863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_4
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 0
+        width: 152
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8124a461a8323a0800000000000000
+      internalID: -6691352793002665810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_5
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4163c73d658d8d810800000000000000
+      internalID: 1790418719306692116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_6
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9035c54894e3460800000000000000
+      internalID: 7223291685182310846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_7
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c950d8b37147b27e0800000000000000
+      internalID: -1789208783817472612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_8
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 0
+        width: 152
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f6479499c0a8e0800000000000000
+      internalID: -1684124620606212852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_9
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 108
+        width: 152
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b97fa384a771040800000000000000
+      internalID: 4618294393537272657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_10
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 0
+        width: 153
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ec12196e0961010800000000000000
+      internalID: 1159273274046271006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_11
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 29
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04662f3ced6ef3b10800000000000000
+      internalID: 1963541807001396800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_12
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 37
+        width: 36
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3ceff2f44d60540800000000000000
+      internalID: 4973896275050021817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_13
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 90
+        width: 105
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569090fc59f1eee0800000000000000
+      internalID: -1233430645354490284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_14
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 0
+        width: 152
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10566ad49da56fed0800000000000000
+      internalID: -2380615463661574911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_15
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 29
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6031586d3410607f0800000000000000
+      internalID: -646828105607605498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_16
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 54
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38a261fef651d820800000000000000
+      internalID: 2941227684621101115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_17
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 37
+        width: 7
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015edd75e75218a0800000000000000
+      internalID: -6335905082586017523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_18
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 131
+        width: 153
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54af843f35aea7950800000000000000
+      internalID: 6447723462819117637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_19
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 70
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8c34147485c4ae0800000000000000
+      internalID: -1563777907543521064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_20
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 0
+        width: 153
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f8bb44ea85fbce0800000000000000
+      internalID: -1387292654706126978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_raikiri_21
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 8
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d0f59a01e712c40800000000000000
+      internalID: 5485804431140130077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_raikiri_0: 3858042672071679037
+      jp_raikiri_1: 7629962586682461555
+      jp_raikiri_10: 1159273274046271006
+      jp_raikiri_11: 1963541807001396800
+      jp_raikiri_12: 4973896275050021817
+      jp_raikiri_13: -1233430645354490284
+      jp_raikiri_14: -2380615463661574911
+      jp_raikiri_15: -646828105607605498
+      jp_raikiri_16: 2941227684621101115
+      jp_raikiri_17: -6335905082586017523
+      jp_raikiri_18: 6447723462819117637
+      jp_raikiri_19: -1563777907543521064
+      jp_raikiri_2: -1165762217454725220
+      jp_raikiri_20: -1387292654706126978
+      jp_raikiri_21: 5485804431140130077
+      jp_raikiri_3: -6810667239027938863
+      jp_raikiri_4: -6691352793002665810
+      jp_raikiri_5: 1790418719306692116
+      jp_raikiri_6: 7223291685182310846
+      jp_raikiri_7: -1789208783817472612
+      jp_raikiri_8: -1684124620606212852
+      jp_raikiri_9: 4618294393537272657
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

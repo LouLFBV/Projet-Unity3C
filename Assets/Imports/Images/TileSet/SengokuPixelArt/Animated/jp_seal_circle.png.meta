@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: a1d51739c351a9742a36e794f9b765f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1193385581439947780
+    second: jp_seal_circle_0
+  - first:
+      213: -8949773445342936479
+    second: jp_seal_circle_1
+  - first:
+      213: 3531852982658965211
+    second: jp_seal_circle_2
+  - first:
+      213: 3241790547251267223
+    second: jp_seal_circle_3
+  - first:
+      213: -565071879665383496
+    second: jp_seal_circle_4
+  - first:
+      213: 5321605703712328330
+    second: jp_seal_circle_5
+  - first:
+      213: -3130710818052278244
+    second: jp_seal_circle_6
+  - first:
+      213: -6016174577411933387
+    second: jp_seal_circle_7
+  - first:
+      213: 696855442093758192
+    second: jp_seal_circle_8
+  - first:
+      213: -5608066207626312864
+    second: jp_seal_circle_9
+  - first:
+      213: 2590649551378107061
+    second: jp_seal_circle_10
+  - first:
+      213: -7171851586636600328
+    second: jp_seal_circle_11
+  - first:
+      213: -6777200928073862666
+    second: jp_seal_circle_12
+  - first:
+      213: 8850084730741531957
+    second: jp_seal_circle_13
+  - first:
+      213: -7170393585918319888
+    second: jp_seal_circle_14
+  - first:
+      213: 5625357908737843905
+    second: jp_seal_circle_15
+  - first:
+      213: -3211599492515366650
+    second: jp_seal_circle_16
+  - first:
+      213: -6755080456412677866
+    second: jp_seal_circle_17
+  - first:
+      213: -3004500479858026887
+    second: jp_seal_circle_18
+  - first:
+      213: -2391404774608214311
+    second: jp_seal_circle_19
+  - first:
+      213: -7765444264477958164
+    second: jp_seal_circle_20
+  - first:
+      213: 4458748551697038062
+    second: jp_seal_circle_21
+  - first:
+      213: 515521168671709583
+    second: jp_seal_circle_22
+  - first:
+      213: 4205918792227264442
+    second: jp_seal_circle_23
+  - first:
+      213: 5780094988114375009
+    second: jp_seal_circle_24
+  - first:
+      213: -7514153233520493800
+    second: jp_seal_circle_25
+  - first:
+      213: -2465989018132552859
+    second: jp_seal_circle_26
+  - first:
+      213: -9044729118030806431
+    second: jp_seal_circle_27
+  - first:
+      213: 2238025474937040046
+    second: jp_seal_circle_28
+  - first:
+      213: 581616668323309639
+    second: jp_seal_circle_29
+  - first:
+      213: -7477014891858446034
+    second: jp_seal_circle_30
+  - first:
+      213: 8760170279402342914
+    second: jp_seal_circle_31
+  - first:
+      213: -7607686671497857010
+    second: jp_seal_circle_32
+  - first:
+      213: 1458766648053700156
+    second: jp_seal_circle_33
+  - first:
+      213: -3528116523553973472
+    second: jp_seal_circle_34
+  - first:
+      213: -4793034340360286913
+    second: jp_seal_circle_35
+  - first:
+      213: -1614727872618777442
+    second: jp_seal_circle_36
+  - first:
+      213: -4872196139747659881
+    second: jp_seal_circle_37
+  - first:
+      213: 8754673248827247116
+    second: jp_seal_circle_38
+  - first:
+      213: 6088286209753046495
+    second: jp_seal_circle_39
+  - first:
+      213: -7545164987092932081
+    second: jp_seal_circle_40
+  - first:
+      213: 7916344600267740624
+    second: jp_seal_circle_41
+  - first:
+      213: -3532522843672307727
+    second: jp_seal_circle_42
+  - first:
+      213: 7930841800303547689
+    second: jp_seal_circle_43
+  - first:
+      213: -4736389867695846480
+    second: jp_seal_circle_44
+  - first:
+      213: -9053630162704096781
+    second: jp_seal_circle_45
+  - first:
+      213: -272391896801544894
+    second: jp_seal_circle_46
+  - first:
+      213: -3877446929142571145
+    second: jp_seal_circle_47
+  - first:
+      213: 8078775846279292579
+    second: jp_seal_circle_48
+  - first:
+      213: 788222534183885567
+    second: jp_seal_circle_49
+  - first:
+      213: 3675568559009337482
+    second: jp_seal_circle_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_seal_circle_0
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 497
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4041dcd0dd1cf8010800000000000000
+      internalID: 1193385581439947780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_1
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 252
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624c1a28740cc380800000000000000
+      internalID: -8949773445342936479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_2
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 17
+        width: 514
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde9a4e3399a30130800000000000000
+      internalID: 3531852982658965211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_3
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 158
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7968125b3572dfc20800000000000000
+      internalID: 3241790547251267223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_4
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 163
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b78bfb8e167828f0800000000000000
+      internalID: -565071879665383496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_5
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 158
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a477441342ad940800000000000000
+      internalID: 5321605703712328330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_6
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 158
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c187583291b7d84d0800000000000000
+      internalID: -3130710818052278244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_7
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 157
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b30aec811428ca0800000000000000
+      internalID: -6016174577411933387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_8
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 251
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6dbcd155abba900800000000000000
+      internalID: 696855442093758192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_9
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 0
+        width: 250
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063cf893f752c22b0800000000000000
+      internalID: -5608066207626312864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_10
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 48
+        width: 188
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baca678a06d3f320800000000000000
+      internalID: 2590649551378107061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_11
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 52
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb24b4eaf6787c90800000000000000
+      internalID: -7171851586636600328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_12
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 52
+        width: 144
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1b5beb9ab82f1a0800000000000000
+      internalID: -6777200928073862666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_13
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 132
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53525ff3c21d1da70800000000000000
+      internalID: 8850084730741531957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_14
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 117
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f269932605ad7c90800000000000000
+      internalID: -7170393585918319888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_15
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 117
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2e0cca639411e40800000000000000
+      internalID: 5625357908737843905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_16
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 133
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609fbcff64b1e63d0800000000000000
+      internalID: -3211599492515366650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_17
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 133
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619b6566d122142a0800000000000000
+      internalID: -6755080456412677866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_18
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 112
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976529a6bbedd46d0800000000000000
+      internalID: -3004500479858026887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_19
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 134
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6ed47170600ded0800000000000000
+      internalID: -2391404774608214311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_20
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 122
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef52b4a5999b3490800000000000000
+      internalID: -7765444264477958164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_21
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 134
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea70be2f28a0ed30800000000000000
+      internalID: 4458748551697038062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_22
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 81
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f891fd485cf772700800000000000000
+      internalID: 515521168671709583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_23
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 108
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab798dc8bdc6e5a30800000000000000
+      internalID: 4205918792227264442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 40
+        width: 148
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161b29674c5073050800000000000000
+      internalID: 5780094988114375009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_25
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 81
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7820227d58b790800000000000000
+      internalID: -7514153233520493800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_26
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 86
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563e13aad0c07cdd0800000000000000
+      internalID: -2465989018132552859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_27
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 86
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624426c9caaa7280800000000000000
+      internalID: -9044729118030806431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_28
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 81
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaca5e7df401f0f10800000000000000
+      internalID: 2238025474937040046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_29
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 84
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7486bde3741521800800000000000000
+      internalID: 581616668323309639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_30
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29b87e129e4c3890800000000000000
+      internalID: -7477014891858446034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_31
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 91
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a06bba470629970800000000000000
+      internalID: 8760170279402342914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_32
+      rect:
+        serializedVersion: 2
+        x: 3235
+        y: 99
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0875ee87411c6690800000000000000
+      internalID: -7607686671497857010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_33
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 81
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c369d6b99849e3410800000000000000
+      internalID: 1458766648053700156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_34
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 91
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b116fe6bc990fc0800000000000000
+      internalID: -3528116523553973472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_35
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 52
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d839a79a8bb7db0800000000000000
+      internalID: -4793034340360286913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_36
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 52
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94b2a71e855799e0800000000000000
+      internalID: -1614727872618777442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_37
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 52
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79faf46cc6b726cb0800000000000000
+      internalID: -4872196139747659881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_38
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 52
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a86f08fe8de7970800000000000000
+      internalID: 8754673248827247116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_39
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 52
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd5d37fc00fd7450800000000000000
+      internalID: 6088286209753046495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_40
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 76
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a6c949b603a4790800000000000000
+      internalID: -7545164987092932081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_41
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 57
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d55a8aa8718cdd60800000000000000
+      internalID: 7916344600267740624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_42
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 55
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f795f59035f9fec0800000000000000
+      internalID: -3532522843672307727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_43
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 72
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92599e41992001e60800000000000000
+      internalID: 7930841800303547689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_44
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 72
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbca328286f44eb0800000000000000
+      internalID: -4736389867695846480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_45
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 72
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a240d55b0b5280800000000000000
+      internalID: -9053630162704096781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_46
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 55
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245f2775305483cf0800000000000000
+      internalID: -272391896801544894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_47
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 21
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f1701cf8a803ac0800000000000000
+      internalID: -3877446929142571145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_48
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 30
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6ab7934d39d1070800000000000000
+      internalID: 8078775846279292579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_49
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 45
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa1df9f73450fa00800000000000000
+      internalID: 788222534183885567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_seal_circle_50
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 31
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a809853612e320330800000000000000
+      internalID: 3675568559009337482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_seal_circle_0: 1193385581439947780
+      jp_seal_circle_1: -8949773445342936479
+      jp_seal_circle_10: 2590649551378107061
+      jp_seal_circle_11: -7171851586636600328
+      jp_seal_circle_12: -6777200928073862666
+      jp_seal_circle_13: 8850084730741531957
+      jp_seal_circle_14: -7170393585918319888
+      jp_seal_circle_15: 5625357908737843905
+      jp_seal_circle_16: -3211599492515366650
+      jp_seal_circle_17: -6755080456412677866
+      jp_seal_circle_18: -3004500479858026887
+      jp_seal_circle_19: -2391404774608214311
+      jp_seal_circle_2: 3531852982658965211
+      jp_seal_circle_20: -7765444264477958164
+      jp_seal_circle_21: 4458748551697038062
+      jp_seal_circle_22: 515521168671709583
+      jp_seal_circle_23: 4205918792227264442
+      jp_seal_circle_24: 5780094988114375009
+      jp_seal_circle_25: -7514153233520493800
+      jp_seal_circle_26: -2465989018132552859
+      jp_seal_circle_27: -9044729118030806431
+      jp_seal_circle_28: 2238025474937040046
+      jp_seal_circle_29: 581616668323309639
+      jp_seal_circle_3: 3241790547251267223
+      jp_seal_circle_30: -7477014891858446034
+      jp_seal_circle_31: 8760170279402342914
+      jp_seal_circle_32: -7607686671497857010
+      jp_seal_circle_33: 1458766648053700156
+      jp_seal_circle_34: -3528116523553973472
+      jp_seal_circle_35: -4793034340360286913
+      jp_seal_circle_36: -1614727872618777442
+      jp_seal_circle_37: -4872196139747659881
+      jp_seal_circle_38: 8754673248827247116
+      jp_seal_circle_39: 6088286209753046495
+      jp_seal_circle_4: -565071879665383496
+      jp_seal_circle_40: -7545164987092932081
+      jp_seal_circle_41: 7916344600267740624
+      jp_seal_circle_42: -3532522843672307727
+      jp_seal_circle_43: 7930841800303547689
+      jp_seal_circle_44: -4736389867695846480
+      jp_seal_circle_45: -9053630162704096781
+      jp_seal_circle_46: -272391896801544894
+      jp_seal_circle_47: -3877446929142571145
+      jp_seal_circle_48: 8078775846279292579
+      jp_seal_circle_49: 788222534183885567
+      jp_seal_circle_5: 5321605703712328330
+      jp_seal_circle_50: 3675568559009337482
+      jp_seal_circle_6: -3130710818052278244
+      jp_seal_circle_7: -6016174577411933387
+      jp_seal_circle_8: 696855442093758192
+      jp_seal_circle_9: -5608066207626312864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

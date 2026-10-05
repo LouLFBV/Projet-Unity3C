@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: b467a03d59d611a4481f006dbece0298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5211639522867618189
+    second: jp_tatsumaki_0
+  - first:
+      213: -1965521768670244941
+    second: jp_tatsumaki_1
+  - first:
+      213: 6230642477697213834
+    second: jp_tatsumaki_2
+  - first:
+      213: 3650376465611714904
+    second: jp_tatsumaki_3
+  - first:
+      213: 7101698466922453843
+    second: jp_tatsumaki_4
+  - first:
+      213: -448612858631696372
+    second: jp_tatsumaki_5
+  - first:
+      213: -5981924565312373952
+    second: jp_tatsumaki_6
+  - first:
+      213: -151657166721728162
+    second: jp_tatsumaki_7
+  - first:
+      213: -3553619064694646576
+    second: jp_tatsumaki_8
+  - first:
+      213: -2063286675664600407
+    second: jp_tatsumaki_9
+  - first:
+      213: -6091301775495351279
+    second: jp_tatsumaki_10
+  - first:
+      213: 8433400019172011452
+    second: jp_tatsumaki_11
+  - first:
+      213: 362859051332203947
+    second: jp_tatsumaki_12
+  - first:
+      213: 1284855987578872064
+    second: jp_tatsumaki_13
+  - first:
+      213: 2446881111936791587
+    second: jp_tatsumaki_14
+  - first:
+      213: 5804041126940001610
+    second: jp_tatsumaki_15
+  - first:
+      213: 4967867399653661335
+    second: jp_tatsumaki_16
+  - first:
+      213: -5551481976450073202
+    second: jp_tatsumaki_17
+  - first:
+      213: 8054326430481697344
+    second: jp_tatsumaki_18
+  - first:
+      213: -3501015478311494720
+    second: jp_tatsumaki_19
+  - first:
+      213: 5113376651527315444
+    second: jp_tatsumaki_20
+  - first:
+      213: 1432416477518423108
+    second: jp_tatsumaki_21
+  - first:
+      213: -6076782222524966333
+    second: jp_tatsumaki_22
+  - first:
+      213: 1490270578373750442
+    second: jp_tatsumaki_23
+  - first:
+      213: -882351684324427685
+    second: jp_tatsumaki_24
+  - first:
+      213: -6930492840867587112
+    second: jp_tatsumaki_25
+  - first:
+      213: -2358832701635662638
+    second: jp_tatsumaki_26
+  - first:
+      213: 7782454120779437805
+    second: jp_tatsumaki_27
+  - first:
+      213: -4818317358202316349
+    second: jp_tatsumaki_28
+  - first:
+      213: -8256701324463859211
+    second: jp_tatsumaki_29
+  - first:
+      213: -3643244812522751849
+    second: jp_tatsumaki_30
+  - first:
+      213: -5319651735069711267
+    second: jp_tatsumaki_31
+  - first:
+      213: -3791968397082603296
+    second: jp_tatsumaki_32
+  - first:
+      213: -3306250385994922279
+    second: jp_tatsumaki_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_tatsumaki_0
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 155
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed61667798ca7b0800000000000000
+      internalID: -5211639522867618189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_1
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 156
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfcc1c7d5019b4e0800000000000000
+      internalID: -1965521768670244941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_2
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 157
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a852a957250b77650800000000000000
+      internalID: 6230642477697213834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_3
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 155
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8517b311e0eb8a230800000000000000
+      internalID: 3650376465611714904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_4
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 158
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b59d6112d4e8260800000000000000
+      internalID: 7101698466922453843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_5
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 0
+        width: 154
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00d59f5bf436c9f0800000000000000
+      internalID: -448612858631696372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_6
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 0
+        width: 158
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b7f5b2d4febfca0800000000000000
+      internalID: -5981924565312373952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_7
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 0
+        width: 159
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c8e14c9435edf0800000000000000
+      internalID: -151657166721728162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_8
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 185
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8d1ddd9420faec0800000000000000
+      internalID: -3553619064694646576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_9
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 136
+        width: 95
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2073343bbbd53e0800000000000000
+      internalID: -2063286675664600407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_10
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 130
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114b4ebee49577ba0800000000000000
+      internalID: -6091301775495351279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_11
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 155
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd2587a2a4790570800000000000000
+      internalID: 8433400019172011452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_12
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 204
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f03a7262290500800000000000000
+      internalID: 362859051332203947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_13
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 126
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012c2796b9b4d110800000000000000
+      internalID: 1284855987578872064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_14
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 146
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324fa9c386115f120800000000000000
+      internalID: 2446881111936791587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_15
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 12
+        width: 145
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45440167a81c8050800000000000000
+      internalID: 5804041126940001610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_16
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 98
+        width: 92
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a999f341961f440800000000000000
+      internalID: 4967867399653661335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_17
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 126
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8db5b03e8c25f2b0800000000000000
+      internalID: -5551481976450073202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_18
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 138
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ac6e10737b6cf60800000000000000
+      internalID: 8054326430481697344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_19
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 141
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb591eb8f4e96fc0800000000000000
+      internalID: -3501015478311494720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_20
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 104
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffdf0509fc56f640800000000000000
+      internalID: 5113376651527315444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_21
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 79
+        width: 81
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e6e07237f0e310800000000000000
+      internalID: 1432416477518423108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9df8c3ceeaaba0800000000000000
+      internalID: -6076782222524966333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_23
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 67
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeee2bf1318ea410800000000000000
+      internalID: 1490270578373750442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_24
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 24
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ffd861d141c3f0800000000000000
+      internalID: -882351684324427685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_25
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 0
+        width: 80
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db13b50b71f1df90800000000000000
+      internalID: -6930492840867587112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_26
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc6e6ec72eb34fd0800000000000000
+      internalID: -2358832701635662638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_27
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 0
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de655d52ac4d00c60800000000000000
+      internalID: 7782454120779437805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_28
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 0
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9904924e5e12db0800000000000000
+      internalID: -4818317358202316349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_29
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 2
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f995da24ed4a6d80800000000000000
+      internalID: -8256701324463859211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_30
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798fbcf4528907dc0800000000000000
+      internalID: -3643244812522751849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_31
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 0
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5421628eeccc26b0800000000000000
+      internalID: -5319651735069711267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_32
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 0
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0526465d8306bc0800000000000000
+      internalID: -3791968397082603296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tatsumaki_33
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6464c8ac6dd12d0800000000000000
+      internalID: -3306250385994922279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_tatsumaki_0: -5211639522867618189
+      jp_tatsumaki_1: -1965521768670244941
+      jp_tatsumaki_10: -6091301775495351279
+      jp_tatsumaki_11: 8433400019172011452
+      jp_tatsumaki_12: 362859051332203947
+      jp_tatsumaki_13: 1284855987578872064
+      jp_tatsumaki_14: 2446881111936791587
+      jp_tatsumaki_15: 5804041126940001610
+      jp_tatsumaki_16: 4967867399653661335
+      jp_tatsumaki_17: -5551481976450073202
+      jp_tatsumaki_18: 8054326430481697344
+      jp_tatsumaki_19: -3501015478311494720
+      jp_tatsumaki_2: 6230642477697213834
+      jp_tatsumaki_20: 5113376651527315444
+      jp_tatsumaki_21: 1432416477518423108
+      jp_tatsumaki_22: -6076782222524966333
+      jp_tatsumaki_23: 1490270578373750442
+      jp_tatsumaki_24: -882351684324427685
+      jp_tatsumaki_25: -6930492840867587112
+      jp_tatsumaki_26: -2358832701635662638
+      jp_tatsumaki_27: 7782454120779437805
+      jp_tatsumaki_28: -4818317358202316349
+      jp_tatsumaki_29: -8256701324463859211
+      jp_tatsumaki_3: 3650376465611714904
+      jp_tatsumaki_30: -3643244812522751849
+      jp_tatsumaki_31: -5319651735069711267
+      jp_tatsumaki_32: -3791968397082603296
+      jp_tatsumaki_33: -3306250385994922279
+      jp_tatsumaki_4: 7101698466922453843
+      jp_tatsumaki_5: -448612858631696372
+      jp_tatsumaki_6: -5981924565312373952
+      jp_tatsumaki_7: -151657166721728162
+      jp_tatsumaki_8: -3553619064694646576
+      jp_tatsumaki_9: -2063286675664600407
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

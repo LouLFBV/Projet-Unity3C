@@ -6,14 +6,24 @@ class FallState : AirboneState
     public override void Enter() 
     {
         base.Enter();
+        Character.Body.SetGravity(true, Character.FallingGravity);
     }
-    public override void Update() 
+    public override void Update()
     {
         base.Update();
-        if (Character.HitNormal.y > 0.5f && Character.Body.Velocity.y <= 0.1f && _wallJumpDirection == 0)
+
+        if (Character.HitNormal.y > 0.5f)
         {
             Debug.Log("<color=green>FallState</color> - Grounded");
-            SetNextState<IdleState>();
+
+            if (Character.GetPlayerDirection() != 0)
+            {
+                SetNextState<WalkState>();
+            }
+            else
+            {
+                SetNextState<IdleState>();
+            }
         }
     }
     public override void FixedUpdate() { }

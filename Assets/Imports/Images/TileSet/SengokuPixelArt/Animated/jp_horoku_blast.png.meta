@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: ae2ab53a38479c04096ee286e854657c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5577255614124548777
+    second: jp_horoku_blast_0
+  - first:
+      213: 7432934074369355153
+    second: jp_horoku_blast_1
+  - first:
+      213: 7845592458042730349
+    second: jp_horoku_blast_2
+  - first:
+      213: 8897414638128661078
+    second: jp_horoku_blast_3
+  - first:
+      213: 8776830099244403968
+    second: jp_horoku_blast_4
+  - first:
+      213: -6498047522442788953
+    second: jp_horoku_blast_5
+  - first:
+      213: -5577855044882572299
+    second: jp_horoku_blast_6
+  - first:
+      213: -5829318487374517033
+    second: jp_horoku_blast_7
+  - first:
+      213: -2238409984617502937
+    second: jp_horoku_blast_8
+  - first:
+      213: 5439160533672250970
+    second: jp_horoku_blast_9
+  - first:
+      213: -8050321193269492904
+    second: jp_horoku_blast_10
+  - first:
+      213: 699781487482496066
+    second: jp_horoku_blast_11
+  - first:
+      213: -7058386600871405416
+    second: jp_horoku_blast_12
+  - first:
+      213: 8230164332018403146
+    second: jp_horoku_blast_13
+  - first:
+      213: -999378318448331623
+    second: jp_horoku_blast_14
+  - first:
+      213: 6227842457440711892
+    second: jp_horoku_blast_15
+  - first:
+      213: 5216452363296223514
+    second: jp_horoku_blast_16
+  - first:
+      213: 8671777888745505361
+    second: jp_horoku_blast_17
+  - first:
+      213: 2568778780695076173
+    second: jp_horoku_blast_18
+  - first:
+      213: 8965781780095783773
+    second: jp_horoku_blast_19
+  - first:
+      213: 4792544442285292782
+    second: jp_horoku_blast_20
+  - first:
+      213: 7975275377521925278
+    second: jp_horoku_blast_21
+  - first:
+      213: -3591442368371359491
+    second: jp_horoku_blast_22
+  - first:
+      213: 5413710043086961403
+    second: jp_horoku_blast_23
+  - first:
+      213: 8093983877351802204
+    second: jp_horoku_blast_24
+  - first:
+      213: 8836562606594815133
+    second: jp_horoku_blast_25
+  - first:
+      213: -5137319741236228703
+    second: jp_horoku_blast_26
+  - first:
+      213: -2583486913455609910
+    second: jp_horoku_blast_27
+  - first:
+      213: -7033875578687890001
+    second: jp_horoku_blast_28
+  - first:
+      213: -5991983997781725152
+    second: jp_horoku_blast_29
+  - first:
+      213: 4208290462396030806
+    second: jp_horoku_blast_30
+  - first:
+      213: 1421034249481413932
+    second: jp_horoku_blast_31
+  - first:
+      213: 6636371429081500344
+    second: jp_horoku_blast_32
+  - first:
+      213: -6419627984995675023
+    second: jp_horoku_blast_33
+  - first:
+      213: -8351478442767413287
+    second: jp_horoku_blast_34
+  - first:
+      213: -6581180780287302670
+    second: jp_horoku_blast_35
+  - first:
+      213: -936959066541991258
+    second: jp_horoku_blast_36
+  - first:
+      213: -6601606683115840416
+    second: jp_horoku_blast_37
+  - first:
+      213: -8738071728600229096
+    second: jp_horoku_blast_38
+  - first:
+      213: 2916202864639858009
+    second: jp_horoku_blast_39
+  - first:
+      213: 376647549793408717
+    second: jp_horoku_blast_40
+  - first:
+      213: 3098903220553915659
+    second: jp_horoku_blast_41
+  - first:
+      213: -6081446802170210909
+    second: jp_horoku_blast_42
+  - first:
+      213: 9199772076793737064
+    second: jp_horoku_blast_43
+  - first:
+      213: 8811178220359024451
+    second: jp_horoku_blast_44
+  - first:
+      213: 1231778267931912843
+    second: jp_horoku_blast_45
+  - first:
+      213: 996457064580823373
+    second: jp_horoku_blast_46
+  - first:
+      213: 2623637645025132002
+    second: jp_horoku_blast_47
+  - first:
+      213: 4652411114949840814
+    second: jp_horoku_blast_48
+  - first:
+      213: -6977684659032342190
+    second: jp_horoku_blast_49
+  - first:
+      213: -9191614417047500968
+    second: jp_horoku_blast_50
+  - first:
+      213: 4503076701364507957
+    second: jp_horoku_blast_51
+  - first:
+      213: -7941320783146891164
+    second: jp_horoku_blast_52
+  - first:
+      213: -4477362380250484215
+    second: jp_horoku_blast_53
+  - first:
+      213: -8172571247653114532
+    second: jp_horoku_blast_54
+  - first:
+      213: -2934208203309796461
+    second: jp_horoku_blast_55
+  - first:
+      213: 9065067750982082318
+    second: jp_horoku_blast_56
+  - first:
+      213: -2781163815195862174
+    second: jp_horoku_blast_57
+  - first:
+      213: 5865093318072996073
+    second: jp_horoku_blast_58
+  - first:
+      213: -8264306256175054679
+    second: jp_horoku_blast_59
+  - first:
+      213: -6099494706015473052
+    second: jp_horoku_blast_60
+  - first:
+      213: -7750570529714437288
+    second: jp_horoku_blast_61
+  - first:
+      213: 8988937629965921283
+    second: jp_horoku_blast_62
+  - first:
+      213: -6503213976067249037
+    second: jp_horoku_blast_63
+  - first:
+      213: 3905917854390259043
+    second: jp_horoku_blast_64
+  - first:
+      213: -3782535217764080866
+    second: jp_horoku_blast_65
+  - first:
+      213: -4159571549963468830
+    second: jp_horoku_blast_66
+  - first:
+      213: 8732456157436645931
+    second: jp_horoku_blast_67
+  - first:
+      213: -2819333950523349412
+    second: jp_horoku_blast_68
+  - first:
+      213: 5982133077106359035
+    second: jp_horoku_blast_69
+  - first:
+      213: -4514727640155639527
+    second: jp_horoku_blast_70
+  - first:
+      213: 611739412603273296
+    second: jp_horoku_blast_71
+  - first:
+      213: 4976091882484720081
+    second: jp_horoku_blast_72
+  - first:
+      213: -675036797109156661
+    second: jp_horoku_blast_73
+  - first:
+      213: -7074639610276509664
+    second: jp_horoku_blast_74
+  - first:
+      213: 9176507499712198911
+    second: jp_horoku_blast_75
+  - first:
+      213: 1335368624124423293
+    second: jp_horoku_blast_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_horoku_blast_0
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 244
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9d8a819b9992b0800000000000000
+      internalID: -5577255614124548777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_1
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 237
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19daea5c826172760800000000000000
+      internalID: 7432934074369355153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 225
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67ee1ad5c421ec60800000000000000
+      internalID: 7845592458042730349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 217
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652050d0977f97b70800000000000000
+      internalID: 8897414638128661078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_4
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 70
+        width: 163
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4b6f39709dc970800000000000000
+      internalID: 8776830099244403968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 48
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afb03bd43c42d5a0800000000000000
+      internalID: -6498047522442788953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 214
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb5721b36a7792b0800000000000000
+      internalID: -5577855044882572299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 197
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcac6588b91a1fa0800000000000000
+      internalID: -5829318487374517033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_8
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 199
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727af258af19fe0e0800000000000000
+      internalID: -2238409984617502937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_9
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 36
+        width: 168
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ecbddffa7cb7b40800000000000000
+      internalID: 5439160533672250970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_10
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 211
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8538f53f683874090800000000000000
+      internalID: -8050321193269492904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_11
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 197
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244e9c52e8f16b900800000000000000
+      internalID: 699781487482496066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_12
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 50
+        width: 168
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898deaf88c29b0e90800000000000000
+      internalID: -7058386600871405416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_13
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 69
+        width: 164
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a470c0dcada673270800000000000000
+      internalID: 8230164332018403146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_14
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 184
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994f8acd6be7122f0800000000000000
+      internalID: -999378318448331623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_15
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 178
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d479d0f7bdbd6650800000000000000
+      internalID: 6227842457440711892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_16
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 174
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11b40659cf846840800000000000000
+      internalID: 5216452363296223514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_17
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 184
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15243c57b08585870800000000000000
+      internalID: 8671777888745505361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_18
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 199
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d14e9e0b226a320800000000000000
+      internalID: 2568778780695076173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_19
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 184
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d535748b60bdc6c70800000000000000
+      internalID: 8965781780095783773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_20
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 203
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecffac37c9828240800000000000000
+      internalID: 4792544442285292782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_21
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 122
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c1d1773beddae60800000000000000
+      internalID: 7975275377521925278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_22
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 185
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df000f9b132a82ec0800000000000000
+      internalID: -3591442368371359491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_23
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 153
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfab923e99c512b40800000000000000
+      internalID: 5413710043086961403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_24
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 148
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c550b43e37b935070800000000000000
+      internalID: 8093983877351802204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_25
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 146
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9475916fd6c1aa70800000000000000
+      internalID: 8836562606594815133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_26
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 180
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ad430ef9e294b8b0800000000000000
+      internalID: -5137319741236228703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_27
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 188
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7ab91175c952cd0800000000000000
+      internalID: -2583486913455609910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_28
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 184
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad5302ad67a26e90800000000000000
+      internalID: -7033875578687890001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_29
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 129
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02035680d4238dca0800000000000000
+      internalID: -5991983997781725152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_30
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 148
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f97ca01e9d66a30800000000000000
+      internalID: 4208290462396030806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_31
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 148
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e006fe1788b310800000000000000
+      internalID: 1421034249481413932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_32
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 166
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba44fb57a0291c50800000000000000
+      internalID: 6636371429081500344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_33
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 157
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1741d2c3c56e8e6a0800000000000000
+      internalID: -6419627984995675023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_34
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 161
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df0485ba96991c80800000000000000
+      internalID: -8351478442767413287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_35
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 125
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3e85ce2f2faa4a0800000000000000
+      internalID: -6581180780287302670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_36
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 121
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aadea571b04ff2f0800000000000000
+      internalID: -936959066541991258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_37
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 144
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c1902d2b16264a0800000000000000
+      internalID: -6601606683115840416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_38
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 148
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b56e22f022cb680800000000000000
+      internalID: -8738071728600229096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_39
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 149
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d5dffd0f687820800000000000000
+      internalID: 2916202864639858009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_40
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 148
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc615f273fe1a3500800000000000000
+      internalID: 376647549793408717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_41
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 99
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d1e667f04810b20800000000000000
+      internalID: 3098903220553915659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_42
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 93
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a59534ba5c5a9ba0800000000000000
+      internalID: -6081446802170210909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_43
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 118
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f29db16f72caf70800000000000000
+      internalID: 9199772076793737064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_44
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 118
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f782568e7974a70800000000000000
+      internalID: 8811178220359024451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_45
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 73
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8aa026fec7281110800000000000000
+      internalID: 1231778267931912843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_46
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 91
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49b448bb6024dd00800000000000000
+      internalID: 996457064580823373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_47
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 95
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edb01b9988096420800000000000000
+      internalID: 2623637645025132002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_48
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 87
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf0aaf624fa09040800000000000000
+      internalID: 4652411114949840814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_49
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 52
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2514faf95c84a2f90800000000000000
+      internalID: -6977684659032342190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_50
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 58
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857468f0363d07080800000000000000
+      internalID: -9191614417047500968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_51
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 76
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5355b2dc6642e7e30800000000000000
+      internalID: 4503076701364507957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_52
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 73
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4684a1992d2cac190800000000000000
+      internalID: -7941320783146891164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_53
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 73
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902f87223a63dd1c0800000000000000
+      internalID: -4477362380250484215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_54
+      rect:
+        serializedVersion: 2
+        x: 2703
+        y: 68
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5da01a10c1359e80800000000000000
+      internalID: -8172571247653114532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_55
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 25
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393bea86f299747d0800000000000000
+      internalID: -2934208203309796461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_56
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 40
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fd22a37179dcd70800000000000000
+      internalID: 9065067750982082318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_57
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 24
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b941dce325769d0800000000000000
+      internalID: -2781163815195862174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_58
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 42
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e012465c4ff46150800000000000000
+      internalID: 5865093318072996073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_59
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 26
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c5a50f394f4d80800000000000000
+      internalID: -8264306256175054679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_60
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 27
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4627292a1ed3a5ba0800000000000000
+      internalID: -6099494706015473052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_61
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 50
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85382c1ea21707490800000000000000
+      internalID: -7750570529714437288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_62
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 58
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ca246262f1fbc70800000000000000
+      internalID: 8988937629965921283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_63
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 55
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ce7222851ffb5a0800000000000000
+      internalID: -6503213976067249037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_64
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 52
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d89c8189b943630800000000000000
+      internalID: 3905917854390259043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_65
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 32
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1364ca924cb18bc0800000000000000
+      internalID: -3782535217764080866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_66
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 35
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef3b92b6bb3646c0800000000000000
+      internalID: -4159571549963468830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_67
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 8
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b221fa0db9aef2970800000000000000
+      internalID: 8732456157436645931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_68
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 20
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c566bdf95b6bfd8d0800000000000000
+      internalID: -2819333950523349412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_69
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 38
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaf904c65ec40350800000000000000
+      internalID: 5982133077106359035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_70
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 27
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911b2ee91277851c0800000000000000
+      internalID: -4514727640155639527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_71
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 23
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050035f21c55d7800800000000000000
+      internalID: 611739412603273296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_72
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 24
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1e431e331ae0540800000000000000
+      internalID: 4976091882484720081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_73
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 17
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4cdf90c99c1a6f0800000000000000
+      internalID: -675036797109156661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_74
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0288f8be1c4d1dd90800000000000000
+      internalID: -7074639610276509664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_75
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 0
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8bd07a3f0895f70800000000000000
+      internalID: 9176507499712198911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_horoku_blast_76
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c632540be288210800000000000000
+      internalID: 1335368624124423293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_horoku_blast_0: -5577255614124548777
+      jp_horoku_blast_1: 7432934074369355153
+      jp_horoku_blast_10: -8050321193269492904
+      jp_horoku_blast_11: 699781487482496066
+      jp_horoku_blast_12: -7058386600871405416
+      jp_horoku_blast_13: 8230164332018403146
+      jp_horoku_blast_14: -999378318448331623
+      jp_horoku_blast_15: 6227842457440711892
+      jp_horoku_blast_16: 5216452363296223514
+      jp_horoku_blast_17: 8671777888745505361
+      jp_horoku_blast_18: 2568778780695076173
+      jp_horoku_blast_19: 8965781780095783773
+      jp_horoku_blast_2: 7845592458042730349
+      jp_horoku_blast_20: 4792544442285292782
+      jp_horoku_blast_21: 7975275377521925278
+      jp_horoku_blast_22: -3591442368371359491
+      jp_horoku_blast_23: 5413710043086961403
+      jp_horoku_blast_24: 8093983877351802204
+      jp_horoku_blast_25: 8836562606594815133
+      jp_horoku_blast_26: -5137319741236228703
+      jp_horoku_blast_27: -2583486913455609910
+      jp_horoku_blast_28: -7033875578687890001
+      jp_horoku_blast_29: -5991983997781725152
+      jp_horoku_blast_3: 8897414638128661078
+      jp_horoku_blast_30: 4208290462396030806
+      jp_horoku_blast_31: 1421034249481413932
+      jp_horoku_blast_32: 6636371429081500344
+      jp_horoku_blast_33: -6419627984995675023
+      jp_horoku_blast_34: -8351478442767413287
+      jp_horoku_blast_35: -6581180780287302670
+      jp_horoku_blast_36: -936959066541991258
+      jp_horoku_blast_37: -6601606683115840416
+      jp_horoku_blast_38: -8738071728600229096
+      jp_horoku_blast_39: 2916202864639858009
+      jp_horoku_blast_4: 8776830099244403968
+      jp_horoku_blast_40: 376647549793408717
+      jp_horoku_blast_41: 3098903220553915659
+      jp_horoku_blast_42: -6081446802170210909
+      jp_horoku_blast_43: 9199772076793737064
+      jp_horoku_blast_44: 8811178220359024451
+      jp_horoku_blast_45: 1231778267931912843
+      jp_horoku_blast_46: 996457064580823373
+      jp_horoku_blast_47: 2623637645025132002
+      jp_horoku_blast_48: 4652411114949840814
+      jp_horoku_blast_49: -6977684659032342190
+      jp_horoku_blast_5: -6498047522442788953
+      jp_horoku_blast_50: -9191614417047500968
+      jp_horoku_blast_51: 4503076701364507957
+      jp_horoku_blast_52: -7941320783146891164
+      jp_horoku_blast_53: -4477362380250484215
+      jp_horoku_blast_54: -8172571247653114532
+      jp_horoku_blast_55: -2934208203309796461
+      jp_horoku_blast_56: 9065067750982082318
+      jp_horoku_blast_57: -2781163815195862174
+      jp_horoku_blast_58: 5865093318072996073
+      jp_horoku_blast_59: -8264306256175054679
+      jp_horoku_blast_6: -5577855044882572299
+      jp_horoku_blast_60: -6099494706015473052
+      jp_horoku_blast_61: -7750570529714437288
+      jp_horoku_blast_62: 8988937629965921283
+      jp_horoku_blast_63: -6503213976067249037
+      jp_horoku_blast_64: 3905917854390259043
+      jp_horoku_blast_65: -3782535217764080866
+      jp_horoku_blast_66: -4159571549963468830
+      jp_horoku_blast_67: 8732456157436645931
+      jp_horoku_blast_68: -2819333950523349412
+      jp_horoku_blast_69: 5982133077106359035
+      jp_horoku_blast_7: -5829318487374517033
+      jp_horoku_blast_70: -4514727640155639527
+      jp_horoku_blast_71: 611739412603273296
+      jp_horoku_blast_72: 4976091882484720081
+      jp_horoku_blast_73: -675036797109156661
+      jp_horoku_blast_74: -7074639610276509664
+      jp_horoku_blast_75: 9176507499712198911
+      jp_horoku_blast_76: 1335368624124423293
+      jp_horoku_blast_8: -2238409984617502937
+      jp_horoku_blast_9: 5439160533672250970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

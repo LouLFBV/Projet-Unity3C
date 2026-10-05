@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 348dbf5cb626b404280c769c1ff0ce8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3271790297715405302
+    second: jp_cross_slash_0
+  - first:
+      213: 6670402868323161747
+    second: jp_cross_slash_1
+  - first:
+      213: -5106715088905265018
+    second: jp_cross_slash_2
+  - first:
+      213: 5085779491258133079
+    second: jp_cross_slash_3
+  - first:
+      213: 2252183213359339000
+    second: jp_cross_slash_4
+  - first:
+      213: -3744249847928976216
+    second: jp_cross_slash_5
+  - first:
+      213: 1134898512516538390
+    second: jp_cross_slash_6
+  - first:
+      213: -7915129624906075351
+    second: jp_cross_slash_7
+  - first:
+      213: -925437063790030140
+    second: jp_cross_slash_8
+  - first:
+      213: -5780000167467511204
+    second: jp_cross_slash_9
+  - first:
+      213: -5533986091459721189
+    second: jp_cross_slash_10
+  - first:
+      213: -8630859338131231684
+    second: jp_cross_slash_11
+  - first:
+      213: 5293737841262691304
+    second: jp_cross_slash_12
+  - first:
+      213: 1813368832847805544
+    second: jp_cross_slash_13
+  - first:
+      213: -8108973641610804558
+    second: jp_cross_slash_14
+  - first:
+      213: 1019268524513359779
+    second: jp_cross_slash_15
+  - first:
+      213: 1149423117218546681
+    second: jp_cross_slash_16
+  - first:
+      213: 7176281168696099419
+    second: jp_cross_slash_17
+  - first:
+      213: -1900326637829546789
+    second: jp_cross_slash_18
+  - first:
+      213: 1338927882853025851
+    second: jp_cross_slash_19
+  - first:
+      213: 9036757974479590809
+    second: jp_cross_slash_20
+  - first:
+      213: 9000513983840866852
+    second: jp_cross_slash_21
+  - first:
+      213: -7006702105285191739
+    second: jp_cross_slash_22
+  - first:
+      213: -6339356804196231137
+    second: jp_cross_slash_23
+  - first:
+      213: -4962591675054983795
+    second: jp_cross_slash_24
+  - first:
+      213: 3793069559574477122
+    second: jp_cross_slash_25
+  - first:
+      213: -6969019664657975232
+    second: jp_cross_slash_26
+  - first:
+      213: 9075630520083546278
+    second: jp_cross_slash_27
+  - first:
+      213: -4704005416726013391
+    second: jp_cross_slash_28
+  - first:
+      213: -82634050744866981
+    second: jp_cross_slash_29
+  - first:
+      213: -5265533597047328080
+    second: jp_cross_slash_30
+  - first:
+      213: 4368223571147832346
+    second: jp_cross_slash_31
+  - first:
+      213: -7611511148913128018
+    second: jp_cross_slash_32
+  - first:
+      213: -4904138506760136473
+    second: jp_cross_slash_33
+  - first:
+      213: -820020472692660493
+    second: jp_cross_slash_34
+  - first:
+      213: 4977964602783262641
+    second: jp_cross_slash_35
+  - first:
+      213: -5727186920020710912
+    second: jp_cross_slash_36
+  - first:
+      213: -2146682163731003894
+    second: jp_cross_slash_37
+  - first:
+      213: 9131825760588532288
+    second: jp_cross_slash_38
+  - first:
+      213: -1359249183362215737
+    second: jp_cross_slash_39
+  - first:
+      213: -4766926095391076262
+    second: jp_cross_slash_40
+  - first:
+      213: 751745505951142915
+    second: jp_cross_slash_41
+  - first:
+      213: -4451386052127253445
+    second: jp_cross_slash_42
+  - first:
+      213: 4345714065532193316
+    second: jp_cross_slash_43
+  - first:
+      213: -5261221131829967301
+    second: jp_cross_slash_44
+  - first:
+      213: -2604686758365903676
+    second: jp_cross_slash_45
+  - first:
+      213: -604362580032452951
+    second: jp_cross_slash_46
+  - first:
+      213: 1097725768587100593
+    second: jp_cross_slash_47
+  - first:
+      213: 5876135655680661660
+    second: jp_cross_slash_48
+  - first:
+      213: 8517516763651584856
+    second: jp_cross_slash_49
+  - first:
+      213: -8890451076569418387
+    second: jp_cross_slash_50
+  - first:
+      213: -7370150153182315198
+    second: jp_cross_slash_51
+  - first:
+      213: -843542681173873122
+    second: jp_cross_slash_52
+  - first:
+      213: -5990769295056630536
+    second: jp_cross_slash_53
+  - first:
+      213: 4942708464359569114
+    second: jp_cross_slash_54
+  - first:
+      213: -8887648473394450266
+    second: jp_cross_slash_55
+  - first:
+      213: 2161697694434806517
+    second: jp_cross_slash_56
+  - first:
+      213: 6013117847851780013
+    second: jp_cross_slash_57
+  - first:
+      213: -4679919820262309026
+    second: jp_cross_slash_58
+  - first:
+      213: 5447766434926709932
+    second: jp_cross_slash_59
+  - first:
+      213: 4695399065103737599
+    second: jp_cross_slash_60
+  - first:
+      213: -1697976784479538045
+    second: jp_cross_slash_61
+  - first:
+      213: 2386296331456668245
+    second: jp_cross_slash_62
+  - first:
+      213: -1409583413999474837
+    second: jp_cross_slash_63
+  - first:
+      213: 9114164074839916979
+    second: jp_cross_slash_64
+  - first:
+      213: 4552661176917416819
+    second: jp_cross_slash_65
+  - first:
+      213: 2145808921061902692
+    second: jp_cross_slash_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_cross_slash_0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 87
+        width: 146
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e8a151f044892d0800000000000000
+      internalID: -3271790297715405302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 4
+        width: 146
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39616234118029c50800000000000000
+      internalID: 6670402868323161747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 8
+        width: 146
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680aca4eead4129b0800000000000000
+      internalID: -5106715088905265018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_3
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 6
+        width: 146
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a686e6081549640800000000000000
+      internalID: 5085779491258133079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_4
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 4
+        width: 145
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5916133bc514f10800000000000000
+      internalID: 2252183213359339000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_5
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 0
+        width: 146
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac02e7e990c90cc0800000000000000
+      internalID: -3744249847928976216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_6
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 0
+        width: 146
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610eaa62f28ffbf00800000000000000
+      internalID: 1134898512516538390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_7
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 237
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9237d44da8fc72290800000000000000
+      internalID: -7915129624906075351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_8
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 218
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c290d6c4ef2823f0800000000000000
+      internalID: -925437063790030140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_9
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 231
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c529660b87059cfa0800000000000000
+      internalID: -5780000167467511204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_10
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 221
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18479a58f45333b0800000000000000
+      internalID: -5533986091459721189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_11
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 228
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c23540927093880800000000000000
+      internalID: -8630859338131231684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_12
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 219
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3818ae482277940800000000000000
+      internalID: 5293737841262691304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_13
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 229
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c78a888516a2910800000000000000
+      internalID: 1813368832847805544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_14
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 219
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b248c6af63277f80800000000000000
+      internalID: -8108973641610804558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_15
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 231
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7fa5e925b252e00800000000000000
+      internalID: 1019268524513359779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_16
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 238
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f30f663c3293ff00800000000000000
+      internalID: 1149423117218546681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 119
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c47c83b5479360800000000000000
+      internalID: 7176281168696099419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_18
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 39
+        width: 125
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc15f2cdfea0a5e0800000000000000
+      internalID: -1900326637829546789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_19
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 129
+        width: 122
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b380255c0d3d49210800000000000000
+      internalID: 1338927882853025851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_20
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 147
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995d80ebf73096d70800000000000000
+      internalID: 9036757974479590809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_21
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 212
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42255c218cf38ec70800000000000000
+      internalID: 9000513983840866852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_22
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 159
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c79e7fee8133ce90800000000000000
+      internalID: -7006702105285191739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_23
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 201
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f189d6de2941608a0800000000000000
+      internalID: -6339356804196231137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_24
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 189
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85790b1a25512bb0800000000000000
+      internalID: -4962591675054983795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_25
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 203
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b8cafaa0b3a430800000000000000
+      internalID: 3793069559574477122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_26
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 177
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0487957d981194f90800000000000000
+      internalID: -6969019664657975232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_27
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 195
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0064e8fdd13fd70800000000000000
+      internalID: 9075630520083546278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_28
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 171
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a58821ff308beb0800000000000000
+      internalID: -4704005416726013391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_29
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 180
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b572007c4cc6adef0800000000000000
+      internalID: -82634050744866981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_30
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 143
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2fb1b67111de6b0800000000000000
+      internalID: -5265533597047328080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_31
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 155
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c31c1b13c0f9c30800000000000000
+      internalID: 4368223571147832346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_32
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 143
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8b1500fa7e5690800000000000000
+      internalID: -7611511148913128018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_33
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 153
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e85f37e20001fbb0800000000000000
+      internalID: -4904138506760136473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_34
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 163
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f62b9889b3be94f0800000000000000
+      internalID: -820020472692660493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_35
+      rect:
+        serializedVersion: 2
+        x: 2699
+        y: 141
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b76d5d8e68451540800000000000000
+      internalID: 4977964602783262641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_36
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 36
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ae6e517d1f480b0800000000000000
+      internalID: -5727186920020710912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_37
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 89
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06852912f37532e0800000000000000
+      internalID: -2146682163731003894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_38
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 65
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a04a29523cabe70800000000000000
+      internalID: 9131825760588532288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_39
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 105
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c09470c11af22de0800000000000000
+      internalID: -1359249183362215737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_40
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 75
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50dca5f8f978ddb0800000000000000
+      internalID: -4766926095391076262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_41
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 80
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304d6b30e8cbe6a00800000000000000
+      internalID: 751745505951142915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_42
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 75
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c93d458ff7932c0800000000000000
+      internalID: -4451386052127253445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_43
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 92
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a07730be31f4c30800000000000000
+      internalID: 4345714065532193316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_44
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 79
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b360f7871436cf6b0800000000000000
+      internalID: -5261221131829967301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_45
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 32
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4cf68813b4adbd0800000000000000
+      internalID: -2604686758365903676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_46
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 57
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a680ad7f6fdc97f0800000000000000
+      internalID: -604362580032452951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_47
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 47
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b14d6145c7eb3f00800000000000000
+      internalID: 1097725768587100593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_48
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c985ad8ee3a3c8150800000000000000
+      internalID: 5876135655680661660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_49
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 57
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85333e96e5c443670800000000000000
+      internalID: 8517516763651584856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_50
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 49
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65371879d5ce9480800000000000000
+      internalID: -8890451076569418387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_51
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 59
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24df6420c77f7b990800000000000000
+      internalID: -7370150153182315198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_52
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 51
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e20c796622b44f0800000000000000
+      internalID: -843542681173873122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_53
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 43
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc05dc01138cdca0800000000000000
+      internalID: -5990769295056630536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_54
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 39
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f7762927089440800000000000000
+      internalID: 4942708464359569114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_55
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 53
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0f7ce5dcab8a480800000000000000
+      internalID: -8887648473394450266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_56
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 47
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa41949994effd10800000000000000
+      internalID: 2161697694434806517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_57
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 15
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da744c1e2d2e27350800000000000000
+      internalID: 6013117847851780013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_58
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 15
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5384fff7b59d0fb0800000000000000
+      internalID: -4679919820262309026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_59
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 11
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4a1585ba5a9b40800000000000000
+      internalID: 5447766434926709932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_60
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 15
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2a53a8298692140800000000000000
+      internalID: 4695399065103737599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_61
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 25
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384bc3c5c139f68e0800000000000000
+      internalID: -1697976784479538045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_62
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 35
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552ea4dced3dd1120800000000000000
+      internalID: 2386296331456668245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_63
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 23
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67674f6a57207ce0800000000000000
+      internalID: -1409583413999474837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_64
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 33
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1c579efe30c7e70800000000000000
+      internalID: 9114164074839916979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_65
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 17
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bdfd8283d4e2f30800000000000000
+      internalID: 4552661176917416819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_cross_slash_66
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 4
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46942cf38d177cd10800000000000000
+      internalID: 2145808921061902692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_cross_slash_0: -3271790297715405302
+      jp_cross_slash_1: 6670402868323161747
+      jp_cross_slash_10: -5533986091459721189
+      jp_cross_slash_11: -8630859338131231684
+      jp_cross_slash_12: 5293737841262691304
+      jp_cross_slash_13: 1813368832847805544
+      jp_cross_slash_14: -8108973641610804558
+      jp_cross_slash_15: 1019268524513359779
+      jp_cross_slash_16: 1149423117218546681
+      jp_cross_slash_17: 7176281168696099419
+      jp_cross_slash_18: -1900326637829546789
+      jp_cross_slash_19: 1338927882853025851
+      jp_cross_slash_2: -5106715088905265018
+      jp_cross_slash_20: 9036757974479590809
+      jp_cross_slash_21: 9000513983840866852
+      jp_cross_slash_22: -7006702105285191739
+      jp_cross_slash_23: -6339356804196231137
+      jp_cross_slash_24: -4962591675054983795
+      jp_cross_slash_25: 3793069559574477122
+      jp_cross_slash_26: -6969019664657975232
+      jp_cross_slash_27: 9075630520083546278
+      jp_cross_slash_28: -4704005416726013391
+      jp_cross_slash_29: -82634050744866981
+      jp_cross_slash_3: 5085779491258133079
+      jp_cross_slash_30: -5265533597047328080
+      jp_cross_slash_31: 4368223571147832346
+      jp_cross_slash_32: -7611511148913128018
+      jp_cross_slash_33: -4904138506760136473
+      jp_cross_slash_34: -820020472692660493
+      jp_cross_slash_35: 4977964602783262641
+      jp_cross_slash_36: -5727186920020710912
+      jp_cross_slash_37: -2146682163731003894
+      jp_cross_slash_38: 9131825760588532288
+      jp_cross_slash_39: -1359249183362215737
+      jp_cross_slash_4: 2252183213359339000
+      jp_cross_slash_40: -4766926095391076262
+      jp_cross_slash_41: 751745505951142915
+      jp_cross_slash_42: -4451386052127253445
+      jp_cross_slash_43: 4345714065532193316
+      jp_cross_slash_44: -5261221131829967301
+      jp_cross_slash_45: -2604686758365903676
+      jp_cross_slash_46: -604362580032452951
+      jp_cross_slash_47: 1097725768587100593
+      jp_cross_slash_48: 5876135655680661660
+      jp_cross_slash_49: 8517516763651584856
+      jp_cross_slash_5: -3744249847928976216
+      jp_cross_slash_50: -8890451076569418387
+      jp_cross_slash_51: -7370150153182315198
+      jp_cross_slash_52: -843542681173873122
+      jp_cross_slash_53: -5990769295056630536
+      jp_cross_slash_54: 4942708464359569114
+      jp_cross_slash_55: -8887648473394450266
+      jp_cross_slash_56: 2161697694434806517
+      jp_cross_slash_57: 6013117847851780013
+      jp_cross_slash_58: -4679919820262309026
+      jp_cross_slash_59: 5447766434926709932
+      jp_cross_slash_6: 1134898512516538390
+      jp_cross_slash_60: 4695399065103737599
+      jp_cross_slash_61: -1697976784479538045
+      jp_cross_slash_62: 2386296331456668245
+      jp_cross_slash_63: -1409583413999474837
+      jp_cross_slash_64: 9114164074839916979
+      jp_cross_slash_65: 4552661176917416819
+      jp_cross_slash_66: 2145808921061902692
+      jp_cross_slash_7: -7915129624906075351
+      jp_cross_slash_8: -925437063790030140
+      jp_cross_slash_9: -5780000167467511204
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

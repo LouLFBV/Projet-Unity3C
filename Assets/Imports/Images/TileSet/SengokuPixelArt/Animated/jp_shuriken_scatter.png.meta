@@ -1,0 +1,3666 @@
+fileFormatVersion: 2
+guid: a8494b1caa58762409b26974efcbc3dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5091158706313704754
+    second: jp_shuriken_scatter_0
+  - first:
+      213: -3895363566998526277
+    second: jp_shuriken_scatter_1
+  - first:
+      213: -1772470702839219709
+    second: jp_shuriken_scatter_2
+  - first:
+      213: 8327175933905398699
+    second: jp_shuriken_scatter_3
+  - first:
+      213: 4831039441173368067
+    second: jp_shuriken_scatter_4
+  - first:
+      213: 2868951115763172347
+    second: jp_shuriken_scatter_5
+  - first:
+      213: -3087022565680891337
+    second: jp_shuriken_scatter_6
+  - first:
+      213: -2417425109414571058
+    second: jp_shuriken_scatter_7
+  - first:
+      213: 1499455116874835868
+    second: jp_shuriken_scatter_8
+  - first:
+      213: 6767611879245170150
+    second: jp_shuriken_scatter_9
+  - first:
+      213: -3449516823345605182
+    second: jp_shuriken_scatter_10
+  - first:
+      213: 1330720722368032143
+    second: jp_shuriken_scatter_11
+  - first:
+      213: 652403951021405917
+    second: jp_shuriken_scatter_12
+  - first:
+      213: 2634126722401297445
+    second: jp_shuriken_scatter_13
+  - first:
+      213: 7314213289407047325
+    second: jp_shuriken_scatter_14
+  - first:
+      213: 4322411517344479528
+    second: jp_shuriken_scatter_15
+  - first:
+      213: -1005028936603359629
+    second: jp_shuriken_scatter_16
+  - first:
+      213: 3626509475778293502
+    second: jp_shuriken_scatter_17
+  - first:
+      213: -8984662521297162183
+    second: jp_shuriken_scatter_18
+  - first:
+      213: 7283578810943850674
+    second: jp_shuriken_scatter_19
+  - first:
+      213: -8438982842480444778
+    second: jp_shuriken_scatter_20
+  - first:
+      213: -8855165260486433086
+    second: jp_shuriken_scatter_21
+  - first:
+      213: -4986495380673792293
+    second: jp_shuriken_scatter_22
+  - first:
+      213: -1702858658714993992
+    second: jp_shuriken_scatter_23
+  - first:
+      213: -1371417257269096293
+    second: jp_shuriken_scatter_24
+  - first:
+      213: 898834451238103064
+    second: jp_shuriken_scatter_25
+  - first:
+      213: 8638299464383036554
+    second: jp_shuriken_scatter_26
+  - first:
+      213: -9139087179355767150
+    second: jp_shuriken_scatter_27
+  - first:
+      213: -650803852274533912
+    second: jp_shuriken_scatter_28
+  - first:
+      213: 5975594182487075851
+    second: jp_shuriken_scatter_29
+  - first:
+      213: 4934590494279452918
+    second: jp_shuriken_scatter_30
+  - first:
+      213: -1438429749993209360
+    second: jp_shuriken_scatter_31
+  - first:
+      213: -7621100277215300405
+    second: jp_shuriken_scatter_32
+  - first:
+      213: -5693384375802360538
+    second: jp_shuriken_scatter_33
+  - first:
+      213: -2241476833434086432
+    second: jp_shuriken_scatter_34
+  - first:
+      213: -2350956937116350217
+    second: jp_shuriken_scatter_35
+  - first:
+      213: 6882098887683031955
+    second: jp_shuriken_scatter_36
+  - first:
+      213: 5332262578845097055
+    second: jp_shuriken_scatter_37
+  - first:
+      213: -9169000438468732834
+    second: jp_shuriken_scatter_38
+  - first:
+      213: -7456273452916836179
+    second: jp_shuriken_scatter_39
+  - first:
+      213: 6784132950732557252
+    second: jp_shuriken_scatter_40
+  - first:
+      213: -7883563462173155760
+    second: jp_shuriken_scatter_41
+  - first:
+      213: 7825564299324589478
+    second: jp_shuriken_scatter_42
+  - first:
+      213: -1359098355984812763
+    second: jp_shuriken_scatter_43
+  - first:
+      213: -7138375765861285170
+    second: jp_shuriken_scatter_44
+  - first:
+      213: 1640803561035580981
+    second: jp_shuriken_scatter_45
+  - first:
+      213: 4216301001269834500
+    second: jp_shuriken_scatter_46
+  - first:
+      213: 1027263476677828559
+    second: jp_shuriken_scatter_47
+  - first:
+      213: 4648328077832246449
+    second: jp_shuriken_scatter_48
+  - first:
+      213: -675197425029674632
+    second: jp_shuriken_scatter_49
+  - first:
+      213: -6421209647728418867
+    second: jp_shuriken_scatter_50
+  - first:
+      213: 1987993570800883596
+    second: jp_shuriken_scatter_51
+  - first:
+      213: 1350997475529128106
+    second: jp_shuriken_scatter_52
+  - first:
+      213: -6917696141166718196
+    second: jp_shuriken_scatter_53
+  - first:
+      213: -4868326103401050900
+    second: jp_shuriken_scatter_54
+  - first:
+      213: 2833858933309811168
+    second: jp_shuriken_scatter_55
+  - first:
+      213: -7094607280943505992
+    second: jp_shuriken_scatter_56
+  - first:
+      213: 8000108513682124825
+    second: jp_shuriken_scatter_57
+  - first:
+      213: 8245471514120029371
+    second: jp_shuriken_scatter_58
+  - first:
+      213: 7519880101491639764
+    second: jp_shuriken_scatter_59
+  - first:
+      213: 8458362726444304118
+    second: jp_shuriken_scatter_60
+  - first:
+      213: 866307995976030651
+    second: jp_shuriken_scatter_61
+  - first:
+      213: 8854530712199722301
+    second: jp_shuriken_scatter_62
+  - first:
+      213: -7464916285232583286
+    second: jp_shuriken_scatter_63
+  - first:
+      213: -372324858164722058
+    second: jp_shuriken_scatter_64
+  - first:
+      213: -2338216178436898470
+    second: jp_shuriken_scatter_65
+  - first:
+      213: -5521980680001377525
+    second: jp_shuriken_scatter_66
+  - first:
+      213: 9160576990186636289
+    second: jp_shuriken_scatter_67
+  - first:
+      213: -3432092060639415628
+    second: jp_shuriken_scatter_68
+  - first:
+      213: -8251454318924749962
+    second: jp_shuriken_scatter_69
+  - first:
+      213: -3421670690772605363
+    second: jp_shuriken_scatter_70
+  - first:
+      213: -1735351378011805420
+    second: jp_shuriken_scatter_71
+  - first:
+      213: 2269651698111729816
+    second: jp_shuriken_scatter_72
+  - first:
+      213: 1742448832086276552
+    second: jp_shuriken_scatter_73
+  - first:
+      213: 2881957764362600052
+    second: jp_shuriken_scatter_74
+  - first:
+      213: 6484060367652280369
+    second: jp_shuriken_scatter_75
+  - first:
+      213: -422140501762476255
+    second: jp_shuriken_scatter_76
+  - first:
+      213: -8974556181586075158
+    second: jp_shuriken_scatter_77
+  - first:
+      213: -3404636974771495694
+    second: jp_shuriken_scatter_78
+  - first:
+      213: 1386934655175991065
+    second: jp_shuriken_scatter_79
+  - first:
+      213: 6635105946077294631
+    second: jp_shuriken_scatter_80
+  - first:
+      213: 5901503324011003500
+    second: jp_shuriken_scatter_81
+  - first:
+      213: 2125068376342168639
+    second: jp_shuriken_scatter_82
+  - first:
+      213: -7141075376733735376
+    second: jp_shuriken_scatter_83
+  - first:
+      213: -1097184330948277268
+    second: jp_shuriken_scatter_84
+  - first:
+      213: -6340876796365496797
+    second: jp_shuriken_scatter_85
+  - first:
+      213: -599510825581389869
+    second: jp_shuriken_scatter_86
+  - first:
+      213: -2673704405371842188
+    second: jp_shuriken_scatter_87
+  - first:
+      213: -5238868528367931799
+    second: jp_shuriken_scatter_88
+  - first:
+      213: 2712088087604770745
+    second: jp_shuriken_scatter_89
+  - first:
+      213: -4364618913553355509
+    second: jp_shuriken_scatter_90
+  - first:
+      213: -2663837382185812973
+    second: jp_shuriken_scatter_91
+  - first:
+      213: -7299800701743059907
+    second: jp_shuriken_scatter_92
+  - first:
+      213: 4991310399730267192
+    second: jp_shuriken_scatter_93
+  - first:
+      213: -3295843277982869616
+    second: jp_shuriken_scatter_94
+  - first:
+      213: 1762331706430604863
+    second: jp_shuriken_scatter_95
+  - first:
+      213: -4798945707814234148
+    second: jp_shuriken_scatter_96
+  - first:
+      213: -6386292246656343812
+    second: jp_shuriken_scatter_97
+  - first:
+      213: -548505908821078268
+    second: jp_shuriken_scatter_98
+  - first:
+      213: 334157313766616104
+    second: jp_shuriken_scatter_99
+  - first:
+      213: -8607479562934283829
+    second: jp_shuriken_scatter_100
+  - first:
+      213: -466645041127105298
+    second: jp_shuriken_scatter_101
+  - first:
+      213: -8981380949240418228
+    second: jp_shuriken_scatter_102
+  - first:
+      213: -7144882448613694449
+    second: jp_shuriken_scatter_103
+  - first:
+      213: 6242168950703169586
+    second: jp_shuriken_scatter_104
+  - first:
+      213: 9201244464457450312
+    second: jp_shuriken_scatter_105
+  - first:
+      213: 9064256738697385351
+    second: jp_shuriken_scatter_106
+  - first:
+      213: 6916836984423278436
+    second: jp_shuriken_scatter_107
+  - first:
+      213: -2731743343914016044
+    second: jp_shuriken_scatter_108
+  - first:
+      213: 4573353041662617463
+    second: jp_shuriken_scatter_109
+  - first:
+      213: 8539547750290085446
+    second: jp_shuriken_scatter_110
+  - first:
+      213: -5609864878809804702
+    second: jp_shuriken_scatter_111
+  - first:
+      213: 1625102415773571728
+    second: jp_shuriken_scatter_112
+  - first:
+      213: 5006181091586974221
+    second: jp_shuriken_scatter_113
+  - first:
+      213: -6218652440411229478
+    second: jp_shuriken_scatter_114
+  - first:
+      213: -7653826773462677719
+    second: jp_shuriken_scatter_115
+  - first:
+      213: 737288792304011830
+    second: jp_shuriken_scatter_116
+  - first:
+      213: -7628173880105985798
+    second: jp_shuriken_scatter_117
+  - first:
+      213: 3535483647530533759
+    second: jp_shuriken_scatter_118
+  - first:
+      213: 2674168941512265450
+    second: jp_shuriken_scatter_119
+  - first:
+      213: -4513975208248658804
+    second: jp_shuriken_scatter_120
+  - first:
+      213: 7329375209172900200
+    second: jp_shuriken_scatter_121
+  - first:
+      213: -6394277678650186444
+    second: jp_shuriken_scatter_122
+  - first:
+      213: -6420796037504571177
+    second: jp_shuriken_scatter_123
+  - first:
+      213: 8698480622372743346
+    second: jp_shuriken_scatter_124
+  - first:
+      213: 4513828841188128846
+    second: jp_shuriken_scatter_125
+  - first:
+      213: -7786457000304998944
+    second: jp_shuriken_scatter_126
+  - first:
+      213: 3102017682473703147
+    second: jp_shuriken_scatter_127
+  - first:
+      213: -5572478006384989190
+    second: jp_shuriken_scatter_128
+  - first:
+      213: -4459609383574504681
+    second: jp_shuriken_scatter_129
+  - first:
+      213: 3606460175744571375
+    second: jp_shuriken_scatter_130
+  - first:
+      213: 3208567005981471386
+    second: jp_shuriken_scatter_131
+  - first:
+      213: -6502242562106334783
+    second: jp_shuriken_scatter_132
+  - first:
+      213: -6611114834040336783
+    second: jp_shuriken_scatter_133
+  - first:
+      213: -4929426530627369874
+    second: jp_shuriken_scatter_134
+  - first:
+      213: 7313741533840243050
+    second: jp_shuriken_scatter_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 83
+        width: 185
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23537f88edd67a640800000000000000
+      internalID: 5091158706313704754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6ed0e6973e0f9c0800000000000000
+      internalID: -3895363566998526277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 171
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a3b76694be667e0800000000000000
+      internalID: -1772470702839219709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 236
+        width: 185
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babec928462109370800000000000000
+      internalID: 8327175933905398699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_4
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 169
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d4a0b96cc4b0340800000000000000
+      internalID: 4831039441173368067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_5
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 186
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf34605e6df80d720800000000000000
+      internalID: 2868951115763172347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 170
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ab9fe0551b825d0800000000000000
+      internalID: -3087022565680891337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_7
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 249
+        width: 184
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec31c3acba4937ed0800000000000000
+      internalID: -2417425109414571058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_8
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 172
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9767fdfb722fc410800000000000000
+      internalID: 1499455116874835868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_9
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 174
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e54f18d5236bed50800000000000000
+      internalID: 6767611879245170150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_10
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 110
+        width: 87
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c550c9b9bad020d0800000000000000
+      internalID: -3449516823345605182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_11
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 112
+        width: 11
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d6fff427ba77210800000000000000
+      internalID: 1330720722368032143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_12
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 200
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd631b6dfedcd0900800000000000000
+      internalID: 652403951021405917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_13
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 96
+        width: 68
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e71e3c4c4e8420800000000000000
+      internalID: 2634126722401297445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_14
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 182
+        width: 101
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d966c8efb3e418560800000000000000
+      internalID: 7314213289407047325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_15
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 175
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ff58bf5a4cfb30800000000000000
+      internalID: 4322411517344479528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_16
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 0
+        width: 93
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376a4ccc18b6d02f0800000000000000
+      internalID: -1005028936603359629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_17
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 117
+        width: 37
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe6a567723f35230800000000000000
+      internalID: 3626509475778293502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_18
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 202
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93031572a01105380800000000000000
+      internalID: -8984662521297162183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_19
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 216
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ced7a658741560800000000000000
+      internalID: 7283578810943850674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_20
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 185
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a365001d5b2ea80800000000000000
+      internalID: -8438982842480444778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_21
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 153
+        width: 73
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6a35dbc122c1580800000000000000
+      internalID: -8855165260486433086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_22
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 148
+        width: 87
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6ffc0fed86ccab0800000000000000
+      internalID: -4986495380673792293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_23
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 145
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba3890721b3e58e0800000000000000
+      internalID: -1702858658714993992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_24
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 153
+        width: 75
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9092a5454fb7fce0800000000000000
+      internalID: -1371417257269096293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_25
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 147
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8182ee1db2d497c00800000000000000
+      internalID: 898834451238103064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_26
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 160
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c7ffd589761e770800000000000000
+      internalID: 8638299464383036554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_27
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 139
+        width: 84
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e3c2f91a07b2180800000000000000
+      internalID: -9139087179355767150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 162
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e978be2851e7f6f0800000000000000
+      internalID: -650803852274533912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_29
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 189
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c6809bf339de250800000000000000
+      internalID: 5975594182487075851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_30
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8cb83f8ef2b7440800000000000000
+      internalID: 4934590494279452918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_31
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 192
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f10d4573cba90ce0800000000000000
+      internalID: -1438429749993209360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_32
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 185
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc473fa1da96c3690800000000000000
+      internalID: -7621100277215300405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_33
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 187
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d8a8633190df0b0800000000000000
+      internalID: -5693384375802360538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_34
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 191
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3d4e222bca4e0e0800000000000000
+      internalID: -2241476833434086432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_35
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 183
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f880f02f19bf5fd0800000000000000
+      internalID: -2350956937116350217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_36
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 183
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3934575b970228f50800000000000000
+      internalID: 6882098887683031955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_37
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 148
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c9b2d5090000a40800000000000000
+      internalID: 5332262578845097055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_38
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 110
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e589baf3eaa21c080800000000000000
+      internalID: -9169000438468732834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_39
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 155
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da877b2bccef58890800000000000000
+      internalID: -7456273452916836179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_40
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 174
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbcf6d89f4162e50800000000000000
+      internalID: 6784132950732557252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_41
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 174
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e9be0dcc4f79290800000000000000
+      internalID: -7883563462173155760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_42
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 178
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a58834c44df99c60800000000000000
+      internalID: 7825564299324589478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_43
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 165
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52535bcfe33832de0800000000000000
+      internalID: -1359098355984812763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_44
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 105
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2c49acf056fec90800000000000000
+      internalID: -7138375765861285170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_45
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 101
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536c8b9352e45c610800000000000000
+      internalID: 1640803561035580981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_46
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 75
+        width: 147
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ffc6fb6f438a30800000000000000
+      internalID: 4216301001269834500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_47
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 97
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf5d1a70b2914e00800000000000000
+      internalID: 1027263476677828559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_48
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 104
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b45aa642cd228040800000000000000
+      internalID: 4648328077832246449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_49
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 108
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87909dfe48731a6f0800000000000000
+      internalID: -675197425029674632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_50
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 113
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf16dea8d743e6a0800000000000000
+      internalID: -6421209647728418867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 86
+        width: 11
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87d85bae95c69b10800000000000000
+      internalID: 1987993570800883596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_52
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 153
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8fc5dcb05bfb210800000000000000
+      internalID: 1350997475529128106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_53
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 159
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03daa9d2086fff90800000000000000
+      internalID: -6917696141166718196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_54
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 155
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecc404d33b307cb0800000000000000
+      internalID: -4868326103401050900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_55
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 155
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9af777fa3e35720800000000000000
+      internalID: 2833858933309811168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_56
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 159
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd567e4444ea8d90800000000000000
+      internalID: -7094607280943505992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_57
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 158
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f99a8e48160f60800000000000000
+      internalID: 8000108513682124825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_58
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 162
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb40abcd7accd6270800000000000000
+      internalID: 8245471514120029371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_59
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 157
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d500fa3c1bfb5860800000000000000
+      internalID: 7519880101491639764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_60
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 83
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60e1bd514226570800000000000000
+      internalID: 8458362726444304118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_61
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 97
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95b3e488eb50c00800000000000000
+      internalID: 866307995976030651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_62
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 89
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357379f4cc91ea70800000000000000
+      internalID: 8854530712199722301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_63
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 139
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8deeac703a476890800000000000000
+      internalID: -7464916285232583286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_64
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 149
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6764b00a38c35daf0800000000000000
+      internalID: -372324858164722058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_65
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 142
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51823c26ccfc8fd0800000000000000
+      internalID: -2338216178436898470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_66
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 137
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba2f704dbfd53b0800000000000000
+      internalID: -5521980680001377525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_67
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 139
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10401bddc38e02f70800000000000000
+      internalID: 9160576990186636289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_68
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 145
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b236217472ce50d0800000000000000
+      internalID: -3432092060639415628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_69
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 103
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673a028d302fc7d80800000000000000
+      internalID: -8251454318924749962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_70
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 121
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d462222b2a8c380d0800000000000000
+      internalID: -3421670690772605363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_71
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 114
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4192f11bd1bcae7e0800000000000000
+      internalID: -1735351378011805420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_72
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 80
+        width: 175
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890dfcdb13c6f7f10800000000000000
+      internalID: 2269651698111729816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_73
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 107
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9fbcb1bfb6e2810800000000000000
+      internalID: 1742448832086276552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_74
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 121
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ef2824155cef720800000000000000
+      internalID: 2881957764362600052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_75
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 128
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385a14ec820cf950800000000000000
+      internalID: 6484060367652280369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_76
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 121
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12774234371442af0800000000000000
+      internalID: -422140501762476255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_77
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 109
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1a6cbb3b8f37380800000000000000
+      internalID: -8974556181586075158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_78
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 120
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc9591c5bc40c0d0800000000000000
+      internalID: -3404636974771495694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_79
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 32
+        width: 11
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f917878b16f3310800000000000000
+      internalID: 1386934655175991065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_80
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 86
+        width: 126
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720f40324b1a41c50800000000000000
+      internalID: 6635105946077294631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_81
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 111
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e7674710a56e150800000000000000
+      internalID: 5901503324011003500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_82
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 77
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f348a4fdd62cd7d10800000000000000
+      internalID: 2125068376342168639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 15
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363f77a7cdc5ec90800000000000000
+      internalID: -7141075376733735376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_84
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 83
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb04b40aa406c0f0800000000000000
+      internalID: -1097184330948277268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_85
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e1e1c262ea008a0800000000000000
+      internalID: -6340876796365496797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_86
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 80
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7583a941c1ea7f0800000000000000
+      internalID: -599510825581389869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_87
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 83
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4711a6b520815ead0800000000000000
+      internalID: -2673704405371842188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_88
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 80
+        width: 76
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ee7a584dccb47b0800000000000000
+      internalID: -5238868528367931799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_89
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 77
+        width: 165
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b730451fb543a520800000000000000
+      internalID: 2712088087604770745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_90
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 9
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d63bd0932cd63c0800000000000000
+      internalID: -4364618913553355509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_91
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 0
+        width: 147
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c7867b306280bd0800000000000000
+      internalID: -2663837382185812973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_92
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 54
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c257110f5e1ba90800000000000000
+      internalID: -7299800701743059907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_93
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 80
+        width: 131
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834b2ab0d52b44540800000000000000
+      internalID: 4991310399730267192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_94
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 0
+        width: 35
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d8743000d242d0800000000000000
+      internalID: -3295843277982869616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_95
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 67
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36443a895f057810800000000000000
+      internalID: 1762331706430604863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_96
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 0
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7d85dfd48b66db0800000000000000
+      internalID: -4798945707814234148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_97
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 86
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0a736a9055f57a0800000000000000
+      internalID: -6386292246656343812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_98
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 80
+        width: 183
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f448338c05368f0800000000000000
+      internalID: -548505908821078268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_99
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c68227e4a23a400800000000000000
+      internalID: 334157313766616104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_100
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 73
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc11edf11f61c8880800000000000000
+      internalID: -8607479562934283829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_101
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 66
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecdb67bec42689f0800000000000000
+      internalID: -466645041127105298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_102
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 54
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c407010bc99bb5380800000000000000
+      internalID: -8981380949240418228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_103
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 31
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f042578a44748dc90800000000000000
+      internalID: -7144882448613694449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_104
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 39
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230a2a69693a0a650800000000000000
+      internalID: 6242168950703169586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_105
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 45
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8430483171361bf70800000000000000
+      internalID: 9201244464457450312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_106
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 45
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7859ff6ba75bacd70800000000000000
+      internalID: 9064256738697385351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_107
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 45
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46765d1279a8dff50800000000000000
+      internalID: 6916836984423278436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_108
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 45
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2a770f6e5e61ad0800000000000000
+      internalID: -2731743343914016044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_109
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 46
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777a0c85c50d77f30800000000000000
+      internalID: 4573353041662617463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646d6863f61928670800000000000000
+      internalID: 8539547750290085446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_111
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 20
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2601a947d91c522b0800000000000000
+      internalID: -5609864878809804702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_112
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 4
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a10d779068d8610800000000000000
+      internalID: 1625102415773571728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_113
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 21
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02a15dcd27897540800000000000000
+      internalID: 5006181091586974221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_114
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 14
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad23ca3ad88e2b9a0800000000000000
+      internalID: -6218652440411229478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_115
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 17
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927026be91528c590800000000000000
+      internalID: -7653826773462677719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_116
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 4
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a482210406b3a00800000000000000
+      internalID: 737288792304011830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_117
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 23
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af89e579548432690800000000000000
+      internalID: -7628173880105985798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_118
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 13
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73824845af801130800000000000000
+      internalID: 3535483647530533759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_119
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 13
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee8834eb7e8c1520800000000000000
+      internalID: 2674168941512265450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_120
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 15
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c843b63d6732b51c0800000000000000
+      internalID: -4513975208248658804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_121
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 23
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8691e488beb27b560800000000000000
+      internalID: 7329375209172900200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_122
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435a8d06456f247a0800000000000000
+      internalID: -6394277678650186444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_123
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 15
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ed41d500c4e6a0800000000000000
+      internalID: -6420796037504571177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_124
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 15
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8652e1a0637b870800000000000000
+      internalID: 8698480622372743346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_125
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e487eef6a6754ae30800000000000000
+      internalID: 4513828841188128846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_126
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e587f5dc92f0f390800000000000000
+      internalID: -7786457000304998944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_127
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 0
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be653d2a5a49c0b20800000000000000
+      internalID: 3102017682473703147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_128
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 6
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbeeb607c49aa2b0800000000000000
+      internalID: -5572478006384989190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_129
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 5
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bfa07c4e84c12c0800000000000000
+      internalID: -4459609383574504681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_130
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 9
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe719d70c68bc0230800000000000000
+      internalID: 3606460175744571375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_131
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92709531be178c20800000000000000
+      internalID: 3208567005981471386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_132
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 6
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e93217d463c5a0800000000000000
+      internalID: -6502242562106334783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_133
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ec5bbe51a9044a0800000000000000
+      internalID: -6611114834040336783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_134
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c19700b8279bb0800000000000000
+      internalID: -4929426530627369874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_shuriken_scatter_135
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 8
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a697197dc21af7560800000000000000
+      internalID: 7313741533840243050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_shuriken_scatter_0: 5091158706313704754
+      jp_shuriken_scatter_1: -3895363566998526277
+      jp_shuriken_scatter_10: -3449516823345605182
+      jp_shuriken_scatter_100: -8607479562934283829
+      jp_shuriken_scatter_101: -466645041127105298
+      jp_shuriken_scatter_102: -8981380949240418228
+      jp_shuriken_scatter_103: -7144882448613694449
+      jp_shuriken_scatter_104: 6242168950703169586
+      jp_shuriken_scatter_105: 9201244464457450312
+      jp_shuriken_scatter_106: 9064256738697385351
+      jp_shuriken_scatter_107: 6916836984423278436
+      jp_shuriken_scatter_108: -2731743343914016044
+      jp_shuriken_scatter_109: 4573353041662617463
+      jp_shuriken_scatter_11: 1330720722368032143
+      jp_shuriken_scatter_110: 8539547750290085446
+      jp_shuriken_scatter_111: -5609864878809804702
+      jp_shuriken_scatter_112: 1625102415773571728
+      jp_shuriken_scatter_113: 5006181091586974221
+      jp_shuriken_scatter_114: -6218652440411229478
+      jp_shuriken_scatter_115: -7653826773462677719
+      jp_shuriken_scatter_116: 737288792304011830
+      jp_shuriken_scatter_117: -7628173880105985798
+      jp_shuriken_scatter_118: 3535483647530533759
+      jp_shuriken_scatter_119: 2674168941512265450
+      jp_shuriken_scatter_12: 652403951021405917
+      jp_shuriken_scatter_120: -4513975208248658804
+      jp_shuriken_scatter_121: 7329375209172900200
+      jp_shuriken_scatter_122: -6394277678650186444
+      jp_shuriken_scatter_123: -6420796037504571177
+      jp_shuriken_scatter_124: 8698480622372743346
+      jp_shuriken_scatter_125: 4513828841188128846
+      jp_shuriken_scatter_126: -7786457000304998944
+      jp_shuriken_scatter_127: 3102017682473703147
+      jp_shuriken_scatter_128: -5572478006384989190
+      jp_shuriken_scatter_129: -4459609383574504681
+      jp_shuriken_scatter_13: 2634126722401297445
+      jp_shuriken_scatter_130: 3606460175744571375
+      jp_shuriken_scatter_131: 3208567005981471386
+      jp_shuriken_scatter_132: -6502242562106334783
+      jp_shuriken_scatter_133: -6611114834040336783
+      jp_shuriken_scatter_134: -4929426530627369874
+      jp_shuriken_scatter_135: 7313741533840243050
+      jp_shuriken_scatter_14: 7314213289407047325
+      jp_shuriken_scatter_15: 4322411517344479528
+      jp_shuriken_scatter_16: -1005028936603359629
+      jp_shuriken_scatter_17: 3626509475778293502
+      jp_shuriken_scatter_18: -8984662521297162183
+      jp_shuriken_scatter_19: 7283578810943850674
+      jp_shuriken_scatter_2: -1772470702839219709
+      jp_shuriken_scatter_20: -8438982842480444778
+      jp_shuriken_scatter_21: -8855165260486433086
+      jp_shuriken_scatter_22: -4986495380673792293
+      jp_shuriken_scatter_23: -1702858658714993992
+      jp_shuriken_scatter_24: -1371417257269096293
+      jp_shuriken_scatter_25: 898834451238103064
+      jp_shuriken_scatter_26: 8638299464383036554
+      jp_shuriken_scatter_27: -9139087179355767150
+      jp_shuriken_scatter_28: -650803852274533912
+      jp_shuriken_scatter_29: 5975594182487075851
+      jp_shuriken_scatter_3: 8327175933905398699
+      jp_shuriken_scatter_30: 4934590494279452918
+      jp_shuriken_scatter_31: -1438429749993209360
+      jp_shuriken_scatter_32: -7621100277215300405
+      jp_shuriken_scatter_33: -5693384375802360538
+      jp_shuriken_scatter_34: -2241476833434086432
+      jp_shuriken_scatter_35: -2350956937116350217
+      jp_shuriken_scatter_36: 6882098887683031955
+      jp_shuriken_scatter_37: 5332262578845097055
+      jp_shuriken_scatter_38: -9169000438468732834
+      jp_shuriken_scatter_39: -7456273452916836179
+      jp_shuriken_scatter_4: 4831039441173368067
+      jp_shuriken_scatter_40: 6784132950732557252
+      jp_shuriken_scatter_41: -7883563462173155760
+      jp_shuriken_scatter_42: 7825564299324589478
+      jp_shuriken_scatter_43: -1359098355984812763
+      jp_shuriken_scatter_44: -7138375765861285170
+      jp_shuriken_scatter_45: 1640803561035580981
+      jp_shuriken_scatter_46: 4216301001269834500
+      jp_shuriken_scatter_47: 1027263476677828559
+      jp_shuriken_scatter_48: 4648328077832246449
+      jp_shuriken_scatter_49: -675197425029674632
+      jp_shuriken_scatter_5: 2868951115763172347
+      jp_shuriken_scatter_50: -6421209647728418867
+      jp_shuriken_scatter_51: 1987993570800883596
+      jp_shuriken_scatter_52: 1350997475529128106
+      jp_shuriken_scatter_53: -6917696141166718196
+      jp_shuriken_scatter_54: -4868326103401050900
+      jp_shuriken_scatter_55: 2833858933309811168
+      jp_shuriken_scatter_56: -7094607280943505992
+      jp_shuriken_scatter_57: 8000108513682124825
+      jp_shuriken_scatter_58: 8245471514120029371
+      jp_shuriken_scatter_59: 7519880101491639764
+      jp_shuriken_scatter_6: -3087022565680891337
+      jp_shuriken_scatter_60: 8458362726444304118
+      jp_shuriken_scatter_61: 866307995976030651
+      jp_shuriken_scatter_62: 8854530712199722301
+      jp_shuriken_scatter_63: -7464916285232583286
+      jp_shuriken_scatter_64: -372324858164722058
+      jp_shuriken_scatter_65: -2338216178436898470
+      jp_shuriken_scatter_66: -5521980680001377525
+      jp_shuriken_scatter_67: 9160576990186636289
+      jp_shuriken_scatter_68: -3432092060639415628
+      jp_shuriken_scatter_69: -8251454318924749962
+      jp_shuriken_scatter_7: -2417425109414571058
+      jp_shuriken_scatter_70: -3421670690772605363
+      jp_shuriken_scatter_71: -1735351378011805420
+      jp_shuriken_scatter_72: 2269651698111729816
+      jp_shuriken_scatter_73: 1742448832086276552
+      jp_shuriken_scatter_74: 2881957764362600052
+      jp_shuriken_scatter_75: 6484060367652280369
+      jp_shuriken_scatter_76: -422140501762476255
+      jp_shuriken_scatter_77: -8974556181586075158
+      jp_shuriken_scatter_78: -3404636974771495694
+      jp_shuriken_scatter_79: 1386934655175991065
+      jp_shuriken_scatter_8: 1499455116874835868
+      jp_shuriken_scatter_80: 6635105946077294631
+      jp_shuriken_scatter_81: 5901503324011003500
+      jp_shuriken_scatter_82: 2125068376342168639
+      jp_shuriken_scatter_83: -7141075376733735376
+      jp_shuriken_scatter_84: -1097184330948277268
+      jp_shuriken_scatter_85: -6340876796365496797
+      jp_shuriken_scatter_86: -599510825581389869
+      jp_shuriken_scatter_87: -2673704405371842188
+      jp_shuriken_scatter_88: -5238868528367931799
+      jp_shuriken_scatter_89: 2712088087604770745
+      jp_shuriken_scatter_9: 6767611879245170150
+      jp_shuriken_scatter_90: -4364618913553355509
+      jp_shuriken_scatter_91: -2663837382185812973
+      jp_shuriken_scatter_92: -7299800701743059907
+      jp_shuriken_scatter_93: 4991310399730267192
+      jp_shuriken_scatter_94: -3295843277982869616
+      jp_shuriken_scatter_95: 1762331706430604863
+      jp_shuriken_scatter_96: -4798945707814234148
+      jp_shuriken_scatter_97: -6386292246656343812
+      jp_shuriken_scatter_98: -548505908821078268
+      jp_shuriken_scatter_99: 334157313766616104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

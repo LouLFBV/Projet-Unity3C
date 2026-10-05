@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: ba083059602266143b145601dfe419f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5259609017180383436
+    second: jp_icicle_fall_0
+  - first:
+      213: -2512091440233745894
+    second: jp_icicle_fall_1
+  - first:
+      213: 8222797586734397850
+    second: jp_icicle_fall_2
+  - first:
+      213: -8826351388303388305
+    second: jp_icicle_fall_3
+  - first:
+      213: -1514611020197934019
+    second: jp_icicle_fall_4
+  - first:
+      213: 4541014277300728691
+    second: jp_icicle_fall_5
+  - first:
+      213: -2781854277070958877
+    second: jp_icicle_fall_6
+  - first:
+      213: 5512659552316878168
+    second: jp_icicle_fall_7
+  - first:
+      213: 8889749796966658737
+    second: jp_icicle_fall_8
+  - first:
+      213: -8080040436227058341
+    second: jp_icicle_fall_9
+  - first:
+      213: 471303575393482597
+    second: jp_icicle_fall_10
+  - first:
+      213: -7271284818342728212
+    second: jp_icicle_fall_11
+  - first:
+      213: -3404350692884843700
+    second: jp_icicle_fall_12
+  - first:
+      213: 1940730143498109899
+    second: jp_icicle_fall_13
+  - first:
+      213: -879467015446871657
+    second: jp_icicle_fall_14
+  - first:
+      213: -3698525040821285559
+    second: jp_icicle_fall_15
+  - first:
+      213: -4433138142671305932
+    second: jp_icicle_fall_16
+  - first:
+      213: -4041906288128324349
+    second: jp_icicle_fall_17
+  - first:
+      213: -4526888486847887463
+    second: jp_icicle_fall_18
+  - first:
+      213: -1242508718578352048
+    second: jp_icicle_fall_19
+  - first:
+      213: 505269259087005837
+    second: jp_icicle_fall_20
+  - first:
+      213: -5724007157084308998
+    second: jp_icicle_fall_21
+  - first:
+      213: -6957909553585753429
+    second: jp_icicle_fall_22
+  - first:
+      213: -4014896338468210618
+    second: jp_icicle_fall_23
+  - first:
+      213: -8545239487988151402
+    second: jp_icicle_fall_24
+  - first:
+      213: -8558886444533593060
+    second: jp_icicle_fall_25
+  - first:
+      213: 2846911859404764358
+    second: jp_icicle_fall_26
+  - first:
+      213: 6185729942144368539
+    second: jp_icicle_fall_27
+  - first:
+      213: 6273391895332128749
+    second: jp_icicle_fall_28
+  - first:
+      213: -822064519673670572
+    second: jp_icicle_fall_29
+  - first:
+      213: -1116917370288459814
+    second: jp_icicle_fall_30
+  - first:
+      213: -344171471277870942
+    second: jp_icicle_fall_31
+  - first:
+      213: -9130290641721895429
+    second: jp_icicle_fall_32
+  - first:
+      213: 9126130317506745601
+    second: jp_icicle_fall_33
+  - first:
+      213: 1256386225648678462
+    second: jp_icicle_fall_34
+  - first:
+      213: -2410022901076984606
+    second: jp_icicle_fall_35
+  - first:
+      213: -6019820327362969926
+    second: jp_icicle_fall_36
+  - first:
+      213: 1647555160740993926
+    second: jp_icicle_fall_37
+  - first:
+      213: 4960135816219299938
+    second: jp_icicle_fall_38
+  - first:
+      213: -4302095589131548885
+    second: jp_icicle_fall_39
+  - first:
+      213: -6422855933292430526
+    second: jp_icicle_fall_40
+  - first:
+      213: -4527234519800202336
+    second: jp_icicle_fall_41
+  - first:
+      213: -3494812802546768336
+    second: jp_icicle_fall_42
+  - first:
+      213: 3360434970145985545
+    second: jp_icicle_fall_43
+  - first:
+      213: -1926742548676480786
+    second: jp_icicle_fall_44
+  - first:
+      213: 1874403777423521870
+    second: jp_icicle_fall_45
+  - first:
+      213: -3728322269413387623
+    second: jp_icicle_fall_46
+  - first:
+      213: 5691528000785905175
+    second: jp_icicle_fall_47
+  - first:
+      213: 1157822042591271410
+    second: jp_icicle_fall_48
+  - first:
+      213: 196404871466426763
+    second: jp_icicle_fall_49
+  - first:
+      213: 3930481449142444126
+    second: jp_icicle_fall_50
+  - first:
+      213: -367315934678174012
+    second: jp_icicle_fall_51
+  - first:
+      213: 1088630108996298812
+    second: jp_icicle_fall_52
+  - first:
+      213: -8194193256608821425
+    second: jp_icicle_fall_53
+  - first:
+      213: 805937287115982022
+    second: jp_icicle_fall_54
+  - first:
+      213: 8853533362141706268
+    second: jp_icicle_fall_55
+  - first:
+      213: -3427813567396336409
+    second: jp_icicle_fall_56
+  - first:
+      213: 7534279535373091379
+    second: jp_icicle_fall_57
+  - first:
+      213: -6059220323881816262
+    second: jp_icicle_fall_58
+  - first:
+      213: -4397919363054593478
+    second: jp_icicle_fall_59
+  - first:
+      213: 524985804410182611
+    second: jp_icicle_fall_60
+  - first:
+      213: 1648636845109074338
+    second: jp_icicle_fall_61
+  - first:
+      213: 5677437359611607849
+    second: jp_icicle_fall_62
+  - first:
+      213: 9129496342676576395
+    second: jp_icicle_fall_63
+  - first:
+      213: -1867396713321885557
+    second: jp_icicle_fall_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_icicle_fall_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4379589277d1207b0800000000000000
+      internalID: -5259609017180383436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12719d0522432dd0800000000000000
+      internalID: -2512091440233745894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a993e31c6de3d1270800000000000000
+      internalID: 8222797586734397850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6196652d20828580800000000000000
+      internalID: -8826351388303388305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cc5384d450bfae0800000000000000
+      internalID: -1514611020197934019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_5
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 11
+        width: 154
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373bc760d6ce40f30800000000000000
+      internalID: 4541014277300728691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_6
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 0
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eec84e164ed469d0800000000000000
+      internalID: -2781854277070958877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_7
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 29
+        width: 153
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85de28fc7a6e08c40800000000000000
+      internalID: 5512659552316878168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_8
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 10
+        width: 140
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27c46275cbe5b70800000000000000
+      internalID: 8889749796966658737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_9
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 248
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55d4eb780eeddf80800000000000000
+      internalID: -8080040436227058341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_10
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 118
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56733b0da186a8600800000000000000
+      internalID: 471303575393482597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_11
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 8
+        width: 138
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedadfd8bf4371b90800000000000000
+      internalID: -7271284818342728212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_12
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 0
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c437eb3f41151c0d0800000000000000
+      internalID: -3404350692884843700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_13
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 110
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3091878cbdeea10800000000000000
+      internalID: 1940730143498109899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_14
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 112
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791cd98b8618bc3f0800000000000000
+      internalID: -879467015446871657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_15
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 108
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dc5fc22133cacc0800000000000000
+      internalID: -3698525040821285559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_16
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 100
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43387d5d8545a72c0800000000000000
+      internalID: -4433138142671305932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_17
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 117
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d81b855a348e7c0800000000000000
+      internalID: -4041906288128324349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_18
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 129
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99740abd7e24d21c0800000000000000
+      internalID: -4526888486847887463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_19
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 117
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050cfce47e8b1cee0800000000000000
+      internalID: -1242508718578352048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_20
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 124
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d884ecfc6b3130700800000000000000
+      internalID: 505269259087005837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_21
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 64
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9323651dd3090b0800000000000000
+      internalID: -5724007157084308998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_22
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 90
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba27937202a807f90800000000000000
+      internalID: -6957909553585753429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_23
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 83
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f59f4d093848c0800000000000000
+      internalID: -4014896338468210618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_24
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 59
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b43d5d5f5396980800000000000000
+      internalID: -8545239487988151402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_25
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 87
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c4ba8202ab83980800000000000000
+      internalID: -8558886444533593060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_26
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 65
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4faa6a043428720800000000000000
+      internalID: 2846911859404764358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_27
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 62
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f3306eb9028d550800000000000000
+      internalID: 6185729942144368539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_28
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 89
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70612e0b09f0750800000000000000
+      internalID: 6273391895332128749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_29
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 62
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4541662cca07794f0800000000000000
+      internalID: -822064519673670572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_30
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 0
+        width: 7
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf2e74c199ef70f0800000000000000
+      internalID: -1116917370288459814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_31
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 46
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0b8a0ded1493bf0800000000000000
+      internalID: -344171471277870942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_32
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 61
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5d7142901ba4180800000000000000
+      internalID: -9130290641721895429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_33
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 25
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10599e4eb2786ae70800000000000000
+      internalID: 9126130317506745601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_34
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 37
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36bb789d949f6110800000000000000
+      internalID: 1256386225648678462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_35
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 34
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecffb8b0f0ed8ed0800000000000000
+      internalID: -2410022901076984606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_36
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 25
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abebadf7e4d457ca0800000000000000
+      internalID: -6019820327362969926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_37
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 19
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b14d780ba4dd610800000000000000
+      internalID: 1647555160740993926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_38
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 31
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2609173be31f5d440800000000000000
+      internalID: 4960135816219299938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_39
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 31
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b270a0cead2eb44c0800000000000000
+      internalID: -4302095589131548885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_40
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 19
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b3894fe8e6dd6a0800000000000000
+      internalID: -6422855933292430526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_41
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 23
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab3c68c0380c21c0800000000000000
+      internalID: -4527234519800202336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_42
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 32
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03666bbb54eef7fc0800000000000000
+      internalID: -3494812802546768336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_43
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 31
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9041a5e0dc9a2ae20800000000000000
+      internalID: 3360434970145985545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_44
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 23
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0f18c3cd5d245e0800000000000000
+      internalID: -1926742548676480786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_45
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 19
+        width: 45
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48baf6fd48330a10800000000000000
+      internalID: 1874403777423521870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_46
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 31
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992df6346a6524cc0800000000000000
+      internalID: -3728322269413387623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_47
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 14
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716780ccf8e5cfe40800000000000000
+      internalID: 5691528000785905175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_48
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 24
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f915c96309611010800000000000000
+      internalID: 1157822042591271410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_49
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 23
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81a9e3a035c9b200800000000000000
+      internalID: 196404871466426763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_50
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 15
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50e56cad00eb8630800000000000000
+      internalID: 3930481449142444126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_51
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 19
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6ba218a1807eaf0800000000000000
+      internalID: -367315934678174012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_52
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 9
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38e48af0579b1f00800000000000000
+      internalID: 1088630108996298812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_53
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 15
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f0ee6d5a0684e80800000000000000
+      internalID: -8194193256608821425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_54
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 13
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c44acd41b34f2b00800000000000000
+      internalID: 805937287115982022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_55
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 17
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18b6815fa11eda70800000000000000
+      internalID: 8853533362141706268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_56
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 15
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eca317c8b5fd60d0800000000000000
+      internalID: -3427813567396336409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_57
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 15
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3328860b1532f8860800000000000000
+      internalID: 7534279535373091379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_58
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f6233f73359eba0800000000000000
+      internalID: -6059220323881816262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_59
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a9156f3a377f2c0800000000000000
+      internalID: -4397919363054593478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_60
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 0
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbddffbecf194700800000000000000
+      internalID: 524985804410182611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_61
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 0
+        width: 153
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9d85cc97221e610800000000000000
+      internalID: 1648636845109074338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_62
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 0
+        width: 153
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b7e2eb23f4ace40800000000000000
+      internalID: 5677437359611607849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_63
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 0
+        width: 153
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b881773bd8c72be70800000000000000
+      internalID: 9129496342676576395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_icicle_fall_64
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 153
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8097b7459ca516e0800000000000000
+      internalID: -1867396713321885557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_icicle_fall_0: -5259609017180383436
+      jp_icicle_fall_1: -2512091440233745894
+      jp_icicle_fall_10: 471303575393482597
+      jp_icicle_fall_11: -7271284818342728212
+      jp_icicle_fall_12: -3404350692884843700
+      jp_icicle_fall_13: 1940730143498109899
+      jp_icicle_fall_14: -879467015446871657
+      jp_icicle_fall_15: -3698525040821285559
+      jp_icicle_fall_16: -4433138142671305932
+      jp_icicle_fall_17: -4041906288128324349
+      jp_icicle_fall_18: -4526888486847887463
+      jp_icicle_fall_19: -1242508718578352048
+      jp_icicle_fall_2: 8222797586734397850
+      jp_icicle_fall_20: 505269259087005837
+      jp_icicle_fall_21: -5724007157084308998
+      jp_icicle_fall_22: -6957909553585753429
+      jp_icicle_fall_23: -4014896338468210618
+      jp_icicle_fall_24: -8545239487988151402
+      jp_icicle_fall_25: -8558886444533593060
+      jp_icicle_fall_26: 2846911859404764358
+      jp_icicle_fall_27: 6185729942144368539
+      jp_icicle_fall_28: 6273391895332128749
+      jp_icicle_fall_29: -822064519673670572
+      jp_icicle_fall_3: -8826351388303388305
+      jp_icicle_fall_30: -1116917370288459814
+      jp_icicle_fall_31: -344171471277870942
+      jp_icicle_fall_32: -9130290641721895429
+      jp_icicle_fall_33: 9126130317506745601
+      jp_icicle_fall_34: 1256386225648678462
+      jp_icicle_fall_35: -2410022901076984606
+      jp_icicle_fall_36: -6019820327362969926
+      jp_icicle_fall_37: 1647555160740993926
+      jp_icicle_fall_38: 4960135816219299938
+      jp_icicle_fall_39: -4302095589131548885
+      jp_icicle_fall_4: -1514611020197934019
+      jp_icicle_fall_40: -6422855933292430526
+      jp_icicle_fall_41: -4527234519800202336
+      jp_icicle_fall_42: -3494812802546768336
+      jp_icicle_fall_43: 3360434970145985545
+      jp_icicle_fall_44: -1926742548676480786
+      jp_icicle_fall_45: 1874403777423521870
+      jp_icicle_fall_46: -3728322269413387623
+      jp_icicle_fall_47: 5691528000785905175
+      jp_icicle_fall_48: 1157822042591271410
+      jp_icicle_fall_49: 196404871466426763
+      jp_icicle_fall_5: 4541014277300728691
+      jp_icicle_fall_50: 3930481449142444126
+      jp_icicle_fall_51: -367315934678174012
+      jp_icicle_fall_52: 1088630108996298812
+      jp_icicle_fall_53: -8194193256608821425
+      jp_icicle_fall_54: 805937287115982022
+      jp_icicle_fall_55: 8853533362141706268
+      jp_icicle_fall_56: -3427813567396336409
+      jp_icicle_fall_57: 7534279535373091379
+      jp_icicle_fall_58: -6059220323881816262
+      jp_icicle_fall_59: -4397919363054593478
+      jp_icicle_fall_6: -2781854277070958877
+      jp_icicle_fall_60: 524985804410182611
+      jp_icicle_fall_61: 1648636845109074338
+      jp_icicle_fall_62: 5677437359611607849
+      jp_icicle_fall_63: 9129496342676576395
+      jp_icicle_fall_64: -1867396713321885557
+      jp_icicle_fall_7: 5512659552316878168
+      jp_icicle_fall_8: 8889749796966658737
+      jp_icicle_fall_9: -8080040436227058341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

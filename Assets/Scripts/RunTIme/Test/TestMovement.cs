@@ -1,6 +1,4 @@
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.UIElements;
 
 public class TestMovement : MonoBehaviour
 {
@@ -12,7 +10,7 @@ public class TestMovement : MonoBehaviour
     [SerializeField] private float _jumpForce = 10.0f;
     private Vector2 _jumpDir = Vector2.zero;
 
-private float _jumpTime = float.MinValue;
+    private float _jumpTime = float.MinValue;
     [SerializeField] private float _jumpInterval = 0.1f;
 
     [SerializeField] private bool _enableSwing = false;

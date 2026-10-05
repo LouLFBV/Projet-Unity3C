@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 1e4f6b443ff40754b95dcf7099e18f22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5551750778962301356
+    second: jp_frost_breath_0
+  - first:
+      213: -3998802211200013058
+    second: jp_frost_breath_1
+  - first:
+      213: 864989266672556925
+    second: jp_frost_breath_2
+  - first:
+      213: 4345661170048245738
+    second: jp_frost_breath_3
+  - first:
+      213: -871049277086004545
+    second: jp_frost_breath_4
+  - first:
+      213: -4187235474631154145
+    second: jp_frost_breath_5
+  - first:
+      213: 5732010850788234682
+    second: jp_frost_breath_6
+  - first:
+      213: -5796684866153860413
+    second: jp_frost_breath_7
+  - first:
+      213: 2400806715834933024
+    second: jp_frost_breath_8
+  - first:
+      213: -1041497702196553586
+    second: jp_frost_breath_9
+  - first:
+      213: 8760763842176798622
+    second: jp_frost_breath_10
+  - first:
+      213: -8082510678011817875
+    second: jp_frost_breath_11
+  - first:
+      213: 8275027687357965024
+    second: jp_frost_breath_12
+  - first:
+      213: -1931890192239455149
+    second: jp_frost_breath_13
+  - first:
+      213: -4874900174738227122
+    second: jp_frost_breath_14
+  - first:
+      213: 651346943017452601
+    second: jp_frost_breath_15
+  - first:
+      213: 4088422977231734010
+    second: jp_frost_breath_16
+  - first:
+      213: -3983625012123912080
+    second: jp_frost_breath_17
+  - first:
+      213: 5937569540624571447
+    second: jp_frost_breath_18
+  - first:
+      213: -7395875059582764227
+    second: jp_frost_breath_19
+  - first:
+      213: -1564283966131080262
+    second: jp_frost_breath_20
+  - first:
+      213: -4335464412156961399
+    second: jp_frost_breath_21
+  - first:
+      213: 3131979033052862127
+    second: jp_frost_breath_22
+  - first:
+      213: -4691484217314972023
+    second: jp_frost_breath_23
+  - first:
+      213: 327507856598270461
+    second: jp_frost_breath_24
+  - first:
+      213: -9092497690948789021
+    second: jp_frost_breath_25
+  - first:
+      213: -7580166728372653740
+    second: jp_frost_breath_26
+  - first:
+      213: -2483713682630604842
+    second: jp_frost_breath_27
+  - first:
+      213: 366347894421915360
+    second: jp_frost_breath_28
+  - first:
+      213: 5637755512856113288
+    second: jp_frost_breath_29
+  - first:
+      213: 8000347184898281038
+    second: jp_frost_breath_30
+  - first:
+      213: -35142037704255405
+    second: jp_frost_breath_31
+  - first:
+      213: 8455482007998311098
+    second: jp_frost_breath_32
+  - first:
+      213: -2365293351990290377
+    second: jp_frost_breath_33
+  - first:
+      213: 4738904113595938797
+    second: jp_frost_breath_34
+  - first:
+      213: 8716993008833380595
+    second: jp_frost_breath_35
+  - first:
+      213: -2932469735302981989
+    second: jp_frost_breath_36
+  - first:
+      213: 802010988065713380
+    second: jp_frost_breath_37
+  - first:
+      213: 4961625397906791698
+    second: jp_frost_breath_38
+  - first:
+      213: 1746078438632702618
+    second: jp_frost_breath_39
+  - first:
+      213: 746886313195217266
+    second: jp_frost_breath_40
+  - first:
+      213: -4122433629408910000
+    second: jp_frost_breath_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_frost_breath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 9
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e247ab41834f2b0800000000000000
+      internalID: -5551750778962301356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 80
+        width: 199
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc606253966188c0800000000000000
+      internalID: -3998802211200013058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_2
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 117
+        width: 7
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b1b86b72f010c00800000000000000
+      internalID: 864989266672556925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 8
+        width: 263
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef1fe25fc3ee4c30800000000000000
+      internalID: 4345661170048245738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 12
+        width: 251
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba8d692c4969e3f0800000000000000
+      internalID: -871049277086004545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_5
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 23
+        width: 239
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1622bf4583f3e5c0800000000000000
+      internalID: -4187235474631154145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_6
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 8
+        width: 8
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5dae1df713c8f40800000000000000
+      internalID: 5732010850788234682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_7
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 9
+        width: 256
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2340e83d90e8fa0800000000000000
+      internalID: -5796684866153860413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_8
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 239
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f96bfecf0615120800000000000000
+      internalID: 2400806715834933024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_9
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 48
+        width: 202
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e885032ab5bdb81f0800000000000000
+      internalID: -1041497702196553586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_10
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 182
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fc8064c4c749970800000000000000
+      internalID: 8760763842176798622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_11
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 153
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60ddcf7c5725df80800000000000000
+      internalID: -8082510678011817875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_12
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 9
+        width: 323
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e26e73b6ddc6d270800000000000000
+      internalID: 8275027687357965024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_13
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 174
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35491821b1c8035e0800000000000000
+      internalID: -1931890192239455149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_14
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 239
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e400d319e10e85cb0800000000000000
+      internalID: -4874900174738227122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_15
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 9
+        width: 261
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934871cf79c0a0900800000000000000
+      internalID: 651346943017452601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_16
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 239
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44171590ffcb830800000000000000
+      internalID: 4088422977231734010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_17
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 8
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0783ef9582257b8c0800000000000000
+      internalID: -3983625012123912080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_18
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 8
+        width: 257
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c5b12e90c766250800000000000000
+      internalID: 5937569540624571447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_19
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 8
+        width: 514
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bf56e71d29c5990800000000000000
+      internalID: -7395875059582764227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_20
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 8
+        width: 255
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3faee450c8a4ae0800000000000000
+      internalID: -1564283966131080262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_21
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 165
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d5901661655d3c0800000000000000
+      internalID: -4335464412156961399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_22
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 102
+        width: 87
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6561d2656077b20800000000000000
+      internalID: 3131979033052862127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_23
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 170
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ee69df5ff74eeb0800000000000000
+      internalID: -4691484217314972023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_24
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 153
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df180bd09aa8b8400800000000000000
+      internalID: 327507856598270461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_25
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 163
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec10f13685f0d180800000000000000
+      internalID: -9092497690948789021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_26
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 90
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451fc11a586ddc690800000000000000
+      internalID: -7580166728372653740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_27
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 114
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7860f9093188dd0800000000000000
+      internalID: -2483713682630604842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_28
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 139
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e60b3f0877851500800000000000000
+      internalID: 366347894421915360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_29
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 112
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880f942d4c45d3e40800000000000000
+      internalID: 5637755512856113288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_30
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 142
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e88a38061f60f60800000000000000
+      internalID: 8000347184898281038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 8
+        width: 8
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35854fdb086238ff0800000000000000
+      internalID: -35142037704255405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_32
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 110
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba22735618e75570800000000000000
+      internalID: 8455482007998311098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_33
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 9
+        width: 258
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738960d6a3acc2fd0800000000000000
+      internalID: -2365293351990290377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_34
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 118
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f58bfe28f3c140800000000000000
+      internalID: 4738904113595938797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_35
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 115
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0c319f4faf8f870800000000000000
+      internalID: 8716993008833380595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_36
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 9
+        width: 257
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b969ea80056cd47d0800000000000000
+      internalID: -2932469735302981989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_37
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 61
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eced919eb0512b00800000000000000
+      internalID: 802010988065713380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_38
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 8
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d5ac6f20c3bd440800000000000000
+      internalID: 4961625397906791698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 8
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92cbacb6115b3810800000000000000
+      internalID: 1746078438632702618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_40
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2712a9905297d5a00800000000000000
+      internalID: 746886313195217266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_frost_breath_41
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 8
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05525f4a47c2ac6c0800000000000000
+      internalID: -4122433629408910000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_frost_breath_0: -5551750778962301356
+      jp_frost_breath_1: -3998802211200013058
+      jp_frost_breath_10: 8760763842176798622
+      jp_frost_breath_11: -8082510678011817875
+      jp_frost_breath_12: 8275027687357965024
+      jp_frost_breath_13: -1931890192239455149
+      jp_frost_breath_14: -4874900174738227122
+      jp_frost_breath_15: 651346943017452601
+      jp_frost_breath_16: 4088422977231734010
+      jp_frost_breath_17: -3983625012123912080
+      jp_frost_breath_18: 5937569540624571447
+      jp_frost_breath_19: -7395875059582764227
+      jp_frost_breath_2: 864989266672556925
+      jp_frost_breath_20: -1564283966131080262
+      jp_frost_breath_21: -4335464412156961399
+      jp_frost_breath_22: 3131979033052862127
+      jp_frost_breath_23: -4691484217314972023
+      jp_frost_breath_24: 327507856598270461
+      jp_frost_breath_25: -9092497690948789021
+      jp_frost_breath_26: -7580166728372653740
+      jp_frost_breath_27: -2483713682630604842
+      jp_frost_breath_28: 366347894421915360
+      jp_frost_breath_29: 5637755512856113288
+      jp_frost_breath_3: 4345661170048245738
+      jp_frost_breath_30: 8000347184898281038
+      jp_frost_breath_31: -35142037704255405
+      jp_frost_breath_32: 8455482007998311098
+      jp_frost_breath_33: -2365293351990290377
+      jp_frost_breath_34: 4738904113595938797
+      jp_frost_breath_35: 8716993008833380595
+      jp_frost_breath_36: -2932469735302981989
+      jp_frost_breath_37: 802010988065713380
+      jp_frost_breath_38: 4961625397906791698
+      jp_frost_breath_39: 1746078438632702618
+      jp_frost_breath_4: -871049277086004545
+      jp_frost_breath_40: 746886313195217266
+      jp_frost_breath_41: -4122433629408910000
+      jp_frost_breath_5: -4187235474631154145
+      jp_frost_breath_6: 5732010850788234682
+      jp_frost_breath_7: -5796684866153860413
+      jp_frost_breath_8: 2400806715834933024
+      jp_frost_breath_9: -1041497702196553586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

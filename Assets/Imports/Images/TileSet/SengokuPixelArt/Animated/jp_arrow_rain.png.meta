@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 505c6dc8f81ed2840bb57e9dadfb952a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 57043549131056295
+    second: jp_arrow_rain_0
+  - first:
+      213: -2030903979521159735
+    second: jp_arrow_rain_1
+  - first:
+      213: 2711589369513920355
+    second: jp_arrow_rain_2
+  - first:
+      213: -8506957107893560747
+    second: jp_arrow_rain_3
+  - first:
+      213: 9131177930665133502
+    second: jp_arrow_rain_4
+  - first:
+      213: -3719083797024144772
+    second: jp_arrow_rain_5
+  - first:
+      213: -9058460540874300746
+    second: jp_arrow_rain_6
+  - first:
+      213: -2008588926256814624
+    second: jp_arrow_rain_7
+  - first:
+      213: 985071652657902950
+    second: jp_arrow_rain_8
+  - first:
+      213: -953421033494856496
+    second: jp_arrow_rain_9
+  - first:
+      213: -4854351138613775736
+    second: jp_arrow_rain_10
+  - first:
+      213: 963558904886024446
+    second: jp_arrow_rain_11
+  - first:
+      213: -841421987621819535
+    second: jp_arrow_rain_12
+  - first:
+      213: 9081713434348224482
+    second: jp_arrow_rain_13
+  - first:
+      213: -1330892145268333848
+    second: jp_arrow_rain_14
+  - first:
+      213: -6680372013536315107
+    second: jp_arrow_rain_15
+  - first:
+      213: -7583703252779445354
+    second: jp_arrow_rain_16
+  - first:
+      213: 3531516617100687328
+    second: jp_arrow_rain_17
+  - first:
+      213: 674778698120788656
+    second: jp_arrow_rain_18
+  - first:
+      213: 1753418736251509156
+    second: jp_arrow_rain_19
+  - first:
+      213: 1997722430506671047
+    second: jp_arrow_rain_20
+  - first:
+      213: 5096607323486685462
+    second: jp_arrow_rain_21
+  - first:
+      213: -8462637583484679131
+    second: jp_arrow_rain_22
+  - first:
+      213: -1762999677345775677
+    second: jp_arrow_rain_23
+  - first:
+      213: -8103428741882544615
+    second: jp_arrow_rain_24
+  - first:
+      213: 4024154118725231463
+    second: jp_arrow_rain_25
+  - first:
+      213: -6262016313496879729
+    second: jp_arrow_rain_26
+  - first:
+      213: -7734082243843783991
+    second: jp_arrow_rain_27
+  - first:
+      213: 6035457178588667032
+    second: jp_arrow_rain_28
+  - first:
+      213: -5719683894625953815
+    second: jp_arrow_rain_29
+  - first:
+      213: -4775758983460982804
+    second: jp_arrow_rain_30
+  - first:
+      213: -7341342023016450486
+    second: jp_arrow_rain_31
+  - first:
+      213: 351476077347588973
+    second: jp_arrow_rain_32
+  - first:
+      213: -5829274569925174017
+    second: jp_arrow_rain_33
+  - first:
+      213: -2495729309536212617
+    second: jp_arrow_rain_34
+  - first:
+      213: -5810042339557678329
+    second: jp_arrow_rain_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_arrow_rain_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a42fa24ec8aac000800000000000000
+      internalID: 57043549131056295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 111
+        width: 155
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdc6bf3797c0d3e0800000000000000
+      internalID: -2030903979521159735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 155
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3674a9a3a2081a520800000000000000
+      internalID: 2711589369513920355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1588059731f980800000000000000
+      internalID: -8506957107893560747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_4
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb58e2ae2f578be70800000000000000
+      internalID: 9131177930665133502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_5
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 162
+        width: 155
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72077cbdf8236cc0800000000000000
+      internalID: -3719083797024144772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_6
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b26b41c122e94280800000000000000
+      internalID: -9058460540874300746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_7
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5eda6730f0024e0800000000000000
+      internalID: -2008588926256814624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_8
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 72
+        width: 155
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6653bfee27dabad00800000000000000
+      internalID: 985071652657902950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_9
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 0
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc37291f94c4c2f0800000000000000
+      internalID: -953421033494856496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_10
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 0
+        width: 153
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882b9efdb51e1acb0800000000000000
+      internalID: -4854351138613775736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_11
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 249
+        width: 154
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef855e508bf3f5d00800000000000000
+      internalID: 963558904886024446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_12
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b2999092ba254f0800000000000000
+      internalID: -841421987621819535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eff736604ab80e70800000000000000
+      internalID: 9081713434348224482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_14
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 14
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26cee25a8b78de0800000000000000
+      internalID: -1330892145268333848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_15
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 12
+        width: 140
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19f4bd3c0d8a43a0800000000000000
+      internalID: -6680372013536315107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_16
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 74
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6935b10621641c690800000000000000
+      internalID: -7583703252779445354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_17
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 70
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7fca807a7720130800000000000000
+      internalID: 3531516617100687328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_18
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 56
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba7d7b96ab4d5900800000000000000
+      internalID: 674778698120788656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 49
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a919c4fc05655810800000000000000
+      internalID: 1753418736251509156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_20
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 52
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb1e2657f559bb10800000000000000
+      internalID: 1997722430506671047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_21
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 57
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61904149b59cab640800000000000000
+      internalID: 5096607323486685462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_22
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 0
+        width: 155
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c868d64fbae8a80800000000000000
+      internalID: -8462637583484679131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_23
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf3dac52219887e0800000000000000
+      internalID: -1762999677345775677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_24
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 39
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e76693e76da8f80800000000000000
+      internalID: -8103428741882544615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_25
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 12
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ea00a9daa8d730800000000000000
+      internalID: 4024154118725231463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_26
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 18
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d31582759d819a0800000000000000
+      internalID: -6262016313496879729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_27
+      rect:
+        serializedVersion: 2
+        x: 2695
+        y: 16
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c209081d250ba490800000000000000
+      internalID: -7734082243843783991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_28
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cdbd2a35042c350800000000000000
+      internalID: 6035457178588667032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_29
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e71c415dc99f90b0800000000000000
+      internalID: -5719683894625953815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_30
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef6de1f18819bdb0800000000000000
+      internalID: -4775758983460982804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_31
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 8
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46f47f73505e1a90800000000000000
+      internalID: -7341342023016450486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_32
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 15
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bc95151a1b0e400800000000000000
+      internalID: 351476077347588973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_33
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc5469d9a14a1fa0800000000000000
+      internalID: -5829274569925174017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_34
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 155
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77920997a636d5dd0800000000000000
+      internalID: -2495729309536212617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_arrow_rain_35
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 0
+        width: 155
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7036fac66459e5fa0800000000000000
+      internalID: -5810042339557678329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_arrow_rain_0: 57043549131056295
+      jp_arrow_rain_1: -2030903979521159735
+      jp_arrow_rain_10: -4854351138613775736
+      jp_arrow_rain_11: 963558904886024446
+      jp_arrow_rain_12: -841421987621819535
+      jp_arrow_rain_13: 9081713434348224482
+      jp_arrow_rain_14: -1330892145268333848
+      jp_arrow_rain_15: -6680372013536315107
+      jp_arrow_rain_16: -7583703252779445354
+      jp_arrow_rain_17: 3531516617100687328
+      jp_arrow_rain_18: 674778698120788656
+      jp_arrow_rain_19: 1753418736251509156
+      jp_arrow_rain_2: 2711589369513920355
+      jp_arrow_rain_20: 1997722430506671047
+      jp_arrow_rain_21: 5096607323486685462
+      jp_arrow_rain_22: -8462637583484679131
+      jp_arrow_rain_23: -1762999677345775677
+      jp_arrow_rain_24: -8103428741882544615
+      jp_arrow_rain_25: 4024154118725231463
+      jp_arrow_rain_26: -6262016313496879729
+      jp_arrow_rain_27: -7734082243843783991
+      jp_arrow_rain_28: 6035457178588667032
+      jp_arrow_rain_29: -5719683894625953815
+      jp_arrow_rain_3: -8506957107893560747
+      jp_arrow_rain_30: -4775758983460982804
+      jp_arrow_rain_31: -7341342023016450486
+      jp_arrow_rain_32: 351476077347588973
+      jp_arrow_rain_33: -5829274569925174017
+      jp_arrow_rain_34: -2495729309536212617
+      jp_arrow_rain_35: -5810042339557678329
+      jp_arrow_rain_4: 9131177930665133502
+      jp_arrow_rain_5: -3719083797024144772
+      jp_arrow_rain_6: -9058460540874300746
+      jp_arrow_rain_7: -2008588926256814624
+      jp_arrow_rain_8: 985071652657902950
+      jp_arrow_rain_9: -953421033494856496
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

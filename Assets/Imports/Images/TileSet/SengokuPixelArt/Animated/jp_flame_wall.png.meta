@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: 46d5c3efe151e2e4b9c6902a19afe541
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5510047949762741750
+    second: jp_flame_wall_0
+  - first:
+      213: 7680176307674968172
+    second: jp_flame_wall_1
+  - first:
+      213: -1586114649089805766
+    second: jp_flame_wall_2
+  - first:
+      213: -8967624989175205553
+    second: jp_flame_wall_3
+  - first:
+      213: -7455770093873239099
+    second: jp_flame_wall_4
+  - first:
+      213: -8170984609532534902
+    second: jp_flame_wall_5
+  - first:
+      213: -5150792322730384914
+    second: jp_flame_wall_6
+  - first:
+      213: -3075847927974445357
+    second: jp_flame_wall_7
+  - first:
+      213: 2611004771262474210
+    second: jp_flame_wall_8
+  - first:
+      213: 4482807496316627264
+    second: jp_flame_wall_9
+  - first:
+      213: 7877459793151511996
+    second: jp_flame_wall_10
+  - first:
+      213: 562652309211304235
+    second: jp_flame_wall_11
+  - first:
+      213: -2985967489042281307
+    second: jp_flame_wall_12
+  - first:
+      213: -8891665886572319667
+    second: jp_flame_wall_13
+  - first:
+      213: -6951607990148566166
+    second: jp_flame_wall_14
+  - first:
+      213: 5669439821004115502
+    second: jp_flame_wall_15
+  - first:
+      213: 9026155815428972343
+    second: jp_flame_wall_16
+  - first:
+      213: 307341429661483236
+    second: jp_flame_wall_17
+  - first:
+      213: 4692403273843455136
+    second: jp_flame_wall_18
+  - first:
+      213: 5285545088242280106
+    second: jp_flame_wall_19
+  - first:
+      213: 5643450662207501724
+    second: jp_flame_wall_20
+  - first:
+      213: 3031505479470933593
+    second: jp_flame_wall_21
+  - first:
+      213: 2256591088141778272
+    second: jp_flame_wall_22
+  - first:
+      213: 3190222758293442226
+    second: jp_flame_wall_23
+  - first:
+      213: 2208770327263707312
+    second: jp_flame_wall_24
+  - first:
+      213: 1111082605365198415
+    second: jp_flame_wall_25
+  - first:
+      213: 7361249578042072675
+    second: jp_flame_wall_26
+  - first:
+      213: 4219317778817904845
+    second: jp_flame_wall_27
+  - first:
+      213: -5635807062009236989
+    second: jp_flame_wall_28
+  - first:
+      213: -8192012997268390427
+    second: jp_flame_wall_29
+  - first:
+      213: 5214047974902663304
+    second: jp_flame_wall_30
+  - first:
+      213: -6092968757656713312
+    second: jp_flame_wall_31
+  - first:
+      213: -7013231379597240487
+    second: jp_flame_wall_32
+  - first:
+      213: 7689657252239698170
+    second: jp_flame_wall_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_flame_wall_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab50b45906883b0800000000000000
+      internalID: -5510047949762741750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 251
+        width: 153
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60765719a7759a60800000000000000
+      internalID: 7680176307674968172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3275f7512dfcf9e0800000000000000
+      internalID: -1586114649089805766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 154
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41bb49b5989c8380800000000000000
+      internalID: -8967624989175205553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 249
+        width: 152
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb64bb1a98c78890800000000000000
+      internalID: -7455770093873239099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_5
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 214
+        width: 154
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f11a31ac4da9e80800000000000000
+      internalID: -8170984609532534902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_6
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 164
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a8db2ca5b488b0800000000000000
+      internalID: -5150792322730384914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_7
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 0
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de36f52b946055d0800000000000000
+      internalID: -3075847927974445357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_8
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 0
+        width: 263
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e723f971072c3420800000000000000
+      internalID: 2611004771262474210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_9
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 103
+        width: 203
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049296ebaa1263e30800000000000000
+      internalID: 4482807496316627264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_10
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 29
+        width: 372
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc73ff1fb525d60800000000000000
+      internalID: 7877459793151511996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_11
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 0
+        width: 264
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21d79e4b41fec700800000000000000
+      internalID: 562652309211304235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 153
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac05c89366bf86d0800000000000000
+      internalID: -2985967489042281307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_13
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 0
+        width: 154
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ce5697cf47a9480800000000000000
+      internalID: -8891665886572319667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_14
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 141
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a637d693d5de68f90800000000000000
+      internalID: -6951607990148566166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_15
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 63
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e876eaa75edae40800000000000000
+      internalID: 5669439821004115502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_16
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 103
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f58f934e8534d70800000000000000
+      internalID: 9026155815428972343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_17
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 103
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0cbb3e665e34400800000000000000
+      internalID: 307341429661483236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_18
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 48
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4b1588ae3ce1140800000000000000
+      internalID: 4692403273843455136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_19
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 54
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6edf4f0470a5940800000000000000
+      internalID: 5285545088242280106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_20
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 48
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95325c1a70915e40800000000000000
+      internalID: 5643450662207501724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_21
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 68
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956e3860c22121a20800000000000000
+      internalID: 3031505479470933593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_22
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 51
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db00483a5015f10800000000000000
+      internalID: 2256591088141778272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_23
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 73
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be827632b2f54c20800000000000000
+      internalID: 3190222758293442226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_24
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 67
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b00afaf8e027ae10800000000000000
+      internalID: 2208770327263707312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_25
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 76
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e78e82ebb5b6f00800000000000000
+      internalID: 1111082605365198415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_26
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 48
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e113a5d79682660800000000000000
+      internalID: 7361249578042072675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_27
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 54
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc07ee83a270e8a30800000000000000
+      internalID: 4219317778817904845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_28
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 48
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3023d4e365799c1b0800000000000000
+      internalID: -5635807062009236989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_29
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 54
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed3f66059f105e80800000000000000
+      internalID: -8192012997268390427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_30
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 0
+        width: 154
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880be902050c5840800000000000000
+      internalID: 5214047974902663304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_31
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 0
+        width: 153
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a78154623d617ba0800000000000000
+      internalID: -6092968757656713312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_32
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 0
+        width: 153
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957db7bc73ffbae90800000000000000
+      internalID: -7013231379597240487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_flame_wall_33
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 0
+        width: 153
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8e044878627ba60800000000000000
+      internalID: 7689657252239698170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_flame_wall_0: -5510047949762741750
+      jp_flame_wall_1: 7680176307674968172
+      jp_flame_wall_10: 7877459793151511996
+      jp_flame_wall_11: 562652309211304235
+      jp_flame_wall_12: -2985967489042281307
+      jp_flame_wall_13: -8891665886572319667
+      jp_flame_wall_14: -6951607990148566166
+      jp_flame_wall_15: 5669439821004115502
+      jp_flame_wall_16: 9026155815428972343
+      jp_flame_wall_17: 307341429661483236
+      jp_flame_wall_18: 4692403273843455136
+      jp_flame_wall_19: 5285545088242280106
+      jp_flame_wall_2: -1586114649089805766
+      jp_flame_wall_20: 5643450662207501724
+      jp_flame_wall_21: 3031505479470933593
+      jp_flame_wall_22: 2256591088141778272
+      jp_flame_wall_23: 3190222758293442226
+      jp_flame_wall_24: 2208770327263707312
+      jp_flame_wall_25: 1111082605365198415
+      jp_flame_wall_26: 7361249578042072675
+      jp_flame_wall_27: 4219317778817904845
+      jp_flame_wall_28: -5635807062009236989
+      jp_flame_wall_29: -8192012997268390427
+      jp_flame_wall_3: -8967624989175205553
+      jp_flame_wall_30: 5214047974902663304
+      jp_flame_wall_31: -6092968757656713312
+      jp_flame_wall_32: -7013231379597240487
+      jp_flame_wall_33: 7689657252239698170
+      jp_flame_wall_4: -7455770093873239099
+      jp_flame_wall_5: -8170984609532534902
+      jp_flame_wall_6: -5150792322730384914
+      jp_flame_wall_7: -3075847927974445357
+      jp_flame_wall_8: 2611004771262474210
+      jp_flame_wall_9: 4482807496316627264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

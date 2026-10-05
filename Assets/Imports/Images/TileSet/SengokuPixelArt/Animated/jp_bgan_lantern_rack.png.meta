@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 109139112203baf4dad607fcb87ad38d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2663144241482613306
+    second: jp_bgan_lantern_rack_0
+  - first:
+      213: 857870598303048941
+    second: jp_bgan_lantern_rack_1
+  - first:
+      213: 120365930226118521
+    second: jp_bgan_lantern_rack_2
+  - first:
+      213: -1567834649880593359
+    second: jp_bgan_lantern_rack_3
+  - first:
+      213: 1437556854462621679
+    second: jp_bgan_lantern_rack_4
+  - first:
+      213: 1800478706836697709
+    second: jp_bgan_lantern_rack_5
+  - first:
+      213: -3338588953707637192
+    second: jp_bgan_lantern_rack_6
+  - first:
+      213: 7684813460486161660
+    second: jp_bgan_lantern_rack_7
+  - first:
+      213: 2117899625819601803
+    second: jp_bgan_lantern_rack_8
+  - first:
+      213: -6439636839401320273
+    second: jp_bgan_lantern_rack_9
+  - first:
+      213: -6163049457889264798
+    second: jp_bgan_lantern_rack_10
+  - first:
+      213: -2740137330518857513
+    second: jp_bgan_lantern_rack_11
+  - first:
+      213: -1475123290801574229
+    second: jp_bgan_lantern_rack_12
+  - first:
+      213: -5036188754579840860
+    second: jp_bgan_lantern_rack_13
+  - first:
+      213: 7618407970261102884
+    second: jp_bgan_lantern_rack_14
+  - first:
+      213: -6107924343780073994
+    second: jp_bgan_lantern_rack_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd3dcc1c6c9a0bd0800000000000000
+      internalID: -2663144241482613306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4ea1393c4c7eb00800000000000000
+      internalID: 857870598303048941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_2
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fef220d20aba100800000000000000
+      internalID: 120365930226118521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c715351beed3ae0800000000000000
+      internalID: -1567834649880593359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_4
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72ca6b75a33f310800000000000000
+      internalID: 1437556854462621679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_5
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62f7a238d59cf810800000000000000
+      internalID: 1800478706836697709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_6
+      rect:
+        serializedVersion: 2
+        x: 1721
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83696330903faa1d0800000000000000
+      internalID: -3338588953707637192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_7
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf40b6d5021f5aa60800000000000000
+      internalID: 7684813460486161660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_8
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bf8e21d7a446d10800000000000000
+      internalID: 2117899625819601803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_9
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa017f8c960d1a6a0800000000000000
+      internalID: -6439636839401320273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_10
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bb859db23787aa0800000000000000
+      internalID: -6163049457889264798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_11
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8e2a2ad9319f9d0800000000000000
+      internalID: -2740137330518857513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_12
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baeeddbbe2f478be0800000000000000
+      internalID: -1475123290801574229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_13
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0a375b20ddb1ab0800000000000000
+      internalID: -5036188754579840860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_14
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 0
+        width: 289
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421fa655fa50ab960800000000000000
+      internalID: 7618407970261102884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_bgan_lantern_rack_15
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 0
+        width: 288
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd1706ab2b4c3ba0800000000000000
+      internalID: -6107924343780073994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_bgan_lantern_rack_0: -2663144241482613306
+      jp_bgan_lantern_rack_1: 857870598303048941
+      jp_bgan_lantern_rack_10: -6163049457889264798
+      jp_bgan_lantern_rack_11: -2740137330518857513
+      jp_bgan_lantern_rack_12: -1475123290801574229
+      jp_bgan_lantern_rack_13: -5036188754579840860
+      jp_bgan_lantern_rack_14: 7618407970261102884
+      jp_bgan_lantern_rack_15: -6107924343780073994
+      jp_bgan_lantern_rack_2: 120365930226118521
+      jp_bgan_lantern_rack_3: -1567834649880593359
+      jp_bgan_lantern_rack_4: 1437556854462621679
+      jp_bgan_lantern_rack_5: 1800478706836697709
+      jp_bgan_lantern_rack_6: -3338588953707637192
+      jp_bgan_lantern_rack_7: 7684813460486161660
+      jp_bgan_lantern_rack_8: 2117899625819601803
+      jp_bgan_lantern_rack_9: -6439636839401320273
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

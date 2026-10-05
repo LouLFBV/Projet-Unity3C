@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 4b071d99022e5e848aae85a3e04ca5e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3156115763141500337
+    second: NINJA BASIC UI_0
+  - first:
+      213: 6825353597477903885
+    second: NINJA BASIC UI_1
+  - first:
+      213: 5924417626709005034
+    second: NINJA BASIC UI_2
+  - first:
+      213: 2439204505547544767
+    second: NINJA BASIC UI_3
+  - first:
+      213: 6428300815723601570
+    second: NINJA BASIC UI_4
+  - first:
+      213: 2389648121717835874
+    second: NINJA BASIC UI_5
+  - first:
+      213: 7203926798469492605
+    second: NINJA BASIC UI_6
+  - first:
+      213: 3392668909744517135
+    second: NINJA BASIC UI_7
+  - first:
+      213: -7096782070901549037
+    second: NINJA BASIC UI_8
+  - first:
+      213: -7330939088464972894
+    second: NINJA BASIC UI_9
+  - first:
+      213: 7238756267903889228
+    second: NINJA BASIC UI_10
+  - first:
+      213: 1264278446152137652
+    second: NINJA BASIC UI_11
+  - first:
+      213: 5720822883474244925
+    second: NINJA BASIC UI_12
+  - first:
+      213: 2687373080325272601
+    second: NINJA BASIC UI_13
+  - first:
+      213: 7206759948016440453
+    second: NINJA BASIC UI_14
+  - first:
+      213: -7001326532955099915
+    second: NINJA BASIC UI_15
+  - first:
+      213: 6359955065875684505
+    second: NINJA BASIC UI_16
+  - first:
+      213: 6139393439727207590
+    second: NINJA BASIC UI_17
+  - first:
+      213: 9167301740735037598
+    second: NINJA BASIC UI_18
+  - first:
+      213: 4395809958487491308
+    second: NINJA BASIC UI_19
+  - first:
+      213: 34255476240559583
+    second: NINJA BASIC UI_20
+  - first:
+      213: -522671222930742505
+    second: NINJA BASIC UI_21
+  - first:
+      213: 6294697409020637854
+    second: NINJA BASIC UI_22
+  - first:
+      213: -8764346690146533047
+    second: NINJA BASIC UI_23
+  - first:
+      213: 8524248515057099195
+    second: NINJA BASIC UI_24
+  - first:
+      213: -3439978876967774634
+    second: NINJA BASIC UI_25
+  - first:
+      213: -3891880428059425802
+    second: NINJA BASIC UI_26
+  - first:
+      213: -5984690202194618068
+    second: NINJA BASIC UI_27
+  - first:
+      213: 2585511968252323093
+    second: NINJA BASIC UI_28
+  - first:
+      213: 3951704238046506932
+    second: NINJA BASIC UI_29
+  - first:
+      213: -7784707553209729728
+    second: NINJA BASIC UI_30
+  - first:
+      213: 5654179891355851436
+    second: NINJA BASIC UI_31
+  - first:
+      213: 3457592287930704848
+    second: NINJA BASIC UI_32
+  - first:
+      213: 1413864276382516467
+    second: NINJA BASIC UI_33
+  - first:
+      213: 2400505144453178239
+    second: NINJA BASIC UI_34
+  - first:
+      213: -5729484191695574281
+    second: NINJA BASIC UI_35
+  - first:
+      213: 9214443801545878806
+    second: NINJA BASIC UI_36
+  - first:
+      213: 4976833261069073192
+    second: NINJA BASIC UI_37
+  - first:
+      213: -4884286558162842557
+    second: NINJA BASIC UI_38
+  - first:
+      213: 2290256094267521496
+    second: NINJA BASIC UI_39
+  - first:
+      213: 7137247140234678745
+    second: NINJA BASIC UI_40
+  - first:
+      213: 6422603033954072747
+    second: NINJA BASIC UI_41
+  - first:
+      213: 8467522735495640073
+    second: NINJA BASIC UI_42
+  - first:
+      213: 5836504269500192587
+    second: NINJA BASIC UI_43
+  - first:
+      213: 1724242869989219815
+    second: NINJA BASIC UI_44
+  - first:
+      213: 2047612617700406405
+    second: NINJA BASIC UI_45
+  - first:
+      213: 4689144210913026531
+    second: NINJA BASIC UI_46
+  - first:
+      213: 3186362976432657703
+    second: NINJA BASIC UI_47
+  - first:
+      213: 407064545693117572
+    second: NINJA BASIC UI_48
+  - first:
+      213: -8572587742482904510
+    second: NINJA BASIC UI_49
+  - first:
+      213: -6112028238436021416
+    second: NINJA BASIC UI_50
+  - first:
+      213: -3893042190060553995
+    second: NINJA BASIC UI_51
+  - first:
+      213: -8539762812100471564
+    second: NINJA BASIC UI_52
+  - first:
+      213: -3156450505827570875
+    second: NINJA BASIC UI_53
+  - first:
+      213: 3933259654902612564
+    second: NINJA BASIC UI_54
+  - first:
+      213: 3157902316542370144
+    second: NINJA BASIC UI_55
+  - first:
+      213: -9049458864010945606
+    second: NINJA BASIC UI_56
+  - first:
+      213: -7347725972617236625
+    second: NINJA BASIC UI_57
+  - first:
+      213: 8678509935367069140
+    second: NINJA BASIC UI_58
+  - first:
+      213: -164662642663181899
+    second: NINJA BASIC UI_59
+  - first:
+      213: 2939614386742590605
+    second: NINJA BASIC UI_60
+  - first:
+      213: 6964709209754247741
+    second: NINJA BASIC UI_61
+  - first:
+      213: 4579356041700142748
+    second: NINJA BASIC UI_62
+  - first:
+      213: 1221015589581400252
+    second: NINJA BASIC UI_63
+  - first:
+      213: -8574350472179824605
+    second: NINJA BASIC UI_64
+  - first:
+      213: 4942071528497150360
+    second: NINJA BASIC UI_65
+  - first:
+      213: 5261360697964992547
+    second: NINJA BASIC UI_66
+  - first:
+      213: 4339107261250078305
+    second: NINJA BASIC UI_67
+  - first:
+      213: 6768598222433374294
+    second: NINJA BASIC UI_68
+  - first:
+      213: 6289923892603284600
+    second: NINJA BASIC UI_69
+  - first:
+      213: 5342032413343080849
+    second: NINJA BASIC UI_70
+  - first:
+      213: -81183746724596830
+    second: NINJA BASIC UI_71
+  - first:
+      213: 8593438863965659709
+    second: NINJA BASIC UI_72
+  - first:
+      213: -834376651124511484
+    second: NINJA BASIC UI_73
+  - first:
+      213: -4984654169556451961
+    second: NINJA BASIC UI_74
+  - first:
+      213: -7586644000603000829
+    second: NINJA BASIC UI_75
+  - first:
+      213: 3364366001654460198
+    second: NINJA BASIC UI_76
+  - first:
+      213: 8919961249713736337
+    second: NINJA BASIC UI_77
+  - first:
+      213: -1188770096371192528
+    second: NINJA BASIC UI_78
+  - first:
+      213: 6590407269790480140
+    second: NINJA BASIC UI_79
+  - first:
+      213: 6889512149271844192
+    second: NINJA BASIC UI_80
+  - first:
+      213: 7122878827326137578
+    second: NINJA BASIC UI_81
+  - first:
+      213: -5748353160520046584
+    second: NINJA BASIC UI_82
+  - first:
+      213: 698102060496897725
+    second: NINJA BASIC UI_83
+  - first:
+      213: -8318270294718646226
+    second: NINJA BASIC UI_84
+  - first:
+      213: 5611214851467378806
+    second: NINJA BASIC UI_85
+  - first:
+      213: -5905178442902518136
+    second: NINJA BASIC UI_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NINJA BASIC UI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a0fb6f693334d0800000000000000
+      internalID: -3156115763141500337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 295
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eda144fe688be50800000000000000
+      internalID: 6825353597477903885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 321
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae29d0d4172c73250800000000000000
+      internalID: 5924417626709005034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 322
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb891b7039bc9d120800000000000000
+      internalID: 2439204505547544767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 309
+        width: 50
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae1f868889e53950800000000000000
+      internalID: 6428300815723601570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 305
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268cb294e4cb92120800000000000000
+      internalID: 2389648121717835874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 293
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe0b2514d79f360800000000000000
+      internalID: 7203926798469492605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_7
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 289
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0075d5f56e251f20800000000000000
+      internalID: 3392668909744517135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3185d8f8e4a238d90800000000000000
+      internalID: -7096782070901549037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f4027db5434a90800000000000000
+      internalID: -7330939088464972894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 260
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f2b0c197a357460800000000000000
+      internalID: 7238756267903889228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 273
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb4106c8e9b8110800000000000000
+      internalID: 1264278446152137652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 257
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3588603a12746f40800000000000000
+      internalID: 5720822883474244925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 241
+        width: 80
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143cb704977b4520800000000000000
+      internalID: 2687373080325272601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584580b5dfd830460800000000000000
+      internalID: 7206759948016440453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fca1b6ec9a46de90800000000000000
+      internalID: -7001326532955099915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c57f89f69134850800000000000000
+      internalID: 6359955065875684505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 225
+        width: 80
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4cd473ec1833550800000000000000
+      internalID: 6139393439727207590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_18
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 196
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90055ddc5cc83f70800000000000000
+      internalID: 9167301740735037598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 212
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce285c30edd010d30800000000000000
+      internalID: 4395809958487491308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 212
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd2ee49c23b97000800000000000000
+      internalID: 34255476240559583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 212
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713e4eeba491fb8f0800000000000000
+      internalID: -522671222930742505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 212
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e923f3951f14b5750800000000000000
+      internalID: 6294697409020637854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 212
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941027dee19ce5680800000000000000
+      internalID: -8764346690146533047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_24
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 212
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1212d6cd63c4670800000000000000
+      internalID: 8524248515057099195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_25
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 196
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6561d7bef6db240d0800000000000000
+      internalID: -3439978876967774634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 196
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f30939ee534df9c0800000000000000
+      internalID: -3891880428059425802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 196
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29dd6728fb12fca0800000000000000
+      internalID: -5984690202194618068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 196
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515633ebf6591e320800000000000000
+      internalID: 2585511968252323093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 164
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfea26411647d630800000000000000
+      internalID: 3951704238046506932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_30
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 180
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d32aab9b927f390800000000000000
+      internalID: -7784707553209729728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 180
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa1c6077aea77e40800000000000000
+      internalID: 5654179891355851436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 180
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d36d34edd5dbff20800000000000000
+      internalID: 3457592287930704848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_33
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 180
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f40562811e0f9310800000000000000
+      internalID: 1413864276382516467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7321a0e5be405120800000000000000
+      internalID: 2400505144453178239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 180
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fae4c7db78cc70b0800000000000000
+      internalID: -5729484191695574281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 180
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d21f931d740ef70800000000000000
+      internalID: 9214443801545878806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 180
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bfe588b73411540800000000000000
+      internalID: 4976833261069073192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 180
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0d7fd047873cb0800000000000000
+      internalID: -4884286558162842557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d93d7f88cf98cf10800000000000000
+      internalID: 2290256094267521496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d15cd395789c0360800000000000000
+      internalID: 7137247140234678745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8bd245e6ba12950800000000000000
+      internalID: 6422603033954072747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 150
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904f2c8a01fa28570800000000000000
+      internalID: 8467522735495640073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471c91c5bd6ff050800000000000000
+      internalID: 5836504269500192587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_44
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 164
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed153c31cdbde710800000000000000
+      internalID: 1724242869989219815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_45
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 164
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f3abb3d49a6c10800000000000000
+      internalID: 2047612617700406405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 164
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1ec00d0df231140800000000000000
+      internalID: 4689144210913026531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_47
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 164
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72599b7be3c383c20800000000000000
+      internalID: 3186362976432657703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_48
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 164
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ca1be2c0f26a500800000000000000
+      internalID: 407064545693117572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_49
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 164
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a40732edc080980800000000000000
+      internalID: -8572587742482904510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 164
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b4dd633b6bd2ba0800000000000000
+      internalID: -6112028238436021416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 132
+        width: 66
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8f4dd11c229f9c0800000000000000
+      internalID: -3893042190060553995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_52
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 148
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f419aec7faac7980800000000000000
+      internalID: -8539762812100471564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_53
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 148
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bab011df80234d0800000000000000
+      internalID: -3156450505827570875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_54
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45288db11deb59630800000000000000
+      internalID: 3933259654902612564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06124e4fc6f13db20800000000000000
+      internalID: 3157902316542370144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_56
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 148
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb1e19fb1dd96280800000000000000
+      internalID: -9049458864010945606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_57
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 148
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fec376822a70a90800000000000000
+      internalID: -7347725972617236625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 148
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd90453ec2407870800000000000000
+      internalID: 8678509935367069140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_59
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1b84ce23007bdf0800000000000000
+      internalID: -164662642663181899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_60
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 148
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7b62c5bb9bc820800000000000000
+      internalID: 2939614386742590605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_61
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 148
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322b4b202e97a060800000000000000
+      internalID: 6964709209754247741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e6395be042d8f30800000000000000
+      internalID: 4579356041700142748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8a632a53be1f010800000000000000
+      internalID: 1221015589581400252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 132
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328c406aca9c10980800000000000000
+      internalID: -8574350472179824605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899f4a6fed3c59440800000000000000
+      internalID: 4942071528497150360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328976dcdab140940800000000000000
+      internalID: 5261360697964992547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_67
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1660125801b973c30800000000000000
+      internalID: 4339107261250078305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_68
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 132
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6505b73c834eeed50800000000000000
+      internalID: 6768598222433374294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6cd2747c4a4750800000000000000
+      internalID: 6289923892603284600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_70
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191efe73d26b22a40800000000000000
+      internalID: 5342032413343080849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_71
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3f1feffc39fdef0800000000000000
+      internalID: -81183746724596830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_72
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32a5b5ed17024770800000000000000
+      internalID: 8593438863965659709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_73
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 132
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40de7d44bd2bb64f0800000000000000
+      internalID: -834376651124511484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dfa6f4173f2dab0800000000000000
+      internalID: -4984654169556451961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_75
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b5ba2a73d6b690800000000000000
+      internalID: -7586644000603000829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_76
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fe307ad01a0be20800000000000000
+      internalID: 3364366001654460198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_77
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 132
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19acf632f711acb70800000000000000
+      internalID: 8919961249713736337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_78
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 132
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d203e45e3a08fe0800000000000000
+      internalID: -1188770096371192528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 132
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0773019e74d57b50800000000000000
+      internalID: 6590407269790480140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 161
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065161d2cc67c9f50800000000000000
+      internalID: 6889512149271844192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ece80e8c89d260800000000000000
+      internalID: 7122878827326137578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_82
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80865bfa14fb930b0800000000000000
+      internalID: -5748353160520046584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_83
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6c2e4102820b900800000000000000
+      internalID: 698102060496897725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_84
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 47
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e287c913d319f8c80800000000000000
+      internalID: -8318270294718646226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700c1c8d2a0fdd40800000000000000
+      internalID: 5611214851467378806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NINJA BASIC UI_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886408f3e779c0ea0800000000000000
+      internalID: -5905178442902518136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NINJA BASIC UI_0: -3156115763141500337
+      NINJA BASIC UI_1: 6825353597477903885
+      NINJA BASIC UI_10: 7238756267903889228
+      NINJA BASIC UI_11: 1264278446152137652
+      NINJA BASIC UI_12: 5720822883474244925
+      NINJA BASIC UI_13: 2687373080325272601
+      NINJA BASIC UI_14: 7206759948016440453
+      NINJA BASIC UI_15: -7001326532955099915
+      NINJA BASIC UI_16: 6359955065875684505
+      NINJA BASIC UI_17: 6139393439727207590
+      NINJA BASIC UI_18: 9167301740735037598
+      NINJA BASIC UI_19: 4395809958487491308
+      NINJA BASIC UI_2: 5924417626709005034
+      NINJA BASIC UI_20: 34255476240559583
+      NINJA BASIC UI_21: -522671222930742505
+      NINJA BASIC UI_22: 6294697409020637854
+      NINJA BASIC UI_23: -8764346690146533047
+      NINJA BASIC UI_24: 8524248515057099195
+      NINJA BASIC UI_25: -3439978876967774634
+      NINJA BASIC UI_26: -3891880428059425802
+      NINJA BASIC UI_27: -5984690202194618068
+      NINJA BASIC UI_28: 2585511968252323093
+      NINJA BASIC UI_29: 3951704238046506932
+      NINJA BASIC UI_3: 2439204505547544767
+      NINJA BASIC UI_30: -7784707553209729728
+      NINJA BASIC UI_31: 5654179891355851436
+      NINJA BASIC UI_32: 3457592287930704848
+      NINJA BASIC UI_33: 1413864276382516467
+      NINJA BASIC UI_34: 2400505144453178239
+      NINJA BASIC UI_35: -5729484191695574281
+      NINJA BASIC UI_36: 9214443801545878806
+      NINJA BASIC UI_37: 4976833261069073192
+      NINJA BASIC UI_38: -4884286558162842557
+      NINJA BASIC UI_39: 2290256094267521496
+      NINJA BASIC UI_4: 6428300815723601570
+      NINJA BASIC UI_40: 7137247140234678745
+      NINJA BASIC UI_41: 6422603033954072747
+      NINJA BASIC UI_42: 8467522735495640073
+      NINJA BASIC UI_43: 5836504269500192587
+      NINJA BASIC UI_44: 1724242869989219815
+      NINJA BASIC UI_45: 2047612617700406405
+      NINJA BASIC UI_46: 4689144210913026531
+      NINJA BASIC UI_47: 3186362976432657703
+      NINJA BASIC UI_48: 407064545693117572
+      NINJA BASIC UI_49: -8572587742482904510
+      NINJA BASIC UI_5: 2389648121717835874
+      NINJA BASIC UI_50: -6112028238436021416
+      NINJA BASIC UI_51: -3893042190060553995
+      NINJA BASIC UI_52: -8539762812100471564
+      NINJA BASIC UI_53: -3156450505827570875
+      NINJA BASIC UI_54: 3933259654902612564
+      NINJA BASIC UI_55: 3157902316542370144
+      NINJA BASIC UI_56: -9049458864010945606
+      NINJA BASIC UI_57: -7347725972617236625
+      NINJA BASIC UI_58: 8678509935367069140
+      NINJA BASIC UI_59: -164662642663181899
+      NINJA BASIC UI_6: 7203926798469492605
+      NINJA BASIC UI_60: 2939614386742590605
+      NINJA BASIC UI_61: 6964709209754247741
+      NINJA BASIC UI_62: 4579356041700142748
+      NINJA BASIC UI_63: 1221015589581400252
+      NINJA BASIC UI_64: -8574350472179824605
+      NINJA BASIC UI_65: 4942071528497150360
+      NINJA BASIC UI_66: 5261360697964992547
+      NINJA BASIC UI_67: 4339107261250078305
+      NINJA BASIC UI_68: 6768598222433374294
+      NINJA BASIC UI_69: 6289923892603284600
+      NINJA BASIC UI_7: 3392668909744517135
+      NINJA BASIC UI_70: 5342032413343080849
+      NINJA BASIC UI_71: -81183746724596830
+      NINJA BASIC UI_72: 8593438863965659709
+      NINJA BASIC UI_73: -834376651124511484
+      NINJA BASIC UI_74: -4984654169556451961
+      NINJA BASIC UI_75: -7586644000603000829
+      NINJA BASIC UI_76: 3364366001654460198
+      NINJA BASIC UI_77: 8919961249713736337
+      NINJA BASIC UI_78: -1188770096371192528
+      NINJA BASIC UI_79: 6590407269790480140
+      NINJA BASIC UI_8: -7096782070901549037
+      NINJA BASIC UI_80: 6889512149271844192
+      NINJA BASIC UI_81: 7122878827326137578
+      NINJA BASIC UI_82: -5748353160520046584
+      NINJA BASIC UI_83: 698102060496897725
+      NINJA BASIC UI_84: -8318270294718646226
+      NINJA BASIC UI_85: 5611214851467378806
+      NINJA BASIC UI_86: -5905178442902518136
+      NINJA BASIC UI_9: -7330939088464972894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

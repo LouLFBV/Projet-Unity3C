@@ -61,6 +61,7 @@ public class PhysicBody : MonoBehaviour
     /// A value of <c>0.0f</c> causes the selected <see cref="GravityPreset"/> to be used instead.
     /// </summary>
     [SerializeField] private float _customGravity = 0.0f;
+    public float CustomGravity => _customGravity;
     /// <summary>
     /// Gets the effective gravitational acceleration.
     /// Uses the custom value when it is different from zero; otherwise, uses the selected preset.

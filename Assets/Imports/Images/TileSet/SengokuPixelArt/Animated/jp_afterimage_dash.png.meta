@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: 4b146e5d635a3e64f94bcdf9cf26b83c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2922726120146742155
+    second: jp_afterimage_dash_0
+  - first:
+      213: 6756997165166176081
+    second: jp_afterimage_dash_1
+  - first:
+      213: -50757058401506623
+    second: jp_afterimage_dash_2
+  - first:
+      213: 8881660166996559639
+    second: jp_afterimage_dash_3
+  - first:
+      213: -5965714468988142282
+    second: jp_afterimage_dash_4
+  - first:
+      213: -1422189828520792749
+    second: jp_afterimage_dash_5
+  - first:
+      213: 951508371622761188
+    second: jp_afterimage_dash_6
+  - first:
+      213: 8456437722413968875
+    second: jp_afterimage_dash_7
+  - first:
+      213: -8628897709727989365
+    second: jp_afterimage_dash_8
+  - first:
+      213: -3897527989646969702
+    second: jp_afterimage_dash_9
+  - first:
+      213: 4816928084635595754
+    second: jp_afterimage_dash_10
+  - first:
+      213: -1934729810310700824
+    second: jp_afterimage_dash_11
+  - first:
+      213: 1484773823124466619
+    second: jp_afterimage_dash_12
+  - first:
+      213: -3243845194742252062
+    second: jp_afterimage_dash_13
+  - first:
+      213: -1598577548720484473
+    second: jp_afterimage_dash_14
+  - first:
+      213: -3443420780743333614
+    second: jp_afterimage_dash_15
+  - first:
+      213: -8784276747911022536
+    second: jp_afterimage_dash_16
+  - first:
+      213: -8323040125696633384
+    second: jp_afterimage_dash_17
+  - first:
+      213: -3947511563780987555
+    second: jp_afterimage_dash_18
+  - first:
+      213: -7943502735119515887
+    second: jp_afterimage_dash_19
+  - first:
+      213: -8572803909886519974
+    second: jp_afterimage_dash_20
+  - first:
+      213: 6069476985213822183
+    second: jp_afterimage_dash_21
+  - first:
+      213: 8100967444871854184
+    second: jp_afterimage_dash_22
+  - first:
+      213: -861848385824804403
+    second: jp_afterimage_dash_23
+  - first:
+      213: 7242670052591458857
+    second: jp_afterimage_dash_24
+  - first:
+      213: -2635717488236732423
+    second: jp_afterimage_dash_25
+  - first:
+      213: -3028098182780493531
+    second: jp_afterimage_dash_26
+  - first:
+      213: -6796754641854370946
+    second: jp_afterimage_dash_27
+  - first:
+      213: -183993297012851433
+    second: jp_afterimage_dash_28
+  - first:
+      213: -5349417270590584361
+    second: jp_afterimage_dash_29
+  - first:
+      213: 3542196317265533606
+    second: jp_afterimage_dash_30
+  - first:
+      213: -751467356607448020
+    second: jp_afterimage_dash_31
+  - first:
+      213: -6681335246075344735
+    second: jp_afterimage_dash_32
+  - first:
+      213: 7632556751082528050
+    second: jp_afterimage_dash_33
+  - first:
+      213: -557259897440809136
+    second: jp_afterimage_dash_34
+  - first:
+      213: 8271722976319197946
+    second: jp_afterimage_dash_35
+  - first:
+      213: -913692549191859848
+    second: jp_afterimage_dash_36
+  - first:
+      213: -5006446124426453185
+    second: jp_afterimage_dash_37
+  - first:
+      213: -1874028001138638451
+    second: jp_afterimage_dash_38
+  - first:
+      213: 7715329860626938848
+    second: jp_afterimage_dash_39
+  - first:
+      213: -6089754678638428852
+    second: jp_afterimage_dash_40
+  - first:
+      213: -9138388824950611628
+    second: jp_afterimage_dash_41
+  - first:
+      213: 2909625505525912846
+    second: jp_afterimage_dash_42
+  - first:
+      213: -775794408258121678
+    second: jp_afterimage_dash_43
+  - first:
+      213: -3667442599976780148
+    second: jp_afterimage_dash_44
+  - first:
+      213: -8255862962709711018
+    second: jp_afterimage_dash_45
+  - first:
+      213: 7288123531757374897
+    second: jp_afterimage_dash_46
+  - first:
+      213: -6474639854823609885
+    second: jp_afterimage_dash_47
+  - first:
+      213: 7379592612845044115
+    second: jp_afterimage_dash_48
+  - first:
+      213: -6633286508465229651
+    second: jp_afterimage_dash_49
+  - first:
+      213: 3459570917090562115
+    second: jp_afterimage_dash_50
+  - first:
+      213: 2536643894121080837
+    second: jp_afterimage_dash_51
+  - first:
+      213: 5857290034285015306
+    second: jp_afterimage_dash_52
+  - first:
+      213: 946705553162175024
+    second: jp_afterimage_dash_53
+  - first:
+      213: 5043517627865999426
+    second: jp_afterimage_dash_54
+  - first:
+      213: -8146902455965884927
+    second: jp_afterimage_dash_55
+  - first:
+      213: -5396177389328574117
+    second: jp_afterimage_dash_56
+  - first:
+      213: -1458715633771067695
+    second: jp_afterimage_dash_57
+  - first:
+      213: 5009758612428346266
+    second: jp_afterimage_dash_58
+  - first:
+      213: -7720785477176915227
+    second: jp_afterimage_dash_59
+  - first:
+      213: 7630207484369713626
+    second: jp_afterimage_dash_60
+  - first:
+      213: -5652214160912305103
+    second: jp_afterimage_dash_61
+  - first:
+      213: -8351781740250402472
+    second: jp_afterimage_dash_62
+  - first:
+      213: 4167310879229731259
+    second: jp_afterimage_dash_63
+  - first:
+      213: 349443486904960394
+    second: jp_afterimage_dash_64
+  - first:
+      213: 3317460010308819606
+    second: jp_afterimage_dash_65
+  - first:
+      213: -3676292318057269688
+    second: jp_afterimage_dash_66
+  - first:
+      213: -223210380542620354
+    second: jp_afterimage_dash_67
+  - first:
+      213: 8493802529753145719
+    second: jp_afterimage_dash_68
+  - first:
+      213: 7330531349585411709
+    second: jp_afterimage_dash_69
+  - first:
+      213: -358450361168964912
+    second: jp_afterimage_dash_70
+  - first:
+      213: 2076568650242852729
+    second: jp_afterimage_dash_71
+  - first:
+      213: -3825306455210991696
+    second: jp_afterimage_dash_72
+  - first:
+      213: 4457856279133775719
+    second: jp_afterimage_dash_73
+  - first:
+      213: 2421497570204875738
+    second: jp_afterimage_dash_74
+  - first:
+      213: 1728273353890896254
+    second: jp_afterimage_dash_75
+  - first:
+      213: -5243493874392152819
+    second: jp_afterimage_dash_76
+  - first:
+      213: -7410976566771561508
+    second: jp_afterimage_dash_77
+  - first:
+      213: -7912722088343777509
+    second: jp_afterimage_dash_78
+  - first:
+      213: -2613087255731013660
+    second: jp_afterimage_dash_79
+  - first:
+      213: -5905766129915523557
+    second: jp_afterimage_dash_80
+  - first:
+      213: -4449596850321419943
+    second: jp_afterimage_dash_81
+  - first:
+      213: -2808522348826003721
+    second: jp_afterimage_dash_82
+  - first:
+      213: 7498494454554443117
+    second: jp_afterimage_dash_83
+  - first:
+      213: 3829687284310637417
+    second: jp_afterimage_dash_84
+  - first:
+      213: -3171879923588639088
+    second: jp_afterimage_dash_85
+  - first:
+      213: 7461643237984193397
+    second: jp_afterimage_dash_86
+  - first:
+      213: 5587222796717253727
+    second: jp_afterimage_dash_87
+  - first:
+      213: -3607371612867959538
+    second: jp_afterimage_dash_88
+  - first:
+      213: 2883111661145153592
+    second: jp_afterimage_dash_89
+  - first:
+      213: -615993643407212877
+    second: jp_afterimage_dash_90
+  - first:
+      213: -39231186003598520
+    second: jp_afterimage_dash_91
+  - first:
+      213: 202996778073014743
+    second: jp_afterimage_dash_92
+  - first:
+      213: 6272810996909444122
+    second: jp_afterimage_dash_93
+  - first:
+      213: -3933390979394209194
+    second: jp_afterimage_dash_94
+  - first:
+      213: 3738263813038135168
+    second: jp_afterimage_dash_95
+  - first:
+      213: 2905063327393557057
+    second: jp_afterimage_dash_96
+  - first:
+      213: 3727146645841463737
+    second: jp_afterimage_dash_97
+  - first:
+      213: -3736597674845550971
+    second: jp_afterimage_dash_98
+  - first:
+      213: 9143753641927932739
+    second: jp_afterimage_dash_99
+  - first:
+      213: -998932612246573931
+    second: jp_afterimage_dash_100
+  - first:
+      213: 361490465765983767
+    second: jp_afterimage_dash_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_afterimage_dash_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 94
+        width: 146
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574d5e834146077d0800000000000000
+      internalID: -2922726120146742155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 256
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1572d022f1da5cd50800000000000000
+      internalID: 6756997165166176081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 27
+        width: 258
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca622c69bcab4ff0800000000000000
+      internalID: -50757058401506623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 77
+        width: 249
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71701956ddef14b70800000000000000
+      internalID: 8881660166996559639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_4
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 60
+        width: 225
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dbd845c46853da0800000000000000
+      internalID: -5965714468988142282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_5
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 60
+        width: 235
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d28d3d2ed534ce0800000000000000
+      internalID: -1422189828520792749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_6
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 39
+        width: 233
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2926b92df643d00800000000000000
+      internalID: 951508371622761188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_7
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 39
+        width: 229
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beda2bded4d4b5570800000000000000
+      internalID: 8456437722413968875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_8
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 35
+        width: 231
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b814b78304fff3880800000000000000
+      internalID: -8628897709727989365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_9
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 45
+        width: 194
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9433f281f239e9c0800000000000000
+      internalID: -3897527989646969702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_10
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 144
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3be41629a29d240800000000000000
+      internalID: 4816928084635595754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_11
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 144
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e06218fc757625e0800000000000000
+      internalID: -1934729810310700824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_12
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 151
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbe12bece9fa9410800000000000000
+      internalID: 1484773823124466619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_13
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 139
+        width: 128
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edb7056bfb8bf2d0800000000000000
+      internalID: -3243845194742252062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_14
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 138
+        width: 117
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fc9966036b0d9e0800000000000000
+      internalID: -1598577548720484473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_15
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 158
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219689f3b038630d0800000000000000
+      internalID: -3443420780743333614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_16
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 150
+        width: 84
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383a00c6daf71680800000000000000
+      internalID: -8784276747911022536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_17
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 145
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d597806a1f9e7c80800000000000000
+      internalID: -8323040125696633384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_18
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 158
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d556616c52f9739c0800000000000000
+      internalID: -3947511563780987555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_19
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 144
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f7bd0595203c190800000000000000
+      internalID: -7943502735119515887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_20
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 158
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55522eb348470980800000000000000
+      internalID: -8572803909886519974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_21
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 155
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4241c192d1b3450800000000000000
+      internalID: 6069476985213822183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_22
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 151
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868379868fa6c6070800000000000000
+      internalID: 8100967444871854184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_23
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 152
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc13ba895791a04f0800000000000000
+      internalID: -861848385824804403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_24
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 151
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ad21e1a02238460800000000000000
+      internalID: 7242670052591458857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_25
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 133
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff5d59b8ec0c6bd0800000000000000
+      internalID: -2635717488236732423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_26
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 105
+        width: 148
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ec5e0fb80af5d0800000000000000
+      internalID: -3028098182780493531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_27
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 127
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b68caf9a31da1a0800000000000000
+      internalID: -6796754641854370946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_28
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 122
+        width: 90
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71dfe7a3213527df0800000000000000
+      internalID: -183993297012851433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_29
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 141
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9cb17b55d03c5b0800000000000000
+      internalID: -5349417270590584361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_30
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 124
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa1f4f78c8682130800000000000000
+      internalID: 3542196317265533606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_31
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 122
+        width: 118
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c7c1dab604295f0800000000000000
+      internalID: -751467356607448020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_32
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 127
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8c1603ef02743a0800000000000000
+      internalID: -6681335246075344735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_33
+      rect:
+        serializedVersion: 2
+        x: 3917
+        y: 134
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d98441de94ce960800000000000000
+      internalID: 7632556751082528050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_34
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 134
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f487563173448f0800000000000000
+      internalID: -557259897440809136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_35
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 130
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af251f3b8301bc270800000000000000
+      internalID: 8271722976319197946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_36
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 122
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8718f7ba779e153f0800000000000000
+      internalID: -913692549191859848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_37
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 116
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f1e6e66c7858ab0800000000000000
+      internalID: -5006446124426453185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_38
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 119
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d810ff4467d1ef5e0800000000000000
+      internalID: -1874028001138638451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_39
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 127
+        width: 49
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebf1a371ab521b60800000000000000
+      internalID: 7715329860626938848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_40
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 105
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dbb7a7268dc7ba0800000000000000
+      internalID: -6089754678638428852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_41
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 122
+        width: 69
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4516b6de7cbed2180800000000000000
+      internalID: -9138388824950611628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_42
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05d94e3bf0116820800000000000000
+      internalID: 2909625505525912846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_43
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 122
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2305a059813db35f0800000000000000
+      internalID: -775794408258121678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_44
+      rect:
+        serializedVersion: 2
+        x: 3757
+        y: 119
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ebf32e260aa1dc0800000000000000
+      internalID: -3667442599976780148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_45
+      rect:
+        serializedVersion: 2
+        x: 3979
+        y: 124
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657326970684d6d80800000000000000
+      internalID: -8255862962709711018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_46
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 119
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd409decbd942560800000000000000
+      internalID: 7288123531757374897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_47
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 105
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e6ac2b557526a0800000000000000
+      internalID: -6474639854823609885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_48
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 110
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391c9b3f164996660800000000000000
+      internalID: 7379592612845044115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_49
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 104
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f981b015d1f3a0800000000000000
+      internalID: -6633286508465229651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_50
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 108
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34094746b6dd20030800000000000000
+      internalID: 3459570917090562115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_51
+      rect:
+        serializedVersion: 2
+        x: 2590
+        y: 45
+        width: 188
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50820c69e28f33320800000000000000
+      internalID: 2536643894121080837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_52
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 110
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a017effb046494150800000000000000
+      internalID: 5857290034285015306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_53
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 110
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320f1b4faf532d00800000000000000
+      internalID: 946705553162175024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_54
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 90
+        width: 70
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248af539f8c2ef540800000000000000
+      internalID: 5043517627865999426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_55
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 110
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e5564616360fe80800000000000000
+      internalID: -8146902455965884927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_56
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 106
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59531c214dec15b0800000000000000
+      internalID: -5396177389328574117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_57
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 106
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d644c41cd991cbe0800000000000000
+      internalID: -1458715633771067695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_58
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 105
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93de384aec368540800000000000000
+      internalID: 5009758612428346266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_59
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 110
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea00e5d3824ad490800000000000000
+      internalID: -7720785477176915227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_60
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 77
+        width: 105
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9326cc741f3e960800000000000000
+      internalID: 7630207484369713626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_61
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 105
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134b368da2d4f81b0800000000000000
+      internalID: -5652214160912305103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_62
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 106
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851f7c2c1c2881c80800000000000000
+      internalID: -8351781740250402472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_63
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 102
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1eb115a2345d930800000000000000
+      internalID: 4167310879229731259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_64
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 95
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a854b0afff879d400800000000000000
+      internalID: 349443486904960394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_65
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 102
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a550f7d4cf90e20800000000000000
+      internalID: 3317460010308819606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_66
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 106
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846f2b35d9f2bfcc0800000000000000
+      internalID: -3676292318057269688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_67
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 110
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc39d675ff6ecf0800000000000000
+      internalID: -223210380542620354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_68
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 106
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7712042166c00e570800000000000000
+      internalID: 8493802529753145719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_69
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 87
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e37e27c674bb560800000000000000
+      internalID: 7330531349585411709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_70
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 66
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2d9e0bb47860bf0800000000000000
+      internalID: -358450361168964912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_71
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 90
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977007d6f2471dc10800000000000000
+      internalID: 2076568650242852729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 78
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfd32cdb08c9eac0800000000000000
+      internalID: -3825306455210991696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_73
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 77
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7676389caac7ddd30800000000000000
+      internalID: 4457856279133775719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_74
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 94
+        width: 51
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb7880e533ea9120800000000000000
+      internalID: 2421497570204875738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_75
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 84
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e799075657f0cf710800000000000000
+      internalID: 1728273353890896254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_76
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 89
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d054bea3a1e5b37b0800000000000000
+      internalID: -5243493874392152819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_77
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 85
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb46dad31ce62990800000000000000
+      internalID: -7410976566771561508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_78
+      rect:
+        serializedVersion: 2
+        x: 3533
+        y: 88
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fc1ed1f2d503290800000000000000
+      internalID: -7912722088343777509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_79
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 78
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e77d035cf27cbbd0800000000000000
+      internalID: -2613087255731013660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_80
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 82
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e0ad3bef08a0ea0800000000000000
+      internalID: -5905766129915523557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_81
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 71
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95115e65d3bdf32c0800000000000000
+      internalID: -4449596850321419943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_82
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 74
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6fa7ecdcf1609d0800000000000000
+      internalID: -2808522348826003721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_83
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 73
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d34f94af0001860800000000000000
+      internalID: 7498494454554443117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_84
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 46
+        width: 79
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b7a266b48c52530800000000000000
+      internalID: 3829687284310637417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_85
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 77
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0965e4cc3083bf3d0800000000000000
+      internalID: -3171879923588639088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_86
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 66
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b4eb0ddf41d8760800000000000000
+      internalID: 7461643237984193397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_87
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 44
+        width: 105
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54eb4ff78dc98d40800000000000000
+      internalID: 5587222796717253727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_88
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 77
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e056d2a71aa00fdc0800000000000000
+      internalID: -3607371612867959538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_89
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 77
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e75ac7ced20820800000000000000
+      internalID: 2883111661145153592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_90
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 44
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be70d48b0d8377f0800000000000000
+      internalID: -615993643407212877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_91
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 74
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8436326b17f947ff0800000000000000
+      internalID: -39231186003598520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_92
+      rect:
+        serializedVersion: 2
+        x: 3706
+        y: 44
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1479f7e7031d200800000000000000
+      internalID: 202996778073014743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_93
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 71
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c83fded508d0750800000000000000
+      internalID: 6272810996909444122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_94
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 77
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a7b768eb9c969c0800000000000000
+      internalID: -3933390979394209194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_95
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 71
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087d5dcb12bf0e330800000000000000
+      internalID: 3738263813038135168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_96
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 74
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aae4f54bbd05820800000000000000
+      internalID: 2905063327393557057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_97
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 26
+        width: 91
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b94b2b802c79b330800000000000000
+      internalID: 3727146645841463737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_98
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 46
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c74a4630f42cc0800000000000000
+      internalID: -3736597674845550971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_99
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b7cccdd7325ee70800000000000000
+      internalID: 9143753641927932739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_100
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 44
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c6d7ce4141322f0800000000000000
+      internalID: -998932612246573931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_afterimage_dash_101
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 49
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7160ca1d9a5440500800000000000000
+      internalID: 361490465765983767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_afterimage_dash_0: -2922726120146742155
+      jp_afterimage_dash_1: 6756997165166176081
+      jp_afterimage_dash_10: 4816928084635595754
+      jp_afterimage_dash_100: -998932612246573931
+      jp_afterimage_dash_101: 361490465765983767
+      jp_afterimage_dash_11: -1934729810310700824
+      jp_afterimage_dash_12: 1484773823124466619
+      jp_afterimage_dash_13: -3243845194742252062
+      jp_afterimage_dash_14: -1598577548720484473
+      jp_afterimage_dash_15: -3443420780743333614
+      jp_afterimage_dash_16: -8784276747911022536
+      jp_afterimage_dash_17: -8323040125696633384
+      jp_afterimage_dash_18: -3947511563780987555
+      jp_afterimage_dash_19: -7943502735119515887
+      jp_afterimage_dash_2: -50757058401506623
+      jp_afterimage_dash_20: -8572803909886519974
+      jp_afterimage_dash_21: 6069476985213822183
+      jp_afterimage_dash_22: 8100967444871854184
+      jp_afterimage_dash_23: -861848385824804403
+      jp_afterimage_dash_24: 7242670052591458857
+      jp_afterimage_dash_25: -2635717488236732423
+      jp_afterimage_dash_26: -3028098182780493531
+      jp_afterimage_dash_27: -6796754641854370946
+      jp_afterimage_dash_28: -183993297012851433
+      jp_afterimage_dash_29: -5349417270590584361
+      jp_afterimage_dash_3: 8881660166996559639
+      jp_afterimage_dash_30: 3542196317265533606
+      jp_afterimage_dash_31: -751467356607448020
+      jp_afterimage_dash_32: -6681335246075344735
+      jp_afterimage_dash_33: 7632556751082528050
+      jp_afterimage_dash_34: -557259897440809136
+      jp_afterimage_dash_35: 8271722976319197946
+      jp_afterimage_dash_36: -913692549191859848
+      jp_afterimage_dash_37: -5006446124426453185
+      jp_afterimage_dash_38: -1874028001138638451
+      jp_afterimage_dash_39: 7715329860626938848
+      jp_afterimage_dash_4: -5965714468988142282
+      jp_afterimage_dash_40: -6089754678638428852
+      jp_afterimage_dash_41: -9138388824950611628
+      jp_afterimage_dash_42: 2909625505525912846
+      jp_afterimage_dash_43: -775794408258121678
+      jp_afterimage_dash_44: -3667442599976780148
+      jp_afterimage_dash_45: -8255862962709711018
+      jp_afterimage_dash_46: 7288123531757374897
+      jp_afterimage_dash_47: -6474639854823609885
+      jp_afterimage_dash_48: 7379592612845044115
+      jp_afterimage_dash_49: -6633286508465229651
+      jp_afterimage_dash_5: -1422189828520792749
+      jp_afterimage_dash_50: 3459570917090562115
+      jp_afterimage_dash_51: 2536643894121080837
+      jp_afterimage_dash_52: 5857290034285015306
+      jp_afterimage_dash_53: 946705553162175024
+      jp_afterimage_dash_54: 5043517627865999426
+      jp_afterimage_dash_55: -8146902455965884927
+      jp_afterimage_dash_56: -5396177389328574117
+      jp_afterimage_dash_57: -1458715633771067695
+      jp_afterimage_dash_58: 5009758612428346266
+      jp_afterimage_dash_59: -7720785477176915227
+      jp_afterimage_dash_6: 951508371622761188
+      jp_afterimage_dash_60: 7630207484369713626
+      jp_afterimage_dash_61: -5652214160912305103
+      jp_afterimage_dash_62: -8351781740250402472
+      jp_afterimage_dash_63: 4167310879229731259
+      jp_afterimage_dash_64: 349443486904960394
+      jp_afterimage_dash_65: 3317460010308819606
+      jp_afterimage_dash_66: -3676292318057269688
+      jp_afterimage_dash_67: -223210380542620354
+      jp_afterimage_dash_68: 8493802529753145719
+      jp_afterimage_dash_69: 7330531349585411709
+      jp_afterimage_dash_7: 8456437722413968875
+      jp_afterimage_dash_70: -358450361168964912
+      jp_afterimage_dash_71: 2076568650242852729
+      jp_afterimage_dash_72: -3825306455210991696
+      jp_afterimage_dash_73: 4457856279133775719
+      jp_afterimage_dash_74: 2421497570204875738
+      jp_afterimage_dash_75: 1728273353890896254
+      jp_afterimage_dash_76: -5243493874392152819
+      jp_afterimage_dash_77: -7410976566771561508
+      jp_afterimage_dash_78: -7912722088343777509
+      jp_afterimage_dash_79: -2613087255731013660
+      jp_afterimage_dash_8: -8628897709727989365
+      jp_afterimage_dash_80: -5905766129915523557
+      jp_afterimage_dash_81: -4449596850321419943
+      jp_afterimage_dash_82: -2808522348826003721
+      jp_afterimage_dash_83: 7498494454554443117
+      jp_afterimage_dash_84: 3829687284310637417
+      jp_afterimage_dash_85: -3171879923588639088
+      jp_afterimage_dash_86: 7461643237984193397
+      jp_afterimage_dash_87: 5587222796717253727
+      jp_afterimage_dash_88: -3607371612867959538
+      jp_afterimage_dash_89: 2883111661145153592
+      jp_afterimage_dash_9: -3897527989646969702
+      jp_afterimage_dash_90: -615993643407212877
+      jp_afterimage_dash_91: -39231186003598520
+      jp_afterimage_dash_92: 202996778073014743
+      jp_afterimage_dash_93: 6272810996909444122
+      jp_afterimage_dash_94: -3933390979394209194
+      jp_afterimage_dash_95: 3738263813038135168
+      jp_afterimage_dash_96: 2905063327393557057
+      jp_afterimage_dash_97: 3727146645841463737
+      jp_afterimage_dash_98: -3736597674845550971
+      jp_afterimage_dash_99: 9143753641927932739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

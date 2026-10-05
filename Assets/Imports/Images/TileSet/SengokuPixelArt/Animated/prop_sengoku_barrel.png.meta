@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 495ccf923402f0e4cbbc0bcb31041cde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5018669644593226444
+    second: prop_sengoku_barrel_0
+  - first:
+      213: -6003594182210674339
+    second: prop_sengoku_barrel_1
+  - first:
+      213: 7290986160599218259
+    second: prop_sengoku_barrel_2
+  - first:
+      213: 1216914023214201950
+    second: prop_sengoku_barrel_3
+  - first:
+      213: -2255117571601538965
+    second: prop_sengoku_barrel_4
+  - first:
+      213: 8118255567447916372
+    second: prop_sengoku_barrel_5
+  - first:
+      213: 6805900076874900679
+    second: prop_sengoku_barrel_6
+  - first:
+      213: 1889352045598770850
+    second: prop_sengoku_barrel_7
+  - first:
+      213: 5248405334478239067
+    second: prop_sengoku_barrel_8
+  - first:
+      213: -2006504699869922155
+    second: prop_sengoku_barrel_9
+  - first:
+      213: 8296973550351871965
+    second: prop_sengoku_barrel_10
+  - first:
+      213: -8946837790510975580
+    second: prop_sengoku_barrel_11
+  - first:
+      213: 4264776512833634762
+    second: prop_sengoku_barrel_12
+  - first:
+      213: -4078861783975868964
+    second: prop_sengoku_barrel_13
+  - first:
+      213: 5000232869231001580
+    second: prop_sengoku_barrel_14
+  - first:
+      213: -7759259611829502764
+    second: prop_sengoku_barrel_15
+  - first:
+      213: -4166770639670880684
+    second: prop_sengoku_barrel_16
+  - first:
+      213: -4469670711752364499
+    second: prop_sengoku_barrel_17
+  - first:
+      213: 7121290100873349217
+    second: prop_sengoku_barrel_18
+  - first:
+      213: -1115343525219096882
+    second: prop_sengoku_barrel_19
+  - first:
+      213: 5147160783738359593
+    second: prop_sengoku_barrel_20
+  - first:
+      213: 722077938758167704
+    second: prop_sengoku_barrel_21
+  - first:
+      213: -1027846988979538886
+    second: prop_sengoku_barrel_22
+  - first:
+      213: -3796967806700142578
+    second: prop_sengoku_barrel_23
+  - first:
+      213: -8299444433425289741
+    second: prop_sengoku_barrel_24
+  - first:
+      213: -327092483435106908
+    second: prop_sengoku_barrel_25
+  - first:
+      213: -501872578889273992
+    second: prop_sengoku_barrel_26
+  - first:
+      213: 4919584443575015233
+    second: prop_sengoku_barrel_27
+  - first:
+      213: 8415971776618564165
+    second: prop_sengoku_barrel_28
+  - first:
+      213: -6202720948388835855
+    second: prop_sengoku_barrel_29
+  - first:
+      213: 3067091111861927513
+    second: prop_sengoku_barrel_30
+  - first:
+      213: -7095637543394217212
+    second: prop_sengoku_barrel_31
+  - first:
+      213: -547441122414179491
+    second: prop_sengoku_barrel_32
+  - first:
+      213: -3684273682956444614
+    second: prop_sengoku_barrel_33
+  - first:
+      213: 328402054943127569
+    second: prop_sengoku_barrel_34
+  - first:
+      213: -2695405638905268319
+    second: prop_sengoku_barrel_35
+  - first:
+      213: -379871956652919453
+    second: prop_sengoku_barrel_36
+  - first:
+      213: -2288856907103910080
+    second: prop_sengoku_barrel_37
+  - first:
+      213: 2957205753229668227
+    second: prop_sengoku_barrel_38
+  - first:
+      213: -8781445770654808256
+    second: prop_sengoku_barrel_39
+  - first:
+      213: -6252672369635513935
+    second: prop_sengoku_barrel_40
+  - first:
+      213: -4826624055829509138
+    second: prop_sengoku_barrel_41
+  - first:
+      213: -1992591117178806075
+    second: prop_sengoku_barrel_42
+  - first:
+      213: 2595998014851563577
+    second: prop_sengoku_barrel_43
+  - first:
+      213: 2448134990000700766
+    second: prop_sengoku_barrel_44
+  - first:
+      213: 5196460421883518166
+    second: prop_sengoku_barrel_45
+  - first:
+      213: 6155598885171543255
+    second: prop_sengoku_barrel_46
+  - first:
+      213: 5824173105519448648
+    second: prop_sengoku_barrel_47
+  - first:
+      213: -8824774686508991125
+    second: prop_sengoku_barrel_48
+  - first:
+      213: 7071188711045049458
+    second: prop_sengoku_barrel_49
+  - first:
+      213: -922627216767771433
+    second: prop_sengoku_barrel_50
+  - first:
+      213: -4050448068214880849
+    second: prop_sengoku_barrel_51
+  - first:
+      213: -1804180684501519304
+    second: prop_sengoku_barrel_52
+  - first:
+      213: -2477130238792799162
+    second: prop_sengoku_barrel_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_0
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 212
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d1cfc5c8a1a5ab0800000000000000
+      internalID: -5018669644593226444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_1
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1
+        width: 258
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d512bb156e2feaca0800000000000000
+      internalID: -6003594182210674339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_2
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1
+        width: 259
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3583ec4a849ce2560800000000000000
+      internalID: 7290986160599218259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_3
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 130
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cbfdb4bd853e010800000000000000
+      internalID: 1216914023214201950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_4
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 0
+        width: 258
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60e2f9448634b0e0800000000000000
+      internalID: -2255117571601538965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_5
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 11
+        width: 218
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ff19d1d66d9a070800000000000000
+      internalID: 8118255567447916372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_6
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 11
+        width: 250
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4aeea8f0a637e50800000000000000
+      internalID: 6805900076874900679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_7
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 198
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6829ddca3583a10800000000000000
+      internalID: 1889352045598770850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_8
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 192
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5537de28d416d840800000000000000
+      internalID: 5248405334478239067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_9
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 190
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cf91c3b967724e0800000000000000
+      internalID: -2006504699869922155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_10
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 163
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfe88b1c75c42370800000000000000
+      internalID: 8296973550351871965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_11
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 187
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a57d819e6276d380800000000000000
+      internalID: -8946837790510975580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_12
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 0
+        width: 228
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1c0e584a78f2b30800000000000000
+      internalID: 4264776512833634762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_13
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 172
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c33671d8f467c0800000000000000
+      internalID: -4078861783975868964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_14
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 175
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceffebc5d45646540800000000000000
+      internalID: 5000232869231001580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_15
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 178
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcfddc4e72915490800000000000000
+      internalID: -7759259611829502764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_16
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 0
+        width: 227
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456d3e10e28ac26c0800000000000000
+      internalID: -4166770639670880684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_17
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 158
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e68034b2a88f1c0800000000000000
+      internalID: -4469670711752364499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_18
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 162
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168cf05dd97e3d260800000000000000
+      internalID: 7121290100873349217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_19
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1
+        width: 194
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6a8c029f08580f0800000000000000
+      internalID: -1115343525219096882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 183
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fcb8446736e6740800000000000000
+      internalID: 5147160783738359593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0
+        width: 183
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ca3df3f06550a00800000000000000
+      internalID: 722077938758167704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_22
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 216
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a347b6afb9a5cb1f0800000000000000
+      internalID: -1027846988979538886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_23
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 228
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e004b02a5e57e4bc0800000000000000
+      internalID: -3796967806700142578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_24
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 135
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fda798924372dc80800000000000000
+      internalID: -8299444433425289741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_25
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 1
+        width: 167
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad662c8e1fe57bf0800000000000000
+      internalID: -327092483435106908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_26
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 94
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dabcc6c8df809f0800000000000000
+      internalID: -501872578889273992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_27
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14793d18cffd54440800000000000000
+      internalID: 4919584443575015233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_28
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 134
+        width: 65
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a0019bdb98bc470800000000000000
+      internalID: 8415971776618564165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_29
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 85
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdc86e29228be9a0800000000000000
+      internalID: -6202720948388835855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_30
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 101
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eb948bd1f709a20800000000000000
+      internalID: 3067091111861927513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_31
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 87
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ff03af3b378d90800000000000000
+      internalID: -7095637543394217212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_32
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 82
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bcf0b13391768f0800000000000000
+      internalID: -547441122414179491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_33
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 92
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c9f000b94dedcc0800000000000000
+      internalID: -3684273682956444614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_34
+      rect:
+        serializedVersion: 2
+        x: 2962
+        y: 84
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118b464dde7be8400800000000000000
+      internalID: 328402054943127569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_35
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 207
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7777f2adef79ad0800000000000000
+      internalID: -2695405638905268319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_36
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 99
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365f193d77c6abaf0800000000000000
+      internalID: -379871956652919453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_37
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 61
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0474f5615c85c30e0800000000000000
+      internalID: -2288856907103910080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_38
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 55
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38feef0f6fa1a0920800000000000000
+      internalID: 2957205753229668227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_39
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 65
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04783c10999022680800000000000000
+      internalID: -8781445770654808256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_40
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1
+        width: 163
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9a9fe9b9b0a39a0800000000000000
+      internalID: -6252672369635513935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_41
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 50
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4de76ef2640db0800000000000000
+      internalID: -4826624055829509138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_42
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c065f5afe4e854e0800000000000000
+      internalID: -1992591117178806075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_43
+      rect:
+        serializedVersion: 2
+        x: 2829
+        y: 1
+        width: 223
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930c8d8b076d60420800000000000000
+      internalID: 2595998014851563577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_44
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 11
+        width: 210
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d32397dc589f120800000000000000
+      internalID: 2448134990000700766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_45
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 11
+        width: 211
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc5ebfb8398d1840800000000000000
+      internalID: 5196460421883518166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_46
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 3
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcb07282941d6550800000000000000
+      internalID: 6155598885171543255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_47
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 3
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842ded8e49e93d050800000000000000
+      internalID: 5824173105519448648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_48
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 19
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db5c3ad2a188580800000000000000
+      internalID: -8824774686508991125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_49
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca79dfaa8e12260800000000000000
+      internalID: 7071188711045049458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_50
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 4
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc13744f6b2233f0800000000000000
+      internalID: -922627216767771433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_51
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa582e031fae9c7c0800000000000000
+      internalID: -4050448068214880849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_52
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 7
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347aa5f93346f6e0800000000000000
+      internalID: -1804180684501519304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prop_sengoku_barrel_53
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c60661c277f9dd0800000000000000
+      internalID: -2477130238792799162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      prop_sengoku_barrel_0: -5018669644593226444
+      prop_sengoku_barrel_1: -6003594182210674339
+      prop_sengoku_barrel_10: 8296973550351871965
+      prop_sengoku_barrel_11: -8946837790510975580
+      prop_sengoku_barrel_12: 4264776512833634762
+      prop_sengoku_barrel_13: -4078861783975868964
+      prop_sengoku_barrel_14: 5000232869231001580
+      prop_sengoku_barrel_15: -7759259611829502764
+      prop_sengoku_barrel_16: -4166770639670880684
+      prop_sengoku_barrel_17: -4469670711752364499
+      prop_sengoku_barrel_18: 7121290100873349217
+      prop_sengoku_barrel_19: -1115343525219096882
+      prop_sengoku_barrel_2: 7290986160599218259
+      prop_sengoku_barrel_20: 5147160783738359593
+      prop_sengoku_barrel_21: 722077938758167704
+      prop_sengoku_barrel_22: -1027846988979538886
+      prop_sengoku_barrel_23: -3796967806700142578
+      prop_sengoku_barrel_24: -8299444433425289741
+      prop_sengoku_barrel_25: -327092483435106908
+      prop_sengoku_barrel_26: -501872578889273992
+      prop_sengoku_barrel_27: 4919584443575015233
+      prop_sengoku_barrel_28: 8415971776618564165
+      prop_sengoku_barrel_29: -6202720948388835855
+      prop_sengoku_barrel_3: 1216914023214201950
+      prop_sengoku_barrel_30: 3067091111861927513
+      prop_sengoku_barrel_31: -7095637543394217212
+      prop_sengoku_barrel_32: -547441122414179491
+      prop_sengoku_barrel_33: -3684273682956444614
+      prop_sengoku_barrel_34: 328402054943127569
+      prop_sengoku_barrel_35: -2695405638905268319
+      prop_sengoku_barrel_36: -379871956652919453
+      prop_sengoku_barrel_37: -2288856907103910080
+      prop_sengoku_barrel_38: 2957205753229668227
+      prop_sengoku_barrel_39: -8781445770654808256
+      prop_sengoku_barrel_4: -2255117571601538965
+      prop_sengoku_barrel_40: -6252672369635513935
+      prop_sengoku_barrel_41: -4826624055829509138
+      prop_sengoku_barrel_42: -1992591117178806075
+      prop_sengoku_barrel_43: 2595998014851563577
+      prop_sengoku_barrel_44: 2448134990000700766
+      prop_sengoku_barrel_45: 5196460421883518166
+      prop_sengoku_barrel_46: 6155598885171543255
+      prop_sengoku_barrel_47: 5824173105519448648
+      prop_sengoku_barrel_48: -8824774686508991125
+      prop_sengoku_barrel_49: 7071188711045049458
+      prop_sengoku_barrel_5: 8118255567447916372
+      prop_sengoku_barrel_50: -922627216767771433
+      prop_sengoku_barrel_51: -4050448068214880849
+      prop_sengoku_barrel_52: -1804180684501519304
+      prop_sengoku_barrel_53: -2477130238792799162
+      prop_sengoku_barrel_6: 6805900076874900679
+      prop_sengoku_barrel_7: 1889352045598770850
+      prop_sengoku_barrel_8: 5248405334478239067
+      prop_sengoku_barrel_9: -2006504699869922155
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

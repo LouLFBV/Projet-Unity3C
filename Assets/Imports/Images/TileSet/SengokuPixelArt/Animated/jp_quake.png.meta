@@ -1,0 +1,1586 @@
+fileFormatVersion: 2
+guid: 1ad63b7487b93bd408990dd5562c49ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2328020080104209301
+    second: jp_quake_0
+  - first:
+      213: -4702955699985563284
+    second: jp_quake_1
+  - first:
+      213: -4675082056371358921
+    second: jp_quake_2
+  - first:
+      213: 5828447847598760111
+    second: jp_quake_3
+  - first:
+      213: 7775270751506432395
+    second: jp_quake_4
+  - first:
+      213: -5974944698837436813
+    second: jp_quake_5
+  - first:
+      213: -2397046719448420189
+    second: jp_quake_6
+  - first:
+      213: -7239294025986624468
+    second: jp_quake_7
+  - first:
+      213: 6103500526542180132
+    second: jp_quake_8
+  - first:
+      213: 3742277173030553418
+    second: jp_quake_9
+  - first:
+      213: -4689334368803187021
+    second: jp_quake_10
+  - first:
+      213: -8658962976249341919
+    second: jp_quake_11
+  - first:
+      213: -4003404398484753129
+    second: jp_quake_12
+  - first:
+      213: 3759358356347525071
+    second: jp_quake_13
+  - first:
+      213: -929575845793176762
+    second: jp_quake_14
+  - first:
+      213: -3497010582020311360
+    second: jp_quake_15
+  - first:
+      213: -3309997992595277881
+    second: jp_quake_16
+  - first:
+      213: -1878627122736259577
+    second: jp_quake_17
+  - first:
+      213: -6382600266519941892
+    second: jp_quake_18
+  - first:
+      213: -2105055948945440905
+    second: jp_quake_19
+  - first:
+      213: -8821852263921305351
+    second: jp_quake_20
+  - first:
+      213: -8135327358398989511
+    second: jp_quake_21
+  - first:
+      213: -533013093340815956
+    second: jp_quake_22
+  - first:
+      213: -3379644136391497249
+    second: jp_quake_23
+  - first:
+      213: 2035937132145185997
+    second: jp_quake_24
+  - first:
+      213: 2320389039083265532
+    second: jp_quake_25
+  - first:
+      213: -3324893097244418473
+    second: jp_quake_26
+  - first:
+      213: 8547694484604102929
+    second: jp_quake_27
+  - first:
+      213: -525628501726293360
+    second: jp_quake_28
+  - first:
+      213: -8779351356340314665
+    second: jp_quake_29
+  - first:
+      213: -8847674069952982353
+    second: jp_quake_30
+  - first:
+      213: 2075433569442626920
+    second: jp_quake_31
+  - first:
+      213: 5962500692516150693
+    second: jp_quake_32
+  - first:
+      213: 318944087311848065
+    second: jp_quake_33
+  - first:
+      213: 5510143918733362399
+    second: jp_quake_34
+  - first:
+      213: -5780625685514087865
+    second: jp_quake_35
+  - first:
+      213: 8095856215341940408
+    second: jp_quake_36
+  - first:
+      213: -1456248428650560944
+    second: jp_quake_37
+  - first:
+      213: 5192645961289485076
+    second: jp_quake_38
+  - first:
+      213: 531176314350363496
+    second: jp_quake_39
+  - first:
+      213: 5997930503380567425
+    second: jp_quake_40
+  - first:
+      213: -2730761490214036220
+    second: jp_quake_41
+  - first:
+      213: 7521756410657478334
+    second: jp_quake_42
+  - first:
+      213: 2547924939808027544
+    second: jp_quake_43
+  - first:
+      213: 3212979955215925278
+    second: jp_quake_44
+  - first:
+      213: -8162022862606837817
+    second: jp_quake_45
+  - first:
+      213: -7509116709057719830
+    second: jp_quake_46
+  - first:
+      213: -4301366779749900572
+    second: jp_quake_47
+  - first:
+      213: -3667493067812459138
+    second: jp_quake_48
+  - first:
+      213: -4616804460656498317
+    second: jp_quake_49
+  - first:
+      213: 3517122691718232327
+    second: jp_quake_50
+  - first:
+      213: -8701423369748209709
+    second: jp_quake_51
+  - first:
+      213: -5333760059490239751
+    second: jp_quake_52
+  - first:
+      213: -1654018248517092986
+    second: jp_quake_53
+  - first:
+      213: -3355523245623226236
+    second: jp_quake_54
+  - first:
+      213: 7598526014711399866
+    second: jp_quake_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_quake_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 218
+        width: 153
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64896f421631bfd0800000000000000
+      internalID: -2328020080104209301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 119
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6146fb45bebbbeb0800000000000000
+      internalID: -4702955699985563284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 177
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733be2ea3a5ce1fb0800000000000000
+      internalID: -4675082056371358921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 251
+        width: 152
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0a30cdf6ec2e050800000000000000
+      internalID: 5828447847598760111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 152
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b818608ad8f47eb60800000000000000
+      internalID: 7775270751506432395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 212
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376f039f37bb41da0800000000000000
+      internalID: -5974944698837436813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 151
+        width: 151
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f24175bafbbed0800000000000000
+      internalID: -2397046719448420189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 150
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b574507cd88b90800000000000000
+      internalID: -7239294025986624468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_8
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 140
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fc4f2246df3b450800000000000000
+      internalID: 6103500526542180132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_9
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 132
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a470a8de24d3fe330800000000000000
+      internalID: 3742277173030553418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_10
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 169
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6947a9c332ceeb0800000000000000
+      internalID: -4689334368803187021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_11
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 128
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128166ddc0f25d780800000000000000
+      internalID: -8658962976249341919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_12
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 129
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715741819ec0178c0800000000000000
+      internalID: -4003404398484753129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 0
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc79d75d18ceb2430800000000000000
+      internalID: 3759358356347525071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_14
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 147
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643e6bf71bb7913f0800000000000000
+      internalID: -929575845793176762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_15
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 122
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b5e2576f187fc0800000000000000
+      internalID: -3497010582020311360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_16
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 105
+        width: 409
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c73a14ec568012d0800000000000000
+      internalID: -3309997992595277881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_17
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 135
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e14e3d596cde5e0800000000000000
+      internalID: -1878627122736259577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_18
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 116
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfce3c2cfd27c67a0800000000000000
+      internalID: -6382600266519941892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_19
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fb8ca74c659c2e0800000000000000
+      internalID: -2105055948945440905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_20
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 130
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8befb2b1c729580800000000000000
+      internalID: -8821852263921305351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_21
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 150
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7c1fced2891f80800000000000000
+      internalID: -8135327358398989511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_22
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 21
+        width: 153
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadd9c66a6b5a98f0800000000000000
+      internalID: -533013093340815956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_23
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 251
+        width: 65
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9272760971911d0800000000000000
+      internalID: -3379644136391497249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_24
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 102
+        width: 89
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49a8ae80a114c10800000000000000
+      internalID: 2035937132145185997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_25
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 9
+        width: 152
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd944f798da33020800000000000000
+      internalID: 2320389039083265532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_26
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 136
+        width: 152
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e1996185b9bd1d0800000000000000
+      internalID: -3324893097244418473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119a46b98d28f9670800000000000000
+      internalID: 8547694484604102929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 118
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09298ce99a794b8f0800000000000000
+      internalID: -525628501726293360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 122
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddddf6d47a792680800000000000000
+      internalID: -8779351356340314665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 126
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa294047f4fb63580800000000000000
+      internalID: -8847674069952982353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_31
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 124
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d7c85d5db6dcc10800000000000000
+      internalID: 2075433569442626920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_32
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 116
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad12760ace0fb250800000000000000
+      internalID: 5962500692516150693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_33
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 27
+        width: 152
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1821f6325fd1d6400800000000000000
+      internalID: 318944087311848065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_34
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4816933b6f77c40800000000000000
+      internalID: 5510143918733362399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_35
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 114
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7421f6be09717cfa0800000000000000
+      internalID: -5780625685514087865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_36
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 95
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be381c85524a5070800000000000000
+      internalID: 8095856215341940408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_37
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 0
+        width: 152
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052009905cd5acbe0800000000000000
+      internalID: -1456248428650560944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_38
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 0
+        width: 152
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bc60f6dfbff0840800000000000000
+      internalID: 5192645961289485076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_39
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 90
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86364f92b0e1f5700800000000000000
+      internalID: 531176314350363496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_40
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 9
+        width: 152
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858a71b30eec3350800000000000000
+      internalID: 5997930503380567425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_41
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 24
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dd97194e26a1ad0800000000000000
+      internalID: -2730761490214036220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_42
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 85
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb691408a95a26860800000000000000
+      internalID: 7521756410657478334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_43
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 87
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893bd97bb3c0c5320800000000000000
+      internalID: 2547924939808027544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 152
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1088150f3cc69c20800000000000000
+      internalID: 3212979955215925278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d3b1637baabe80800000000000000
+      internalID: -8162022862606837817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_46
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae11aab53224ac790800000000000000
+      internalID: -7509116709057719830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_47
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee575414b97e44c0800000000000000
+      internalID: -4301366779749900572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_48
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 0
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7da4dc6c727a1dc0800000000000000
+      internalID: -3667493067812459138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_49
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379612dcdc0ddefb0800000000000000
+      internalID: -4616804460656498317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_50
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709b45f14745fc030800000000000000
+      internalID: 3517122691718232327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_51
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 0
+        width: 153
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df10ed1c855e3780800000000000000
+      internalID: -8701423369748209709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_52
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 0
+        width: 150
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fafae04c7daaf5b0800000000000000
+      internalID: -5333760059490239751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_53
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 0
+        width: 152
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689ff159a2fbb09e0800000000000000
+      internalID: -1654018248517092986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_54
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 152
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480df0de269ce61d0800000000000000
+      internalID: -3355523245623226236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_quake_55
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 0
+        width: 150
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab50073d623637960800000000000000
+      internalID: 7598526014711399866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_quake_0: -2328020080104209301
+      jp_quake_1: -4702955699985563284
+      jp_quake_10: -4689334368803187021
+      jp_quake_11: -8658962976249341919
+      jp_quake_12: -4003404398484753129
+      jp_quake_13: 3759358356347525071
+      jp_quake_14: -929575845793176762
+      jp_quake_15: -3497010582020311360
+      jp_quake_16: -3309997992595277881
+      jp_quake_17: -1878627122736259577
+      jp_quake_18: -6382600266519941892
+      jp_quake_19: -2105055948945440905
+      jp_quake_2: -4675082056371358921
+      jp_quake_20: -8821852263921305351
+      jp_quake_21: -8135327358398989511
+      jp_quake_22: -533013093340815956
+      jp_quake_23: -3379644136391497249
+      jp_quake_24: 2035937132145185997
+      jp_quake_25: 2320389039083265532
+      jp_quake_26: -3324893097244418473
+      jp_quake_27: 8547694484604102929
+      jp_quake_28: -525628501726293360
+      jp_quake_29: -8779351356340314665
+      jp_quake_3: 5828447847598760111
+      jp_quake_30: -8847674069952982353
+      jp_quake_31: 2075433569442626920
+      jp_quake_32: 5962500692516150693
+      jp_quake_33: 318944087311848065
+      jp_quake_34: 5510143918733362399
+      jp_quake_35: -5780625685514087865
+      jp_quake_36: 8095856215341940408
+      jp_quake_37: -1456248428650560944
+      jp_quake_38: 5192645961289485076
+      jp_quake_39: 531176314350363496
+      jp_quake_4: 7775270751506432395
+      jp_quake_40: 5997930503380567425
+      jp_quake_41: -2730761490214036220
+      jp_quake_42: 7521756410657478334
+      jp_quake_43: 2547924939808027544
+      jp_quake_44: 3212979955215925278
+      jp_quake_45: -8162022862606837817
+      jp_quake_46: -7509116709057719830
+      jp_quake_47: -4301366779749900572
+      jp_quake_48: -3667493067812459138
+      jp_quake_49: -4616804460656498317
+      jp_quake_5: -5974944698837436813
+      jp_quake_50: 3517122691718232327
+      jp_quake_51: -8701423369748209709
+      jp_quake_52: -5333760059490239751
+      jp_quake_53: -1654018248517092986
+      jp_quake_54: -3355523245623226236
+      jp_quake_55: 7598526014711399866
+      jp_quake_6: -2397046719448420189
+      jp_quake_7: -7239294025986624468
+      jp_quake_8: 6103500526542180132
+      jp_quake_9: 3742277173030553418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

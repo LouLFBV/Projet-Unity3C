@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 53f8d0b6e63ebeb43b9bfb8ec82fd7e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3254532956649649876
+    second: jp_water_dragon_0
+  - first:
+      213: 6072575973914303391
+    second: jp_water_dragon_1
+  - first:
+      213: -7548944528905003994
+    second: jp_water_dragon_2
+  - first:
+      213: -224901005665396169
+    second: jp_water_dragon_3
+  - first:
+      213: -5741463232332540740
+    second: jp_water_dragon_4
+  - first:
+      213: 6482366364699137891
+    second: jp_water_dragon_5
+  - first:
+      213: 7742951280588798558
+    second: jp_water_dragon_6
+  - first:
+      213: -9107937654394958928
+    second: jp_water_dragon_7
+  - first:
+      213: 6031946080842122569
+    second: jp_water_dragon_8
+  - first:
+      213: -7416787853440625339
+    second: jp_water_dragon_9
+  - first:
+      213: -6972714495730379824
+    second: jp_water_dragon_10
+  - first:
+      213: -3982170599894810740
+    second: jp_water_dragon_11
+  - first:
+      213: 2810276313095523968
+    second: jp_water_dragon_12
+  - first:
+      213: 4505780240835787084
+    second: jp_water_dragon_13
+  - first:
+      213: 6680268957636306980
+    second: jp_water_dragon_14
+  - first:
+      213: 5503549891833391410
+    second: jp_water_dragon_15
+  - first:
+      213: 7429716962578394732
+    second: jp_water_dragon_16
+  - first:
+      213: -7564249783350824982
+    second: jp_water_dragon_17
+  - first:
+      213: 8793373965118906763
+    second: jp_water_dragon_18
+  - first:
+      213: 7836217048045815807
+    second: jp_water_dragon_19
+  - first:
+      213: -8939039557190466326
+    second: jp_water_dragon_20
+  - first:
+      213: 2946735667402693109
+    second: jp_water_dragon_21
+  - first:
+      213: 8321656613260869975
+    second: jp_water_dragon_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_water_dragon_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d677e61b7c6a2d20800000000000000
+      internalID: 3254532956649649876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bdbb4acaf164450800000000000000
+      internalID: 6072575973914303391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_2
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c1d7d62f2cc3790800000000000000
+      internalID: -7548944528905003994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_3
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a9fa71abdf0ecf0800000000000000
+      internalID: -224901005665396169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_4
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb45ad91c993250b0800000000000000
+      internalID: -5741463232332540740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_5
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 12
+        width: 145
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36715d71dddf5f950800000000000000
+      internalID: 6482366364699137891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ab6a07a2d747b60800000000000000
+      internalID: 7742951280588798558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_7
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb426195fa1a9180800000000000000
+      internalID: -9107937654394958928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_8
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94587ec7007c5b350800000000000000
+      internalID: 6031946080842122569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_9
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5455d3d3eb6421990800000000000000
+      internalID: -7416787853440625339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_10
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 0
+        width: 148
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d316c1fb11fb3f90800000000000000
+      internalID: -6972714495730379824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_11
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 138
+        width: 148
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ff34610fc7cb8c0800000000000000
+      internalID: -3982170599894810740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_12
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 193
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec0c2da6b100720800000000000000
+      internalID: 2810276313095523968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_13
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49bdf2a14fb78e30800000000000000
+      internalID: 4505780240835787084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_14
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 220
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4282bff293515bc50800000000000000
+      internalID: 6680268957636306980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_15
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 180
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396e52b779806c40800000000000000
+      internalID: 5503549891833391410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_16
+      rect:
+        serializedVersion: 2
+        x: 2976
+        y: 50
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eed209638ab1760800000000000000
+      internalID: 7429716962578394732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_17
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 0
+        width: 148
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef6c0f26e2660790800000000000000
+      internalID: -7564249783350824982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_18
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 0
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81a4103807580a70800000000000000
+      internalID: 8793373965118906763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_19
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 18
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff781ab13e5dfbc60800000000000000
+      internalID: 7836217048045815807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_20
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 12
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae44f7042e622f380800000000000000
+      internalID: -8939039557190466326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_21
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 12
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9d28e1a78e4e820800000000000000
+      internalID: 2946735667402693109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_water_dragon_22
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 23
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751c13889967c7370800000000000000
+      internalID: 8321656613260869975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_water_dragon_0: 3254532956649649876
+      jp_water_dragon_1: 6072575973914303391
+      jp_water_dragon_10: -6972714495730379824
+      jp_water_dragon_11: -3982170599894810740
+      jp_water_dragon_12: 2810276313095523968
+      jp_water_dragon_13: 4505780240835787084
+      jp_water_dragon_14: 6680268957636306980
+      jp_water_dragon_15: 5503549891833391410
+      jp_water_dragon_16: 7429716962578394732
+      jp_water_dragon_17: -7564249783350824982
+      jp_water_dragon_18: 8793373965118906763
+      jp_water_dragon_19: 7836217048045815807
+      jp_water_dragon_2: -7548944528905003994
+      jp_water_dragon_20: -8939039557190466326
+      jp_water_dragon_21: 2946735667402693109
+      jp_water_dragon_22: 8321656613260869975
+      jp_water_dragon_3: -224901005665396169
+      jp_water_dragon_4: -5741463232332540740
+      jp_water_dragon_5: 6482366364699137891
+      jp_water_dragon_6: 7742951280588798558
+      jp_water_dragon_7: -9107937654394958928
+      jp_water_dragon_8: 6031946080842122569
+      jp_water_dragon_9: -7416787853440625339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

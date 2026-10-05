@@ -1,4 +1,5 @@
 using System;
+using TMPro.EditorUtilities;
 using UnityEngine;
 
 public class PlayerCharacter : MonoBehaviour
@@ -47,7 +48,7 @@ public class PlayerCharacter : MonoBehaviour
     public float CurrentAcceleration { get; set; }
     public float CurrentDeceleration { get; set; }
     public float MaxMoveSpeed => _maxMoveSpeed;
-    public float FacingDirection { get; private set; } = 1f;
+    public float FacingDirection { get; set; } = 1f;
     public bool IsSprinting { get; set; } = false;
 
     private Vector2 _moveInput;
@@ -57,8 +58,12 @@ public class PlayerCharacter : MonoBehaviour
 
     #region Gravity 
     [Header("Gravity")]
+
     [SerializeField] private float _fallingGravity = 15f;
     [SerializeField] private float _risingingGravity = 25f;
+
+    public float FallingGravity => _fallingGravity;
+    public float RisingingGravity => _risingingGravity;
     #endregion
 
     #region Jump 
@@ -78,8 +83,9 @@ public class PlayerCharacter : MonoBehaviour
     #region Wall Jump
     [Header("Wall Jump")]
     [SerializeField] private float _castDistanceToWallJump = 0.3f;
+    [SerializeField] private float _wallJumpGravity = 0.3f;
 
-    public float WallJumpGravity { get; set; } = 5f;
+    public float WallJumpGravity => _wallJumpGravity;
     public bool CanWallJump { get; set; } = false;
     public float CastDistanceToWallJump => _castDistanceToWallJump;
     #endregion

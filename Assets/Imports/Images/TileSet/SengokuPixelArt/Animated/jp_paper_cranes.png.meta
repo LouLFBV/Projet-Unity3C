@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: e9979f29ab06be7489d6a8f7ebdc6338
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9191462892887939344
+    second: jp_paper_cranes_0
+  - first:
+      213: 2978569272901870976
+    second: jp_paper_cranes_1
+  - first:
+      213: 5164746429564554537
+    second: jp_paper_cranes_2
+  - first:
+      213: 7768613145616642888
+    second: jp_paper_cranes_3
+  - first:
+      213: 3680096482034315768
+    second: jp_paper_cranes_4
+  - first:
+      213: -3176845918186081994
+    second: jp_paper_cranes_5
+  - first:
+      213: 1345382673284981690
+    second: jp_paper_cranes_6
+  - first:
+      213: -1089707943243520155
+    second: jp_paper_cranes_7
+  - first:
+      213: -5507182396676100775
+    second: jp_paper_cranes_8
+  - first:
+      213: 1434171769636171376
+    second: jp_paper_cranes_9
+  - first:
+      213: 5966006734706411596
+    second: jp_paper_cranes_10
+  - first:
+      213: 2283134671284910750
+    second: jp_paper_cranes_11
+  - first:
+      213: -8929486899049130192
+    second: jp_paper_cranes_12
+  - first:
+      213: 5846630218615899384
+    second: jp_paper_cranes_13
+  - first:
+      213: -4632652529235994624
+    second: jp_paper_cranes_14
+  - first:
+      213: -1069020795296710710
+    second: jp_paper_cranes_15
+  - first:
+      213: 6242040295947639707
+    second: jp_paper_cranes_16
+  - first:
+      213: -5747859066713527407
+    second: jp_paper_cranes_17
+  - first:
+      213: -4693414169393225541
+    second: jp_paper_cranes_18
+  - first:
+      213: 9015293745763608285
+    second: jp_paper_cranes_19
+  - first:
+      213: 8194383813545054741
+    second: jp_paper_cranes_20
+  - first:
+      213: -4395541541885725931
+    second: jp_paper_cranes_21
+  - first:
+      213: 4325569808454291482
+    second: jp_paper_cranes_22
+  - first:
+      213: 6404960549531193297
+    second: jp_paper_cranes_23
+  - first:
+      213: -5804825055627520981
+    second: jp_paper_cranes_24
+  - first:
+      213: -2421693515219223731
+    second: jp_paper_cranes_25
+  - first:
+      213: -439437227935348342
+    second: jp_paper_cranes_26
+  - first:
+      213: -7243301409607232192
+    second: jp_paper_cranes_27
+  - first:
+      213: -1597283270968403623
+    second: jp_paper_cranes_28
+  - first:
+      213: -814254253732252754
+    second: jp_paper_cranes_29
+  - first:
+      213: -961274934784020670
+    second: jp_paper_cranes_30
+  - first:
+      213: 4658559695781770140
+    second: jp_paper_cranes_31
+  - first:
+      213: 2986076054705909368
+    second: jp_paper_cranes_32
+  - first:
+      213: 7916109609241497912
+    second: jp_paper_cranes_33
+  - first:
+      213: -7665827625955068177
+    second: jp_paper_cranes_34
+  - first:
+      213: -4720820432354278512
+    second: jp_paper_cranes_35
+  - first:
+      213: 5724632607845634265
+    second: jp_paper_cranes_36
+  - first:
+      213: 6527282585510423093
+    second: jp_paper_cranes_37
+  - first:
+      213: -2546528040868411642
+    second: jp_paper_cranes_38
+  - first:
+      213: 311226541473927853
+    second: jp_paper_cranes_39
+  - first:
+      213: 2393080494956955238
+    second: jp_paper_cranes_40
+  - first:
+      213: 7133543120816349816
+    second: jp_paper_cranes_41
+  - first:
+      213: 7223801543639846581
+    second: jp_paper_cranes_42
+  - first:
+      213: 1188769408192759554
+    second: jp_paper_cranes_43
+  - first:
+      213: -5266288679719912350
+    second: jp_paper_cranes_44
+  - first:
+      213: 898018789043385846
+    second: jp_paper_cranes_45
+  - first:
+      213: -4012310225740762496
+    second: jp_paper_cranes_46
+  - first:
+      213: 2992058182117384226
+    second: jp_paper_cranes_47
+  - first:
+      213: 2600113354789465133
+    second: jp_paper_cranes_48
+  - first:
+      213: 6702634995653346426
+    second: jp_paper_cranes_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_paper_cranes_0
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 41
+        width: 211
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01915c87dc2ae8f70800000000000000
+      internalID: 9191462892887939344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 41
+        width: 219
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085a53af8f0065920800000000000000
+      internalID: 2978569272901870976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 143
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d8921838ddca740800000000000000
+      internalID: 5164746429564554537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_3
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 146
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843f8edfe78afcb60800000000000000
+      internalID: 7768613145616642888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_4
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 139
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1f1de9044521330800000000000000
+      internalID: 3680096482034315768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_5
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 138
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6317e54187399e3d0800000000000000
+      internalID: -3176845918186081994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_6
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 152
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3ed18c962cba210800000000000000
+      internalID: 1345382673284981690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_7
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 138
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5676c0e266490e0f0800000000000000
+      internalID: -1089707943243520155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_8
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 175
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d26dcd9ce8293b0800000000000000
+      internalID: -5507182396676100775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_9
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 161
+        width: 114
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07eae0c30a337e310800000000000000
+      internalID: 1434171769636171376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_10
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 171
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4883c514838bc250800000000000000
+      internalID: 5966006734706411596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_11
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 155
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab05013e25faf10800000000000000
+      internalID: 2283134671284910750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_12
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 165
+        width: 84
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0371cabc9f6141480800000000000000
+      internalID: -8929486899049130192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_13
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 136
+        width: 72
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f44aa10537632150800000000000000
+      internalID: 5846630218615899384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_14
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 187
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008d21bc11385bfb0800000000000000
+      internalID: -4632652529235994624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_15
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 187
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf75d620431a21f0800000000000000
+      internalID: -1069020795296710710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_16
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 200
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b12a1d39e20a650800000000000000
+      internalID: 6242040295947639707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b288dd1a08b30b0800000000000000
+      internalID: -5747859066713527407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_18
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 89
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb028810ea4addeb0800000000000000
+      internalID: -4693414169393225541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_19
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 115
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd66a0e85e1cc1d70800000000000000
+      internalID: 9015293745763608285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_20
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 132
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5125097a9ac48b170800000000000000
+      internalID: 8194383813545054741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_21
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 143
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513bd689146eff2c0800000000000000
+      internalID: -4395541541885725931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_22
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 128
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10921ca2d2870c30800000000000000
+      internalID: 4325569808454291482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_23
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 151
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df82335fadf2e850800000000000000
+      internalID: 6404960549531193297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_24
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 34
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24d8000e5e117fa0800000000000000
+      internalID: -5804825055627520981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_25
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 31
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bbd7e149a646ed0800000000000000
+      internalID: -2421693515219223731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_26
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 38
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89c4df5b2ec6e9f0800000000000000
+      internalID: -439437227935348342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_27
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 24
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045564f9ebf9a7b90800000000000000
+      internalID: -7243301409607232192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_28
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 50
+        width: 96
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959114ce35f45d9e0800000000000000
+      internalID: -1597283270968403623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_29
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 20
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea33071021033b4f0800000000000000
+      internalID: -814254253732252754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_30
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 71
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f26b43a8dd8a2f0800000000000000
+      internalID: -961274934784020670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_31
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 48
+        width: 85
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9336087c5786a040800000000000000
+      internalID: 4658559695781770140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_32
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 73
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eab01d95ca07920800000000000000
+      internalID: 2986076054705909368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_33
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 82
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83155ed8fbbabdd60800000000000000
+      internalID: 7916109609241497912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_34
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 87
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe67295b3628d9590800000000000000
+      internalID: -7665827625955068177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_35
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 82
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0930e1924d64c7eb0800000000000000
+      internalID: -4720820432354278512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_36
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 103
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0d144c60bf17f40800000000000000
+      internalID: 5724632607845634265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_37
+      rect:
+        serializedVersion: 2
+        x: 2932
+        y: 111
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a21f1bde0959a50800000000000000
+      internalID: 6527282585510423093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_38
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 82
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60787792d3ae8acd0800000000000000
+      internalID: -2546528040868411642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_39
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 50
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21a39f3e2b15400800000000000000
+      internalID: 311226541473927853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_40
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 20
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66643d4f70ee53120800000000000000
+      internalID: 2393080494956955238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_41
+      rect:
+        serializedVersion: 2
+        x: 2221
+        y: 50
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872a03a5caf6ff260800000000000000
+      internalID: 7133543120816349816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_42
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 24
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be42980b39104460800000000000000
+      internalID: 7223801543639846581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_43
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 47
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2074e277a7b5f7010800000000000000
+      internalID: 1188769408192759554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_44
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 20
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c32a809526ae6b0800000000000000
+      internalID: -5266288679719912350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_45
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 4
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5be8aa457667c00800000000000000
+      internalID: 898018789043385846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_46
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 0
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082fd0a9b196158c0800000000000000
+      internalID: -4012310225740762496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_47
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 0
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2206864601de58920800000000000000
+      internalID: 2992058182117384226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_48
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 16
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ca9f7f155751420800000000000000
+      internalID: 2600113354789465133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_paper_cranes_49
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 0
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a740507340b840d50800000000000000
+      internalID: 6702634995653346426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_paper_cranes_0: 9191462892887939344
+      jp_paper_cranes_1: 2978569272901870976
+      jp_paper_cranes_10: 5966006734706411596
+      jp_paper_cranes_11: 2283134671284910750
+      jp_paper_cranes_12: -8929486899049130192
+      jp_paper_cranes_13: 5846630218615899384
+      jp_paper_cranes_14: -4632652529235994624
+      jp_paper_cranes_15: -1069020795296710710
+      jp_paper_cranes_16: 6242040295947639707
+      jp_paper_cranes_17: -5747859066713527407
+      jp_paper_cranes_18: -4693414169393225541
+      jp_paper_cranes_19: 9015293745763608285
+      jp_paper_cranes_2: 5164746429564554537
+      jp_paper_cranes_20: 8194383813545054741
+      jp_paper_cranes_21: -4395541541885725931
+      jp_paper_cranes_22: 4325569808454291482
+      jp_paper_cranes_23: 6404960549531193297
+      jp_paper_cranes_24: -5804825055627520981
+      jp_paper_cranes_25: -2421693515219223731
+      jp_paper_cranes_26: -439437227935348342
+      jp_paper_cranes_27: -7243301409607232192
+      jp_paper_cranes_28: -1597283270968403623
+      jp_paper_cranes_29: -814254253732252754
+      jp_paper_cranes_3: 7768613145616642888
+      jp_paper_cranes_30: -961274934784020670
+      jp_paper_cranes_31: 4658559695781770140
+      jp_paper_cranes_32: 2986076054705909368
+      jp_paper_cranes_33: 7916109609241497912
+      jp_paper_cranes_34: -7665827625955068177
+      jp_paper_cranes_35: -4720820432354278512
+      jp_paper_cranes_36: 5724632607845634265
+      jp_paper_cranes_37: 6527282585510423093
+      jp_paper_cranes_38: -2546528040868411642
+      jp_paper_cranes_39: 311226541473927853
+      jp_paper_cranes_4: 3680096482034315768
+      jp_paper_cranes_40: 2393080494956955238
+      jp_paper_cranes_41: 7133543120816349816
+      jp_paper_cranes_42: 7223801543639846581
+      jp_paper_cranes_43: 1188769408192759554
+      jp_paper_cranes_44: -5266288679719912350
+      jp_paper_cranes_45: 898018789043385846
+      jp_paper_cranes_46: -4012310225740762496
+      jp_paper_cranes_47: 2992058182117384226
+      jp_paper_cranes_48: 2600113354789465133
+      jp_paper_cranes_49: 6702634995653346426
+      jp_paper_cranes_5: -3176845918186081994
+      jp_paper_cranes_6: 1345382673284981690
+      jp_paper_cranes_7: -1089707943243520155
+      jp_paper_cranes_8: -5507182396676100775
+      jp_paper_cranes_9: 1434171769636171376
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

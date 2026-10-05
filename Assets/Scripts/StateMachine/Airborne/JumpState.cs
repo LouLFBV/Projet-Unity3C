@@ -7,22 +7,28 @@ class JumpState : AirboneState
     public override void Enter()
     {
         base.Enter();
+        Character.Body.SetGravity(true, Character.RisingingGravity);
+
+        Character.LastJumpInputTime = float.MinValue;
+        Character.CanCoyoteJump = false;
+
+        Vector2 newVelocity = Character.Body.Velocity;
+        newVelocity.y = 0f;
+        Character.Body.SetVelocity(newVelocity);
 
         Character.JumpDir = (Character.HitNormal + Vector2.up * 2).normalized;
+        Debug.Log($"Character.JumpDir * Character.JumpForce : {Character.JumpDir * Character.JumpForce}");
         Character.Body.AddForce(Character.JumpDir * Character.JumpForce,
         ForceType.Impulse);
 
         Character.TriggerJump();
-
-        Character.LastJumpInputTime = float.MinValue;
-        Character.CanCoyoteJump = false;
     }
 
     public override void Update()
     {
         base.Update();
 
-        if (Character.Body.Velocity.y < 0f)
+        if (Character.Body.Velocity.y < 0f && !_canWallSlide)
         {
             SetNextState<FallState>();
         }

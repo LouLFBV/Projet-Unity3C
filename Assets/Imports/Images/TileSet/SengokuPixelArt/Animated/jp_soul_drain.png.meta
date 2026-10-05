@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: c823c560e98b5a44499f311634c4814b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6987399802825529702
+    second: jp_soul_drain_0
+  - first:
+      213: -3401723490913215150
+    second: jp_soul_drain_1
+  - first:
+      213: 5625303046014708242
+    second: jp_soul_drain_2
+  - first:
+      213: 8657316967263984661
+    second: jp_soul_drain_3
+  - first:
+      213: 4353475528345021791
+    second: jp_soul_drain_4
+  - first:
+      213: -4168946867203038039
+    second: jp_soul_drain_5
+  - first:
+      213: 1638250918734758244
+    second: jp_soul_drain_6
+  - first:
+      213: 8094908771786243282
+    second: jp_soul_drain_7
+  - first:
+      213: -2593738145232280763
+    second: jp_soul_drain_8
+  - first:
+      213: -1404896478706581770
+    second: jp_soul_drain_9
+  - first:
+      213: -939727011046363280
+    second: jp_soul_drain_10
+  - first:
+      213: -3949588046491424784
+    second: jp_soul_drain_11
+  - first:
+      213: 2452281636461920583
+    second: jp_soul_drain_12
+  - first:
+      213: 5758443939441768648
+    second: jp_soul_drain_13
+  - first:
+      213: -4753993718050088623
+    second: jp_soul_drain_14
+  - first:
+      213: -1817285775019595169
+    second: jp_soul_drain_15
+  - first:
+      213: 2093816656697530561
+    second: jp_soul_drain_16
+  - first:
+      213: 7997356573357138496
+    second: jp_soul_drain_17
+  - first:
+      213: 6507516467108517496
+    second: jp_soul_drain_18
+  - first:
+      213: 2928158458704246079
+    second: jp_soul_drain_19
+  - first:
+      213: 548325291426933918
+    second: jp_soul_drain_20
+  - first:
+      213: -1319334067331774674
+    second: jp_soul_drain_21
+  - first:
+      213: -1802653183922571778
+    second: jp_soul_drain_22
+  - first:
+      213: -2316288804905815237
+    second: jp_soul_drain_23
+  - first:
+      213: 299795347671809695
+    second: jp_soul_drain_24
+  - first:
+      213: -1374019884773281471
+    second: jp_soul_drain_25
+  - first:
+      213: 4070235643875937357
+    second: jp_soul_drain_26
+  - first:
+      213: -7837554750781595264
+    second: jp_soul_drain_27
+  - first:
+      213: 1786733725497877297
+    second: jp_soul_drain_28
+  - first:
+      213: 3883344300446031999
+    second: jp_soul_drain_29
+  - first:
+      213: -2416014142268348224
+    second: jp_soul_drain_30
+  - first:
+      213: -1749927519759853265
+    second: jp_soul_drain_31
+  - first:
+      213: 3017862131301398669
+    second: jp_soul_drain_32
+  - first:
+      213: 186758211609525895
+    second: jp_soul_drain_33
+  - first:
+      213: -4470454268262057745
+    second: jp_soul_drain_34
+  - first:
+      213: -4196219256994055845
+    second: jp_soul_drain_35
+  - first:
+      213: 4308518631921401356
+    second: jp_soul_drain_36
+  - first:
+      213: -3257461903713252037
+    second: jp_soul_drain_37
+  - first:
+      213: 3102275193532687402
+    second: jp_soul_drain_38
+  - first:
+      213: 7250796550861247139
+    second: jp_soul_drain_39
+  - first:
+      213: 1926686960935745365
+    second: jp_soul_drain_40
+  - first:
+      213: 1203113810208387261
+    second: jp_soul_drain_41
+  - first:
+      213: -5871284826322592332
+    second: jp_soul_drain_42
+  - first:
+      213: 4974482859033883065
+    second: jp_soul_drain_43
+  - first:
+      213: -9133195089416597994
+    second: jp_soul_drain_44
+  - first:
+      213: -1829129856420968943
+    second: jp_soul_drain_45
+  - first:
+      213: -2412586591087869320
+    second: jp_soul_drain_46
+  - first:
+      213: -5689263260229756866
+    second: jp_soul_drain_47
+  - first:
+      213: 1848143034713091983
+    second: jp_soul_drain_48
+  - first:
+      213: 7799399158623384252
+    second: jp_soul_drain_49
+  - first:
+      213: 5263434103810713880
+    second: jp_soul_drain_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_soul_drain_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 196
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9623f076e4c70f90800000000000000
+      internalID: -6987399802825529702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 239
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d14041286aac0d0800000000000000
+      internalID: -3401723490913215150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_2
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 234
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a21a3f057111e40800000000000000
+      internalID: 5625303046014708242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 238
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c5bbdc9e7f42870800000000000000
+      internalID: 8657316967263984661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_4
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 0
+        width: 40
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d6c556de6aa6c30800000000000000
+      internalID: 4353475528345021791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_5
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 211
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4a2ec89ece426c0800000000000000
+      internalID: -4168946867203038039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_6
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 85
+        width: 167
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4618420e78c3cb610800000000000000
+      internalID: 1638250918734758244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_7
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 89
+        width: 154
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc3387a3a4e65070800000000000000
+      internalID: 8094908771786243282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_8
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 232
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543ac0d26e0310cd0800000000000000
+      internalID: -2593738145232280763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_9
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 214
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe3f78981ec08ce0800000000000000
+      internalID: -1404896478706581770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_10
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 192
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fedb8234b65f2f0800000000000000
+      internalID: -939727011046363280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_11
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 54
+        width: 75
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7efb7f89e3039c0800000000000000
+      internalID: -3949588046491424784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_12
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741c686d721480220800000000000000
+      internalID: 2452281636461920583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 183
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c87d6dd04a1aef40800000000000000
+      internalID: 5758443939441768648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_14
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 24
+        width: 193
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1599f23b6eb660eb0800000000000000
+      internalID: -4753993718050088623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_15
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 197
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a269c4734b7c6e0800000000000000
+      internalID: -1817285775019595169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_16
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 189
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8904fd72bbe0d10800000000000000
+      internalID: 2093816656697530561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_17
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 196
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04266118e615cfe60800000000000000
+      internalID: 7997356573357138496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_18
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 176
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761200afb75f4a50800000000000000
+      internalID: 6507516467108517496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_19
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 173
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f353f19aa98e2a820800000000000000
+      internalID: 2928158458704246079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_20
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 184
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c6dd882fa0c9700800000000000000
+      internalID: 548325291426933918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_21
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 140
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e274e98e7a8c0bde0800000000000000
+      internalID: -1319334067331774674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_22
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 202
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef57117ea70bbf6e0800000000000000
+      internalID: -1802653183922571778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_23
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 189
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33ff5aaa93eadfd0800000000000000
+      internalID: -2316288804905815237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_24
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 196
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9efa43c746192400800000000000000
+      internalID: 299795347671809695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 151
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f3c5d1308eece0800000000000000
+      internalID: -1374019884773281471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 149
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ccb59c0c16c7830800000000000000
+      internalID: 4070235643875937357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_27
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 125
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081ecf3ba796b3390800000000000000
+      internalID: -7837554750781595264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_28
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 140
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133e2885bd0cbc810800000000000000
+      internalID: 1786733725497877297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_29
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 89
+        width: 99
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70af90011964e530800000000000000
+      internalID: 3883344300446031999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_30
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c866cd20f7987ed0800000000000000
+      internalID: -2416014142268348224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_31
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 132
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29980a313207b7e0800000000000000
+      internalID: -1749927519759853265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_32
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 142
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88b25d7e9991e920800000000000000
+      internalID: 3017862131301398669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_33
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 138
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e7fdd9a9f779200800000000000000
+      internalID: 186758211609525895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_34
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 142
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe87c9b4781c5f1c0800000000000000
+      internalID: -4470454268262057745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 102
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59373b71d804c5c0800000000000000
+      internalID: -4196219256994055845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 102
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eb3d34edeeacb30800000000000000
+      internalID: 4308518631921401356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_37
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 112
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dcdc748ab2bc2d0800000000000000
+      internalID: -3257461903713252037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_38
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 102
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24a50a1ade7d0b20800000000000000
+      internalID: 3102275193532687402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_39
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 109
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a256b0fb0100a460800000000000000
+      internalID: 7250796550861247139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_40
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 112
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557b3fb3597fcba10800000000000000
+      internalID: 1926686960935745365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_41
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 96
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db076d1d2a152b010800000000000000
+      internalID: 1203113810208387261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_42
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 113
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd96efce81058ea0800000000000000
+      internalID: -5871284826322592332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 51
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1fbf9edc9e80540800000000000000
+      internalID: 4974482859033883065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 57
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e4bf6b47f504180800000000000000
+      internalID: -9133195089416597994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_45
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 78
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11687f33610ad96e0800000000000000
+      internalID: -1829129856420968943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87246502745c48ed0800000000000000
+      internalID: -2412586591087869320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_47
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e381354353dab01b0800000000000000
+      internalID: -5689263260229756866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 23
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8faf265c4ce5a910800000000000000
+      internalID: 1848143034713091983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_49
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 16
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb23a3736380d3c60800000000000000
+      internalID: 7799399158623384252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_soul_drain_50
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 20
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81960583e697b0940800000000000000
+      internalID: 5263434103810713880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_soul_drain_0: -6987399802825529702
+      jp_soul_drain_1: -3401723490913215150
+      jp_soul_drain_10: -939727011046363280
+      jp_soul_drain_11: -3949588046491424784
+      jp_soul_drain_12: 2452281636461920583
+      jp_soul_drain_13: 5758443939441768648
+      jp_soul_drain_14: -4753993718050088623
+      jp_soul_drain_15: -1817285775019595169
+      jp_soul_drain_16: 2093816656697530561
+      jp_soul_drain_17: 7997356573357138496
+      jp_soul_drain_18: 6507516467108517496
+      jp_soul_drain_19: 2928158458704246079
+      jp_soul_drain_2: 5625303046014708242
+      jp_soul_drain_20: 548325291426933918
+      jp_soul_drain_21: -1319334067331774674
+      jp_soul_drain_22: -1802653183922571778
+      jp_soul_drain_23: -2316288804905815237
+      jp_soul_drain_24: 299795347671809695
+      jp_soul_drain_25: -1374019884773281471
+      jp_soul_drain_26: 4070235643875937357
+      jp_soul_drain_27: -7837554750781595264
+      jp_soul_drain_28: 1786733725497877297
+      jp_soul_drain_29: 3883344300446031999
+      jp_soul_drain_3: 8657316967263984661
+      jp_soul_drain_30: -2416014142268348224
+      jp_soul_drain_31: -1749927519759853265
+      jp_soul_drain_32: 3017862131301398669
+      jp_soul_drain_33: 186758211609525895
+      jp_soul_drain_34: -4470454268262057745
+      jp_soul_drain_35: -4196219256994055845
+      jp_soul_drain_36: 4308518631921401356
+      jp_soul_drain_37: -3257461903713252037
+      jp_soul_drain_38: 3102275193532687402
+      jp_soul_drain_39: 7250796550861247139
+      jp_soul_drain_4: 4353475528345021791
+      jp_soul_drain_40: 1926686960935745365
+      jp_soul_drain_41: 1203113810208387261
+      jp_soul_drain_42: -5871284826322592332
+      jp_soul_drain_43: 4974482859033883065
+      jp_soul_drain_44: -9133195089416597994
+      jp_soul_drain_45: -1829129856420968943
+      jp_soul_drain_46: -2412586591087869320
+      jp_soul_drain_47: -5689263260229756866
+      jp_soul_drain_48: 1848143034713091983
+      jp_soul_drain_49: 7799399158623384252
+      jp_soul_drain_5: -4168946867203038039
+      jp_soul_drain_50: 5263434103810713880
+      jp_soul_drain_6: 1638250918734758244
+      jp_soul_drain_7: 8094908771786243282
+      jp_soul_drain_8: -2593738145232280763
+      jp_soul_drain_9: -1404896478706581770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

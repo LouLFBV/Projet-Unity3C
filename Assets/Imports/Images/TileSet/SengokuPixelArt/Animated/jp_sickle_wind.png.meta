@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: fcaa68d073364c34e91a54f5ed1320f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6283788379159129683
+    second: jp_sickle_wind_0
+  - first:
+      213: -2768173206497641937
+    second: jp_sickle_wind_1
+  - first:
+      213: 7467497140920305899
+    second: jp_sickle_wind_2
+  - first:
+      213: -625446896494387849
+    second: jp_sickle_wind_3
+  - first:
+      213: 9117582803381934603
+    second: jp_sickle_wind_4
+  - first:
+      213: 5664562190988208755
+    second: jp_sickle_wind_5
+  - first:
+      213: -1360520439557219165
+    second: jp_sickle_wind_6
+  - first:
+      213: 7882324508927176993
+    second: jp_sickle_wind_7
+  - first:
+      213: 2971607495061206952
+    second: jp_sickle_wind_8
+  - first:
+      213: 2226667748421201264
+    second: jp_sickle_wind_9
+  - first:
+      213: -1684622183136246403
+    second: jp_sickle_wind_10
+  - first:
+      213: 6213162449017885993
+    second: jp_sickle_wind_11
+  - first:
+      213: -6516866091076281130
+    second: jp_sickle_wind_12
+  - first:
+      213: 193206579189517961
+    second: jp_sickle_wind_13
+  - first:
+      213: -2357825941415546580
+    second: jp_sickle_wind_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_sickle_wind_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 9
+        width: 252
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee187ec30843750800000000000000
+      internalID: 6283788379159129683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 9
+        width: 256
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a34f592297599d0800000000000000
+      internalID: -2768173206497641937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 9
+        width: 258
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8cccdc511e1a760800000000000000
+      internalID: 7467497140920305899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_3
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 9
+        width: 256
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dd4948c57f157f0800000000000000
+      internalID: -625446896494387849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_4
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 9
+        width: 252
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a5acda049288e70800000000000000
+      internalID: 9117582803381934603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_5
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 10
+        width: 252
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ae5f1fc419c9e40800000000000000
+      internalID: 5664562190988208755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 10
+        width: 256
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac988a5ed57e1de0800000000000000
+      internalID: -1360520439557219165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_7
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 10
+        width: 258
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121b5f6e064a36d60800000000000000
+      internalID: 7882324508927176993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_8
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 10
+        width: 256
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f203c5454d3920800000000000000
+      internalID: 2971607495061206952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_9
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 10
+        width: 252
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de6711586b6ee10800000000000000
+      internalID: 2226667748421201264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_10
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 10
+        width: 252
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75cb69cc050f98e0800000000000000
+      internalID: -1684622183136246403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_11
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 10
+        width: 256
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925d1812456993650800000000000000
+      internalID: 6213162449017885993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_12
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 10
+        width: 258
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc1c9861d07f85a0800000000000000
+      internalID: -6516866091076281130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_13
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 10
+        width: 256
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e0cd03c586ea200800000000000000
+      internalID: 193206579189517961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_sickle_wind_14
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 10
+        width: 252
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21b9bf6cc1574fd0800000000000000
+      internalID: -2357825941415546580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_sickle_wind_0: 6283788379159129683
+      jp_sickle_wind_1: -2768173206497641937
+      jp_sickle_wind_10: -1684622183136246403
+      jp_sickle_wind_11: 6213162449017885993
+      jp_sickle_wind_12: -6516866091076281130
+      jp_sickle_wind_13: 193206579189517961
+      jp_sickle_wind_14: -2357825941415546580
+      jp_sickle_wind_2: 7467497140920305899
+      jp_sickle_wind_3: -625446896494387849
+      jp_sickle_wind_4: 9117582803381934603
+      jp_sickle_wind_5: 5664562190988208755
+      jp_sickle_wind_6: -1360520439557219165
+      jp_sickle_wind_7: 7882324508927176993
+      jp_sickle_wind_8: 2971607495061206952
+      jp_sickle_wind_9: 2226667748421201264
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

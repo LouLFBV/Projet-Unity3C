@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: ff4e348e5aa68fe46b11f6de7e504dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7199524589461585387
+    second: jp_iai_slash_0
+  - first:
+      213: -4413697695908171174
+    second: jp_iai_slash_1
+  - first:
+      213: -875916350670111912
+    second: jp_iai_slash_2
+  - first:
+      213: 6572362862940736675
+    second: jp_iai_slash_3
+  - first:
+      213: 6704448430709986793
+    second: jp_iai_slash_4
+  - first:
+      213: -3067181464803767325
+    second: jp_iai_slash_5
+  - first:
+      213: -7251683537912095143
+    second: jp_iai_slash_6
+  - first:
+      213: -1402641914059664018
+    second: jp_iai_slash_7
+  - first:
+      213: 5823591484359501406
+    second: jp_iai_slash_8
+  - first:
+      213: -2085226592870889724
+    second: jp_iai_slash_9
+  - first:
+      213: 6301596477356576671
+    second: jp_iai_slash_10
+  - first:
+      213: 1208141826571611219
+    second: jp_iai_slash_11
+  - first:
+      213: 7536864437339037948
+    second: jp_iai_slash_12
+  - first:
+      213: 3358281810755579733
+    second: jp_iai_slash_13
+  - first:
+      213: 2689710513909767377
+    second: jp_iai_slash_14
+  - first:
+      213: 5123662444478732495
+    second: jp_iai_slash_15
+  - first:
+      213: 1952703453983386238
+    second: jp_iai_slash_16
+  - first:
+      213: 107638218694418209
+    second: jp_iai_slash_17
+  - first:
+      213: 5497159541304940088
+    second: jp_iai_slash_18
+  - first:
+      213: -7172011343966988691
+    second: jp_iai_slash_19
+  - first:
+      213: 7775875084538637494
+    second: jp_iai_slash_20
+  - first:
+      213: -391116251033646075
+    second: jp_iai_slash_21
+  - first:
+      213: 6460217431362176771
+    second: jp_iai_slash_22
+  - first:
+      213: -1166942187012309017
+    second: jp_iai_slash_23
+  - first:
+      213: 3785023271206776355
+    second: jp_iai_slash_24
+  - first:
+      213: -5111859464600014086
+    second: jp_iai_slash_25
+  - first:
+      213: -5108526219469123975
+    second: jp_iai_slash_26
+  - first:
+      213: -2990130597420704787
+    second: jp_iai_slash_27
+  - first:
+      213: 2135656543583995724
+    second: jp_iai_slash_28
+  - first:
+      213: -1080717042757290918
+    second: jp_iai_slash_29
+  - first:
+      213: -2977710205512000218
+    second: jp_iai_slash_30
+  - first:
+      213: -6118664603534237520
+    second: jp_iai_slash_31
+  - first:
+      213: 7458739740135130261
+    second: jp_iai_slash_32
+  - first:
+      213: 3557583203910579966
+    second: jp_iai_slash_33
+  - first:
+      213: -6894947168183226563
+    second: jp_iai_slash_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_iai_slash_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 20
+        width: 230
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512c375d786261c90800000000000000
+      internalID: -7199524589461585387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 0
+        width: 245
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52fe6194556fb2c0800000000000000
+      internalID: -4413697695908171174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 0
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bf95948be18d3f0800000000000000
+      internalID: -875916350670111912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_3
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 7
+        width: 243
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac4d84b339b53b50800000000000000
+      internalID: 6572362862940736675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_4
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 174
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5d467735cfa0d50800000000000000
+      internalID: 6704448430709986793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_5
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 208
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb85b855be2f65d0800000000000000
+      internalID: -3067181464803767325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_6
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 215
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e933b4e38dc5b90800000000000000
+      internalID: -7251683537912095143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_7
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 215
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6556655c90d88ce0800000000000000
+      internalID: -1402641914059664018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_8
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 222
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56ec3ea99d81d050800000000000000
+      internalID: 5823591484359501406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_9
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 218
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078bb73679cf03e0800000000000000
+      internalID: -2085226592870889724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_10
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 73
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f01bedb94c37750800000000000000
+      internalID: 6301596477356576671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_11
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 94
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca71b179e24c010800000000000000
+      internalID: 1208141826571611219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_12
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 134
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf02ed31642589860800000000000000
+      internalID: 7536864437339037948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_13
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 114
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fedb193830b9e20800000000000000
+      internalID: 3358281810755579733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_14
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 141
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc99323675c35520800000000000000
+      internalID: 2689710513909767377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_15
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 134
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc81a20d8d7ea1740800000000000000
+      internalID: 5123662444478732495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_16
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7aab5e0275691b10800000000000000
+      internalID: 1952703453983386238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_17
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 144
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f598db3686e7100800000000000000
+      internalID: 107638218694418209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 125
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83651254a75d94c40800000000000000
+      internalID: 5497159541304940088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_19
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 67
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6696cd7ea5e77c90800000000000000
+      internalID: -7172011343966988691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_20
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 80
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc6cb7e03579eb60800000000000000
+      internalID: 7775875084538637494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_21
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 80
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cc14787d9729af0800000000000000
+      internalID: -391116251033646075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_22
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 95
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3070120b68d47a950800000000000000
+      internalID: 6460217431362176771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_23
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 26
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efb6bd73403ecfe0800000000000000
+      internalID: -1166942187012309017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_24
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 53
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32eedda7c9a178430800000000000000
+      internalID: 3785023271206776355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_25
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 40
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af23cc696e60f09b0800000000000000
+      internalID: -5111859464600014086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_26
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 74
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e06c2387eda19b0800000000000000
+      internalID: -5108526219469123975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_27
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 26
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb56b4601ce086d0800000000000000
+      internalID: -2990130597420704787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_28
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 33
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47009aaf4063ad10800000000000000
+      internalID: 2135656543583995724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_29
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 40
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54bdb353958001f0800000000000000
+      internalID: -1080717042757290918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_30
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 46
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dd66c385c0da6d0800000000000000
+      internalID: -2977710205512000218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_31
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 53
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0e59e06f2261ba0800000000000000
+      internalID: -6118664603534237520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_32
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59408da8644c28760800000000000000
+      internalID: 7458739740135130261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_33
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 40
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef67cf733131f5130800000000000000
+      internalID: 3557583203910579966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_iai_slash_34
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f6a5fd41a3050a0800000000000000
+      internalID: -6894947168183226563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_iai_slash_0: -7199524589461585387
+      jp_iai_slash_1: -4413697695908171174
+      jp_iai_slash_10: 6301596477356576671
+      jp_iai_slash_11: 1208141826571611219
+      jp_iai_slash_12: 7536864437339037948
+      jp_iai_slash_13: 3358281810755579733
+      jp_iai_slash_14: 2689710513909767377
+      jp_iai_slash_15: 5123662444478732495
+      jp_iai_slash_16: 1952703453983386238
+      jp_iai_slash_17: 107638218694418209
+      jp_iai_slash_18: 5497159541304940088
+      jp_iai_slash_19: -7172011343966988691
+      jp_iai_slash_2: -875916350670111912
+      jp_iai_slash_20: 7775875084538637494
+      jp_iai_slash_21: -391116251033646075
+      jp_iai_slash_22: 6460217431362176771
+      jp_iai_slash_23: -1166942187012309017
+      jp_iai_slash_24: 3785023271206776355
+      jp_iai_slash_25: -5111859464600014086
+      jp_iai_slash_26: -5108526219469123975
+      jp_iai_slash_27: -2990130597420704787
+      jp_iai_slash_28: 2135656543583995724
+      jp_iai_slash_29: -1080717042757290918
+      jp_iai_slash_3: 6572362862940736675
+      jp_iai_slash_30: -2977710205512000218
+      jp_iai_slash_31: -6118664603534237520
+      jp_iai_slash_32: 7458739740135130261
+      jp_iai_slash_33: 3557583203910579966
+      jp_iai_slash_34: -6894947168183226563
+      jp_iai_slash_4: 6704448430709986793
+      jp_iai_slash_5: -3067181464803767325
+      jp_iai_slash_6: -7251683537912095143
+      jp_iai_slash_7: -1402641914059664018
+      jp_iai_slash_8: 5823591484359501406
+      jp_iai_slash_9: -2085226592870889724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

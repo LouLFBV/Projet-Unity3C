@@ -1,0 +1,7488 @@
+fileFormatVersion: 2
+guid: 0835cd54a0b312544a1016a8a94db1c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7546664991314475915
+    second: jp_amb_firefly_0
+  - first:
+      213: 3300363500221362702
+    second: jp_amb_firefly_1
+  - first:
+      213: -2885773773357953329
+    second: jp_amb_firefly_2
+  - first:
+      213: -3018417628779406381
+    second: jp_amb_firefly_3
+  - first:
+      213: -8102745741946708904
+    second: jp_amb_firefly_4
+  - first:
+      213: 1626197225994145104
+    second: jp_amb_firefly_5
+  - first:
+      213: -631368273218012459
+    second: jp_amb_firefly_6
+  - first:
+      213: -1230350401263852909
+    second: jp_amb_firefly_7
+  - first:
+      213: -1153245353141722262
+    second: jp_amb_firefly_8
+  - first:
+      213: 2139923748687148599
+    second: jp_amb_firefly_9
+  - first:
+      213: 6216284488718426716
+    second: jp_amb_firefly_10
+  - first:
+      213: 4051755867338351393
+    second: jp_amb_firefly_11
+  - first:
+      213: 5421010755195137871
+    second: jp_amb_firefly_12
+  - first:
+      213: 4948622281902746456
+    second: jp_amb_firefly_13
+  - first:
+      213: 648072076949867432
+    second: jp_amb_firefly_14
+  - first:
+      213: -3125626141949921249
+    second: jp_amb_firefly_15
+  - first:
+      213: 8381078006623848578
+    second: jp_amb_firefly_16
+  - first:
+      213: 558593899717168013
+    second: jp_amb_firefly_17
+  - first:
+      213: 1089183975873782510
+    second: jp_amb_firefly_18
+  - first:
+      213: 8273276888798559115
+    second: jp_amb_firefly_19
+  - first:
+      213: -5294094704293873924
+    second: jp_amb_firefly_20
+  - first:
+      213: -21318617105331649
+    second: jp_amb_firefly_21
+  - first:
+      213: -3813145301555747615
+    second: jp_amb_firefly_22
+  - first:
+      213: -1007609869032149372
+    second: jp_amb_firefly_23
+  - first:
+      213: -3681097433703425844
+    second: jp_amb_firefly_24
+  - first:
+      213: -2094870065539802467
+    second: jp_amb_firefly_25
+  - first:
+      213: 626853879846101500
+    second: jp_amb_firefly_26
+  - first:
+      213: -8818050418228242932
+    second: jp_amb_firefly_27
+  - first:
+      213: -756911982105423874
+    second: jp_amb_firefly_28
+  - first:
+      213: 8564483471982563526
+    second: jp_amb_firefly_29
+  - first:
+      213: -5545418241594967457
+    second: jp_amb_firefly_30
+  - first:
+      213: -5677010169095309636
+    second: jp_amb_firefly_31
+  - first:
+      213: -2686853005737871839
+    second: jp_amb_firefly_32
+  - first:
+      213: -6427326385772264503
+    second: jp_amb_firefly_33
+  - first:
+      213: 2836011442267435513
+    second: jp_amb_firefly_34
+  - first:
+      213: 4340339924445354010
+    second: jp_amb_firefly_35
+  - first:
+      213: -2566066773008293780
+    second: jp_amb_firefly_36
+  - first:
+      213: -5533122630672253685
+    second: jp_amb_firefly_37
+  - first:
+      213: 2375290654794222755
+    second: jp_amb_firefly_38
+  - first:
+      213: -3098959365416851687
+    second: jp_amb_firefly_39
+  - first:
+      213: 4071343886692822611
+    second: jp_amb_firefly_40
+  - first:
+      213: -3706822880413322627
+    second: jp_amb_firefly_41
+  - first:
+      213: 1202954910793685741
+    second: jp_amb_firefly_42
+  - first:
+      213: 1095719935149642672
+    second: jp_amb_firefly_43
+  - first:
+      213: -2458212555435342591
+    second: jp_amb_firefly_44
+  - first:
+      213: 1128935662635449027
+    second: jp_amb_firefly_45
+  - first:
+      213: -8228115513488751427
+    second: jp_amb_firefly_46
+  - first:
+      213: -9064090993686954742
+    second: jp_amb_firefly_47
+  - first:
+      213: 5061369457114755473
+    second: jp_amb_firefly_48
+  - first:
+      213: -73892483456800103
+    second: jp_amb_firefly_49
+  - first:
+      213: -6964270997953175392
+    second: jp_amb_firefly_50
+  - first:
+      213: -3881017685213454427
+    second: jp_amb_firefly_51
+  - first:
+      213: -3101737824397307243
+    second: jp_amb_firefly_52
+  - first:
+      213: -4265399959157217681
+    second: jp_amb_firefly_53
+  - first:
+      213: 1197983491682620494
+    second: jp_amb_firefly_54
+  - first:
+      213: -3751797164381715568
+    second: jp_amb_firefly_55
+  - first:
+      213: -5133966711449143164
+    second: jp_amb_firefly_56
+  - first:
+      213: 1496061659107683964
+    second: jp_amb_firefly_57
+  - first:
+      213: -6554723820300524562
+    second: jp_amb_firefly_58
+  - first:
+      213: 55232217972426368
+    second: jp_amb_firefly_59
+  - first:
+      213: -538240627293063272
+    second: jp_amb_firefly_60
+  - first:
+      213: -5137079360193349057
+    second: jp_amb_firefly_61
+  - first:
+      213: -3692665541306844404
+    second: jp_amb_firefly_62
+  - first:
+      213: 4807726468007444071
+    second: jp_amb_firefly_63
+  - first:
+      213: 2088014801409889230
+    second: jp_amb_firefly_64
+  - first:
+      213: -6012928982512697529
+    second: jp_amb_firefly_65
+  - first:
+      213: 1457959033347754162
+    second: jp_amb_firefly_66
+  - first:
+      213: -422834981482284837
+    second: jp_amb_firefly_67
+  - first:
+      213: 3485551760177366462
+    second: jp_amb_firefly_68
+  - first:
+      213: 1551816006045516011
+    second: jp_amb_firefly_69
+  - first:
+      213: 7546504988191653451
+    second: jp_amb_firefly_70
+  - first:
+      213: -8967556106492051046
+    second: jp_amb_firefly_71
+  - first:
+      213: 4352872869602676618
+    second: jp_amb_firefly_72
+  - first:
+      213: 6515344012749940944
+    second: jp_amb_firefly_73
+  - first:
+      213: -1540273567325624984
+    second: jp_amb_firefly_74
+  - first:
+      213: -1748519492163261818
+    second: jp_amb_firefly_75
+  - first:
+      213: 6152371709864334661
+    second: jp_amb_firefly_76
+  - first:
+      213: 5217373577651176417
+    second: jp_amb_firefly_77
+  - first:
+      213: 1761796961075266159
+    second: jp_amb_firefly_78
+  - first:
+      213: 6377990768933890664
+    second: jp_amb_firefly_79
+  - first:
+      213: -7481250514729533590
+    second: jp_amb_firefly_80
+  - first:
+      213: 1938434228159880415
+    second: jp_amb_firefly_81
+  - first:
+      213: 5859587982335760344
+    second: jp_amb_firefly_82
+  - first:
+      213: -2889906752022986707
+    second: jp_amb_firefly_83
+  - first:
+      213: -7532270233418088551
+    second: jp_amb_firefly_84
+  - first:
+      213: -4761196318340523505
+    second: jp_amb_firefly_85
+  - first:
+      213: -3443517011816442520
+    second: jp_amb_firefly_86
+  - first:
+      213: -6041080387305431977
+    second: jp_amb_firefly_87
+  - first:
+      213: -4115835547272484329
+    second: jp_amb_firefly_88
+  - first:
+      213: -639852218741154387
+    second: jp_amb_firefly_89
+  - first:
+      213: 1806171305311739767
+    second: jp_amb_firefly_90
+  - first:
+      213: -3438514762719975040
+    second: jp_amb_firefly_91
+  - first:
+      213: -5928994773730669035
+    second: jp_amb_firefly_92
+  - first:
+      213: -8584152027854523769
+    second: jp_amb_firefly_93
+  - first:
+      213: 4761504974166855811
+    second: jp_amb_firefly_94
+  - first:
+      213: 8397751887621500190
+    second: jp_amb_firefly_95
+  - first:
+      213: 8725305239734551217
+    second: jp_amb_firefly_96
+  - first:
+      213: -8264333836035706867
+    second: jp_amb_firefly_97
+  - first:
+      213: -8297400022340814535
+    second: jp_amb_firefly_98
+  - first:
+      213: -5317108544102435138
+    second: jp_amb_firefly_99
+  - first:
+      213: 6834701755444362355
+    second: jp_amb_firefly_100
+  - first:
+      213: 7267977097428893389
+    second: jp_amb_firefly_101
+  - first:
+      213: 3963292020975913423
+    second: jp_amb_firefly_102
+  - first:
+      213: 5942893898150276336
+    second: jp_amb_firefly_103
+  - first:
+      213: 1356478188219440623
+    second: jp_amb_firefly_104
+  - first:
+      213: -3684592127130120860
+    second: jp_amb_firefly_105
+  - first:
+      213: 1564112504811662938
+    second: jp_amb_firefly_106
+  - first:
+      213: 5250604565110389647
+    second: jp_amb_firefly_107
+  - first:
+      213: 5964287888547434335
+    second: jp_amb_firefly_108
+  - first:
+      213: 8366334154217419801
+    second: jp_amb_firefly_109
+  - first:
+      213: 3842195406378036402
+    second: jp_amb_firefly_110
+  - first:
+      213: 1054835811202341979
+    second: jp_amb_firefly_111
+  - first:
+      213: -5844369263129890019
+    second: jp_amb_firefly_112
+  - first:
+      213: -3508631097406573986
+    second: jp_amb_firefly_113
+  - first:
+      213: -6298349921091719952
+    second: jp_amb_firefly_114
+  - first:
+      213: -4874034857422156848
+    second: jp_amb_firefly_115
+  - first:
+      213: -9130424666631234368
+    second: jp_amb_firefly_116
+  - first:
+      213: 6420253630868258014
+    second: jp_amb_firefly_117
+  - first:
+      213: 9210677943034767315
+    second: jp_amb_firefly_118
+  - first:
+      213: 3704574307268229874
+    second: jp_amb_firefly_119
+  - first:
+      213: 1567081201513051257
+    second: jp_amb_firefly_120
+  - first:
+      213: -8450556417941813371
+    second: jp_amb_firefly_121
+  - first:
+      213: 4631994905470074573
+    second: jp_amb_firefly_122
+  - first:
+      213: 2077453633913845873
+    second: jp_amb_firefly_123
+  - first:
+      213: 6696674099055404125
+    second: jp_amb_firefly_124
+  - first:
+      213: -7889595571596799906
+    second: jp_amb_firefly_125
+  - first:
+      213: 7009978875896307710
+    second: jp_amb_firefly_126
+  - first:
+      213: 8168352779732897534
+    second: jp_amb_firefly_127
+  - first:
+      213: -2756453702527241019
+    second: jp_amb_firefly_128
+  - first:
+      213: -8114986730147201516
+    second: jp_amb_firefly_129
+  - first:
+      213: 2084401269370383974
+    second: jp_amb_firefly_130
+  - first:
+      213: -8198513891407336033
+    second: jp_amb_firefly_131
+  - first:
+      213: 4760687033103016741
+    second: jp_amb_firefly_132
+  - first:
+      213: -4475652255651153930
+    second: jp_amb_firefly_133
+  - first:
+      213: 6741169734080677722
+    second: jp_amb_firefly_134
+  - first:
+      213: -4783317402634809431
+    second: jp_amb_firefly_135
+  - first:
+      213: 3213655692473857750
+    second: jp_amb_firefly_136
+  - first:
+      213: -1938186842914970948
+    second: jp_amb_firefly_137
+  - first:
+      213: -8602741803809440729
+    second: jp_amb_firefly_138
+  - first:
+      213: -5844157987373284517
+    second: jp_amb_firefly_139
+  - first:
+      213: -942226739512617533
+    second: jp_amb_firefly_140
+  - first:
+      213: -8756596332089032809
+    second: jp_amb_firefly_141
+  - first:
+      213: 7136703189699742116
+    second: jp_amb_firefly_142
+  - first:
+      213: 481136035062788301
+    second: jp_amb_firefly_143
+  - first:
+      213: 2324457696208535791
+    second: jp_amb_firefly_144
+  - first:
+      213: 8701346040913963953
+    second: jp_amb_firefly_145
+  - first:
+      213: -8097265188347061430
+    second: jp_amb_firefly_146
+  - first:
+      213: -2069111505527103744
+    second: jp_amb_firefly_147
+  - first:
+      213: -4530316025074461343
+    second: jp_amb_firefly_148
+  - first:
+      213: 8151317300215650755
+    second: jp_amb_firefly_149
+  - first:
+      213: -4343675302140652113
+    second: jp_amb_firefly_150
+  - first:
+      213: -7918507996948541239
+    second: jp_amb_firefly_151
+  - first:
+      213: -8004140829451531644
+    second: jp_amb_firefly_152
+  - first:
+      213: -9129449967650790477
+    second: jp_amb_firefly_153
+  - first:
+      213: 8993169120075122137
+    second: jp_amb_firefly_154
+  - first:
+      213: 7185325917929175398
+    second: jp_amb_firefly_155
+  - first:
+      213: -5942759640009724588
+    second: jp_amb_firefly_156
+  - first:
+      213: 7968612477486912640
+    second: jp_amb_firefly_157
+  - first:
+      213: 5142554375229455599
+    second: jp_amb_firefly_158
+  - first:
+      213: 3024036309404886386
+    second: jp_amb_firefly_159
+  - first:
+      213: 7103940870521055208
+    second: jp_amb_firefly_160
+  - first:
+      213: -2531683472300936113
+    second: jp_amb_firefly_161
+  - first:
+      213: 6480606790524186109
+    second: jp_amb_firefly_162
+  - first:
+      213: -6476875432625808493
+    second: jp_amb_firefly_163
+  - first:
+      213: -7333846001655036448
+    second: jp_amb_firefly_164
+  - first:
+      213: 6720059127996977265
+    second: jp_amb_firefly_165
+  - first:
+      213: 6269470857015019836
+    second: jp_amb_firefly_166
+  - first:
+      213: 1039174850355501185
+    second: jp_amb_firefly_167
+  - first:
+      213: -2425491477868367372
+    second: jp_amb_firefly_168
+  - first:
+      213: 3781034498529000394
+    second: jp_amb_firefly_169
+  - first:
+      213: -250564283189138772
+    second: jp_amb_firefly_170
+  - first:
+      213: -712050970163005624
+    second: jp_amb_firefly_171
+  - first:
+      213: 1881756541761045139
+    second: jp_amb_firefly_172
+  - first:
+      213: 891953822388432281
+    second: jp_amb_firefly_173
+  - first:
+      213: -6367251894587098612
+    second: jp_amb_firefly_174
+  - first:
+      213: 2250744461552869875
+    second: jp_amb_firefly_175
+  - first:
+      213: 1520678371253527667
+    second: jp_amb_firefly_176
+  - first:
+      213: -2743028249208023004
+    second: jp_amb_firefly_177
+  - first:
+      213: -6118633282704516
+    second: jp_amb_firefly_178
+  - first:
+      213: 1198018521937757893
+    second: jp_amb_firefly_179
+  - first:
+      213: 5939998673593993179
+    second: jp_amb_firefly_180
+  - first:
+      213: 5378606634230068266
+    second: jp_amb_firefly_181
+  - first:
+      213: -6689031110372010274
+    second: jp_amb_firefly_182
+  - first:
+      213: -6027615830131760902
+    second: jp_amb_firefly_183
+  - first:
+      213: 5613149725551581272
+    second: jp_amb_firefly_184
+  - first:
+      213: -9212134377063799929
+    second: jp_amb_firefly_185
+  - first:
+      213: -5969446832482217443
+    second: jp_amb_firefly_186
+  - first:
+      213: -2051438317158899581
+    second: jp_amb_firefly_187
+  - first:
+      213: 7192024344733200156
+    second: jp_amb_firefly_188
+  - first:
+      213: 7843223225728559140
+    second: jp_amb_firefly_189
+  - first:
+      213: -1354152005618428377
+    second: jp_amb_firefly_190
+  - first:
+      213: 8735032615598113670
+    second: jp_amb_firefly_191
+  - first:
+      213: -2037631336871647787
+    second: jp_amb_firefly_192
+  - first:
+      213: -5596115718046512337
+    second: jp_amb_firefly_193
+  - first:
+      213: 6791827925702057198
+    second: jp_amb_firefly_194
+  - first:
+      213: 1144878975674469224
+    second: jp_amb_firefly_195
+  - first:
+      213: -876063356243071088
+    second: jp_amb_firefly_196
+  - first:
+      213: 3640821249592369256
+    second: jp_amb_firefly_197
+  - first:
+      213: 8032785119019818541
+    second: jp_amb_firefly_198
+  - first:
+      213: 6062583479319136791
+    second: jp_amb_firefly_199
+  - first:
+      213: 8329559591545988660
+    second: jp_amb_firefly_200
+  - first:
+      213: 1617918534827503751
+    second: jp_amb_firefly_201
+  - first:
+      213: -3146736006451180053
+    second: jp_amb_firefly_202
+  - first:
+      213: 7996256178867611264
+    second: jp_amb_firefly_203
+  - first:
+      213: -6722814297305658624
+    second: jp_amb_firefly_204
+  - first:
+      213: 77640917962801206
+    second: jp_amb_firefly_205
+  - first:
+      213: -4644558252905392772
+    second: jp_amb_firefly_206
+  - first:
+      213: 961625632346988316
+    second: jp_amb_firefly_207
+  - first:
+      213: 6735922929138731424
+    second: jp_amb_firefly_208
+  - first:
+      213: 5035016262336187083
+    second: jp_amb_firefly_209
+  - first:
+      213: -2613553417059269685
+    second: jp_amb_firefly_210
+  - first:
+      213: 3059234227505219826
+    second: jp_amb_firefly_211
+  - first:
+      213: -5908176843960884818
+    second: jp_amb_firefly_212
+  - first:
+      213: 8713128164789142327
+    second: jp_amb_firefly_213
+  - first:
+      213: 9166162365613673054
+    second: jp_amb_firefly_214
+  - first:
+      213: -3560607353065561637
+    second: jp_amb_firefly_215
+  - first:
+      213: 6675823434164278069
+    second: jp_amb_firefly_216
+  - first:
+      213: -6054726783333443404
+    second: jp_amb_firefly_217
+  - first:
+      213: -6612434850560933320
+    second: jp_amb_firefly_218
+  - first:
+      213: -1138024695629406030
+    second: jp_amb_firefly_219
+  - first:
+      213: -1219429756134022768
+    second: jp_amb_firefly_220
+  - first:
+      213: -6344213604105293404
+    second: jp_amb_firefly_221
+  - first:
+      213: -8642529771896895561
+    second: jp_amb_firefly_222
+  - first:
+      213: 4413575366363571583
+    second: jp_amb_firefly_223
+  - first:
+      213: -1575895156534606698
+    second: jp_amb_firefly_224
+  - first:
+      213: -5591304130327874820
+    second: jp_amb_firefly_225
+  - first:
+      213: -6965073901620156416
+    second: jp_amb_firefly_226
+  - first:
+      213: 8266506221308136982
+    second: jp_amb_firefly_227
+  - first:
+      213: -6077513628640928847
+    second: jp_amb_firefly_228
+  - first:
+      213: 3010929923437265468
+    second: jp_amb_firefly_229
+  - first:
+      213: 8132529487461598411
+    second: jp_amb_firefly_230
+  - first:
+      213: -7921455833822437989
+    second: jp_amb_firefly_231
+  - first:
+      213: 8322600312037520960
+    second: jp_amb_firefly_232
+  - first:
+      213: 3171102138017531594
+    second: jp_amb_firefly_233
+  - first:
+      213: -1490301511816705066
+    second: jp_amb_firefly_234
+  - first:
+      213: -2772464757908306629
+    second: jp_amb_firefly_235
+  - first:
+      213: 4081041431882658937
+    second: jp_amb_firefly_236
+  - first:
+      213: -714719956633520885
+    second: jp_amb_firefly_237
+  - first:
+      213: 4853816375173574137
+    second: jp_amb_firefly_238
+  - first:
+      213: -7926090198501364955
+    second: jp_amb_firefly_239
+  - first:
+      213: 7860654241481528119
+    second: jp_amb_firefly_240
+  - first:
+      213: 8568078906138724137
+    second: jp_amb_firefly_241
+  - first:
+      213: 5353889903570786189
+    second: jp_amb_firefly_242
+  - first:
+      213: -5747628208913693825
+    second: jp_amb_firefly_243
+  - first:
+      213: 8105325317874551925
+    second: jp_amb_firefly_244
+  - first:
+      213: -1353309340555582285
+    second: jp_amb_firefly_245
+  - first:
+      213: -6104647630881519566
+    second: jp_amb_firefly_246
+  - first:
+      213: 8207099929424762960
+    second: jp_amb_firefly_247
+  - first:
+      213: 7856459076465096550
+    second: jp_amb_firefly_248
+  - first:
+      213: -3478387995698944017
+    second: jp_amb_firefly_249
+  - first:
+      213: 7408773406785778461
+    second: jp_amb_firefly_250
+  - first:
+      213: -330925924415378099
+    second: jp_amb_firefly_251
+  - first:
+      213: 5842119317049585786
+    second: jp_amb_firefly_252
+  - first:
+      213: 925379884859115588
+    second: jp_amb_firefly_253
+  - first:
+      213: -1457904595869805958
+    second: jp_amb_firefly_254
+  - first:
+      213: 1608856780145886719
+    second: jp_amb_firefly_255
+  - first:
+      213: -7773512702603160462
+    second: jp_amb_firefly_256
+  - first:
+      213: 620370596151300111
+    second: jp_amb_firefly_257
+  - first:
+      213: 4571012071878706257
+    second: jp_amb_firefly_258
+  - first:
+      213: 2887553334256782630
+    second: jp_amb_firefly_259
+  - first:
+      213: 5291340299089570986
+    second: jp_amb_firefly_260
+  - first:
+      213: 5492417872555336834
+    second: jp_amb_firefly_261
+  - first:
+      213: 4196369207435107304
+    second: jp_amb_firefly_262
+  - first:
+      213: 6580659372500966802
+    second: jp_amb_firefly_263
+  - first:
+      213: -6859631455496728448
+    second: jp_amb_firefly_264
+  - first:
+      213: -7313272316474309512
+    second: jp_amb_firefly_265
+  - first:
+      213: 5620107317972013684
+    second: jp_amb_firefly_266
+  - first:
+      213: -2756550224047524323
+    second: jp_amb_firefly_267
+  - first:
+      213: 5939902898639941224
+    second: jp_amb_firefly_268
+  - first:
+      213: -6086624333822646531
+    second: jp_amb_firefly_269
+  - first:
+      213: 2396650288393810643
+    second: jp_amb_firefly_270
+  - first:
+      213: -1601165705287553852
+    second: jp_amb_firefly_271
+  - first:
+      213: -3182578517588444189
+    second: jp_amb_firefly_272
+  - first:
+      213: 3018842532518159082
+    second: jp_amb_firefly_273
+  - first:
+      213: 1638917984587964367
+    second: jp_amb_firefly_274
+  - first:
+      213: 6004770830094833445
+    second: jp_amb_firefly_275
+  - first:
+      213: 4760930526668675479
+    second: jp_amb_firefly_276
+  - first:
+      213: 6774507682308018526
+    second: jp_amb_firefly_277
+  - first:
+      213: -2446469460231924718
+    second: jp_amb_firefly_278
+  - first:
+      213: -8710511581683446727
+    second: jp_amb_firefly_279
+  - first:
+      213: -5538385799841880981
+    second: jp_amb_firefly_280
+  - first:
+      213: 6653745325854557479
+    second: jp_amb_firefly_281
+  - first:
+      213: 6221706232943969819
+    second: jp_amb_firefly_282
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_amb_firefly_0
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57403d1ac2cd44790800000000000000
+      internalID: -7546664991314475915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_1
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02fb5c0e1f3dcd20800000000000000
+      internalID: 3300363500221362702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_2
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 211
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce4cd8ea0ca3f7d0800000000000000
+      internalID: -2885773773357953329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_3
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 215
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db93dca82d6c16d0800000000000000
+      internalID: -3018417628779406381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_4
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 217
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c15f98da34d8f80800000000000000
+      internalID: -8102745741946708904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_5
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 217
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d4b16d2c9619610800000000000000
+      internalID: 1626197225994145104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_6
+      rect:
+        serializedVersion: 2
+        x: 5402
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da736096edec37f0800000000000000
+      internalID: -631368273218012459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_7
+      rect:
+        serializedVersion: 2
+        x: 5661
+        y: 211
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a86724daeceee0800000000000000
+      internalID: -1230350401263852909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_8
+      rect:
+        serializedVersion: 2
+        x: 5920
+        y: 215
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a632e132679deffe0800000000000000
+      internalID: -1153245353141722262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_9
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 217
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367be6cf4982bd10800000000000000
+      internalID: 2139923748687148599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_10
+      rect:
+        serializedVersion: 2
+        x: 6439
+        y: 217
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5225d4aecda44650800000000000000
+      internalID: 6216284488718426716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_11
+      rect:
+        serializedVersion: 2
+        x: 6699
+        y: 214
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123ae458e7aba3830800000000000000
+      internalID: 4051755867338351393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_12
+      rect:
+        serializedVersion: 2
+        x: 6958
+        y: 210
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6af26f8c4b3b40800000000000000
+      internalID: 5421010755195137871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_13
+      rect:
+        serializedVersion: 2
+        x: 7217
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b65681fb90da440800000000000000
+      internalID: 4948622281902746456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_14
+      rect:
+        serializedVersion: 2
+        x: 9258
+        y: 217
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab427fce1a6ef800800000000000000
+      internalID: 648072076949867432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_15
+      rect:
+        serializedVersion: 2
+        x: 9510
+        y: 217
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18766c859b8f94d0800000000000000
+      internalID: -3125626141949921249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_16
+      rect:
+        serializedVersion: 2
+        x: 9762
+        y: 214
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28847abca029f4470800000000000000
+      internalID: 8381078006623848578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_17
+      rect:
+        serializedVersion: 2
+        x: 10015
+        y: 210
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b8756313680c700800000000000000
+      internalID: 558593899717168013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_18
+      rect:
+        serializedVersion: 2
+        x: 10268
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee221092e0f8d1f00800000000000000
+      internalID: 1089183975873782510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_19
+      rect:
+        serializedVersion: 2
+        x: 11546
+        y: 206
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b79452f7590d270800000000000000
+      internalID: 8273276888798559115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_20
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6794f6ae89786b0800000000000000
+      internalID: -5294094704293873924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_21
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a8558a4d244bff0800000000000000
+      internalID: -21318617105331649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_22
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4e1d71d8cf41bc0800000000000000
+      internalID: -3813145301555747615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_23
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e2924a9204402f0800000000000000
+      internalID: -1007609869032149372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_24
+      rect:
+        serializedVersion: 2
+        x: 5145
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc85188236d1aecc0800000000000000
+      internalID: -3681097433703425844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_25
+      rect:
+        serializedVersion: 2
+        x: 7476
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a96e446c68de2e0800000000000000
+      internalID: -2094870065539802467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_26
+      rect:
+        serializedVersion: 2
+        x: 10522
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf16d42584803b800800000000000000
+      internalID: 626853879846101500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_27
+      rect:
+        serializedVersion: 2
+        x: 10776
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06550a5dddff9580800000000000000
+      internalID: -8818050418228242932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_28
+      rect:
+        serializedVersion: 2
+        x: 11032
+        y: 200
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff8e540098ee75f0800000000000000
+      internalID: -756911982105423874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_29
+      rect:
+        serializedVersion: 2
+        x: 11289
+        y: 202
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0993857582bd670800000000000000
+      internalID: 8564483471982563526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ab2ca7d77ba03b0800000000000000
+      internalID: -5545418241594967457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_31
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 158
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63bcc44553731b0800000000000000
+      internalID: -5677010169095309636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_32
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126bd454d6166bad0800000000000000
+      internalID: -2686853005737871839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_33
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c38c80a4bc8dc6a0800000000000000
+      internalID: -6427326385772264503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_34
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 158
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f13b4381698b5720800000000000000
+      internalID: 2836011442267435513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_35
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18d2094a2cfb3c30800000000000000
+      internalID: 4340339924445354010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_36
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 164
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6068e49ddf736cd0800000000000000
+      internalID: -2566066773008293780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_37
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dfa1c78466633b0800000000000000
+      internalID: -5533122630672253685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_38
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 168
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac8055044ab6f020800000000000000
+      internalID: 2375290654794222755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_39
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 168
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91765fa40e84ef4d0800000000000000
+      internalID: -3098959365416851687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_40
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea8cca1b1508830800000000000000
+      internalID: 4071343886692822611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_41
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 164
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d727ca7da38be8cc0800000000000000
+      internalID: -3706822880413322627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_42
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea5baa2e11c1b010800000000000000
+      internalID: 1202954910793685741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_43
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 158
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b398e3c977c43f00800000000000000
+      internalID: 1095719935149642672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_44
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1050fda74bca2edd0800000000000000
+      internalID: -2458212555435342591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_45
+      rect:
+        serializedVersion: 2
+        x: 4401
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf7a9f009caaf00800000000000000
+      internalID: 1128935662635449027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_46
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db44f9fe88cdfcd80800000000000000
+      internalID: -8228115513488751427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_47
+      rect:
+        serializedVersion: 2
+        x: 6979
+        y: 158
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0db87dc341e53280800000000000000
+      internalID: -9064090993686954742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_48
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191365874b89d3640800000000000000
+      internalID: 5061369457114755473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_49
+      rect:
+        serializedVersion: 2
+        x: 7490
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a6cf38d2b79fef0800000000000000
+      internalID: -73892483456800103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_50
+      rect:
+        serializedVersion: 2
+        x: 7745
+        y: 158
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a02277fc60f95f90800000000000000
+      internalID: -6964270997953175392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_51
+      rect:
+        serializedVersion: 2
+        x: 7999
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afd7d15afad32ac0800000000000000
+      internalID: -3881017685213454427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_52
+      rect:
+        serializedVersion: 2
+        x: 8252
+        y: 164
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592d766e1e964f4d0800000000000000
+      internalID: -3101737824397307243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_53
+      rect:
+        serializedVersion: 2
+        x: 8506
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e77116514ec4c0800000000000000
+      internalID: -4265399959157217681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_54
+      rect:
+        serializedVersion: 2
+        x: 8759
+        y: 168
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44568473a710a010800000000000000
+      internalID: 1197983491682620494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_55
+      rect:
+        serializedVersion: 2
+        x: 9013
+        y: 168
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093c5bb5b50feebc0800000000000000
+      internalID: -3751797164381715568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_56
+      rect:
+        serializedVersion: 2
+        x: 9267
+        y: 166
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488b4631a7c70c8b0800000000000000
+      internalID: -5133966711449143164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_57
+      rect:
+        serializedVersion: 2
+        x: 9521
+        y: 164
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ee139072413c410800000000000000
+      internalID: 1496061659107683964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_58
+      rect:
+        serializedVersion: 2
+        x: 9776
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee32232f961f805a0800000000000000
+      internalID: -6554723820300524562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_59
+      rect:
+        serializedVersion: 2
+        x: 10032
+        y: 158
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086476cd86934c000800000000000000
+      internalID: 55232217972426368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_60
+      rect:
+        serializedVersion: 2
+        x: 10288
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897738e4009c788f0800000000000000
+      internalID: -538240627293063272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_61
+      rect:
+        serializedVersion: 2
+        x: 10545
+        y: 156
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3fa01a8d65b8b0800000000000000
+      internalID: -5137079360193349057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_62
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b7418314401ccc0800000000000000
+      internalID: -3692665541306844404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_63
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 137
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb3de00c978b240800000000000000
+      internalID: 4807726468007444071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_64
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35bcb266e1afc10800000000000000
+      internalID: 2088014801409889230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_65
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ffda1c2f8cd8ca0800000000000000
+      internalID: -6012928982512697529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_66
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8c3c72406bb3410800000000000000
+      internalID: 1457959033347754162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_67
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b32a13d9c12af0800000000000000
+      internalID: -422834981482284837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_68
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb50c9fcbda2f5030800000000000000
+      internalID: 3485551760177366462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_69
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 131
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0cb158f68298510800000000000000
+      internalID: 1551816006045516011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_70
+      rect:
+        serializedVersion: 2
+        x: 5113
+        y: 129
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e70ecbd429ab860800000000000000
+      internalID: 7546504988191653451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_71
+      rect:
+        serializedVersion: 2
+        x: 5373
+        y: 131
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a910829bb37dc8380800000000000000
+      internalID: -8967556106492051046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_72
+      rect:
+        serializedVersion: 2
+        x: 6357
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f4a19ffc2886c30800000000000000
+      internalID: 4352872869602676618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_73
+      rect:
+        serializedVersion: 2
+        x: 6613
+        y: 137
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8ad6d1cd62b6a50800000000000000
+      internalID: 6515344012749940944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_74
+      rect:
+        serializedVersion: 2
+        x: 6869
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865e1aae959df9ae0800000000000000
+      internalID: -1540273567325624984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_75
+      rect:
+        serializedVersion: 2
+        x: 7127
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a23c239c20cb7e0800000000000000
+      internalID: -1748519492163261818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_76
+      rect:
+        serializedVersion: 2
+        x: 7385
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54550a4397d916550800000000000000
+      internalID: 6152371709864334661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_77
+      rect:
+        serializedVersion: 2
+        x: 7644
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3486440a5d76840800000000000000
+      internalID: 5217373577651176417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_78
+      rect:
+        serializedVersion: 2
+        x: 7904
+        y: 137
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62014f6009237810800000000000000
+      internalID: 1761796961075266159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_79
+      rect:
+        serializedVersion: 2
+        x: 8163
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a6603ffcc238850800000000000000
+      internalID: 6377990768933890664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_80
+      rect:
+        serializedVersion: 2
+        x: 9458
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f76d15b424d2890800000000000000
+      internalID: -7481250514729533590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_81
+      rect:
+        serializedVersion: 2
+        x: 9714
+        y: 137
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc9de509a3b6ea10800000000000000
+      internalID: 1938434228159880415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_82
+      rect:
+        serializedVersion: 2
+        x: 9970
+        y: 141
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d755497930715150800000000000000
+      internalID: 5859587982335760344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_83
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20caa3de1df4e7d0800000000000000
+      internalID: -2889906752022986707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_84
+      rect:
+        serializedVersion: 2
+        x: 10478
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fbdd06120087790800000000000000
+      internalID: -7532270233418088551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_85
+      rect:
+        serializedVersion: 2
+        x: 10731
+        y: 128
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a5a63ac25dcedb0800000000000000
+      internalID: -4761196318340523505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_86
+      rect:
+        serializedVersion: 2
+        x: 10983
+        y: 137
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8659aa4b58b2630d0800000000000000
+      internalID: -3443517011816442520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_87
+      rect:
+        serializedVersion: 2
+        x: 11235
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c941f0565c92ca0800000000000000
+      internalID: -6041080387305431977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_88
+      rect:
+        serializedVersion: 2
+        x: 11257
+        y: 129
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae5ea506d91e6c0800000000000000
+      internalID: -4115835547272484329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_89
+      rect:
+        serializedVersion: 2
+        x: 11517
+        y: 131
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad10311cc9ce17f0800000000000000
+      internalID: -639852218741154387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_90
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f1c909b3fc01910800000000000000
+      internalID: 1806171305311739767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_91
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 119
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089a3259a01f740d0800000000000000
+      internalID: -3438514762719975040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_92
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 124
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ec2ac9aaaf7bda0800000000000000
+      internalID: -5928994773730669035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_93
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78238c12637fed880800000000000000
+      internalID: -8584152027854523769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_94
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 116
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3809875eb83441240800000000000000
+      internalID: 4761504974166855811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_95
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dab8d39deca8470800000000000000
+      internalID: 8397751887621500190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_96
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 124
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b28b3b03e2861970800000000000000
+      internalID: 8725305239734551217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_97
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 119
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00b9d599203f4d80800000000000000
+      internalID: -8264333836035706867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_98
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 119
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939be0524a6b9dc80800000000000000
+      internalID: -8297400022340814535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_99
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 124
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6749c43f5d536b0800000000000000
+      internalID: -5317108544102435138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_100
+      rect:
+        serializedVersion: 2
+        x: 5348
+        y: 116
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cfff6e80db9de50800000000000000
+      internalID: 6834701755444362355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_101
+      rect:
+        serializedVersion: 2
+        x: 5633
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce7ce7a9aa0dd460800000000000000
+      internalID: 7267977097428893389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_102
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9c86b3811700730800000000000000
+      internalID: 3963292020975913423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_103
+      rect:
+        serializedVersion: 2
+        x: 5890
+        y: 124
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc65197386697250800000000000000
+      internalID: 5942893898150276336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_104
+      rect:
+        serializedVersion: 2
+        x: 6102
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed926aa9bd23d210800000000000000
+      internalID: 1356478188219440623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_105
+      rect:
+        serializedVersion: 2
+        x: 6145
+        y: 119
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d45307bf2bddcc0800000000000000
+      internalID: -3684592127130120860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_106
+      rect:
+        serializedVersion: 2
+        x: 8423
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eab0e3908d4b510800000000000000
+      internalID: 1564112504811662938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_107
+      rect:
+        serializedVersion: 2
+        x: 8683
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bf2777805edd840800000000000000
+      internalID: 5250604565110389647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_108
+      rect:
+        serializedVersion: 2
+        x: 8942
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5fc8070c3865c250800000000000000
+      internalID: 5964287888547434335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_109
+      rect:
+        serializedVersion: 2
+        x: 9200
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914f85626903b1470800000000000000
+      internalID: 8366334154217419801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_110
+      rect:
+        serializedVersion: 2
+        x: 10997
+        y: 124
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcecc28d58325530800000000000000
+      internalID: 3842195406378036402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_111
+      rect:
+        serializedVersion: 2
+        x: 11487
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c931fd49783ae00800000000000000
+      internalID: 1054835811202341979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_112
+      rect:
+        serializedVersion: 2
+        x: 11492
+        y: 116
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d137ee6be11a4eea0800000000000000
+      internalID: -5844369263129890019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_113
+      rect:
+        serializedVersion: 2
+        x: 11740
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52313f3b96de4fc0800000000000000
+      internalID: -3508631097406573986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_114
+      rect:
+        serializedVersion: 2
+        x: 11777
+        y: 129
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fce73aed14c798a0800000000000000
+      internalID: -6298349921091719952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_115
+      rect:
+        serializedVersion: 2
+        x: 11993
+        y: 126
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db0b74fe13fb5cb0800000000000000
+      internalID: -4874034857422156848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_116
+      rect:
+        serializedVersion: 2
+        x: 12034
+        y: 124
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1bf804273a4180800000000000000
+      internalID: -9130424666631234368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_117
+      rect:
+        serializedVersion: 2
+        x: 12246
+        y: 128
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc70db49a2591950800000000000000
+      internalID: 6420253630868258014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_118
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ec17f9c6e2df70800000000000000
+      internalID: 9210677943034767315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_119
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faf2cc64ba496330800000000000000
+      internalID: 3704574307268229874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_120
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 111
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b06ecc046fb510800000000000000
+      internalID: 1567081201513051257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_121
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 111
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5874e2af5b799ba80800000000000000
+      internalID: -8450556417941813371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_122
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce76fd33d6284040800000000000000
+      internalID: 4631994905470074573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_123
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 105
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17877ceb21994dc10800000000000000
+      internalID: 2077453633913845873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_124
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 102
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a1c2dc9d5fec50800000000000000
+      internalID: 6696674099055404125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_125
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505a75e0a6828290800000000000000
+      internalID: -7889595571596799906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_126
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 104
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff9acca5a2784160800000000000000
+      internalID: 7009978875896307710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_127
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 115
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efecd0c4391db5170800000000000000
+      internalID: 8168352779732897534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_128
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4bd0d36fb1fb9d0800000000000000
+      internalID: -2756453702527241019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_129
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e31906096c16f80800000000000000
+      internalID: -8114986730147201516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_130
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee13e29e74dec10800000000000000
+      internalID: 2084401269370383974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_131
+      rect:
+        serializedVersion: 2
+        x: 3009
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6f88ad07093e80800000000000000
+      internalID: -8198513891407336033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_132
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e9e622ab511240800000000000000
+      internalID: 4760687033103016741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_133
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7bcbb8cf943e1c0800000000000000
+      internalID: -4475652255651153930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_134
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a574e7a28227d8d50800000000000000
+      internalID: 6741169734080677722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_135
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af02085a2e3e9db0800000000000000
+      internalID: -4783317402634809431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_136
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 105
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6f05c53d2399c20800000000000000
+      internalID: 3213655692473857750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_137
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 102
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2a7b7d55d2a15e0800000000000000
+      internalID: -1938186842914970948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_138
+      rect:
+        serializedVersion: 2
+        x: 4830
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cf881a8ebec9880800000000000000
+      internalID: -8602741803809440729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_139
+      rect:
+        serializedVersion: 2
+        x: 5089
+        y: 115
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b538a5f264165eea0800000000000000
+      internalID: -5844157987373284517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_140
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5d975c5c98ce2f0800000000000000
+      internalID: -942226739512617533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_141
+      rect:
+        serializedVersion: 2
+        x: 5862
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f3858c7025a7680800000000000000
+      internalID: -8756596332089032809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_142
+      rect:
+        serializedVersion: 2
+        x: 6116
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a943793db9aa0360800000000000000
+      internalID: 7136703189699742116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_143
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 114
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0be8abca65da600800000000000000
+      internalID: 481136035062788301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_144
+      rect:
+        serializedVersion: 2
+        x: 10713
+        y: 105
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0ceed85f1224020800000000000000
+      internalID: 2324457696208535791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_145
+      rect:
+        serializedVersion: 2
+        x: 10743
+        y: 102
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbad6c5f1461c870800000000000000
+      internalID: 8701346040913963953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_146
+      rect:
+        serializedVersion: 2
+        x: 10974
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bdf6c563cb0af80800000000000000
+      internalID: -8097265188347061430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_147
+      rect:
+        serializedVersion: 2
+        x: 11000
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f12606c0a0943e0800000000000000
+      internalID: -2069111505527103744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_148
+      rect:
+        serializedVersion: 2
+        x: 11233
+        y: 115
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1655d2de3951121c0800000000000000
+      internalID: -4530316025074461343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_149
+      rect:
+        serializedVersion: 2
+        x: 11257
+        y: 102
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c999d2a5eb4f1170800000000000000
+      internalID: 8151317300215650755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_150
+      rect:
+        serializedVersion: 2
+        x: 11749
+        y: 113
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5d444935a28b3c0800000000000000
+      internalID: -4343675302140652113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_151
+      rect:
+        serializedVersion: 2
+        x: 12006
+        y: 109
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0daca4eeecb1290800000000000000
+      internalID: -7918507996948541239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_152
+      rect:
+        serializedVersion: 2
+        x: 12260
+        y: 103
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a4758c2549be090800000000000000
+      internalID: -8004140829451531644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_153
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32973df9dad4180800000000000000
+      internalID: -9129449967650790477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_154
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 87
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d50717baa72ecc70800000000000000
+      internalID: 8993169120075122137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_155
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 90
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66973955ad767b360800000000000000
+      internalID: 7185325917929175398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_156
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d21bfe793178da0800000000000000
+      internalID: -5942759640009724588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_157
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 94
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0845a5924d2369e60800000000000000
+      internalID: 7968612477486912640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_158
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 100
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecbea535f50e5740800000000000000
+      internalID: 5142554375229455599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_159
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27526f9500987f920800000000000000
+      internalID: 3024036309404886386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_160
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 101
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e769cc5594469260800000000000000
+      internalID: 7103940870521055208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_161
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4476cd9b47addcd0800000000000000
+      internalID: -2531683472300936113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_162
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdad2e4a8dbfe950800000000000000
+      internalID: 6480606790524186109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_163
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 88
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b52e72c148d16a0800000000000000
+      internalID: -6476875432625808493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_164
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 97
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5cee9fae1f83a90800000000000000
+      internalID: -7333846001655036448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_165
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 94
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17091e92c22724d50800000000000000
+      internalID: 6720059127996977265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_166
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 93
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394b020782a10750800000000000000
+      internalID: 6269470857015019836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_167
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 90
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18895f64504eb6e00800000000000000
+      internalID: 1039174850355501185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_168
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f13be70a5ce65ed0800000000000000
+      internalID: -2425491477868367372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_169
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 94
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb7158f7dee87430800000000000000
+      internalID: 3781034498529000394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_170
+      rect:
+        serializedVersion: 2
+        x: 4309
+        y: 100
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa6c1bac11d58cf0800000000000000
+      internalID: -250564283189138772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_171
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847367d4a694e16f0800000000000000
+      internalID: -712050970163005624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_172
+      rect:
+        serializedVersion: 2
+        x: 8929
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3924f61da975d1a10800000000000000
+      internalID: 1881756541761045139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_173
+      rect:
+        serializedVersion: 2
+        x: 9188
+        y: 88
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99da383964bd06c00800000000000000
+      internalID: 891953822388432281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_174
+      rect:
+        serializedVersion: 2
+        x: 9967
+        y: 90
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af3b3132af2a7a0800000000000000
+      internalID: -6367251894587098612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_175
+      rect:
+        serializedVersion: 2
+        x: 10227
+        y: 94
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1690fa9204c3f10800000000000000
+      internalID: 2250744461552869875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_176
+      rect:
+        serializedVersion: 2
+        x: 10453
+        y: 100
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374af28fbe88a1510800000000000000
+      internalID: 1520678371253527667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_177
+      rect:
+        serializedVersion: 2
+        x: 10485
+        y: 98
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428181d275ecee9d0800000000000000
+      internalID: -2743028249208023004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_178
+      rect:
+        serializedVersion: 2
+        x: 11512
+        y: 99
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b6caca2234aeff0800000000000000
+      internalID: -6118633282704516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_179
+      rect:
+        serializedVersion: 2
+        x: 11766
+        y: 97
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c640729f7730a010800000000000000
+      internalID: 1198018521937757893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_180
+      rect:
+        serializedVersion: 2
+        x: 12019
+        y: 92
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd78cd9725d1f6250800000000000000
+      internalID: 5939998673593993179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_181
+      rect:
+        serializedVersion: 2
+        x: 12272
+        y: 88
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24b7db9c36a4aa40800000000000000
+      internalID: 5378606634230068266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_182
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 87
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed65db625a9cb23a0800000000000000
+      internalID: -6689031110372010274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_183
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0a972965b995ca0800000000000000
+      internalID: -6027615830131760902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_184
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85855968fe9e5ed40800000000000000
+      internalID: 5613149725551581272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_185
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 87
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783a2ff879ce72080800000000000000
+      internalID: -9212134377063799929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_186
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 87
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12115cbbb3482da0800000000000000
+      internalID: -5969446832482217443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_187
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3806e1338b3d783e0800000000000000
+      internalID: -2051438317158899581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_188
+      rect:
+        serializedVersion: 2
+        x: 9448
+        y: 87
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa8cb59043fc360800000000000000
+      internalID: 7192024344733200156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_189
+      rect:
+        serializedVersion: 2
+        x: 9708
+        y: 87
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428e4a7f7f9b8dc60800000000000000
+      internalID: 7843223225728559140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_190
+      rect:
+        serializedVersion: 2
+        x: 10868
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7261b3dece5153de0800000000000000
+      internalID: -1354152005618428377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_191
+      rect:
+        serializedVersion: 2
+        x: 11125
+        y: 75
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6834d2a32e1193970800000000000000
+      internalID: 8735032615598113670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_192
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 60
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5af8e4811e8b3e0800000000000000
+      internalID: -2037631336871647787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_193
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b8bd7676a9652b0800000000000000
+      internalID: -5596115718046512337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_194
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 71
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec9c07838b614e50800000000000000
+      internalID: 6791827925702057198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_195
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 72
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bc3efcc5d63ef00800000000000000
+      internalID: 1144878975674469224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_196
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 67
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f2562e40997d3f0800000000000000
+      internalID: -876063356243071088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_197
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 61
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a5a8f2abc68230800000000000000
+      internalID: 3640821249592369256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_198
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 60
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e5838918f2a7f60800000000000000
+      internalID: 8032785119019818541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_199
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a08f1bd8f922450800000000000000
+      internalID: 6062583479319136791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_200
+      rect:
+        serializedVersion: 2
+        x: 4466
+        y: 71
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436eb8d015a889370800000000000000
+      internalID: 8329559591545988660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_201
+      rect:
+        serializedVersion: 2
+        x: 10091
+        y: 60
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780f9e7d550047610800000000000000
+      internalID: 1617918534827503751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_202
+      rect:
+        serializedVersion: 2
+        x: 10351
+        y: 66
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedcb85364c8454d0800000000000000
+      internalID: -3146736006451180053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_203
+      rect:
+        serializedVersion: 2
+        x: 10610
+        y: 71
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862d62f0a868fe60800000000000000
+      internalID: 7996256178867611264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_204
+      rect:
+        serializedVersion: 2
+        x: 11381
+        y: 72
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bcd2ef304c3b2a0800000000000000
+      internalID: -6722814297305658624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_205
+      rect:
+        serializedVersion: 2
+        x: 11635
+        y: 67
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6304537e006d31100800000000000000
+      internalID: 77640917962801206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_206
+      rect:
+        serializedVersion: 2
+        x: 11888
+        y: 61
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7517fc70e63b8fb0800000000000000
+      internalID: -4644558252905392772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_207
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fd3feea61685d00800000000000000
+      internalID: 961625632346988316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_208
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a909b1373eca7d50800000000000000
+      internalID: 6735922929138731424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_209
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca0dda2d98ffd540800000000000000
+      internalID: 5035016262336187083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_210
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc38caea30bcabbd0800000000000000
+      internalID: -2613553417059269685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_211
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f84a274255947a20800000000000000
+      internalID: 3059234227505219826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_212
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1e5899670f10ea0800000000000000
+      internalID: -5908176843960884818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_213
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73345b8d6ef3be870800000000000000
+      internalID: 8713128164789142327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_214
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a05fb6b10c43f70800000000000000
+      internalID: 9166162365613673054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_215
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd122ef2a7e269ec0800000000000000
+      internalID: -3560607353065561637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_216
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53317981b0a45ac50800000000000000
+      internalID: 6675823434164278069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_217
+      rect:
+        serializedVersion: 2
+        x: 3425
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8dd53e11a49fba0800000000000000
+      internalID: -6054726783333443404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_218
+      rect:
+        serializedVersion: 2
+        x: 3686
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83207ef9989eb34a0800000000000000
+      internalID: -6612434850560933320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_219
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0236f919ce430f0800000000000000
+      internalID: -1138024695629406030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_220
+      rect:
+        serializedVersion: 2
+        x: 5478
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091271df817b31fe0800000000000000
+      internalID: -1219429756134022768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_221
+      rect:
+        serializedVersion: 2
+        x: 5735
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a17a141753d4f7a0800000000000000
+      internalID: -6344213604105293404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_222
+      rect:
+        serializedVersion: 2
+        x: 7761
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7095966f09f0880800000000000000
+      internalID: -8642529771896895561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_223
+      rect:
+        serializedVersion: 2
+        x: 8014
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75e38d596b204d30800000000000000
+      internalID: 4413575366363571583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_224
+      rect:
+        serializedVersion: 2
+        x: 8267
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6940f7f54bb412ae0800000000000000
+      internalID: -1575895156534606698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_225
+      rect:
+        serializedVersion: 2
+        x: 8522
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2f1a87482b762b0800000000000000
+      internalID: -5591304130327874820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_226
+      rect:
+        serializedVersion: 2
+        x: 8777
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00826936036175f90800000000000000
+      internalID: -6965073901620156416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_227
+      rect:
+        serializedVersion: 2
+        x: 9047
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ec0a64c9788b270800000000000000
+      internalID: 8266506221308136982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_228
+      rect:
+        serializedVersion: 2
+        x: 9308
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb13470e8558aba0800000000000000
+      internalID: -6077513628640928847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_229
+      rect:
+        serializedVersion: 2
+        x: 9569
+        y: 52
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32821210d8f8c920800000000000000
+      internalID: 3010929923437265468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_230
+      rect:
+        serializedVersion: 2
+        x: 9830
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4c9891b7c8cd070800000000000000
+      internalID: 8132529487461598411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_231
+      rect:
+        serializedVersion: 2
+        x: 11365
+        y: 49
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d511983e5511290800000000000000
+      internalID: -7921455833822437989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_232
+      rect:
+        serializedVersion: 2
+        x: 11622
+        y: 48
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0463d8683e0df7370800000000000000
+      internalID: 8322600312037520960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_233
+      rect:
+        serializedVersion: 2
+        x: 11879
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64403e794020c20800000000000000
+      internalID: 3171102138017531594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_234
+      rect:
+        serializedVersion: 2
+        x: 12140
+        y: 55
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db00f3cba2615be0800000000000000
+      internalID: -1490301511816705066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_235
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b350698edf93689d0800000000000000
+      internalID: -2772464757908306629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_236
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974740d5f85c2a830800000000000000
+      internalID: 4081041431882658937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_237
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05f9f67cfdc416f0800000000000000
+      internalID: -714719956633520885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_238
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde13fc6483c5340800000000000000
+      internalID: 4853816375173574137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_239
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bee9c65fed00290800000000000000
+      internalID: -7926090198501364955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_240
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7339ca59267a61d60800000000000000
+      internalID: 7860654241481528119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_241
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9278ae79e5ee7e670800000000000000
+      internalID: 8568078906138724137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_242
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8713ec4086dc4a40800000000000000
+      internalID: 5353889903570786189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_243
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f734fa2a8925c30b0800000000000000
+      internalID: -5747628208913693825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_244
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c84e8ce66eb7070800000000000000
+      internalID: 8105325317874551925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_245
+      rect:
+        serializedVersion: 2
+        x: 6498
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b467fc2354183de0800000000000000
+      internalID: -1353309340555582285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_246
+      rect:
+        serializedVersion: 2
+        x: 6751
+        y: 32
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2388062d25fe74ba0800000000000000
+      internalID: -6104647630881519566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_247
+      rect:
+        serializedVersion: 2
+        x: 6781
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0581f7917e975e170800000000000000
+      internalID: 8207099929424762960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_248
+      rect:
+        serializedVersion: 2
+        x: 7004
+        y: 33
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667781d97efb70d60800000000000000
+      internalID: 7856459076465096550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_249
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7a1651c884abfc0800000000000000
+      internalID: -3478387995698944017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_250
+      rect:
+        serializedVersion: 2
+        x: 7256
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13b3dcf82041d660800000000000000
+      internalID: 7408773406785778461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_251
+      rect:
+        serializedVersion: 2
+        x: 7298
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de04400a0586bf0800000000000000
+      internalID: -330925924415378099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_252
+      rect:
+        serializedVersion: 2
+        x: 7508
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a703034e090631150800000000000000
+      internalID: 5842119317049585786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_253
+      rect:
+        serializedVersion: 2
+        x: 9034
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448c1573a1c97dc00800000000000000
+      internalID: 925379884859115588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_254
+      rect:
+        serializedVersion: 2
+        x: 9869
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7255ce8e7b74cbe0800000000000000
+      internalID: -1457904595869805958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_255
+      rect:
+        serializedVersion: 2
+        x: 10123
+        y: 28
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5031ba7bec35610800000000000000
+      internalID: 1608856780145886719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_256
+      rect:
+        serializedVersion: 2
+        x: 10377
+        y: 27
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2741a50026fee1490800000000000000
+      internalID: -7773512702603160462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_257
+      rect:
+        serializedVersion: 2
+        x: 12134
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0012b435cffb9800800000000000000
+      internalID: 620370596151300111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_258
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1544a58d24f7f6f30800000000000000
+      internalID: 4571012071878706257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_259
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dce566576a21820800000000000000
+      internalID: 2887553334256782630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_260
+      rect:
+        serializedVersion: 2
+        x: 4993
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac61f0a7fd9e6940800000000000000
+      internalID: 5291340299089570986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_261
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284eaab74fcf83c40800000000000000
+      internalID: 5492417872555336834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_262
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb9e839f8f7c3a30800000000000000
+      internalID: 4196369207435107304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_263
+      rect:
+        serializedVersion: 2
+        x: 5755
+        y: 17
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dd3cd55d2335b50800000000000000
+      internalID: 6580659372500966802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_264
+      rect:
+        serializedVersion: 2
+        x: 6011
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080950df881bdc0a0800000000000000
+      internalID: -6859631455496728448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_265
+      rect:
+        serializedVersion: 2
+        x: 6267
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874c9d65399028a90800000000000000
+      internalID: -7313272316474309512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_266
+      rect:
+        serializedVersion: 2
+        x: 6524
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4729b4f34d1aefd40800000000000000
+      internalID: 5620107317972013684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_267
+      rect:
+        serializedVersion: 2
+        x: 7557
+        y: 24
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16bf121d24ceb9d0800000000000000
+      internalID: -2756550224047524323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_268
+      rect:
+        serializedVersion: 2
+        x: 7816
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e2fb12736ce6250800000000000000
+      internalID: 5939902898639941224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_269
+      rect:
+        serializedVersion: 2
+        x: 8074
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6a04daa67f78ba0800000000000000
+      internalID: -6086624333822646531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_270
+      rect:
+        serializedVersion: 2
+        x: 8333
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2fc824dbc924120800000000000000
+      internalID: 2396650288393810643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_271
+      rect:
+        serializedVersion: 2
+        x: 8590
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2ccd364487c9e0800000000000000
+      internalID: -1601165705287553852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_272
+      rect:
+        serializedVersion: 2
+        x: 8848
+        y: 17
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebf95543b535d3d0800000000000000
+      internalID: -3182578517588444189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_273
+      rect:
+        serializedVersion: 2
+        x: 9104
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2e59fe94515e920800000000000000
+      internalID: 3018842532518159082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_274
+      rect:
+        serializedVersion: 2
+        x: 9360
+        y: 23
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf5d5f393b9eb610800000000000000
+      internalID: 1638917984587964367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_275
+      rect:
+        serializedVersion: 2
+        x: 9615
+        y: 26
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5271e6d514b355350800000000000000
+      internalID: 6004770830094833445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_276
+      rect:
+        serializedVersion: 2
+        x: 10630
+        y: 24
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799566ae619321240800000000000000
+      internalID: 4760930526668675479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_277
+      rect:
+        serializedVersion: 2
+        x: 10883
+        y: 21
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51df1c18d2e30e50800000000000000
+      internalID: 6774507682308018526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_278
+      rect:
+        serializedVersion: 2
+        x: 11137
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d805ecf46c0ed0800000000000000
+      internalID: -2446469460231924718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_279
+      rect:
+        serializedVersion: 2
+        x: 11390
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c05d1eddb0e1780800000000000000
+      internalID: -8710511581683446727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_280
+      rect:
+        serializedVersion: 2
+        x: 11644
+        y: 16
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b646b5b6573b323b0800000000000000
+      internalID: -5538385799841880981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_281
+      rect:
+        serializedVersion: 2
+        x: 11899
+        y: 17
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7250a7dee1ad65c50800000000000000
+      internalID: 6653745325854557479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_amb_firefly_282
+      rect:
+        serializedVersion: 2
+        x: 12155
+        y: 20
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b168577dad0f75650800000000000000
+      internalID: 6221706232943969819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_amb_firefly_0: -7546664991314475915
+      jp_amb_firefly_1: 3300363500221362702
+      jp_amb_firefly_10: 6216284488718426716
+      jp_amb_firefly_100: 6834701755444362355
+      jp_amb_firefly_101: 7267977097428893389
+      jp_amb_firefly_102: 3963292020975913423
+      jp_amb_firefly_103: 5942893898150276336
+      jp_amb_firefly_104: 1356478188219440623
+      jp_amb_firefly_105: -3684592127130120860
+      jp_amb_firefly_106: 1564112504811662938
+      jp_amb_firefly_107: 5250604565110389647
+      jp_amb_firefly_108: 5964287888547434335
+      jp_amb_firefly_109: 8366334154217419801
+      jp_amb_firefly_11: 4051755867338351393
+      jp_amb_firefly_110: 3842195406378036402
+      jp_amb_firefly_111: 1054835811202341979
+      jp_amb_firefly_112: -5844369263129890019
+      jp_amb_firefly_113: -3508631097406573986
+      jp_amb_firefly_114: -6298349921091719952
+      jp_amb_firefly_115: -4874034857422156848
+      jp_amb_firefly_116: -9130424666631234368
+      jp_amb_firefly_117: 6420253630868258014
+      jp_amb_firefly_118: 9210677943034767315
+      jp_amb_firefly_119: 3704574307268229874
+      jp_amb_firefly_12: 5421010755195137871
+      jp_amb_firefly_120: 1567081201513051257
+      jp_amb_firefly_121: -8450556417941813371
+      jp_amb_firefly_122: 4631994905470074573
+      jp_amb_firefly_123: 2077453633913845873
+      jp_amb_firefly_124: 6696674099055404125
+      jp_amb_firefly_125: -7889595571596799906
+      jp_amb_firefly_126: 7009978875896307710
+      jp_amb_firefly_127: 8168352779732897534
+      jp_amb_firefly_128: -2756453702527241019
+      jp_amb_firefly_129: -8114986730147201516
+      jp_amb_firefly_13: 4948622281902746456
+      jp_amb_firefly_130: 2084401269370383974
+      jp_amb_firefly_131: -8198513891407336033
+      jp_amb_firefly_132: 4760687033103016741
+      jp_amb_firefly_133: -4475652255651153930
+      jp_amb_firefly_134: 6741169734080677722
+      jp_amb_firefly_135: -4783317402634809431
+      jp_amb_firefly_136: 3213655692473857750
+      jp_amb_firefly_137: -1938186842914970948
+      jp_amb_firefly_138: -8602741803809440729
+      jp_amb_firefly_139: -5844157987373284517
+      jp_amb_firefly_14: 648072076949867432
+      jp_amb_firefly_140: -942226739512617533
+      jp_amb_firefly_141: -8756596332089032809
+      jp_amb_firefly_142: 7136703189699742116
+      jp_amb_firefly_143: 481136035062788301
+      jp_amb_firefly_144: 2324457696208535791
+      jp_amb_firefly_145: 8701346040913963953
+      jp_amb_firefly_146: -8097265188347061430
+      jp_amb_firefly_147: -2069111505527103744
+      jp_amb_firefly_148: -4530316025074461343
+      jp_amb_firefly_149: 8151317300215650755
+      jp_amb_firefly_15: -3125626141949921249
+      jp_amb_firefly_150: -4343675302140652113
+      jp_amb_firefly_151: -7918507996948541239
+      jp_amb_firefly_152: -8004140829451531644
+      jp_amb_firefly_153: -9129449967650790477
+      jp_amb_firefly_154: 8993169120075122137
+      jp_amb_firefly_155: 7185325917929175398
+      jp_amb_firefly_156: -5942759640009724588
+      jp_amb_firefly_157: 7968612477486912640
+      jp_amb_firefly_158: 5142554375229455599
+      jp_amb_firefly_159: 3024036309404886386
+      jp_amb_firefly_16: 8381078006623848578
+      jp_amb_firefly_160: 7103940870521055208
+      jp_amb_firefly_161: -2531683472300936113
+      jp_amb_firefly_162: 6480606790524186109
+      jp_amb_firefly_163: -6476875432625808493
+      jp_amb_firefly_164: -7333846001655036448
+      jp_amb_firefly_165: 6720059127996977265
+      jp_amb_firefly_166: 6269470857015019836
+      jp_amb_firefly_167: 1039174850355501185
+      jp_amb_firefly_168: -2425491477868367372
+      jp_amb_firefly_169: 3781034498529000394
+      jp_amb_firefly_17: 558593899717168013
+      jp_amb_firefly_170: -250564283189138772
+      jp_amb_firefly_171: -712050970163005624
+      jp_amb_firefly_172: 1881756541761045139
+      jp_amb_firefly_173: 891953822388432281
+      jp_amb_firefly_174: -6367251894587098612
+      jp_amb_firefly_175: 2250744461552869875
+      jp_amb_firefly_176: 1520678371253527667
+      jp_amb_firefly_177: -2743028249208023004
+      jp_amb_firefly_178: -6118633282704516
+      jp_amb_firefly_179: 1198018521937757893
+      jp_amb_firefly_18: 1089183975873782510
+      jp_amb_firefly_180: 5939998673593993179
+      jp_amb_firefly_181: 5378606634230068266
+      jp_amb_firefly_182: -6689031110372010274
+      jp_amb_firefly_183: -6027615830131760902
+      jp_amb_firefly_184: 5613149725551581272
+      jp_amb_firefly_185: -9212134377063799929
+      jp_amb_firefly_186: -5969446832482217443
+      jp_amb_firefly_187: -2051438317158899581
+      jp_amb_firefly_188: 7192024344733200156
+      jp_amb_firefly_189: 7843223225728559140
+      jp_amb_firefly_19: 8273276888798559115
+      jp_amb_firefly_190: -1354152005618428377
+      jp_amb_firefly_191: 8735032615598113670
+      jp_amb_firefly_192: -2037631336871647787
+      jp_amb_firefly_193: -5596115718046512337
+      jp_amb_firefly_194: 6791827925702057198
+      jp_amb_firefly_195: 1144878975674469224
+      jp_amb_firefly_196: -876063356243071088
+      jp_amb_firefly_197: 3640821249592369256
+      jp_amb_firefly_198: 8032785119019818541
+      jp_amb_firefly_199: 6062583479319136791
+      jp_amb_firefly_2: -2885773773357953329
+      jp_amb_firefly_20: -5294094704293873924
+      jp_amb_firefly_200: 8329559591545988660
+      jp_amb_firefly_201: 1617918534827503751
+      jp_amb_firefly_202: -3146736006451180053
+      jp_amb_firefly_203: 7996256178867611264
+      jp_amb_firefly_204: -6722814297305658624
+      jp_amb_firefly_205: 77640917962801206
+      jp_amb_firefly_206: -4644558252905392772
+      jp_amb_firefly_207: 961625632346988316
+      jp_amb_firefly_208: 6735922929138731424
+      jp_amb_firefly_209: 5035016262336187083
+      jp_amb_firefly_21: -21318617105331649
+      jp_amb_firefly_210: -2613553417059269685
+      jp_amb_firefly_211: 3059234227505219826
+      jp_amb_firefly_212: -5908176843960884818
+      jp_amb_firefly_213: 8713128164789142327
+      jp_amb_firefly_214: 9166162365613673054
+      jp_amb_firefly_215: -3560607353065561637
+      jp_amb_firefly_216: 6675823434164278069
+      jp_amb_firefly_217: -6054726783333443404
+      jp_amb_firefly_218: -6612434850560933320
+      jp_amb_firefly_219: -1138024695629406030
+      jp_amb_firefly_22: -3813145301555747615
+      jp_amb_firefly_220: -1219429756134022768
+      jp_amb_firefly_221: -6344213604105293404
+      jp_amb_firefly_222: -8642529771896895561
+      jp_amb_firefly_223: 4413575366363571583
+      jp_amb_firefly_224: -1575895156534606698
+      jp_amb_firefly_225: -5591304130327874820
+      jp_amb_firefly_226: -6965073901620156416
+      jp_amb_firefly_227: 8266506221308136982
+      jp_amb_firefly_228: -6077513628640928847
+      jp_amb_firefly_229: 3010929923437265468
+      jp_amb_firefly_23: -1007609869032149372
+      jp_amb_firefly_230: 8132529487461598411
+      jp_amb_firefly_231: -7921455833822437989
+      jp_amb_firefly_232: 8322600312037520960
+      jp_amb_firefly_233: 3171102138017531594
+      jp_amb_firefly_234: -1490301511816705066
+      jp_amb_firefly_235: -2772464757908306629
+      jp_amb_firefly_236: 4081041431882658937
+      jp_amb_firefly_237: -714719956633520885
+      jp_amb_firefly_238: 4853816375173574137
+      jp_amb_firefly_239: -7926090198501364955
+      jp_amb_firefly_24: -3681097433703425844
+      jp_amb_firefly_240: 7860654241481528119
+      jp_amb_firefly_241: 8568078906138724137
+      jp_amb_firefly_242: 5353889903570786189
+      jp_amb_firefly_243: -5747628208913693825
+      jp_amb_firefly_244: 8105325317874551925
+      jp_amb_firefly_245: -1353309340555582285
+      jp_amb_firefly_246: -6104647630881519566
+      jp_amb_firefly_247: 8207099929424762960
+      jp_amb_firefly_248: 7856459076465096550
+      jp_amb_firefly_249: -3478387995698944017
+      jp_amb_firefly_25: -2094870065539802467
+      jp_amb_firefly_250: 7408773406785778461
+      jp_amb_firefly_251: -330925924415378099
+      jp_amb_firefly_252: 5842119317049585786
+      jp_amb_firefly_253: 925379884859115588
+      jp_amb_firefly_254: -1457904595869805958
+      jp_amb_firefly_255: 1608856780145886719
+      jp_amb_firefly_256: -7773512702603160462
+      jp_amb_firefly_257: 620370596151300111
+      jp_amb_firefly_258: 4571012071878706257
+      jp_amb_firefly_259: 2887553334256782630
+      jp_amb_firefly_26: 626853879846101500
+      jp_amb_firefly_260: 5291340299089570986
+      jp_amb_firefly_261: 5492417872555336834
+      jp_amb_firefly_262: 4196369207435107304
+      jp_amb_firefly_263: 6580659372500966802
+      jp_amb_firefly_264: -6859631455496728448
+      jp_amb_firefly_265: -7313272316474309512
+      jp_amb_firefly_266: 5620107317972013684
+      jp_amb_firefly_267: -2756550224047524323
+      jp_amb_firefly_268: 5939902898639941224
+      jp_amb_firefly_269: -6086624333822646531
+      jp_amb_firefly_27: -8818050418228242932
+      jp_amb_firefly_270: 2396650288393810643
+      jp_amb_firefly_271: -1601165705287553852
+      jp_amb_firefly_272: -3182578517588444189
+      jp_amb_firefly_273: 3018842532518159082
+      jp_amb_firefly_274: 1638917984587964367
+      jp_amb_firefly_275: 6004770830094833445
+      jp_amb_firefly_276: 4760930526668675479
+      jp_amb_firefly_277: 6774507682308018526
+      jp_amb_firefly_278: -2446469460231924718
+      jp_amb_firefly_279: -8710511581683446727
+      jp_amb_firefly_28: -756911982105423874
+      jp_amb_firefly_280: -5538385799841880981
+      jp_amb_firefly_281: 6653745325854557479
+      jp_amb_firefly_282: 6221706232943969819
+      jp_amb_firefly_29: 8564483471982563526
+      jp_amb_firefly_3: -3018417628779406381
+      jp_amb_firefly_30: -5545418241594967457
+      jp_amb_firefly_31: -5677010169095309636
+      jp_amb_firefly_32: -2686853005737871839
+      jp_amb_firefly_33: -6427326385772264503
+      jp_amb_firefly_34: 2836011442267435513
+      jp_amb_firefly_35: 4340339924445354010
+      jp_amb_firefly_36: -2566066773008293780
+      jp_amb_firefly_37: -5533122630672253685
+      jp_amb_firefly_38: 2375290654794222755
+      jp_amb_firefly_39: -3098959365416851687
+      jp_amb_firefly_4: -8102745741946708904
+      jp_amb_firefly_40: 4071343886692822611
+      jp_amb_firefly_41: -3706822880413322627
+      jp_amb_firefly_42: 1202954910793685741
+      jp_amb_firefly_43: 1095719935149642672
+      jp_amb_firefly_44: -2458212555435342591
+      jp_amb_firefly_45: 1128935662635449027
+      jp_amb_firefly_46: -8228115513488751427
+      jp_amb_firefly_47: -9064090993686954742
+      jp_amb_firefly_48: 5061369457114755473
+      jp_amb_firefly_49: -73892483456800103
+      jp_amb_firefly_5: 1626197225994145104
+      jp_amb_firefly_50: -6964270997953175392
+      jp_amb_firefly_51: -3881017685213454427
+      jp_amb_firefly_52: -3101737824397307243
+      jp_amb_firefly_53: -4265399959157217681
+      jp_amb_firefly_54: 1197983491682620494
+      jp_amb_firefly_55: -3751797164381715568
+      jp_amb_firefly_56: -5133966711449143164
+      jp_amb_firefly_57: 1496061659107683964
+      jp_amb_firefly_58: -6554723820300524562
+      jp_amb_firefly_59: 55232217972426368
+      jp_amb_firefly_6: -631368273218012459
+      jp_amb_firefly_60: -538240627293063272
+      jp_amb_firefly_61: -5137079360193349057
+      jp_amb_firefly_62: -3692665541306844404
+      jp_amb_firefly_63: 4807726468007444071
+      jp_amb_firefly_64: 2088014801409889230
+      jp_amb_firefly_65: -6012928982512697529
+      jp_amb_firefly_66: 1457959033347754162
+      jp_amb_firefly_67: -422834981482284837
+      jp_amb_firefly_68: 3485551760177366462
+      jp_amb_firefly_69: 1551816006045516011
+      jp_amb_firefly_7: -1230350401263852909
+      jp_amb_firefly_70: 7546504988191653451
+      jp_amb_firefly_71: -8967556106492051046
+      jp_amb_firefly_72: 4352872869602676618
+      jp_amb_firefly_73: 6515344012749940944
+      jp_amb_firefly_74: -1540273567325624984
+      jp_amb_firefly_75: -1748519492163261818
+      jp_amb_firefly_76: 6152371709864334661
+      jp_amb_firefly_77: 5217373577651176417
+      jp_amb_firefly_78: 1761796961075266159
+      jp_amb_firefly_79: 6377990768933890664
+      jp_amb_firefly_8: -1153245353141722262
+      jp_amb_firefly_80: -7481250514729533590
+      jp_amb_firefly_81: 1938434228159880415
+      jp_amb_firefly_82: 5859587982335760344
+      jp_amb_firefly_83: -2889906752022986707
+      jp_amb_firefly_84: -7532270233418088551
+      jp_amb_firefly_85: -4761196318340523505
+      jp_amb_firefly_86: -3443517011816442520
+      jp_amb_firefly_87: -6041080387305431977
+      jp_amb_firefly_88: -4115835547272484329
+      jp_amb_firefly_89: -639852218741154387
+      jp_amb_firefly_9: 2139923748687148599
+      jp_amb_firefly_90: 1806171305311739767
+      jp_amb_firefly_91: -3438514762719975040
+      jp_amb_firefly_92: -5928994773730669035
+      jp_amb_firefly_93: -8584152027854523769
+      jp_amb_firefly_94: 4761504974166855811
+      jp_amb_firefly_95: 8397751887621500190
+      jp_amb_firefly_96: 8725305239734551217
+      jp_amb_firefly_97: -8264333836035706867
+      jp_amb_firefly_98: -8297400022340814535
+      jp_amb_firefly_99: -5317108544102435138
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

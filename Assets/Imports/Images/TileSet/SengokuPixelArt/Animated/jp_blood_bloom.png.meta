@@ -1,0 +1,2184 @@
+fileFormatVersion: 2
+guid: 2bc2f45a529d53b449adc5af1342642e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1753034420476378371
+    second: jp_blood_bloom_0
+  - first:
+      213: -1311534646495515353
+    second: jp_blood_bloom_1
+  - first:
+      213: 4304345710855503320
+    second: jp_blood_bloom_2
+  - first:
+      213: 7398767904945326863
+    second: jp_blood_bloom_3
+  - first:
+      213: -5513490671724242137
+    second: jp_blood_bloom_4
+  - first:
+      213: 7047756277144824351
+    second: jp_blood_bloom_5
+  - first:
+      213: -9167112405657173017
+    second: jp_blood_bloom_6
+  - first:
+      213: -4368074983752185366
+    second: jp_blood_bloom_7
+  - first:
+      213: -3901977872160694229
+    second: jp_blood_bloom_8
+  - first:
+      213: -6760862039801948357
+    second: jp_blood_bloom_9
+  - first:
+      213: 6946824172310211693
+    second: jp_blood_bloom_10
+  - first:
+      213: 6694996811489592491
+    second: jp_blood_bloom_11
+  - first:
+      213: 6204430205536485058
+    second: jp_blood_bloom_12
+  - first:
+      213: 5320259639883310347
+    second: jp_blood_bloom_13
+  - first:
+      213: 7223505298088737747
+    second: jp_blood_bloom_14
+  - first:
+      213: 2852156259866138248
+    second: jp_blood_bloom_15
+  - first:
+      213: 6968083105972779166
+    second: jp_blood_bloom_16
+  - first:
+      213: 2681137221906115227
+    second: jp_blood_bloom_17
+  - first:
+      213: 1522699241978061250
+    second: jp_blood_bloom_18
+  - first:
+      213: -3319862000391783790
+    second: jp_blood_bloom_19
+  - first:
+      213: 4658550813130280476
+    second: jp_blood_bloom_20
+  - first:
+      213: 7385310792175342030
+    second: jp_blood_bloom_21
+  - first:
+      213: 4196426158528592006
+    second: jp_blood_bloom_22
+  - first:
+      213: 8000091382208371138
+    second: jp_blood_bloom_23
+  - first:
+      213: -5533812110321921387
+    second: jp_blood_bloom_24
+  - first:
+      213: 8026086415407361633
+    second: jp_blood_bloom_25
+  - first:
+      213: -7008960684218871351
+    second: jp_blood_bloom_26
+  - first:
+      213: 5538741154139362344
+    second: jp_blood_bloom_27
+  - first:
+      213: 4816049846553638749
+    second: jp_blood_bloom_28
+  - first:
+      213: -3692748971255680115
+    second: jp_blood_bloom_29
+  - first:
+      213: 7633080338290095738
+    second: jp_blood_bloom_30
+  - first:
+      213: 970962734256714347
+    second: jp_blood_bloom_31
+  - first:
+      213: 889152072888563758
+    second: jp_blood_bloom_32
+  - first:
+      213: -5825501671326920530
+    second: jp_blood_bloom_33
+  - first:
+      213: -4759169568216915094
+    second: jp_blood_bloom_34
+  - first:
+      213: -2669158526786821554
+    second: jp_blood_bloom_35
+  - first:
+      213: 5426210696799715292
+    second: jp_blood_bloom_36
+  - first:
+      213: 5214407312414778801
+    second: jp_blood_bloom_37
+  - first:
+      213: -4404871639429553103
+    second: jp_blood_bloom_38
+  - first:
+      213: 3706409247444544894
+    second: jp_blood_bloom_39
+  - first:
+      213: -4064110310624807711
+    second: jp_blood_bloom_40
+  - first:
+      213: 8332904634553200828
+    second: jp_blood_bloom_41
+  - first:
+      213: -9141464809638304592
+    second: jp_blood_bloom_42
+  - first:
+      213: 1327035188611983580
+    second: jp_blood_bloom_43
+  - first:
+      213: -3644881748166809718
+    second: jp_blood_bloom_44
+  - first:
+      213: 8785708845596572871
+    second: jp_blood_bloom_45
+  - first:
+      213: -4989439882561493920
+    second: jp_blood_bloom_46
+  - first:
+      213: 1435557906846101275
+    second: jp_blood_bloom_47
+  - first:
+      213: 64268768742914451
+    second: jp_blood_bloom_48
+  - first:
+      213: -4923388036603399868
+    second: jp_blood_bloom_49
+  - first:
+      213: -3373834617811863753
+    second: jp_blood_bloom_50
+  - first:
+      213: -1505238614134834268
+    second: jp_blood_bloom_51
+  - first:
+      213: -8434778576519968498
+    second: jp_blood_bloom_52
+  - first:
+      213: 802850469218827392
+    second: jp_blood_bloom_53
+  - first:
+      213: -7237323734137190144
+    second: jp_blood_bloom_54
+  - first:
+      213: 5778712513974075638
+    second: jp_blood_bloom_55
+  - first:
+      213: 5939538042863270091
+    second: jp_blood_bloom_56
+  - first:
+      213: -3397904047646844899
+    second: jp_blood_bloom_57
+  - first:
+      213: -1732477318003798786
+    second: jp_blood_bloom_58
+  - first:
+      213: -7920034383448016928
+    second: jp_blood_bloom_59
+  - first:
+      213: -2153588642639162080
+    second: jp_blood_bloom_60
+  - first:
+      213: -8174033269816179532
+    second: jp_blood_bloom_61
+  - first:
+      213: 2062432917110654455
+    second: jp_blood_bloom_62
+  - first:
+      213: -385520085453746556
+    second: jp_blood_bloom_63
+  - first:
+      213: -1107179438487594120
+    second: jp_blood_bloom_64
+  - first:
+      213: -1981052424880295282
+    second: jp_blood_bloom_65
+  - first:
+      213: -7851760880862673921
+    second: jp_blood_bloom_66
+  - first:
+      213: -7865140613478282029
+    second: jp_blood_bloom_67
+  - first:
+      213: 8274439821929639074
+    second: jp_blood_bloom_68
+  - first:
+      213: -2660078971535283684
+    second: jp_blood_bloom_69
+  - first:
+      213: -1544307117432596932
+    second: jp_blood_bloom_70
+  - first:
+      213: -768836562174026269
+    second: jp_blood_bloom_71
+  - first:
+      213: 3034566070490921840
+    second: jp_blood_bloom_72
+  - first:
+      213: -3852217269125165121
+    second: jp_blood_bloom_73
+  - first:
+      213: -8520274394310150074
+    second: jp_blood_bloom_74
+  - first:
+      213: 1774114768932659681
+    second: jp_blood_bloom_75
+  - first:
+      213: -3284686259045697396
+    second: jp_blood_bloom_76
+  - first:
+      213: 249826364923320927
+    second: jp_blood_bloom_77
+  - first:
+      213: -6083934952612122361
+    second: jp_blood_bloom_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_blood_bloom_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7
+        width: 242
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30df6877487045810800000000000000
+      internalID: 1753034420476378371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_1
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 7
+        width: 258
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d6405103e7ccde0800000000000000
+      internalID: -1311534646495515353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 224
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddb40e5e9b1cbb30800000000000000
+      internalID: 4304345710855503320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 220
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bc3dd8534bda660800000000000000
+      internalID: 7398767904945326863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_4
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 163
+        width: 144
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b527f12752c73b0800000000000000
+      internalID: -5513490671724242137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_5
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 159
+        width: 107
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a2fb25ef8aec160800000000000000
+      internalID: 7047756277144824351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_6
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 177
+        width: 135
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e34ab426dfd7c080800000000000000
+      internalID: -9167112405657173017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_7
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 221
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae94e2102fa7163c0800000000000000
+      internalID: -4368074983752185366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_8
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 184
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206d608cc369d9c0800000000000000
+      internalID: -3901977872160694229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_9
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 211
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b379e2e9bc79c22a0800000000000000
+      internalID: -6760862039801948357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_10
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 211
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ca5a367c3186060800000000000000
+      internalID: 6946824172310211693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_11
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 208
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4c531e02869ec50800000000000000
+      internalID: 6694996811489592491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_12
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 211
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceb4b246609a1650800000000000000
+      internalID: 6204430205536485058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_13
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 214
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05a71c54fb55d940800000000000000
+      internalID: 5320259639883310347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_14
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 214
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db3bbdfbcb0f3460800000000000000
+      internalID: 7223505298088737747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 7
+        width: 257
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8865a39c105e49720800000000000000
+      internalID: 2852156259866138248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_16
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 48
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9878e89aaa93b060800000000000000
+      internalID: 6968083105972779166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_17
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 92
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aaac91910553520800000000000000
+      internalID: 2681137221906115227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_18
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 144
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ebd994e6b12510800000000000000
+      internalID: 1522699241978061250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_19
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 162
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a745b991b7de1d0800000000000000
+      internalID: -3319862000391783790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_20
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 88
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eccb0584f76a040800000000000000
+      internalID: 4658550813130280476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_21
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 139
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec158735905ed7660800000000000000
+      internalID: 7385310792175342030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_22
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 118
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688f0498b53bc3a30800000000000000
+      internalID: 4196426158528592006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_23
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 154
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9913fc9b8060f60800000000000000
+      internalID: 8000091382208371138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_24
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 142
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592d18e7433f333b0800000000000000
+      internalID: -5533812110321921387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_25
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 111
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ea1fe1213626f60800000000000000
+      internalID: 8026086415407361633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_26
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 159
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1947c846b2bbe90800000000000000
+      internalID: -7008960684218871351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_27
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 153
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8245053fbbf8ddc40800000000000000
+      internalID: 5538741154139362344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_28
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 117
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d577764a1db06d240800000000000000
+      internalID: 4816049846553638749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_29
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 141
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83bd9b2068b0ccc0800000000000000
+      internalID: -3692748971255680115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_30
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 127
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76bcc930262ee960800000000000000
+      internalID: 7633080338290095738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_31
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 140
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b627381667d897d00800000000000000
+      internalID: 970962734256714347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 162
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2833df6917e65c00800000000000000
+      internalID: 889152072888563758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_33
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 50
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea05d124819a72fa0800000000000000
+      internalID: -5825501671326920530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_34
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 45
+        width: 60
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63e49c2e7804fdb0800000000000000
+      internalID: -4759169568216915094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_35
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 59
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42aaa1367e35fad0800000000000000
+      internalID: -2669158526786821554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_36
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 94
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdffb2321e5cd4b40800000000000000
+      internalID: 5426210696799715292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_37
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 61
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5aea2d2db4d5840800000000000000
+      internalID: 5214407312414778801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_38
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 88
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134eb9af490ced2c0800000000000000
+      internalID: -4404871639429553103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_39
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 61
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7da72ab29fcf6330800000000000000
+      internalID: 3706409247444544894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_40
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 90
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4b43f74316997c0800000000000000
+      internalID: -4064110310624807711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_41
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 67
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ffb19d9c64a370800000000000000
+      internalID: 8332904634553200828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_42
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 57
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b466ce603ef22180800000000000000
+      internalID: -9141464809638304592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_43
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 67
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd829ad19739a6210800000000000000
+      internalID: 1327035188611983580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_44
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 106
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8766388c57ca6dc0800000000000000
+      internalID: -3644881748166809718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_45
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 71
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc7ac975ab1de970800000000000000
+      internalID: 8785708845596572871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_46
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 99
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06461cbacd2f1cab0800000000000000
+      internalID: -4989439882561493920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_47
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 113
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fa0147f402ce310800000000000000
+      internalID: 1435557906846101275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_48
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 109
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399b21bca1454e000800000000000000
+      internalID: 64268768742914451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_49
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 9
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441b8da7aac9cabb0800000000000000
+      internalID: -4923388036603399868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_50
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 44
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737786a5a4bbd21d0800000000000000
+      internalID: -3373834617811863753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_51
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 9
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abba4e94715c1be0800000000000000
+      internalID: -1505238614134834268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_52
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 67
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c373f295a1fa80800000000000000
+      internalID: -8434778576519968498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_53
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 40
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3b818f3c442b00800000000000000
+      internalID: 802850469218827392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_54
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 7
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009cf36a86cdf8b90800000000000000
+      internalID: -7237323734137190144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_55
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 65
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0878e1a6c123050800000000000000
+      internalID: 5778712513974075638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_56
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 59
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b8c6816a7d6250800000000000000
+      internalID: 5939538042863270091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_57
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 62
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18d523854838d0d0800000000000000
+      internalID: -3397904047646844899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_58
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 9
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc46feee0105f7e0800000000000000
+      internalID: -1732477318003798786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_59
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 8
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e773bdb0b2661290800000000000000
+      internalID: -7920034383448016928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_60
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 8
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0255d2b2a8aec12e0800000000000000
+      internalID: -2153588642639162080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_61
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 7
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4c16a8c00009e80800000000000000
+      internalID: -8174033269816179532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_62
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 7
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f504759fcb3f9c10800000000000000
+      internalID: 2062432917110654455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_63
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 7
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e40cc568b56aaf0800000000000000
+      internalID: -385520085453746556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_64
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 7
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b9452ba2282a0f0800000000000000
+      internalID: -1107179438487594120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_65
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 7
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82759dc053e184e0800000000000000
+      internalID: -1981052424880295282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_66
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 9
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff34fda4411f80390800000000000000
+      internalID: -7851760880862673921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_67
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 8
+        width: 92
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0129884869d290800000000000000
+      internalID: -7865140613478282029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_68
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 11
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac667d9d27b4d270800000000000000
+      internalID: 8274439821929639074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_69
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 8
+        width: 85
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a2723e440851bd0800000000000000
+      internalID: -2660078971535283684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_70
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 11
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c369259dbd4819ae0800000000000000
+      internalID: -1544307117432596932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_71
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 11
+        width: 51
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edd84d583b8455f0800000000000000
+      internalID: -768836562174026269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_72
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 7
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b701763c1fc1a20800000000000000
+      internalID: 3034566070490921840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_73
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 8
+        width: 64
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf4b2cbdcc2a8ac0800000000000000
+      internalID: -3852217269125165121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_74
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 8
+        width: 74
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648794aa497e1c980800000000000000
+      internalID: -8520274394310150074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_75
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 11
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e161019bfbee9810800000000000000
+      internalID: 1774114768932659681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_76
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 8
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8879fa10437a62d0800000000000000
+      internalID: -3284686259045697396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_77
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 11
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a18c851cf877300800000000000000
+      internalID: 249826364923320927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_blood_bloom_78
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 9
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701b8f80565819ba0800000000000000
+      internalID: -6083934952612122361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_blood_bloom_0: 1753034420476378371
+      jp_blood_bloom_1: -1311534646495515353
+      jp_blood_bloom_10: 6946824172310211693
+      jp_blood_bloom_11: 6694996811489592491
+      jp_blood_bloom_12: 6204430205536485058
+      jp_blood_bloom_13: 5320259639883310347
+      jp_blood_bloom_14: 7223505298088737747
+      jp_blood_bloom_15: 2852156259866138248
+      jp_blood_bloom_16: 6968083105972779166
+      jp_blood_bloom_17: 2681137221906115227
+      jp_blood_bloom_18: 1522699241978061250
+      jp_blood_bloom_19: -3319862000391783790
+      jp_blood_bloom_2: 4304345710855503320
+      jp_blood_bloom_20: 4658550813130280476
+      jp_blood_bloom_21: 7385310792175342030
+      jp_blood_bloom_22: 4196426158528592006
+      jp_blood_bloom_23: 8000091382208371138
+      jp_blood_bloom_24: -5533812110321921387
+      jp_blood_bloom_25: 8026086415407361633
+      jp_blood_bloom_26: -7008960684218871351
+      jp_blood_bloom_27: 5538741154139362344
+      jp_blood_bloom_28: 4816049846553638749
+      jp_blood_bloom_29: -3692748971255680115
+      jp_blood_bloom_3: 7398767904945326863
+      jp_blood_bloom_30: 7633080338290095738
+      jp_blood_bloom_31: 970962734256714347
+      jp_blood_bloom_32: 889152072888563758
+      jp_blood_bloom_33: -5825501671326920530
+      jp_blood_bloom_34: -4759169568216915094
+      jp_blood_bloom_35: -2669158526786821554
+      jp_blood_bloom_36: 5426210696799715292
+      jp_blood_bloom_37: 5214407312414778801
+      jp_blood_bloom_38: -4404871639429553103
+      jp_blood_bloom_39: 3706409247444544894
+      jp_blood_bloom_4: -5513490671724242137
+      jp_blood_bloom_40: -4064110310624807711
+      jp_blood_bloom_41: 8332904634553200828
+      jp_blood_bloom_42: -9141464809638304592
+      jp_blood_bloom_43: 1327035188611983580
+      jp_blood_bloom_44: -3644881748166809718
+      jp_blood_bloom_45: 8785708845596572871
+      jp_blood_bloom_46: -4989439882561493920
+      jp_blood_bloom_47: 1435557906846101275
+      jp_blood_bloom_48: 64268768742914451
+      jp_blood_bloom_49: -4923388036603399868
+      jp_blood_bloom_5: 7047756277144824351
+      jp_blood_bloom_50: -3373834617811863753
+      jp_blood_bloom_51: -1505238614134834268
+      jp_blood_bloom_52: -8434778576519968498
+      jp_blood_bloom_53: 802850469218827392
+      jp_blood_bloom_54: -7237323734137190144
+      jp_blood_bloom_55: 5778712513974075638
+      jp_blood_bloom_56: 5939538042863270091
+      jp_blood_bloom_57: -3397904047646844899
+      jp_blood_bloom_58: -1732477318003798786
+      jp_blood_bloom_59: -7920034383448016928
+      jp_blood_bloom_6: -9167112405657173017
+      jp_blood_bloom_60: -2153588642639162080
+      jp_blood_bloom_61: -8174033269816179532
+      jp_blood_bloom_62: 2062432917110654455
+      jp_blood_bloom_63: -385520085453746556
+      jp_blood_bloom_64: -1107179438487594120
+      jp_blood_bloom_65: -1981052424880295282
+      jp_blood_bloom_66: -7851760880862673921
+      jp_blood_bloom_67: -7865140613478282029
+      jp_blood_bloom_68: 8274439821929639074
+      jp_blood_bloom_69: -2660078971535283684
+      jp_blood_bloom_7: -4368074983752185366
+      jp_blood_bloom_70: -1544307117432596932
+      jp_blood_bloom_71: -768836562174026269
+      jp_blood_bloom_72: 3034566070490921840
+      jp_blood_bloom_73: -3852217269125165121
+      jp_blood_bloom_74: -8520274394310150074
+      jp_blood_bloom_75: 1774114768932659681
+      jp_blood_bloom_76: -3284686259045697396
+      jp_blood_bloom_77: 249826364923320927
+      jp_blood_bloom_78: -6083934952612122361
+      jp_blood_bloom_8: -3901977872160694229
+      jp_blood_bloom_9: -6760862039801948357
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

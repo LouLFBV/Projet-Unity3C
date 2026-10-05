@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 4c42b07137014b547bc9349374f029a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -690935047071189496
+    second: jp_ink_splatter_0
+  - first:
+      213: -7758159473155444619
+    second: jp_ink_splatter_1
+  - first:
+      213: 5421882018882984864
+    second: jp_ink_splatter_2
+  - first:
+      213: 8443499653751124467
+    second: jp_ink_splatter_3
+  - first:
+      213: -254080628854925577
+    second: jp_ink_splatter_4
+  - first:
+      213: 7415836050041751476
+    second: jp_ink_splatter_5
+  - first:
+      213: 387279784042541818
+    second: jp_ink_splatter_6
+  - first:
+      213: 7485253341813334228
+    second: jp_ink_splatter_7
+  - first:
+      213: 2014780460067693218
+    second: jp_ink_splatter_8
+  - first:
+      213: 3106929348019329413
+    second: jp_ink_splatter_9
+  - first:
+      213: -4207400224350540641
+    second: jp_ink_splatter_10
+  - first:
+      213: -2489442015686092164
+    second: jp_ink_splatter_11
+  - first:
+      213: 6987805693228673408
+    second: jp_ink_splatter_12
+  - first:
+      213: 9212399491905689462
+    second: jp_ink_splatter_13
+  - first:
+      213: 2926004139917284877
+    second: jp_ink_splatter_14
+  - first:
+      213: -8516523273007798972
+    second: jp_ink_splatter_15
+  - first:
+      213: -1532583517888779766
+    second: jp_ink_splatter_16
+  - first:
+      213: -5836151199445451036
+    second: jp_ink_splatter_17
+  - first:
+      213: 6941149367166260277
+    second: jp_ink_splatter_18
+  - first:
+      213: -3201255586518799247
+    second: jp_ink_splatter_19
+  - first:
+      213: 2944735673214218739
+    second: jp_ink_splatter_20
+  - first:
+      213: 6639943239768766598
+    second: jp_ink_splatter_21
+  - first:
+      213: -4798359749845426353
+    second: jp_ink_splatter_22
+  - first:
+      213: -6482148976823362325
+    second: jp_ink_splatter_23
+  - first:
+      213: -8969165835521852647
+    second: jp_ink_splatter_24
+  - first:
+      213: -6429286729059956925
+    second: jp_ink_splatter_25
+  - first:
+      213: 6150669137182816168
+    second: jp_ink_splatter_26
+  - first:
+      213: 8318012677071205861
+    second: jp_ink_splatter_27
+  - first:
+      213: 6351548254229081238
+    second: jp_ink_splatter_28
+  - first:
+      213: -9212389636978906765
+    second: jp_ink_splatter_29
+  - first:
+      213: 8000425184431600383
+    second: jp_ink_splatter_30
+  - first:
+      213: 4716512892320194573
+    second: jp_ink_splatter_31
+  - first:
+      213: -3113492373936322522
+    second: jp_ink_splatter_32
+  - first:
+      213: -5477043738782195054
+    second: jp_ink_splatter_33
+  - first:
+      213: 1354834942922312534
+    second: jp_ink_splatter_34
+  - first:
+      213: -7431571547126169076
+    second: jp_ink_splatter_35
+  - first:
+      213: 3776991554173063027
+    second: jp_ink_splatter_36
+  - first:
+      213: 8324614726119487060
+    second: jp_ink_splatter_37
+  - first:
+      213: -991977301378578240
+    second: jp_ink_splatter_38
+  - first:
+      213: 3921711010743176016
+    second: jp_ink_splatter_39
+  - first:
+      213: 2965008431253624570
+    second: jp_ink_splatter_40
+  - first:
+      213: 3417936040117394222
+    second: jp_ink_splatter_41
+  - first:
+      213: 4117623598993190687
+    second: jp_ink_splatter_42
+  - first:
+      213: 7561132453251354214
+    second: jp_ink_splatter_43
+  - first:
+      213: 4190016852173972676
+    second: jp_ink_splatter_44
+  - first:
+      213: -6671475200823922167
+    second: jp_ink_splatter_45
+  - first:
+      213: 2180241797574014604
+    second: jp_ink_splatter_46
+  - first:
+      213: 3597950750662185895
+    second: jp_ink_splatter_47
+  - first:
+      213: 7318107149616417356
+    second: jp_ink_splatter_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_ink_splatter_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80634744c3e4966f0800000000000000
+      internalID: -690935047071189496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_1
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1
+        width: 155
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570fcbb401b755490800000000000000
+      internalID: -7758159473155444619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 216
+        width: 155
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab199548f46e3b40800000000000000
+      internalID: 5421882018882984864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_3
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 146
+        width: 155
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f138f213365d2570800000000000000
+      internalID: 8443499653751124467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_4
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 150
+        width: 155
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f65bc4a303597cf0800000000000000
+      internalID: -254080628854925577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_5
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b74643c8975ae660800000000000000
+      internalID: 7415836050041751476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_6
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2bb8469e4ef5500800000000000000
+      internalID: 387279784042541818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_7
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0e69c7146f0e760800000000000000
+      internalID: 7485253341813334228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_8
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 249
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2abb65720f5fb10800000000000000
+      internalID: 2014780460067693218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_9
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 20
+        width: 39
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5899de2e7c70e1b20800000000000000
+      internalID: 3106929348019329413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_10
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 250
+        width: 67
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cefa7a9cf4c95c0800000000000000
+      internalID: -4207400224350540641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_11
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 156
+        width: 13
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a19162da9b37dd0800000000000000
+      internalID: -2489442015686092164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_12
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 126
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089e858414ca9f060800000000000000
+      internalID: 6987805693228673408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_13
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 30
+        width: 155
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677170c478409df70800000000000000
+      internalID: 9212399491905689462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_14
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 0
+        width: 155
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06971b33414b9820800000000000000
+      internalID: 2926004139917284877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_15
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 26
+        width: 155
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e507a43b3fc980800000000000000
+      internalID: -8516523273007798972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_16
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 11
+        width: 155
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aee93196b2bbae0800000000000000
+      internalID: -1532583517888779766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_17
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 155
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee7595c763d10fa0800000000000000
+      internalID: -5836151199445451036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_18
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 210
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5345fdad29ae35060800000000000000
+      internalID: 6941149367166260277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_19
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 31
+        width: 129
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cef4a410bd293d0800000000000000
+      internalID: -3201255586518799247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_20
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 14
+        width: 108
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ba5f2e7dcdd820800000000000000
+      internalID: 2944735673214218739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_21
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 134
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887c275231d52c50800000000000000
+      internalID: 6639943239768766598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_22
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 159
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f5ee5fa3dc86db0800000000000000
+      internalID: -4798359749845426353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_23
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 125
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec184779d7ca06a0800000000000000
+      internalID: -6482148976823362325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_24
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 97
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b762a713f178380800000000000000
+      internalID: -8969165835521852647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_25
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 107
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3478f33a8c596c6a0800000000000000
+      internalID: -6429286729059956925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 70
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77dbc1ef09b5550800000000000000
+      internalID: 6150669137182816168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_27
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 61
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5760685748f6370800000000000000
+      internalID: 8318012677071205861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_28
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 83
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ca31b3c7b352850800000000000000
+      internalID: 6351548254229081238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_29
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 28
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379e16b3f64072080800000000000000
+      internalID: -9212389636978906765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_30
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 63
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff272223158370f60800000000000000
+      internalID: 8000425184431600383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_31
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00ab458c7b647140800000000000000
+      internalID: 4716512892320194573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_32
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 59
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62843a09e27aac4d0800000000000000
+      internalID: -3113492373936322522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_33
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 41
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2922c9afcb1adf3b0800000000000000
+      internalID: -5477043738782195054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_34
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 41
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bcb2ec3375dc210800000000000000
+      internalID: 1354834942922312534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_35
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 51
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0205a25d01cdd890800000000000000
+      internalID: -7431571547126169076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_36
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 58
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fc222aec19a6430800000000000000
+      internalID: 3776991554173063027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_37
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 31
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456765adcf8f68370800000000000000
+      internalID: 8324614726119487060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_38
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 28
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8441e66e9cb32f0800000000000000
+      internalID: -991977301378578240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_39
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 15
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc51bd267bc6630800000000000000
+      internalID: 3921711010743176016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_40
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af619ec7573d52920800000000000000
+      internalID: 2965008431253624570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_41
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bd33038b2fe6f20800000000000000
+      internalID: 3417936040117394222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_42
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f21c0e8dcb42930800000000000000
+      internalID: 4117623598993190687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_43
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e89b7d7e98ee860800000000000000
+      internalID: 7561132453251354214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4eabc902ee52a30800000000000000
+      internalID: 4190016852173972676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_45
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ff0fd6a82a63a0800000000000000
+      internalID: -6671475200823922167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_46
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 0
+        width: 155
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86bbdc0d56c14e10800000000000000
+      internalID: 2180241797574014604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_47
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 0
+        width: 155
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3d19c152d7ee130800000000000000
+      internalID: 3597950750662185895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_ink_splatter_48
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 0
+        width: 155
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a0229fda32f8560800000000000000
+      internalID: 7318107149616417356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_ink_splatter_0: -690935047071189496
+      jp_ink_splatter_1: -7758159473155444619
+      jp_ink_splatter_10: -4207400224350540641
+      jp_ink_splatter_11: -2489442015686092164
+      jp_ink_splatter_12: 6987805693228673408
+      jp_ink_splatter_13: 9212399491905689462
+      jp_ink_splatter_14: 2926004139917284877
+      jp_ink_splatter_15: -8516523273007798972
+      jp_ink_splatter_16: -1532583517888779766
+      jp_ink_splatter_17: -5836151199445451036
+      jp_ink_splatter_18: 6941149367166260277
+      jp_ink_splatter_19: -3201255586518799247
+      jp_ink_splatter_2: 5421882018882984864
+      jp_ink_splatter_20: 2944735673214218739
+      jp_ink_splatter_21: 6639943239768766598
+      jp_ink_splatter_22: -4798359749845426353
+      jp_ink_splatter_23: -6482148976823362325
+      jp_ink_splatter_24: -8969165835521852647
+      jp_ink_splatter_25: -6429286729059956925
+      jp_ink_splatter_26: 6150669137182816168
+      jp_ink_splatter_27: 8318012677071205861
+      jp_ink_splatter_28: 6351548254229081238
+      jp_ink_splatter_29: -9212389636978906765
+      jp_ink_splatter_3: 8443499653751124467
+      jp_ink_splatter_30: 8000425184431600383
+      jp_ink_splatter_31: 4716512892320194573
+      jp_ink_splatter_32: -3113492373936322522
+      jp_ink_splatter_33: -5477043738782195054
+      jp_ink_splatter_34: 1354834942922312534
+      jp_ink_splatter_35: -7431571547126169076
+      jp_ink_splatter_36: 3776991554173063027
+      jp_ink_splatter_37: 8324614726119487060
+      jp_ink_splatter_38: -991977301378578240
+      jp_ink_splatter_39: 3921711010743176016
+      jp_ink_splatter_4: -254080628854925577
+      jp_ink_splatter_40: 2965008431253624570
+      jp_ink_splatter_41: 3417936040117394222
+      jp_ink_splatter_42: 4117623598993190687
+      jp_ink_splatter_43: 7561132453251354214
+      jp_ink_splatter_44: 4190016852173972676
+      jp_ink_splatter_45: -6671475200823922167
+      jp_ink_splatter_46: 2180241797574014604
+      jp_ink_splatter_47: 3597950750662185895
+      jp_ink_splatter_48: 7318107149616417356
+      jp_ink_splatter_5: 7415836050041751476
+      jp_ink_splatter_6: 387279784042541818
+      jp_ink_splatter_7: 7485253341813334228
+      jp_ink_splatter_8: 2014780460067693218
+      jp_ink_splatter_9: 3106929348019329413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

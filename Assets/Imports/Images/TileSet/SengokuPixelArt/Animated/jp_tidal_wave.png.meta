@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 57c92d20ba1a8354b86c8b6ed4f90090
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -917181819051680735
+    second: jp_tidal_wave_0
+  - first:
+      213: -1815383561809538826
+    second: jp_tidal_wave_1
+  - first:
+      213: 1976464099547112947
+    second: jp_tidal_wave_2
+  - first:
+      213: 4575300983050334399
+    second: jp_tidal_wave_3
+  - first:
+      213: -3530005082545303452
+    second: jp_tidal_wave_4
+  - first:
+      213: 5221846412859618559
+    second: jp_tidal_wave_5
+  - first:
+      213: -5281192966459273538
+    second: jp_tidal_wave_6
+  - first:
+      213: 4733108155323952138
+    second: jp_tidal_wave_7
+  - first:
+      213: -6467325843991760433
+    second: jp_tidal_wave_8
+  - first:
+      213: -6974423964978682444
+    second: jp_tidal_wave_9
+  - first:
+      213: 5075297242771535581
+    second: jp_tidal_wave_10
+  - first:
+      213: 8642040155243814316
+    second: jp_tidal_wave_11
+  - first:
+      213: 6453736850820353287
+    second: jp_tidal_wave_12
+  - first:
+      213: -5532813216364140813
+    second: jp_tidal_wave_13
+  - first:
+      213: 6385261727874234597
+    second: jp_tidal_wave_14
+  - first:
+      213: -3281401508058190065
+    second: jp_tidal_wave_15
+  - first:
+      213: -3944700519523035906
+    second: jp_tidal_wave_16
+  - first:
+      213: 6347775884624042641
+    second: jp_tidal_wave_17
+  - first:
+      213: -2635356526418326020
+    second: jp_tidal_wave_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jp_tidal_wave_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 260
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c5af8bef38543f0800000000000000
+      internalID: -917181819051680735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4
+        width: 223
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f05243d4467ec6e0800000000000000
+      internalID: -1815383561809538826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 5
+        width: 292
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f561d470afcd6b10800000000000000
+      internalID: 1976464099547112947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_3
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 5
+        width: 222
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0f53bc00cbe7f30800000000000000
+      internalID: 4575300983050334399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_4
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 4
+        width: 293
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46050978417e20fc0800000000000000
+      internalID: -3530005082545303452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_5
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 4
+        width: 225
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4352e55a9b77840800000000000000
+      internalID: 5221846412859618559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_6
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2
+        width: 261
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe47eb5afe65b6b0800000000000000
+      internalID: -5281192966459273538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_7
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2
+        width: 222
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca6994ac06fa140800000000000000
+      internalID: 4733108155323952138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_8
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 1
+        width: 225
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1fa2609617f36a0800000000000000
+      internalID: -6467325843991760433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_9
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2
+        width: 295
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5697e1b5ed53f90800000000000000
+      internalID: -6974423964978682444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_10
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1
+        width: 223
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6bae4c3f31f6640800000000000000
+      internalID: 5075297242771535581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_11
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 2
+        width: 226
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad18f3dbb1bee770800000000000000
+      internalID: 8642040155243814316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_12
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 0
+        width: 270
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dcef2f877409950800000000000000
+      internalID: 6453736850820353287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_13
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 0
+        width: 225
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6670e91bf7733b0800000000000000
+      internalID: -5532813216364140813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_14
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 0
+        width: 260
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e837dff5b10d9850800000000000000
+      internalID: 6385261727874234597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_15
+      rect:
+        serializedVersion: 2
+        x: 3856
+        y: 0
+        width: 224
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fa2cac6be1672d0800000000000000
+      internalID: -3281401508058190065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_16
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 0
+        width: 293
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4d78407cb9149c0800000000000000
+      internalID: -3944700519523035906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_17
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 0
+        width: 90
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a9eccf884d71850800000000000000
+      internalID: 6347775884624042641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jp_tidal_wave_18
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 0
+        width: 132
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd0452b3355d6bd0800000000000000
+      internalID: -2635356526418326020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jp_tidal_wave_0: -917181819051680735
+      jp_tidal_wave_1: -1815383561809538826
+      jp_tidal_wave_10: 5075297242771535581
+      jp_tidal_wave_11: 8642040155243814316
+      jp_tidal_wave_12: 6453736850820353287
+      jp_tidal_wave_13: -5532813216364140813
+      jp_tidal_wave_14: 6385261727874234597
+      jp_tidal_wave_15: -3281401508058190065
+      jp_tidal_wave_16: -3944700519523035906
+      jp_tidal_wave_17: 6347775884624042641
+      jp_tidal_wave_18: -2635356526418326020
+      jp_tidal_wave_2: 1976464099547112947
+      jp_tidal_wave_3: 4575300983050334399
+      jp_tidal_wave_4: -3530005082545303452
+      jp_tidal_wave_5: 5221846412859618559
+      jp_tidal_wave_6: -5281192966459273538
+      jp_tidal_wave_7: 4733108155323952138
+      jp_tidal_wave_8: -6467325843991760433
+      jp_tidal_wave_9: -6974423964978682444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
