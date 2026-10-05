@@ -59,9 +59,12 @@ public class PlayerCharacter : MonoBehaviour
 
     #region Jump 
     [Header("Jump")]
-    public float JumpForce { get; private set; } = 20f;
-    public float JumpInputBuffer { get; private set; } = 0.1f;
-    public float CoyoteTime { get; private set; } = 0.065f;
+    [SerializeField] private float _jumpForce  = 20f;
+    [SerializeField] private float _jumpInputBuffer = 0.1f;
+    [SerializeField] private float _coyoteTime  = 0.065f;
+    public float JumpForce => _jumpForce;
+    public float JumpInputBuffer => _jumpInputBuffer;
+    public float CoyoteTime => _coyoteTime;
     public Vector2 JumpDir { get; set; } = Vector2.zero;
     public float LastJumpInputTime { get; set; } = float.MinValue;
     public float LastGroundedTime { get; set; } = float.MinValue;
@@ -154,7 +157,6 @@ public class PlayerCharacter : MonoBehaviour
 
     private void FixedUpdate()
     {
-
         _data.Move = Vector2.zero;
         _data.Pos = _body.Position;
         int rayCount = _strategy.ProcessRayCast(_data, _hits, _filter);

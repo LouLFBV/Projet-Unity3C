@@ -523,27 +523,13 @@ MonoBehaviour:
   _skinWidth: 0.01
   _walkSpeed: 2000
   _runSpeed: 6000
-  groundDeceleration: 10000
-  groundAcceleration: 100
-  airAcceleration: 100
-  airDeceleration: 100
-  moveInput: {x: 0, y: 0}
-  acceleration: 0
   _fallingGravity: 15
   _risingingGravity: 25
-  jumpForce: 3500
-  jumpInputBuffer: 0.1
-  coyoteTime: 0.065
-  jumpDir: {x: 0, y: 0}
-  lastJumpInputTime: -3.4028235e+38
-  lastGroundedTime: -3.4028235e+38
-  canCoyoteJump: 0
+  _jumpForce: 3500
+  _jumpInputBuffer: 0.1
+  _coyoteTime: 0.065
   _castDistanceToWallJump: 0.3
-  wallJumpGravity: 5
-  canWallJump: 0
   _manaSystem: {fileID: 7927457315766396263}
-  costTP: 30
-  distanceToTP: 2
   _animatorPlayer: {fileID: 1976976269921042749}
 --- !u!114 &4496750156385597960
 MonoBehaviour:
