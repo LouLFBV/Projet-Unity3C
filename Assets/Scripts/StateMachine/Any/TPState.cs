@@ -13,26 +13,43 @@ class TPState : PlayerState
         if (!Character.ManaSystem.HasEnoughMana(Character.CostTP))
         {
             SetPopState(1);
-            //_stateMachine.PopState();
             return;
         }
 
-       ExecuteTP(); // Pour ne pas avoir l'animation
+        Time.timeScale = Character.TimeScaleInTP; // Ralentir le temps pour l'animation
 
-       // _tpTimer = Time.time;
-       //character.AnimatorPlayerScript.SetTPAnimation();
+        //ExecuteTP(); // Pour ne pas avoir l'animation
+
+        _tpTimer = Time.unscaledTime;
+        Character.TriggerStartTP();
     }
 
-    public override void Update() 
+    public override void Update()
     {
-        //if (Time.time - _tpTimer >= _tpAnimationDuration)
-        //{
-        //    ExecuteTP();
-        //}
+        if (!Character.ManaSystem.HasEnoughMana(Character.CostTP))
+        {
+            SetPopState(1);
+            return;
+        }
+        if (Character.IsCancelTP)
+        {
+            Character.TriggerTP();
+            SetPopState(1);
+            return;
+        }
+
+        if (Time.time - _tpTimer >= _tpAnimationDuration || !Character.IsInTP)
+        {
+            ExecuteTP();
+        }
+
     }
     public override void FixedUpdate() { }
 
-    public override void Exit() { }
+    public override void Exit()
+    {
+        Time.timeScale = 1f;
+    }
 
     //private void ExecuteTP()
     //{
@@ -73,7 +90,7 @@ class TPState : PlayerState
         Character.TriggerTP();
 
         SetPopState(1);
-        //_stateMachine.PopState();
+        Time.timeScale = 1f; 
     }
 
     //private void ProcessTeleportation(ref Vector2 deltaPosition)

@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LevelBlockout1.unity
     guid: 5f673c369d69ef9468f373f50476aea1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/LevelBlockout2.unity
     guid: c54b8602119ce1c40920770335dca89e
   m_configObjects:

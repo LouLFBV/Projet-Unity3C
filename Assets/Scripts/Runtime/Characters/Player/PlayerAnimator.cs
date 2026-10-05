@@ -17,6 +17,7 @@ public class PlayerAnimator : MonoBehaviour
 
         _playerCharacter.OnHurt += HandleHurt;
         _playerCharacter.OnJump += HandleJump;
+        _playerCharacter.OnStartTP += HandleStartTP;
         _playerCharacter.OnTP += HandleTP;
         _playerCharacter.OnAttack += HandleAttack;
     }
@@ -27,6 +28,7 @@ public class PlayerAnimator : MonoBehaviour
 
         _playerCharacter.OnHurt -= HandleHurt;
         _playerCharacter.OnJump -= HandleJump;
+        _playerCharacter.OnStartTP -= HandleStartTP;
         _playerCharacter.OnTP -= HandleTP;
         _playerCharacter.OnAttack -= HandleAttack;
     }
@@ -61,11 +63,15 @@ public class PlayerAnimator : MonoBehaviour
     private void HandleHurt() => _animator.SetTrigger(AnimatorHashes.Hurt);
     private void HandleJump() => _animator.SetTrigger(AnimatorHashes.Jump);
     private void HandleAttack() => _animator.SetTrigger(AnimatorHashes.Attack);
-    private void HandleTP()
+    private void HandleStartTP()
     {
         //if (IsTPing) return;
         //IsTPing = true;
-        //_animator.SetTrigger(AnimatorHashes.TP);
+       _animator.SetTrigger(AnimatorHashes.StartTP);
+    }
+    private void HandleTP()
+    {
+        _animator.SetTrigger(AnimatorHashes.TP);
     }
     #endregion
 }

@@ -88,11 +88,11 @@ public class TimerManager : MonoBehaviour
         if (PlayerPrefs.HasKey(recordKey))
         {
             float bestTime = PlayerPrefs.GetFloat(recordKey);
-            _recordText.text = $"Record: {FormatTime(bestTime)}";
+            _recordText.text = $"Record :\n {FormatTime(bestTime)}";
         }
         else
         {
-            _recordText.text = "Record: --:--.---";
+            _recordText.text = "Record :\n--:--.---";
         }
     }
 

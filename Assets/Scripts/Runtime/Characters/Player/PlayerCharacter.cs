@@ -1,5 +1,4 @@
 using System;
-using TMPro.EditorUtilities;
 using UnityEngine;
 
 public class PlayerCharacter : MonoBehaviour
@@ -93,9 +92,17 @@ public class PlayerCharacter : MonoBehaviour
     #region TP
     [Header("TP")]
     [SerializeField] private ManaSystem _manaSystem;
-    public float CostTP { get; private set; } = 30f;
-    public float DistanceTP { get; private set; } = 2f;
+    [SerializeField] private float _costTP = 30f;
+    [SerializeField] private float _distanceTP = 2f;
+    [SerializeField] private float _timeScaleInTP = 0.1f;
+    [SerializeField] private GameObject _TPZone;
+    public float CostTP => _costTP;
+    public float DistanceTP => _distanceTP;
     public ManaSystem ManaSystem => _manaSystem;
+    public bool IsInTP { get; set; } = false;
+    public bool IsCancelTP { get; set; } = false;
+    public float TimeScaleInTP => _timeScaleInTP;
+    public GameObject TPZone => _TPZone;
     #endregion
 
     #region Animator
@@ -111,6 +118,7 @@ public class PlayerCharacter : MonoBehaviour
     public event Action OnGround;
     public event Action OnJump;
     public event Action OnTP;
+    public event Action OnStartTP;
     public event Action OnHurt;
     public event Action OnAttack;
     #endregion
@@ -137,6 +145,15 @@ public class PlayerCharacter : MonoBehaviour
         _filter.useTriggers = false; 
         _filter.useLayerMask = true;
         _filter.layerMask = _groundLayer;
+
+        if (_TPZone == null)
+        {
+            Debug.LogWarning("TPZone is not assigned in the inspector.");
+        }
+        else
+        {
+            InitializeTPZone();
+        }
     }
 
     void Update()
@@ -192,16 +209,42 @@ public class PlayerCharacter : MonoBehaviour
         return _moveInput.x > 0 ? 1 : _moveInput.x < 0 ? -1 : 0;
     }
 
+    private void InitializeTPZone()
+    {
+        if (_TPZone != null)
+        {
+            _TPZone.SetActive(false);
+        }
+        _TPZone.transform.localScale = new Vector3((_distanceTP - 1) * 0.5f, (_distanceTP - 1) * 0.5f, _TPZone.transform.localScale.z);
+    }
+
     #region Input Methods
     public void Move(Vector2 moveInput) => _moveInput = moveInput;
     public void Jump() => LastJumpInputTime = Time.time;
     public void Sprint(bool isSprinting) => IsSprinting = isSprinting;
-    public void TP() => _playerStateMachine.CurrentState.SetPushState<TPState>();
+    public void TPEnter()
+    {
+        IsInTP = true;
+        _TPZone.SetActive(true);
+        _playerStateMachine.CurrentState.SetPushState<TPState>();
+    }
+    public void TPExit()
+    {
+        IsInTP = false;
+        _TPZone.SetActive(false);
+        IsCancelTP = false;
+    }
+    public void CancelTP()
+    {
+        _TPZone.SetActive(false);
+        IsCancelTP = true;
+    }
     #endregion
 
     #region Event Methods
     public void TriggerSprint() => OnSprint?.Invoke();
     public void TriggerTP() => OnTP?.Invoke();
+    public void TriggerStartTP() => OnStartTP?.Invoke();
     public void TriggerHurt() => OnHurt?.Invoke();
     public void TriggerJump() => OnJump?.Invoke();
     public void TriggerGround() => OnGround?.Invoke();

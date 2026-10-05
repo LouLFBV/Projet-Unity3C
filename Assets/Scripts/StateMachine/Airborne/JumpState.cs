@@ -17,7 +17,6 @@ class JumpState : AirboneState
         Character.Body.SetVelocity(newVelocity);
 
         Character.JumpDir = (Character.HitNormal + Vector2.up * 2).normalized;
-        Debug.Log($"Character.JumpDir * Character.JumpForce : {Character.JumpDir * Character.JumpForce}");
         Character.Body.AddForce(Character.JumpDir * Character.JumpForce,
         ForceType.Impulse);
 

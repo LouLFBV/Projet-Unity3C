@@ -134,7 +134,23 @@ public class PlayerController : Controller<PlayerCharacter>
         {
             // Teleport logic here
             Debug.Log("Teleporting...");
-            _controlledCharacter.TP();
+            _controlledCharacter.TPEnter();
+        }
+        if (ctx.canceled)
+        {
+            _controlledCharacter.TPExit();
+        }
+    }
+
+    public void ReceiveCancelTP(InputAction.CallbackContext ctx)
+    {
+        // Handle cancel teleport input here
+        Debug.Log("Cancel Teleport input received");
+        if (ctx.started)
+        {
+            // Cancel teleport logic here
+            Debug.Log("Canceling Teleport...");
+            _controlledCharacter.CancelTP();
         }
     }
 
@@ -142,10 +158,6 @@ public class PlayerController : Controller<PlayerCharacter>
     {
         movement.Move(_input);
     }
-    //private void Jump(PlayerCharacter movement)
-    //{
-    //    movement.Jump(_jump);
-    //}
 
     public void SetPlayerCharacter(PlayerCharacter playerCharacter)
     {

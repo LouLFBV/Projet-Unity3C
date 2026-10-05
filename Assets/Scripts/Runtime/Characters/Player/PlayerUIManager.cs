@@ -4,8 +4,9 @@ using UnityEngine.UI;
 public class PlayerUIManager : MonoBehaviour
 {
     [SerializeField] private ManaSystem _manaSystem;
-
     [SerializeField] private Image manaImage;
+
+    [SerializeField] private GameObject _pauseMenu;
     void OnEnable()
     {
         _manaSystem.OnManaChanged += UpdateManaBar;
