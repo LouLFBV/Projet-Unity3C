@@ -6,6 +6,7 @@ public class FlagTrigger : MonoBehaviour
     [SerializeField] private LayerMask _playerLayer;
     [SerializeField] private BoxCollider2D _triggerCollider;
     [SerializeField] private AudioClip _flagSound;
+    [SerializeField] private ParticleSystem _confetti;
 
     private bool _hasTriggered = false;
     private AudioSource _audioSource;
@@ -38,6 +39,11 @@ public class FlagTrigger : MonoBehaviour
                 _audioSource.PlayOneShot(_flagSound);
             }
             Debug.Log("Le joueur a franchi la ligne d'arrivée !");
+
+            if(_confetti != null)
+            {
+                _confetti.Play();
+            }
 
             if (TimerManager.Instance != null)
             {

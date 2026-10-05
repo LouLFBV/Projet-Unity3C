@@ -2,13 +2,14 @@
 
 class TPState : PlayerState
 {
-    private float _tpAnimationDuration = 1.483f; 
+    private float _tpAnimationDuration = 1.483f;
     private float _tpTimer = float.MinValue;
+
     public TPState(PlayerCharacter character) : base(character) { }
 
     public override void Enter()
     {
-        Debug.Log("<color=yellow>TPState Enter</color>");
+        Debug.Log("<color=yellow>[TPState]</color> Enter");
 
         if (!Character.ManaSystem.HasEnoughMana(Character.CostTP))
         {
@@ -16,71 +17,58 @@ class TPState : PlayerState
             return;
         }
 
-        Time.timeScale = Character.TimeScaleInTP; // Ralentir le temps pour l'animation
-
-        //ExecuteTP(); // Pour ne pas avoir l'animation
-
+        Time.timeScale = Character.TimeScaleInTP;
         _tpTimer = Time.unscaledTime;
+
+        // 1. CORRECTION : Afficher le fantôme à l'entrée de l'état
+        if (Character.SpriteGhost != null)
+        {
+            Character.SpriteGhost.SetActive(true);
+        }
+
         Character.TriggerStartTP();
     }
 
     public override void Update()
     {
-        if (!Character.ManaSystem.HasEnoughMana(Character.CostTP))
+        if (!Character.ManaSystem.HasEnoughMana(Character.CostTP) || Character.IsCancelTP)
         {
-            SetPopState(1);
-            return;
-        }
-        if (Character.IsCancelTP)
-        {
-            Character.TriggerTP();
+            if (Character.IsCancelTP) Character.TriggerTP();
             SetPopState(1);
             return;
         }
 
-        if (Time.time - _tpTimer >= _tpAnimationDuration || !Character.IsInTP)
+        UpdateGhostPosition();
+
+        bool timeOut = (Time.unscaledTime - _tpTimer) >= _tpAnimationDuration;
+        bool keyReleased = !Character.IsInTP;
+
+        if (timeOut || keyReleased)
         {
             ExecuteTP();
         }
-
     }
+
     public override void FixedUpdate() { }
 
     public override void Exit()
     {
+        // Masquer le fantôme à la sortie
+        if (Character.SpriteGhost != null)
+        {
+            Character.SpriteGhost.SetActive(false);
+        }
+
         Time.timeScale = 1f;
     }
 
-    //private void ExecuteTP()
-    //{
-    //    float tpDistance = _character.distanceToTP;
-    //    Vector2 deltaPosition = new Vector2(tpDistance * _character.FacingDirection, 0);
-
-    //    ProcessTeleportation(ref deltaPosition);
-
-    //    _character.transform.Translate(deltaPosition);
-
-    //    _character.AnimatorPlayerScript.isTPing = false;
-
-    //    _character.ManaSystem.ConsumeMana(_character.costTP);
-
-    //    _stateMachine.PopState();
-    //}
-
     private void ExecuteTP()
     {
-        float tpDistance = Character.DistanceTP;
-        Vector2 deltaPosition = new(tpDistance * Character.FacingDirection, 0);
+        Vector2 origin = Character.Body.Position;
+        Vector2 targetPosition = CalculateTargetPosition(origin);
+        Vector2 finalPosition = ResolveTeleportPosition(origin, targetPosition);
 
-        // Appliquer directement la nouvelle position sur le PhysicBody
-        Character.Body.SetPosition(Character.Body.Position + deltaPosition);
-
-        // Réinitialiser la vitesse
-        Character.Body.SetVelocity(Vector2.zero);
-
-        //    ProcessTeleportation(ref deltaPosition);
-        //    _character.transform.Translate(deltaPosition);
-        //    _character.AnimatorPlayerScript.isTPing = false;
+        Character.Body.SetPosition(finalPosition);
 
         if (Character.ManaSystem != null)
         {
@@ -88,35 +76,75 @@ class TPState : PlayerState
         }
 
         Character.TriggerTP();
-
         SetPopState(1);
-        Time.timeScale = 1f; 
     }
 
-    //private void ProcessTeleportation(ref Vector2 deltaPosition)
-    //{
-    //    if (deltaPosition.x != 0)
-    //    {
-    //        ProcessHorizontalCollisions(ref deltaPosition);
-    //    }
-    //}
+    private void UpdateGhostPosition()
+    {
+        if (Character.SpriteGhost == null) return;
 
-    //private void ProcessHorizontalCollisions(ref Vector2 deltaPosition)
-    //{
-    //    float directionX = Mathf.Sign(deltaPosition.x);
+        Vector2 origin = Character.Body.Position;
+        Vector2 targetPosition = CalculateTargetPosition(origin);
+        Vector2 finalPosition = ResolveTeleportPosition(origin, targetPosition);
 
-    //    RaycastHit2D hit = Physics2D.BoxCast(
-    //        _character.transform.position,
-    //        _character.Collider.size,
-    //        0,
-    //        Vector2.right * directionX,
-    //        Mathf.Abs(deltaPosition.x) + _character.SkinWidth,
-    //        _character.GroundLayer 
-    //    );
+        // Positionnement du fantôme
+        Character.SpriteGhost.transform.position = finalPosition;
 
-    //    if (hit)
-    //    {
-    //        deltaPosition.x = Mathf.Max(0, hit.distance - _character.SkinWidth) * directionX;
-    //    }
-    //}
+        // 2. AMÉLIORATION : Orienter le fantôme vers la position visée par la souris
+        if (Character.SpriteGhost.TryGetComponent<SpriteRenderer>(out var ghostSprite))
+        {
+            float aimDirectionX = targetPosition.x - origin.x;
+            if (Mathf.Abs(aimDirectionX) > 0.01f)
+            {
+                ghostSprite.flipX = aimDirectionX < 0;
+            }
+        }
+    }
+
+    // --- CALCULS DE TRAJECTOIRE ---
+
+    private Vector2 CalculateTargetPosition(Vector2 origin)
+    {
+        // Sécurité si Camera.main est introuvable
+        Camera cam = Camera.main ?? Object.FindFirstObjectByType<Camera>();
+        if (cam == null) return origin;
+
+        Vector3 mouseScreenPos = Input.mousePosition;
+        mouseScreenPos.z = Mathf.Abs(cam.transform.position.z - Character.transform.position.z);
+
+        Vector3 mouseWorldPos = cam.ScreenToWorldPoint(mouseScreenPos);
+        Vector2 cursorDirection = (Vector2)mouseWorldPos - origin;
+
+        if (cursorDirection.magnitude > Character.DistanceTP)
+        {
+            cursorDirection = cursorDirection.normalized * Character.DistanceTP;
+        }
+
+        return origin + cursorDirection;
+    }
+
+    private Vector2 ResolveTeleportPosition(Vector2 origin, Vector2 target)
+    {
+        Vector2 direction = target - origin;
+        float distance = direction.magnitude;
+
+        if (distance <= 0.05f) return origin;
+
+        direction.Normalize();
+        Vector2 boxSize = Character.Collider.size * 0.9f;
+
+        // 1. Zone dégagée
+        Collider2D overlap = Physics2D.OverlapBox(target, boxSize, 0f, Character.GroundLayer);
+        if (overlap == null) return target;
+
+        // 2. Obstacle rencontré
+        RaycastHit2D hit = Physics2D.BoxCast(origin, boxSize, 0f, direction, distance, Character.GroundLayer);
+        if (hit)
+        {
+            float safeDistance = Mathf.Max(0f, hit.distance - Character.SkinWidth);
+            return origin + direction * safeDistance;
+        }
+
+        return target;
+    }
 }

@@ -6,6 +6,7 @@ public class Checkpoint : MonoBehaviour
     [SerializeField] private BoxCollider2D _collider;
     [SerializeField] private Animator _animator;
     [SerializeField] private LayerMask _playerLayer;
+    [SerializeField] private ParticleSystem _brekParticleSystem;
 
     private bool _isAlreadyActivated = false;
     private AudioSource _audioSource;
@@ -48,6 +49,10 @@ public class Checkpoint : MonoBehaviour
         {
             GiveHisPosition();
             _isAlreadyActivated = true;
+            if (_brekParticleSystem != null)
+            {
+                _brekParticleSystem.Play();
+            }
             PlaySoundEffect();
             _animator.SetTrigger("Break");
             collider.collider.GetComponentInChildren<PlayerCharacter>().TriggerAttack();

@@ -96,6 +96,7 @@ public class PlayerCharacter : MonoBehaviour
     [SerializeField] private float _distanceTP = 2f;
     [SerializeField] private float _timeScaleInTP = 0.1f;
     [SerializeField] private GameObject _TPZone;
+    [SerializeField] private GameObject _spriteGhost;
     public float CostTP => _costTP;
     public float DistanceTP => _distanceTP;
     public ManaSystem ManaSystem => _manaSystem;
@@ -103,6 +104,7 @@ public class PlayerCharacter : MonoBehaviour
     public bool IsCancelTP { get; set; } = false;
     public float TimeScaleInTP => _timeScaleInTP;
     public GameObject TPZone => _TPZone;
+    public GameObject SpriteGhost => _spriteGhost;
     #endregion
 
     #region Animator
@@ -153,6 +155,15 @@ public class PlayerCharacter : MonoBehaviour
         else
         {
             InitializeTPZone();
+        }
+
+        if (_spriteGhost == null)
+        {
+            Debug.LogWarning("SpriteGhost is not assigned in the inspector.");
+        }
+        else
+        {
+            _spriteGhost.SetActive(false);
         }
     }
 
@@ -224,6 +235,10 @@ public class PlayerCharacter : MonoBehaviour
     public void Sprint(bool isSprinting) => IsSprinting = isSprinting;
     public void TPEnter()
     {
+        if(!_manaSystem.HasEnoughMana(_costTP))
+        {
+            return;
+        }
         IsInTP = true;
         _TPZone.SetActive(true);
         _playerStateMachine.CurrentState.SetPushState<TPState>();
