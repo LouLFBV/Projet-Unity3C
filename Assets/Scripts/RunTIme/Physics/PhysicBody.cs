@@ -104,7 +104,7 @@ public class PhysicBody : MonoBehaviour
 
     private float _inverseFixedDeltaTime = 0.0f;
 
-
+    public Vector2 FrameVelocity { private set; get; } = Vector2.zero;
 
     /// <summary>
     /// Gets the mass of the body in kilograms.
@@ -143,6 +143,7 @@ public class PhysicBody : MonoBehaviour
     /// <summary>
     /// Gets the current physics position of the body.
     /// </summary>
+    public Vector2 LastPosition => _lastPosition;
 
     public bool IsStatic => _massKg == 0;
     /// <summary>
@@ -195,7 +196,6 @@ public class PhysicBody : MonoBehaviour
     private void FixedUpdate()
     {
         _lastPosition = _position;
-
         if (IsStatic)
             return;
 
@@ -207,7 +207,10 @@ public class PhysicBody : MonoBehaviour
         {
             this.AddForce(-_dragCoefficient * Velocity.magnitude * Velocity.normalized, ForceType.Acceleration);
         }
-        _velocity += (_allForces / _massKg) * Time.fixedDeltaTime;
+        FrameVelocity = (_allForces / _massKg) * Time.fixedDeltaTime;
+
+        _velocity += FrameVelocity;
+
         _allForces = Vector2.zero;
 
         foreach(var action in Actions)
@@ -219,8 +222,8 @@ public class PhysicBody : MonoBehaviour
         if (_enableSolver && _solver)
             _solver.Dispatch();
 
+
         _position += _velocity * Time.fixedDeltaTime;
-        
     }
     /// <summary>
     /// Sets the mass of the body.
@@ -245,6 +248,11 @@ public class PhysicBody : MonoBehaviour
     public void SetPosition(Vector2 position)
     {
         _position = position;
+    }
+    public void Tp (Vector2 position)
+    {
+        _position = position;
+        _lastPosition = position;
     }
     /// <summary>
     /// Enables or disables position interpolation.

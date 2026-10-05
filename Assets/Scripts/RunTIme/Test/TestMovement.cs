@@ -91,8 +91,17 @@ private float _jumpTime = float.MinValue;
      
              _body.AddForce(Vector2.right* _input.x * _moveForce, ForceType.Force);
         }
+        {
+            Vector2 vel = _body.Velocity;
+            vel.y = 0;
+            //_body.AddForce(-0.75 * vel.magnitude * Velocity.normalized, ForceType.Acceleration);
+        }
+
         if ((Time.time - _jumpTime) < _jumpInterval  && hitNormal != Vector2.zero)
-        { 
+        {
+            Vector2 vel = _body.Velocity;
+            vel.y = 0;
+            _body.SetVelocity(vel);
             _jumpDir = (hitNormal + Vector2.up * 2  ).normalized;
             _body.AddForce(_jumpDir * _jumpForce,
             ForceType.Impulse);

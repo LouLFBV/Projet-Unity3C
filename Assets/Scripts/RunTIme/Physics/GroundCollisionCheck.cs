@@ -81,14 +81,13 @@ public class GroundCollisionCheck : CollisionCheck
             ResolveOverlap(rayCasts[minIndex].collider, ref move);
         else
             move = _body.Velocity.normalized  * minDist;
-        //_body.SetPosition(_body.Position + move);
 
         Vector2 velocity = move / Time.fixedDeltaTime;
         Vector2 remainingVelocity = _body.Velocity - velocity;
         float dot = Vector2.Dot(remainingVelocity, _minNormal);
         if (dot < 0)
         {
-            remainingVelocity -= _minNormal * dot;
+            remainingVelocity -= _minNormal * dot ;
         }
 
         _body.SetVelocity(velocity + remainingVelocity);
