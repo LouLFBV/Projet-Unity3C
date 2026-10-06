@@ -2317,6 +2317,14 @@ PrefabInstance:
       propertyPath: _playerControllerPrefab
       value: 
       objectReference: {fileID: 1313075325885061027, guid: ca509dcca5d5b584c8609dad69b1dc53, type: 3}
+    - target: {fileID: -1952158560611863918, guid: a3ff14c3a872801499f953825e27d912, type: 3}
+      propertyPath: _cinemachineCameras.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -1952158560611863918, guid: a3ff14c3a872801499f953825e27d912, type: 3}
+      propertyPath: '_cinemachineCameras.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1897157818}
     - target: {fileID: 4569211459152216468, guid: a3ff14c3a872801499f953825e27d912, type: 3}
       propertyPath: m_Name
       value: GameModeArthur

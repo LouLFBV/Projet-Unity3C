@@ -20,7 +20,6 @@ class TPState : PlayerState
         Time.timeScale = Character.TimeScaleInTP;
         _tpTimer = Time.unscaledTime;
 
-        // 1. CORRECTION : Afficher le fantôme à l'entrée de l'état
         if (Character.SpriteGhost != null)
         {
             Character.SpriteGhost.SetActive(true);

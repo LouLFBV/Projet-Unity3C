@@ -1,18 +1,18 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
 public class PlayerUIManager : MonoBehaviour
 {
+    [SerializeField] private PlayerInput _playerInput;
+
+    [Header("ManaSystem")]
     [SerializeField] private ManaSystem _manaSystem;
     [SerializeField] private Image manaImage;
 
     [Header("Pause Menu")]
     [SerializeField] private GameObject _pauseMenu;
     [SerializeField] private GameObject _optionsPanel;
-    [SerializeField] private Button _continueButtton;
-    [SerializeField] private Button _restartButtton;
-    [SerializeField] private Button _optionsButtton;
-    [SerializeField] private Button _menuButtton;
 
     void OnEnable()
     {
@@ -30,7 +30,10 @@ public class PlayerUIManager : MonoBehaviour
             _optionsPanel.SetActive(false);
         }
     }
-
+    public void SetPlayerInput(PlayerInput playerInput)
+    {
+        _playerInput = playerInput;
+    }
     private void UpdateManaBar()
     {
         if (_manaSystem != null && manaImage != null)
@@ -43,11 +46,12 @@ public class PlayerUIManager : MonoBehaviour
     public void OnClickContinueButton()
     {
         _pauseMenu.SetActive(false);
-        Time.timeScale = 1f; 
+        Time.timeScale = 1f;
+        _playerInput.SwitchCurrentActionMap("Player");
     }
     public void OnClickRestartButton()
     {
-        Time.timeScale = 1f; 
+        OnClickContinueButton();
         UnityEngine.SceneManagement.SceneManager.LoadScene(UnityEngine.SceneManagement.SceneManager.GetActiveScene().name);
     }
     public void OnClickOptionsButton()
@@ -56,7 +60,23 @@ public class PlayerUIManager : MonoBehaviour
     }
     public void OnClickMenuButton()
     {
-        Time.timeScale = 1f; 
+        OnClickContinueButton();
         UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
+    }
+
+    public void ToggleMenu()
+    {
+        if (_pauseMenu == null)
+        {
+            return;
+        }
+
+        bool willBeActive = !_pauseMenu.activeSelf;
+        Debug.Log($"Toggling menu. Will be active: {willBeActive}");
+        _pauseMenu.SetActive(willBeActive);
+        Time.timeScale = willBeActive ? 0f : 1f;
+
+        string mapName = willBeActive ? "UI" : "Player";
+        _playerInput?.SwitchCurrentActionMap(mapName);
     }
 }

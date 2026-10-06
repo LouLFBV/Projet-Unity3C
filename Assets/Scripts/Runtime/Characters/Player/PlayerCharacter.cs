@@ -1,11 +1,13 @@
 using System;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerCharacter : MonoBehaviour
 {
     #region Champs/Attributs
     public PlayerStateMachine PlayerStateMachine => _playerStateMachine;
     private PlayerStateMachine _playerStateMachine;
+    [SerializeField] private PlayerUIManager _playerUIManager;
 
     #region Physics 
     [Header("Physics")]
@@ -165,6 +167,11 @@ public class PlayerCharacter : MonoBehaviour
         {
             _spriteGhost.SetActive(false);
         }
+
+        if (_playerUIManager == null)
+        {
+            _playerUIManager = GetComponent<PlayerUIManager>();
+        }
     }
 
     void Update()
@@ -228,6 +235,13 @@ public class PlayerCharacter : MonoBehaviour
         }
         _TPZone.transform.localScale = new Vector3((_distanceTP - 1) * 0.5f, (_distanceTP - 1) * 0.5f, _TPZone.transform.localScale.z);
     }
+    public void InitializePlayerInputInPlayerUIManager(PlayerInput playerInput)
+    {
+        if (_playerUIManager != null)
+        {
+            _playerUIManager.SetPlayerInput(playerInput);
+        }
+    }
 
     #region Input Methods
     public void Move(Vector2 moveInput) => _moveInput = moveInput;
@@ -253,6 +267,14 @@ public class PlayerCharacter : MonoBehaviour
     {
         _TPZone.SetActive(false);
         IsCancelTP = true;
+    }
+
+    public void OpenCloseMenu()
+    {
+        if(_playerUIManager != null)
+        {
+            _playerUIManager.ToggleMenu();
+        }
     }
     #endregion
 

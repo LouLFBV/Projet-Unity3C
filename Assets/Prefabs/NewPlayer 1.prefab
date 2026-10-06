@@ -315,7 +315,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -501,7 +500,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!114 &3280236553207183438
 MonoBehaviour:
@@ -1060,7 +1059,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1798,6 +1796,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4699af04814c10e4cbd557bd982afc90, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerCharacter
+  _playerUIManager: {fileID: 1647930559576125769}
   _body: {fileID: 4496750156385597960}
   _strategy: {fileID: 3668530780165263128}
   _collider: {fileID: 687130720681233357}
@@ -1891,11 +1890,7 @@ MonoBehaviour:
   _manaSystem: {fileID: 7927457315766396263}
   manaImage: {fileID: 4728947306969398078}
   _pauseMenu: {fileID: 1775042963676858115}
-  _optionsPanel: {fileID: 0}
-  _continueButtton: {fileID: 0}
-  _restartButtton: {fileID: 0}
-  _optionsButtton: {fileID: 0}
-  _menuButtton: {fileID: 0}
+  _optionsPanel: {fileID: 3756216296974412194}
 --- !u!114 &3263928275076402152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2143,7 +2138,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -2280,7 +2274,6 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
-  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -2332,7 +2325,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6650199810314842004, guid: 3b7f2c753d435d647a80f1f047a113e3, type: 3}
       propertyPath: InitialModule.maxNumParticles
-      value: 100
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 6650199810314842004, guid: 3b7f2c753d435d647a80f1f047a113e3, type: 3}
       propertyPath: InitialModule.startSize.scalar

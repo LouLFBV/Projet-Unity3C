@@ -1,188 +1,135 @@
-using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.Windows;
-
-//public class PlayerController : MonoBehaviour
-//{
-//    [SerializeField] private PlayerInput playerInput;
-//    [SerializeField] private float moveSpeed;
-
-//    private float _moveX;
-//    private bool _isJumping;
-//    void Start()
-//    {
-//        if(playerInput == null)
-//        {
-//            playerInput = GetComponent<PlayerInput>();
-//        }
-//    }
-
-//    private void OnEnable()
-//    {
-//        playerInput.actions["Move"].performed += OnMove;
-//        playerInput.actions["Move"].canceled += OnMove;
-
-
-//        playerInput.actions["Jump"].performed += ctx => _isJumping = true;
-//        playerInput.actions["Jump"].canceled += ctx => _isJumping = false;
-//    }
-
-//    private void OnDisable()
-//    {
-//        playerInput.actions["Move"].performed -= OnMove;
-//        playerInput.actions["Move"].canceled -= OnMove;
-
-
-//        playerInput.actions["Jump"].performed -= ctx => _isJumping = true;
-//        playerInput.actions["Jump"].canceled -= ctx => _isJumping = false;
-//    }
-
-//    private void OnMove(InputAction.CallbackContext context)
-//    {
-//        Vector2 moveInput = context.ReadValue<Vector2>();
-//        _moveX = moveInput.x * moveSpeed * Time.deltaTime;
-//    }
-
-//    // Update is called once per frame
-//    void Update()
-//    {
-
-//    }
-
-//    private void FixedUpdate()
-//    {
-//        if (_moveX != 0)
-//        {
-//            transform.Translate(_moveX, 0, 0);
-//        }
-//        if (_isJumping)
-//        {
-//            // Handle jump logic here
-//            Debug.Log("Jumping...");
-//        }
-//    }
-//}
-
-
-#region VERSION PROF
 
 public class PlayerController : Controller<PlayerCharacter>
 {
-    //private PlayerCharacter _controlledCharacter;
+    [SerializeField] private PlayerInput _playerInput;
+
+    public PlayerInput PlayerInput => _playerInput;
 
     private Vector2 _input;
-    private float _jump;
+    private bool _isSprinting;
+
+    private void Awake()
+    {
+        if (_playerInput == null)
+        {
+            _playerInput = GetComponent<PlayerInput>();
+        }
+    }
+    protected override void Start()
+    {
+        _controllerPort.ExecuteAction(this, GivePlayerInput);
+    }
+    public void GivePlayerInput(PlayerCharacter character)
+    {
+        if (character != null)
+        {
+            character.InitializePlayerInputInPlayerUIManager(_playerInput);
+        }
+    }
+    #region --- INPUT EVENTS ---
+    private void OnEnable()
+    {
+        if (_playerInput == null) return;
+
+        _playerInput.actions["Move"].performed += ReceiveMoveInput;
+        _playerInput.actions["Move"].canceled += ReceiveMoveInput;
+
+        _playerInput.actions["Jump"].performed += ReceiveJumpInput;
+
+        _playerInput.actions["Sprint"].performed += ReceiveSprintInput;
+        _playerInput.actions["Sprint"].canceled += ReceiveSprintInput;
+
+        _playerInput.actions["TP"].performed += ReceiveTPInput;
+        _playerInput.actions["TP"].canceled += ReceiveTPInput;
+
+        _playerInput.actions["CancelTP"].performed += ReceiveCancelTP;
+
+        _playerInput.actions["Menu"].performed += ReceiveMenuInput;
+    }
+
+    private void OnDisable()
+    {
+        if (_playerInput == null) return;
+
+        _playerInput.actions["Move"].performed -= ReceiveMoveInput;
+        _playerInput.actions["Move"].canceled -= ReceiveMoveInput;
+
+        _playerInput.actions["Jump"].performed -= ReceiveJumpInput;
+
+        _playerInput.actions["Sprint"].performed -= ReceiveSprintInput;
+        _playerInput.actions["Sprint"].canceled -= ReceiveSprintInput;
+
+        _playerInput.actions["TP"].performed -= ReceiveTPInput;
+        _playerInput.actions["TP"].canceled -= ReceiveTPInput;
+
+        _playerInput.actions["CancelTP"].performed -= ReceiveCancelTP;
+
+        _playerInput.actions["Menu"].performed -= ReceiveMenuInput;
+    }
+    #endregion
+
+    #region --- INPUT RECEIVERS ---
     public void ReceiveMoveInput(InputAction.CallbackContext ctx)
     {
-        //Debug.Log($"ReceiveMoveInput: {ctx.ReadValue<Vector2>()}");
-         _input = ctx.ReadValue<Vector2>();
-       
-
-
+        _input = ctx.ReadValue<Vector2>();
         _controllerPort.ExecuteAction(this, Move);
     }
 
     public void ReceiveJumpInput(InputAction.CallbackContext ctx)
     {
-        //Debug.Log($"ReceiveJumpInput: {ctx.ReadValue<float>()}");
-        // Handle jump input here
-
-        if (ctx.started)
+        if (ctx.performed)
         {
-            // Jump start logic here
-            //Debug.Log("Jump started");
             _controllerPort.ExecuteAction(this, Jump);
-
-
-            _jump = ctx.ReadValue<float>();
-            //_controllerPort.ExecuteAction(this, Jump);
         }
     }
-    private void Jump(PlayerCharacter character)
-    {
-        character.Jump();
-    }   
-    bool _isSprinting = false;
+
     public void ReceiveSprintInput(InputAction.CallbackContext ctx)
     {
-        // Handle sprint input here
-        Debug.Log("Sprint input received");
-        if (ctx.started)
-        {
-            _isSprinting = true;
-            _controllerPort.ExecuteAction(this, Sprint);
+        if (ctx.performed) _isSprinting = true;
+        else if (ctx.canceled) _isSprinting = false;
 
-        }
-
-        if (ctx.canceled)
-        {
-            _isSprinting = false;
-            _controllerPort.ExecuteAction(this, Sprint);
-
-        }
-    }
-    private void Sprint(PlayerCharacter character)
-    {
-        character.Sprint(_isSprinting);
-    }
-
-    public void ReceiveMenuInput(InputAction.CallbackContext ctx)
-    {
-        // Handle menu input here
-        Debug.Log("Menu input received");
-        if (ctx.started)
-        {
-            // Open menu logic here
-            Debug.Log("Menu opened");
-        }
+        _controllerPort.ExecuteAction(this, Sprint);
     }
 
     public void ReceiveTPInput(InputAction.CallbackContext ctx)
     {
-        // Handle teleport input here
-        Debug.Log("Teleport input received");
-        if (ctx.started)
+        if (ctx.performed)
         {
-            // Teleport logic here
-            Debug.Log("Teleporting...");
             _controllerPort.ExecuteAction(this, TPEnter);
-
         }
-        if (ctx.canceled)
+        else if (ctx.canceled)
         {
             _controllerPort.ExecuteAction(this, TPExit);
         }
     }
-    private void TPEnter(PlayerCharacter character)
-    {
-        character.TPEnter();
-    }
-    private void TPExit(PlayerCharacter character)
-    {
-        character.TPExit();
-    }
+
     public void ReceiveCancelTP(InputAction.CallbackContext ctx)
     {
-        // Handle cancel teleport input here
-        Debug.Log("Cancel Teleport input received");
-        if (ctx.started)
+        if (ctx.performed)
         {
-            // Cancel teleport logic here
-            Debug.Log("Canceling Teleport...");
             _controllerPort.ExecuteAction(this, CancelTP);
-
         }
     }
-    private void CancelTP(PlayerCharacter character)
-    {
-        character.CancelTP();
-    }
 
-    private void Move(PlayerCharacter movement)
+    public void ReceiveMenuInput(InputAction.CallbackContext ctx)
     {
-        movement.Move(_input);
+        if (ctx.performed)
+        {
+            _controllerPort.ExecuteAction(this, Menu);
+        }
     }
+    #endregion
+
+    #region --- ACTIONS DU PERSONNAGE ---
+
+    private void Move(PlayerCharacter character) => character.Move(_input);
+    private void Jump(PlayerCharacter character) => character.Jump();
+    private void Sprint(PlayerCharacter character) => character.Sprint(_isSprinting);
+    private void TPEnter(PlayerCharacter character) => character.TPEnter();
+    private void TPExit(PlayerCharacter character) => character.TPExit();
+    private void CancelTP(PlayerCharacter character) => character.CancelTP();
+    private void Menu(PlayerCharacter character) => character.OpenCloseMenu();
+    #endregion
 }
-
-#endregion
