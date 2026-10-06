@@ -3,7 +3,7 @@ using UnityEngine;
 public class ParticuleManager : MonoBehaviour
 {
     [SerializeField] private ParticleSystem _jumpParticleSystem;
-    [SerializeField] private Transform _spawnPositionJumpParticule;
+    //[SerializeField] private Transform _spawnPositionJumpParticule;
     [SerializeField] private PlayerCharacter _playerCharacter;
 
     private void Awake()
@@ -40,10 +40,10 @@ public class ParticuleManager : MonoBehaviour
     {
         if (_jumpParticleSystem != null)
         {
-            if (_spawnPositionJumpParticule != null)
-            {
-                _jumpParticleSystem.transform.position = _spawnPositionJumpParticule.position;
-            }
+            //if (_spawnPositionJumpParticule != null)
+            //{
+            //    _jumpParticleSystem.transform.position = _spawnPositionJumpParticule.position;
+            //}
 
             _jumpParticleSystem.Play();
         }
