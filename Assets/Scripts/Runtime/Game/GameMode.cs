@@ -55,6 +55,7 @@ public class GameMode : MonoBehaviour
         if (playerController)
         {
             playerControllerPort.SetController(playerController);
+            playerController.SetController(playerControllerPort);
             playerControllerPort.SetObject(playerCharacter);
             transform = playerCharacter.transform;
 
@@ -62,6 +63,7 @@ public class GameMode : MonoBehaviour
         else
         {
             testControllerPort.SetController(testController);
+            testController.SetController(testControllerPort);
             testControllerPort.SetObject(testMovement);
             transform = testMovement.transform;
 

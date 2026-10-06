@@ -182,6 +182,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -838,6 +839,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1454,6 +1456,9 @@ GameObject:
   - component: {fileID: 8895516031387436719}
   - component: {fileID: 6019520143003791356}
   - component: {fileID: 574639561579733216}
+  - component: {fileID: 1679588904328313681}
+  - component: {fileID: 5942539678897715405}
+  - component: {fileID: 4258555038826734946}
   m_Layer: 7
   m_Name: NewPlayer 1
   m_TagString: Player
@@ -1643,6 +1648,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CollisionSolver
   _checks:
   - {fileID: 8895516031387436719}
+  - {fileID: 5942539678897715405}
+  - {fileID: 4258555038826734946}
 --- !u!114 &8895516031387436719
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1685,6 +1692,56 @@ MonoBehaviour:
   _jumpParticleSystem: {fileID: 7506214128987400862}
   _spawnPositionJumpParticule: {fileID: 0}
   _playerCharacter: {fileID: 3688742989628052496}
+--- !u!114 &1679588904328313681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8682556239004448390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad244015099f5ea4d830c65bd66d0c56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerControllerPort
+  _sender: {fileID: 0}
+--- !u!114 &5942539678897715405
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8682556239004448390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c28c75f433bec14a8164f27b251827a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RespawnCollisionCheck
+  _rayCount: 1
+  _strategy: {fileID: 3668530780165263128}
+  _layer:
+    serializedVersion: 2
+    m_Bits: 1024
+  _body: {fileID: 4496750156385597960}
+  _player: {fileID: 3688742989628052496}
+--- !u!114 &4258555038826734946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8682556239004448390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 233a78de4da5e0145aab0adeac343eda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CameraCollisionCheck
+  _rayCount: 1
+  _strategy: {fileID: 3668530780165263128}
+  _layer:
+    serializedVersion: 2
+    m_Bits: 256
+  _body: {fileID: 4496750156385597960}
 --- !u!1 &8729472879040380471
 GameObject:
   m_ObjectHideFlags: 0
@@ -1825,6 +1882,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
@@ -1961,6 +2019,7 @@ MonoBehaviour:
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
+  m_characterHorizontalScale: 1
   m_wordSpacing: 0
   m_lineSpacing: 0
   m_lineSpacingMax: 0
