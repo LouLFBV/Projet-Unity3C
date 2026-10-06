@@ -41,14 +41,24 @@ public class TrapSpike : MonoBehaviour
                 _playerLayer
             );
 
-            if (hit != null && hit.TryGetComponent<PlayerCharacter>(out var playerCharacter))
+            if(hit)
             {
-                if (playerCharacter.PlayerStateMachine.CurrentState is not DeathState)
+                if(hit.TryGetComponent<PlayerCharacter>(out var playerCharacter))
                 {
-                    playerCharacter.PlayerStateMachine.CurrentState.SetNextState<DeathState>(true);
+                    if (playerCharacter.PlayerStateMachine.CurrentState is not DeathState)
+                    {
+                        playerCharacter.PlayerStateMachine.CurrentState.SetNextState<DeathState>(true);
+                        _isAttacking = false;
+                    }
+                }
+                else if (hit.TryGetComponent<TestMovement>(out var testMovement))
+                {
+                    CheckpointManager.Instance.RespawnPlayer(Vector2.zero);
                     _isAttacking = false;
                 }
+
             }
+          
         }
 
         if (!_isAutomatic)

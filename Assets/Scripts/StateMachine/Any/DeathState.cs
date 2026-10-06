@@ -6,7 +6,7 @@ class DeathState : PlayerState
     {
         Debug.Log("<color=red>Le joueur est mort, réapparition au dernier checkpoint !</color>");
         Character.TriggerHurt();
-        CheckpointManager.Instance.RespawnPlayer(Character);
+        CheckpointManager.Instance.RespawnPlayer();
         Character.ManaSystem.ResetMana();
         SetNextState<IdleState>();
     }

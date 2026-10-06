@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 [RequireComponent(typeof(AudioSource))]
@@ -44,18 +45,22 @@ public class Checkpoint : MonoBehaviour
             _playerLayer
             );
 
-        if (collider && collider.collider.CompareTag("Player"))
-        {
+        if (!collider)
+            return;
+      
             GiveHisPosition();
-            _isAlreadyActivated = true;
-            PlaySoundEffect();
-            _animator.SetTrigger("Break");
-            collider.collider.GetComponentInChildren<PlayerCharacter>().TriggerAttack();
-        }
+        _isAlreadyActivated = true;
+        PlaySoundEffect();
+        _animator.SetTrigger("Break");
+    
+
+        collider.collider.GetComponentInChildren<PlayerCharacter>()?.TriggerAttack();
+
     }
 
     public void GiveHisPosition()
     {
+       
         CheckpointManager.Instance.SetCheckpoint(transform.position);
         Debug.Log("Checkpoint activated at position: " + transform.position);
     }

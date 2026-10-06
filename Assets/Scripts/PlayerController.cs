@@ -146,11 +146,6 @@ public class PlayerController : Controller<PlayerCharacter>
     //{
     //    movement.Jump(_jump);
     //}
-
-    public void SetPlayerCharacter(PlayerCharacter playerCharacter)
-    {
-        _controlledCharacter = playerCharacter;
-    }
 }
 
 #endregion
