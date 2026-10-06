@@ -1262,7 +1262,6 @@ GameObject:
   m_Component:
   - component: {fileID: 704916609}
   - component: {fileID: 704916608}
-  - component: {fileID: 704916607}
   - component: {fileID: 704916606}
   - component: {fileID: 704916610}
   m_Layer: 0
@@ -1316,14 +1315,6 @@ MonoBehaviour:
     m_VarianceClampScale: 0.9
     m_ContrastAdaptiveSharpening: 0
   m_Version: 2
---- !u!81 &704916607
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 704916605}
-  m_Enabled: 1
 --- !u!20 &704916608
 Camera:
   m_ObjectHideFlags: 0
@@ -5809,8 +5800,8 @@ MonoBehaviour:
   _timerManagerPrefab: {fileID: 0}
   _checkpointManagerPrefab: {fileID: 8872153240250127124, guid: 471718e516fe6664784b344fdf200f29, type: 3}
   _audioManagerPrefab: {fileID: 0}
-  _playerControllerPrefab: {fileID: 1514420250430175379, guid: e94d86224432aa644844d672093a19fe, type: 3}
-  _playerCharacterPrefab: {fileID: 1514420250430175379, guid: e94d86224432aa644844d672093a19fe, type: 3}
+  _playerControllerPrefab: {fileID: 1313075325885061027, guid: ca509dcca5d5b584c8609dad69b1dc53, type: 3}
+  _playerCharacterPrefab: {fileID: 8682556239004448390, guid: 3eafeae982fe0ee4883cf8d835ea4c8a, type: 3}
   _musicClip: {fileID: 0}
   _spawnPoint: {fileID: 993994843}
 --- !u!1 &1782380444

@@ -69,7 +69,7 @@ using UnityEngine.Windows;
 
 public class PlayerController : Controller<PlayerCharacter>
 {
-    private PlayerCharacter _controlledCharacter;
+    //private PlayerCharacter _controlledCharacter;
 
     private Vector2 _input;
     private float _jump;
@@ -77,7 +77,7 @@ public class PlayerController : Controller<PlayerCharacter>
     {
         //Debug.Log($"ReceiveMoveInput: {ctx.ReadValue<Vector2>()}");
          _input = ctx.ReadValue<Vector2>();
-        _controlledCharacter.Move(_input);
+       
 
 
         _controllerPort.ExecuteAction(this, Move);
@@ -92,27 +92,39 @@ public class PlayerController : Controller<PlayerCharacter>
         {
             // Jump start logic here
             //Debug.Log("Jump started");
-            _controlledCharacter.Jump();
+            _controllerPort.ExecuteAction(this, Jump);
 
 
             _jump = ctx.ReadValue<float>();
             //_controllerPort.ExecuteAction(this, Jump);
         }
     }
-
+    private void Jump(PlayerCharacter character)
+    {
+        character.Jump();
+    }   
+    bool _isSprinting = false;
     public void ReceiveSprintInput(InputAction.CallbackContext ctx)
     {
         // Handle sprint input here
         Debug.Log("Sprint input received");
         if (ctx.started)
         {
-            _controlledCharacter.Sprint(true);
+            _isSprinting = true;
+            _controllerPort.ExecuteAction(this, Sprint);
+
         }
 
         if (ctx.canceled)
         {
-            _controlledCharacter.Sprint(false);
+            _isSprinting = false;
+            _controllerPort.ExecuteAction(this, Sprint);
+
         }
+    }
+    private void Sprint(PlayerCharacter character)
+    {
+        character.Sprint(_isSprinting);
     }
 
     public void ReceiveMenuInput(InputAction.CallbackContext ctx)
@@ -134,14 +146,22 @@ public class PlayerController : Controller<PlayerCharacter>
         {
             // Teleport logic here
             Debug.Log("Teleporting...");
-            _controlledCharacter.TPEnter();
+            _controllerPort.ExecuteAction(this, TPEnter);
+
         }
         if (ctx.canceled)
         {
-            _controlledCharacter.TPExit();
+            _controllerPort.ExecuteAction(this, TPExit);
         }
     }
-
+    private void TPEnter(PlayerCharacter character)
+    {
+        character.TPEnter();
+    }
+    private void TPExit(PlayerCharacter character)
+    {
+        character.TPExit();
+    }
     public void ReceiveCancelTP(InputAction.CallbackContext ctx)
     {
         // Handle cancel teleport input here
@@ -150,18 +170,18 @@ public class PlayerController : Controller<PlayerCharacter>
         {
             // Cancel teleport logic here
             Debug.Log("Canceling Teleport...");
-            _controlledCharacter.CancelTP();
+            _controllerPort.ExecuteAction(this, CancelTP);
+
         }
+    }
+    private void CancelTP(PlayerCharacter character)
+    {
+        character.CancelTP();
     }
 
     private void Move(PlayerCharacter movement)
     {
         movement.Move(_input);
-    }
-
-    public void SetPlayerCharacter(PlayerCharacter playerCharacter)
-    {
-        _controlledCharacter = playerCharacter;
     }
 }
 

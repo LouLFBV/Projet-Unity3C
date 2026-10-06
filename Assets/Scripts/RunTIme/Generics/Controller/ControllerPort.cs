@@ -28,8 +28,7 @@ public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
     {
         if (!_object)
             _object = gameObject.GetComponent<T>();
-        if (!_object)
-
+       
         if (!_object)
             Debug.LogError("no object found please set it manualy");
     }

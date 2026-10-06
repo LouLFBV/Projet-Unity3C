@@ -18,11 +18,15 @@ public class Controller<T> : MonoBehaviour where T : MonoBehaviour
     /// Initializes the controller port by retrieving it from the current GameObject
     /// when it has not already been assigned.
     /// </summary>
-    virtual protected void Awake()
+    virtual protected void Start()
     {
         if (!_controllerPort)
             _controllerPort = gameObject.GetComponent<ControllerPort<T>>();
         if (!_controllerPort)
             Debug.LogError("no controllerPort<T> found please set it manualy");
+    }
+    public void SetController(ControllerPort<T> controllerPort)
+    {
+        _controllerPort = controllerPort;
     }
 }
