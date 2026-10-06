@@ -8,6 +8,7 @@ class WallSlideState : AirboneState
     {
         base.Enter();
         Character.CanWallJump = true;
+        Character.TriggerGround();
     }
     public override void Update()
     {

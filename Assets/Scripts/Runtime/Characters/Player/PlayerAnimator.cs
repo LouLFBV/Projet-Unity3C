@@ -19,6 +19,7 @@ public class PlayerAnimator : MonoBehaviour
         _playerCharacter.OnJump += HandleJump;
         _playerCharacter.OnStartTP += HandleStartTP;
         _playerCharacter.OnTP += HandleTP;
+        _playerCharacter.OnCancelTP += HandleCancelTP;
         _playerCharacter.OnAttack += HandleAttack;
     }
 
@@ -30,6 +31,7 @@ public class PlayerAnimator : MonoBehaviour
         _playerCharacter.OnJump -= HandleJump;
         _playerCharacter.OnStartTP -= HandleStartTP;
         _playerCharacter.OnTP -= HandleTP;
+        _playerCharacter.OnCancelTP -= HandleCancelTP;
         _playerCharacter.OnAttack -= HandleAttack;
     }
     #endregion
@@ -72,6 +74,10 @@ public class PlayerAnimator : MonoBehaviour
     private void HandleTP()
     {
         _animator.SetTrigger(AnimatorHashes.TP);
+    }
+    private void HandleCancelTP()
+    {
+        _animator.SetTrigger(AnimatorHashes.CancelTP);
     }
     #endregion
 }

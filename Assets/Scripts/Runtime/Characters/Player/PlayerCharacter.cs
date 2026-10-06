@@ -98,6 +98,7 @@ public class PlayerCharacter : MonoBehaviour
     [SerializeField] private float _distanceTP = 2f;
     [SerializeField] private float _timeScaleInTP = 0.1f;
     [SerializeField] private GameObject _TPZone;
+    [SerializeField] private GameObject _TPZoneTimer;
     [SerializeField] private GameObject _spriteGhost;
     public float CostTP => _costTP;
     public float DistanceTP => _distanceTP;
@@ -106,6 +107,7 @@ public class PlayerCharacter : MonoBehaviour
     public bool IsCancelTP { get; set; } = false;
     public float TimeScaleInTP => _timeScaleInTP;
     public GameObject TPZone => _TPZone;
+    public GameObject TPZoneTimer => _TPZoneTimer;
     public GameObject SpriteGhost => _spriteGhost;
     #endregion
 
@@ -123,6 +125,7 @@ public class PlayerCharacter : MonoBehaviour
     public event Action OnJump;
     public event Action OnTP;
     public event Action OnStartTP;
+    public event Action OnCancelTP;
     public event Action OnHurt;
     public event Action OnAttack;
     #endregion
@@ -233,6 +236,10 @@ public class PlayerCharacter : MonoBehaviour
         {
             _TPZone.SetActive(false);
         }
+        if (_TPZoneTimer != null)
+        {
+            _TPZoneTimer.SetActive(false);
+        }
         _TPZone.transform.localScale = new Vector3((_distanceTP - 1) * 0.5f, (_distanceTP - 1) * 0.5f, _TPZone.transform.localScale.z);
     }
     public void InitializePlayerInputInPlayerUIManager(PlayerInput playerInput)
@@ -255,17 +262,20 @@ public class PlayerCharacter : MonoBehaviour
         }
         IsInTP = true;
         _TPZone.SetActive(true);
+        _TPZoneTimer.SetActive(true);
         _playerStateMachine.CurrentState.SetPushState<TPState>();
     }
     public void TPExit()
     {
         IsInTP = false;
         _TPZone.SetActive(false);
+        _TPZoneTimer.SetActive(false);
         IsCancelTP = false;
     }
     public void CancelTP()
     {
         _TPZone.SetActive(false);
+        _TPZoneTimer.SetActive(false);
         IsCancelTP = true;
     }
 
@@ -281,6 +291,7 @@ public class PlayerCharacter : MonoBehaviour
     #region Event Methods
     public void TriggerSprint() => OnSprint?.Invoke();
     public void TriggerTP() => OnTP?.Invoke();
+    public void TriggerCancelTP() => OnCancelTP?.Invoke();
     public void TriggerStartTP() => OnStartTP?.Invoke();
     public void TriggerHurt() => OnHurt?.Invoke();
     public void TriggerJump() => OnJump?.Invoke();

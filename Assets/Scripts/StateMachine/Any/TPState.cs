@@ -32,12 +32,16 @@ class TPState : PlayerState
     {
         if (!Character.ManaSystem.HasEnoughMana(Character.CostTP) || Character.IsCancelTP)
         {
-            if (Character.IsCancelTP) Character.TriggerTP();
+            if (Character.IsCancelTP)
+            {
+                Character.TriggerCancelTP();
+            }
             SetPopState(1);
             return;
         }
 
-        UpdateGhostPosition();
+        UpdateGhostPosition(); 
+        UpdateTPZoneTimer();
 
         bool timeOut = (Time.unscaledTime - _tpTimer) >= _tpAnimationDuration;
         bool keyReleased = !Character.IsInTP;
@@ -52,10 +56,14 @@ class TPState : PlayerState
 
     public override void Exit()
     {
-        // Masquer le fantôme à la sortie
         if (Character.SpriteGhost != null)
         {
             Character.SpriteGhost.SetActive(false);
+        }
+        if (Character.TPZoneTimer != null)
+        {
+            Character.TPZoneTimer.transform.localScale = Character.TPZone.transform.localScale;
+            Character.TPZoneTimer.SetActive(false);
         }
 
         Time.timeScale = 1f;
@@ -89,7 +97,7 @@ class TPState : PlayerState
         // Positionnement du fantôme
         Character.SpriteGhost.transform.position = finalPosition;
 
-        // 2. AMÉLIORATION : Orienter le fantôme vers la position visée par la souris
+        //  Orienter le fantôme vers la position visée par la souris
         if (Character.SpriteGhost.TryGetComponent<SpriteRenderer>(out var ghostSprite))
         {
             float aimDirectionX = targetPosition.x - origin.x;
@@ -100,7 +108,26 @@ class TPState : PlayerState
         }
     }
 
-    // --- CALCULS DE TRAJECTOIRE ---
+    private void UpdateTPZoneTimer()
+    {
+        if (Character.TPZoneTimer == null) return;
+
+        // Temps écoulé ramené entre 0 et 1
+        float elapsedTime = Time.unscaledTime - _tpTimer;
+        float progress = Mathf.Clamp01(elapsedTime / _tpAnimationDuration);
+
+        // Inversion pour réduire de 1 (taille normale) jusqu'à 0 (disparition)
+        float scaleRatio = 1f - progress;
+
+        // Scale de référence (prend la taille de TPZone ou Vector3.one par défaut)
+        Vector3 baseScale = Character.TPZone != null
+            ? Character.TPZone.transform.localScale
+            : Vector3.one;
+
+        Character.TPZoneTimer.transform.localScale = baseScale * scaleRatio;
+    }
+
+    #region --- CALCULS DE TRAJECTOIRE ---
 
     private Vector2 CalculateTargetPosition(Vector2 origin)
     {
@@ -146,4 +173,5 @@ class TPState : PlayerState
 
         return target;
     }
+    #endregion
 }

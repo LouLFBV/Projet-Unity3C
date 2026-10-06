@@ -19,7 +19,10 @@ class AirboneState : PlayerState
         }
     }
     public override void FixedUpdate() { }
-    public override void Exit() { }
+    public override void Exit() 
+    {
+        Character.TriggerGround();
+    }
     protected void ProcessWallSlide() 
     {
         RaycastHit2D hit = Physics2D.BoxCast(

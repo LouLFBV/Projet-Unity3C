@@ -5,8 +5,6 @@ class GroundedState : PlayerState
     public override void Enter()
     {
         base.Enter();
-        //Character.AnimatorPlayerScript.SetIsGrounded(true);
-        Character.TriggerGround();
 
         Character.CurrentDeceleration = Character.GroundDeceleration;
         Character.CurrentAcceleration = Character.GroundAcceleration;

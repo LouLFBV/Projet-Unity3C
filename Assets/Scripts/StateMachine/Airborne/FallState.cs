@@ -27,5 +27,8 @@ class FallState : AirboneState
         }
     }
     public override void FixedUpdate() { }
-    public override void Exit() { }
+    public override void Exit()
+    {
+        base.Exit();
+    }
 }
