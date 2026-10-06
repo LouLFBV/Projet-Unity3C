@@ -30,7 +30,7 @@ public class TestMovement : MonoBehaviour
     {
         _data.Move = Vector2.zero;
         _data.Pos = _body.Position;
-        int rayCount = _strategy.ProcessRayCast(_data,_hits,_filter);
+        int rayCount = _strategy.ProcessRayCast(_data,_hits,_filter);   
 
         Vector2 hitNormal = Vector2.zero;
         for(int i = 0; i < rayCount; i++)

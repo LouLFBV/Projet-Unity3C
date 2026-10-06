@@ -1,9 +1,10 @@
+using System.Collections.Generic;
 using Unity.Cinemachine;
 using UnityEngine;
 
 public class GameMode : MonoBehaviour
 {
-    [SerializeField] private CinemachineCamera _cinemachineCamera;
+    [SerializeField] private List<CinemachineCamera> _cinemachineCameras;
 
     [SerializeField] private GameObject _timerManagerPrefab;
 
@@ -21,38 +22,89 @@ public class GameMode : MonoBehaviour
     [SerializeField] private Transform _spawnPoint;
     private void Awake()
     {
+        // controller
+        // 
+
+        if (!_playerControllerPrefab)
+            Debug.LogError("PlayerControllerPrefab is not assigned in GameMode");
+        if (!_playerCharacterPrefab)
+            Debug.LogError("PlayerCharacterPrefab is not assigned in GameMode");
+
+
+
         GameObject playerControllerObj = Instantiate(_playerControllerPrefab, _spawnPoint.position, Quaternion.identity);
+        GameObject playerCharacterObj = null;
+        if (_playerCharacterPrefab == _playerControllerPrefab)
+            playerCharacterObj = playerControllerObj;
+        else
+            playerCharacterObj = Instantiate(_playerCharacterPrefab, _spawnPoint.position, Quaternion.identity);
+
 
         PlayerController playerController = playerControllerObj.GetComponent<PlayerController>();
-        PlayerControllerPort playerControllerPort = playerControllerObj.GetComponent<PlayerControllerPort>();
-
-        playerControllerPort.SetController(playerController);
+        TestController testController = playerControllerObj.GetComponent<TestController>();
 
 
-        GameObject playerCharacterObj = Instantiate(_playerCharacterPrefab, _spawnPoint.position, Quaternion.identity);
+        PlayerControllerPort playerControllerPort = playerCharacterObj.GetComponent<PlayerControllerPort>();
+        TestControllerPort testControllerPort = playerCharacterObj.GetComponent<TestControllerPort>();
+
         PlayerCharacter playerCharacter = playerCharacterObj.GetComponent<PlayerCharacter>();
+        TestMovement testMovement = playerCharacterObj.GetComponent<TestMovement>();
 
-        playerControllerPort.SetObject(playerCharacter);
-        playerController.SetPlayerCharacter(playerCharacter);
+        Transform transform = null;
+
+        if (playerController)
+        {
+            playerControllerPort.SetController(playerController);
+            playerControllerPort.SetObject(playerCharacter);
+            transform = playerCharacter.transform;
+
+        }
+        else
+        {
+            testControllerPort.SetController(testController);
+            testControllerPort.SetObject(testMovement);
+            transform = testMovement.transform;
 
 
 
-        _cinemachineCamera.Follow = playerCharacter.transform;
+        }
+
+        foreach (var cam in _cinemachineCameras)
+            cam.Follow = transform;
+
+        if (_checkpointManagerPrefab)
+        {
+            GameObject checkpointManagerObj = Instantiate(_checkpointManagerPrefab);
+            CheckpointManager manager = checkpointManagerObj.GetComponent<CheckpointManager>();
+            manager.SetCheckpoint(_spawnPoint.position);
+
+            manager.SetBody(playerCharacterObj.GetComponent<PhysicBody>());
+            manager.RespawnPlayer();
+        }
 
 
 
-        GameObject timerManagerObj = Instantiate(_timerManagerPrefab);
 
-        GameObject checkpointManagerObj = Instantiate(_checkpointManagerPrefab);
-        checkpointManagerObj.GetComponent<CheckpointManager>().SetCheckpoint(_spawnPoint.position);
-
+        if (_timerManagerPrefab)
+            Instantiate(_timerManagerPrefab);
 
 
+        if (_audioManagerPrefab)
+        {
+            GameObject audioManagerObj = Instantiate(_audioManagerPrefab);
+            AudioManager audioManager = audioManagerObj.GetComponent<AudioManager>();
+            audioManager.SetPlayerCharacter(playerCharacter);
+            if (_musicClip)
+            {
+                audioManager.SetMusicClip(_musicClip);
+            }
+        }
 
-        GameObject audioManagerObj = Instantiate(_audioManagerPrefab);
-        AudioManager audioManager = audioManagerObj.GetComponent<AudioManager>();
-        audioManager.SetPlayerCharacter(playerCharacter);
-        audioManager.SetMusicClip(_musicClip);
+
+
+
+
+
     }
 
 }

@@ -21,7 +21,7 @@ public class SingletonMonoObject<T> : MonoBehaviour where T: SingletonMonoObject
 
     protected virtual void Awake()
     {
-        if(!_instance && _instance != this)
+        if(_instance && _instance != this)
         {
             Destroy(gameObject);
             return;

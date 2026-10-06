@@ -1,29 +1,38 @@
 using UnityEngine;
 using UnityEngine.TextCore.Text;
 
-public class CheckpointManager : MonoBehaviour
+public class CheckpointManager : SingletonMonoObject<CheckpointManager>
 {
-    public static CheckpointManager Instance { get; private set; }
     private Vector3 _currentSpawnPosition;
-    void Awake()
+    private PhysicBody _body;
+    private void Awake()
     {
-        if (Instance != null && Instance != this)
-        {
-            Destroy(this.gameObject);
-        }
-        else
-        {
-            Instance = this;
-        }
+        base.Awake();
+        _currentSpawnPosition = Vector3.zero;
     }
-
     public void SetCheckpoint(Vector3 newPosition)
     {
-        _currentSpawnPosition = newPosition;
+      _currentSpawnPosition = newPosition;
+    }
+    public void SetBody(PhysicBody body)
+    {
+        _body = body;
     }
 
-    public void RespawnPlayer(PlayerCharacter player)
+    public void RespawnPlayer()
     {
-        player.Body.SetPosition(_currentSpawnPosition);
+        if(!_body)
+            return;
+
+        _body.Tp(_currentSpawnPosition);
+        //body.SetVelocity(Vector2.zero);
+    }
+    public void RespawnPlayer(Vector2 velocity)
+    {
+        if (!_body)
+            return;
+
+        _body.Tp(_currentSpawnPosition);
+        _body.SetVelocity(velocity);
     }
 }

@@ -7,27 +7,37 @@ public class MovingPlatform : MonoBehaviour
     [SerializeField] private float _moveSpeed = 5.0f;
     [SerializeField] private float _maxDist = 5f;
     private Vector2 _startPos;
+    private float _lastMoveSpeed = 0.0f;
+
+ 
     private void Start()
     {
+        _lastMoveSpeed = _moveSpeed;
         _startPos = _body.Position;
-        _body.AddForce(_moveDirection * _moveSpeed, ForceType.Acceleration);
-
+        _moveDirection.Normalize();
+        _body.SetVelocity(_moveDirection * _moveSpeed);
     }
     private void FixedUpdate()
     {
+        if(_lastMoveSpeed != _moveSpeed)
+        {
+            _lastMoveSpeed = _moveSpeed;
+            _body.SetVelocity(_moveDirection * _moveSpeed);
+        }
 
-        Debug.Log($"Velocity: {_body.Velocity}");
         _body.Actions.Add(() =>
         {
-            Vector2 newPos = _body.Velocity * Time.fixedDeltaTime + _body.Position;
-            float distance = Vector2.Distance(_startPos, newPos);
+            Vector2 newPos = _body.Position + _body.Velocity * Time.fixedDeltaTime;
+            Vector2 offset = newPos - _startPos;
+            float distance = offset.magnitude;
+
             if (distance > _maxDist)
             {
                 float delta = distance - _maxDist;
-
-                _body.SetVelocity(-_body.Velocity.normalized * (delta / Time.fixedDeltaTime));
+                _body.SetPosition(_startPos + _moveDirection * _maxDist);
                 _moveDirection = -_moveDirection;
-                _body.AddForce(_moveDirection * _moveSpeed, ForceType.Acceleration);
+                _body.SetVelocity(_moveDirection * _moveSpeed);
+                _startPos = _startPos + (-_moveDirection) * _maxDist;
 
             }
         });
