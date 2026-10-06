@@ -8,6 +8,8 @@ public class FlagTrigger : MonoBehaviour
     [SerializeField] private AudioClip _flagSound;
     [SerializeField] private ParticleSystem _confetti;
 
+    [SerializeField] private Animator _transitionAnimator;
+
     private bool _hasTriggered = false;
     private AudioSource _audioSource;
 
@@ -43,6 +45,11 @@ public class FlagTrigger : MonoBehaviour
             if(_confetti != null)
             {
                 _confetti.Play();
+            }
+
+            if (_transitionAnimator != null)
+            {
+                _transitionAnimator.SetTrigger("StartTransition");
             }
 
             if (TimerManager.Instance != null)

@@ -48,7 +48,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AudioManager
   _audioSourceMusic: {fileID: 1693674654042701665}
   _audioSourceClip: {fileID: -2225560988503808825}
-  _jumpClip: {fileID: 8300000, guid: 90eb8674800d7754aab1764cf619844a, type: 3}
+  _jumpClip: {fileID: 8300000, guid: 1924d4e90b46dd048bbf7a007adf6f48, type: 3}
   _hurtClip: {fileID: 8300000, guid: 60e31abc39876e64caf282ffcdb09ac0, type: 3}
   _sprintClip: {fileID: 0}
   _tpClip: {fileID: 8300000, guid: 56b394f6cea25a749a963f1c999d4917, type: 3}
