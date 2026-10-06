@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/SelectLevel.unity
     guid: a54bb4eadfe8fff4e8c9dbb61ce33295
   - enabled: 1
+    path: Assets/Scenes/TestPhysique.unity
+    guid: adb8e45106df1cf4e81f93ba641f6fc7
+  - enabled: 1
     path: Assets/Scenes/LevelBlockout1.unity
     guid: 5f673c369d69ef9468f373f50476aea1
   - enabled: 0

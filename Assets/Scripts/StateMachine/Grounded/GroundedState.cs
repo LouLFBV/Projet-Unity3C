@@ -14,12 +14,13 @@ class GroundedState : PlayerState
     }
     public override void Update() 
     {
-        ProcessJump();
-
-        if (Character.HitNormal == Vector2.zero && Character.Body.Velocity.y < 0.1f)
+        if (Character.HitNormal == Vector2.zero && Character.Body.Velocity.y != 0f)
         {
             SetNextState<FallState>();
         }
+
+        ProcessJump();
+
         Character.LastGroundedTime = Time.time;
         Character.CanCoyoteJump = true;
     }

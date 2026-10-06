@@ -17,10 +17,12 @@ public class PlayerController : Controller<PlayerCharacter>
             _playerInput = GetComponent<PlayerInput>();
         }
     }
+
     protected override void Start()
     {
         _controllerPort.ExecuteAction(this, GivePlayerInput);
     }
+
     public void GivePlayerInput(PlayerCharacter character)
     {
         if (character != null)
@@ -28,45 +30,51 @@ public class PlayerController : Controller<PlayerCharacter>
             character.InitializePlayerInputInPlayerUIManager(_playerInput);
         }
     }
+
     #region --- INPUT EVENTS ---
     private void OnEnable()
     {
-        if (_playerInput == null) return;
+        if (_playerInput == null) _playerInput = GetComponent<PlayerInput>();
+        if (_playerInput == null || _playerInput.actions == null) return;
 
-        _playerInput.actions["Move"].performed += ReceiveMoveInput;
-        _playerInput.actions["Move"].canceled += ReceiveMoveInput;
-
-        _playerInput.actions["Jump"].performed += ReceiveJumpInput;
-
-        _playerInput.actions["Sprint"].performed += ReceiveSprintInput;
-        _playerInput.actions["Sprint"].canceled += ReceiveSprintInput;
-
-        _playerInput.actions["TP"].performed += ReceiveTPInput;
-        _playerInput.actions["TP"].canceled += ReceiveTPInput;
-
-        _playerInput.actions["CancelTP"].performed += ReceiveCancelTP;
-
-        _playerInput.actions["Menu"].performed += ReceiveMenuInput;
+        ToggleSubscriptions(subscribe: true);
     }
 
     private void OnDisable()
     {
-        if (_playerInput == null) return;
+        if (_playerInput == null || _playerInput.actions == null) return;
 
-        _playerInput.actions["Move"].performed -= ReceiveMoveInput;
-        _playerInput.actions["Move"].canceled -= ReceiveMoveInput;
+        ToggleSubscriptions(subscribe: false);
+    }
 
-        _playerInput.actions["Jump"].performed -= ReceiveJumpInput;
+    private void ToggleSubscriptions(bool subscribe)
+    {
+        BindAction("Move", ReceiveMoveInput, subscribe, includeCanceled: true);
+        BindAction("Jump", ReceiveJumpInput, subscribe);
+        BindAction("Sprint", ReceiveSprintInput, subscribe, includeCanceled: true);
+        BindAction("TP", ReceiveTPInput, subscribe, includeCanceled: true);
+        BindAction("CancelTP", ReceiveCancelTP, subscribe);
 
-        _playerInput.actions["Sprint"].performed -= ReceiveSprintInput;
-        _playerInput.actions["Sprint"].canceled -= ReceiveSprintInput;
+        // Actions Menu dans les 2 maps
+        BindAction("Player/Menu", ReceiveMenuInput, subscribe);
+        BindAction("UI/Menu", ReceiveMenuInput, subscribe);
+    }
 
-        _playerInput.actions["TP"].performed -= ReceiveTPInput;
-        _playerInput.actions["TP"].canceled -= ReceiveTPInput;
+    private void BindAction(string actionNameOrPath, System.Action<InputAction.CallbackContext> callback, bool subscribe, bool includeCanceled = false)
+    {
+        InputAction action = _playerInput.actions.FindAction(actionNameOrPath);
+        if (action == null) return;
 
-        _playerInput.actions["CancelTP"].performed -= ReceiveCancelTP;
-
-        _playerInput.actions["Menu"].performed -= ReceiveMenuInput;
+        if (subscribe)
+        {
+            action.performed += callback;
+            if (includeCanceled) action.canceled += callback;
+        }
+        else
+        {
+            action.performed -= callback;
+            if (includeCanceled) action.canceled -= callback;
+        }
     }
     #endregion
 
@@ -123,7 +131,6 @@ public class PlayerController : Controller<PlayerCharacter>
     #endregion
 
     #region --- ACTIONS DU PERSONNAGE ---
-
     private void Move(PlayerCharacter character) => character.Move(_input);
     private void Jump(PlayerCharacter character) => character.Jump();
     private void Sprint(PlayerCharacter character) => character.Sprint(_isSprinting);
