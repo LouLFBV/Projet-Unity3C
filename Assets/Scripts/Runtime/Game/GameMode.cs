@@ -4,22 +4,25 @@ using UnityEngine;
 
 public class GameMode : MonoBehaviour
 {
+    [Header("Cinemachine Cameras")]
     [SerializeField] private List<CinemachineCamera> _cinemachineCameras;
+    [SerializeField] private GameObject _cameraShakeManagerPrefab;
+
+    [Header("Prefabs")]
 
     [SerializeField] private GameObject _timerManagerPrefab;
-
     [SerializeField] private GameObject _checkpointManagerPrefab;
-
     [SerializeField] private GameObject _audioManagerPrefab;
 
-
+    [Header("Player Prefabs")]
     [SerializeField] private GameObject _playerControllerPrefab;
     [SerializeField] private GameObject _playerCharacterPrefab;
+    [SerializeField] private Transform _spawnPoint;
 
+    [Header("Music")]
     [SerializeField] private AudioClip _musicClip;
 
 
-    [SerializeField] private Transform _spawnPoint;
     private void Awake()
     {
         // controller
@@ -49,6 +52,10 @@ public class GameMode : MonoBehaviour
 
         PlayerCharacter playerCharacter = playerCharacterObj.GetComponent<PlayerCharacter>();
         TestMovement testMovement = playerCharacterObj.GetComponent<TestMovement>();
+
+        GameObject cameraShakeManagerObj = Instantiate(_cameraShakeManagerPrefab);
+        CameraShakeManager _cameraShakeManager = cameraShakeManagerObj.GetComponent<CameraShakeManager>();
+        _cameraShakeManager.Initialize(playerCharacter);
 
         Transform transform = null;
 
