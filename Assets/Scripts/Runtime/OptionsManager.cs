@@ -12,23 +12,18 @@ public class OptionsManager : MonoBehaviour
 
     private void Start()
     {
-        //// 1. On initialise la valeur des sliders avec le volume actuel du Mixer (ou des PlayerPrefs)
-        //InitSliderValue("Master", masterVolumeSlider);
-        //InitSliderValue("MusicVolume", musicVolumeSlider);
-        //InitSliderValue("SFXVolume", sfxVolumeSlider);
-        //InitSliderValue("PasVolume", pasVolumeSlider);
+        InitSliderValue("Master", _globalSlider);
+        InitSliderValue("Music", _musicSlider);
+        InitSliderValue("SFX", _soundEffectsSlider);
 
-        //// 2. On écoute les changements de valeur des sliders en temps réel
-        //masterVolumeSlider.onValueChanged.AddListener(SetMasterVolume);
-        //musicVolumeSlider.onValueChanged.AddListener(SetMusicVolume);
-        //sfxVolumeSlider.onValueChanged.AddListener(SetSFXVolume);
-        //pasVolumeSlider.onValueChanged.AddListener(SetPasVolume);
+        _globalSlider.onValueChanged.AddListener(SetMasterVolume);
+        _musicSlider.onValueChanged.AddListener(SetMusicVolume);
+        _soundEffectsSlider.onValueChanged.AddListener(SetSFXVolume);
     }
 
     public void SetMasterVolume(float value) => UpdateMixerVolume("Master", value);
-    public void SetMusicVolume(float value) => UpdateMixerVolume("MusicVolume", value);
-    public void SetSFXVolume(float value) => UpdateMixerVolume("SFXVolume", value);
-    public void SetPasVolume(float value) => UpdateMixerVolume("PasVolume", value);
+    public void SetMusicVolume(float value) => UpdateMixerVolume("Music", value);
+    public void SetSFXVolume(float value) => UpdateMixerVolume("SFX", value);
 
     private void UpdateMixerVolume(string parameterName, float sliderValue)
     {
@@ -55,9 +50,8 @@ public class OptionsManager : MonoBehaviour
     private void OnDestroy()
     {
         // Nettoyage des listeners quand on détruit le menu pour éviter les fuites de mémoire
-        //masterVolumeSlider.onValueChanged.RemoveListener(SetMasterVolume);
-        //musicVolumeSlider.onValueChanged.RemoveListener(SetMusicVolume);
-        //sfxVolumeSlider.onValueChanged.RemoveListener(SetSFXVolume);
-        //pasVolumeSlider.onValueChanged.RemoveListener(SetPasVolume);
+        _globalSlider.onValueChanged.RemoveListener(SetMasterVolume);
+        _musicSlider.onValueChanged.RemoveListener(SetMusicVolume);
+        _soundEffectsSlider.onValueChanged.RemoveListener(SetSFXVolume);
     }
 }
