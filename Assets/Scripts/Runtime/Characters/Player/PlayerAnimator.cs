@@ -7,8 +7,6 @@ public class PlayerAnimator : MonoBehaviour
     [SerializeField] private SpriteRenderer _sprite;
     [SerializeField] private Animator _animator;
 
-    //public bool IsTPing { get; set; } = false;
-
     #region Subscriptions
 
     private void OnEnable()
@@ -36,10 +34,24 @@ public class PlayerAnimator : MonoBehaviour
     }
     #endregion
 
+    private void Start()
+    {
+        if (_playerCharacter == null)
+        {
+            Debug.LogError("PlayerCharacter reference is not assigned in the inspector.");
+            return;
+        }
+        Debug.Log("PlayerAnimator: PlayerCharacter reference is assigned.");
+        _playerCharacter.CanMove = false;
+        _animator.SetTrigger(AnimatorHashes.Spawn);
+    }
+
     private void Update()
     {
-        if (_playerCharacter == null) return;
+        Debug.Log($"PlayerAnimator: Update called. PlayerCharacter is {(_playerCharacter == null ? "null" : "not null")}. CanMove is {(_playerCharacter != null ? _playerCharacter.CanMove.ToString() : "N/A")}.");
+        if (_playerCharacter == null || !_playerCharacter.CanMove) return;
 
+        Debug.Log("PlayerAnimator: Updating animations.");
         UpdateMovementAnimation();
         UpdatePhysicsAnimation();
     }
@@ -62,22 +74,55 @@ public class PlayerAnimator : MonoBehaviour
     }
 
     #region Handlers Events
-    private void HandleHurt() => _animator.SetTrigger(AnimatorHashes.Hurt);
-    private void HandleJump() => _animator.SetTrigger(AnimatorHashes.Jump);
-    private void HandleAttack() => _animator.SetTrigger(AnimatorHashes.Attack);
+    private void HandleHurt()
+    {
+        if (!_playerCharacter.CanMove)
+        {
+            return;
+        }
+        _animator.SetTrigger(AnimatorHashes.Hurt);
+    }
+    private void HandleJump()
+    {
+        if (!_playerCharacter.CanMove)
+        {
+            return;
+        }
+        _animator.SetTrigger(AnimatorHashes.Jump);
+    }
+    private void HandleAttack()
+    {
+        if (!_playerCharacter.CanMove)
+        {
+            return;
+        }
+        _animator.SetTrigger(AnimatorHashes.Attack);
+    }
     private void HandleStartTP()
     {
-        //if (IsTPing) return;
-        //IsTPing = true;
-       _animator.SetTrigger(AnimatorHashes.StartTP);
+        if (!_playerCharacter.CanMove)
+        {
+            return;
+        }
+        _animator.SetTrigger(AnimatorHashes.StartTP);
     }
     private void HandleTP()
     {
+        if (!_playerCharacter.CanMove)
+        {
+            return;
+        }
         _animator.SetTrigger(AnimatorHashes.TP);
     }
     private void HandleCancelTP()
     {
+        if (!_playerCharacter.CanMove)
+        {
+            return;
+        }
         _animator.SetTrigger(AnimatorHashes.CancelTP);
     }
     #endregion
+
+    public void AE_ActiveCanMove() => _playerCharacter.CanMove = true;
 }

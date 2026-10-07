@@ -49,6 +49,7 @@ public class PlayerCharacter : MonoBehaviour
     public float CurrentAcceleration { get; set; }
     public float CurrentDeceleration { get; set; }
     public float MaxMoveSpeed => _maxMoveSpeed;
+    public bool CanMove { get; set; } = false;
     public float FacingDirection { get; set; } = 1f;
     public bool IsSprinting { get; set; } = false;
 
@@ -179,6 +180,10 @@ public class PlayerCharacter : MonoBehaviour
 
     void Update()
     {
+        if (!CanMove)
+        {
+            return;
+        }
         _playerStateMachine.Update();
         float targetForce = (IsSprinting && HitNormal != Vector2.zero) ? _runSpeed : _walkSpeed;
         float currentAcc = _moveInput.x != 0 ? CurrentAcceleration : CurrentDeceleration;
@@ -205,6 +210,10 @@ public class PlayerCharacter : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (!CanMove)
+        {
+            return;
+        }
         _data.Move = Vector2.zero;
         _data.Pos = _body.Position;
         int rayCount = _strategy.ProcessRayCast(_data, _hits, _filter);
