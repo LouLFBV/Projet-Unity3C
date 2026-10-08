@@ -49,4 +49,10 @@ class JumpState : AirboneState
             SetNextState<FallState>();
         }
     }
+    /// <summary>
+    /// Called when the state is no longer the current active state.
+    /// </summary>
+    public override void Exit()
+    {
+    }
 }
