@@ -182,12 +182,12 @@ TextureImporter:
       name: jp_water_dragon_0
       rect:
         serializedVersion: 2
-        x: 54
-        y: 0
-        width: 148
-        height: 256
+        x: 0
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: jp_water_dragon_1
       rect:
         serializedVersion: 2
-        x: 310
-        y: 0
-        width: 148
-        height: 256
+        x: 255
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -226,12 +226,12 @@ TextureImporter:
       name: jp_water_dragon_2
       rect:
         serializedVersion: 2
-        x: 566
-        y: 0
-        width: 148
-        height: 256
+        x: 510
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -248,12 +248,12 @@ TextureImporter:
       name: jp_water_dragon_3
       rect:
         serializedVersion: 2
-        x: 822
-        y: 0
-        width: 148
-        height: 256
+        x: 765
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -270,12 +270,12 @@ TextureImporter:
       name: jp_water_dragon_4
       rect:
         serializedVersion: 2
-        x: 1078
-        y: 0
-        width: 148
-        height: 256
+        x: 1020
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -292,12 +292,12 @@ TextureImporter:
       name: jp_water_dragon_5
       rect:
         serializedVersion: 2
-        x: 1334
-        y: 12
-        width: 145
-        height: 244
+        x: 1275
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,12 +314,12 @@ TextureImporter:
       name: jp_water_dragon_6
       rect:
         serializedVersion: 2
-        x: 1590
-        y: 0
-        width: 148
-        height: 256
+        x: 1530
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,12 +336,12 @@ TextureImporter:
       name: jp_water_dragon_7
       rect:
         serializedVersion: 2
-        x: 1846
-        y: 0
-        width: 148
-        height: 256
+        x: 1785
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,12 +358,12 @@ TextureImporter:
       name: jp_water_dragon_8
       rect:
         serializedVersion: 2
-        x: 2102
-        y: 0
-        width: 148
-        height: 256
+        x: 2040
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: jp_water_dragon_9
       rect:
         serializedVersion: 2
-        x: 2358
-        y: 0
-        width: 148
-        height: 256
+        x: 2295
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,12 +402,12 @@ TextureImporter:
       name: jp_water_dragon_10
       rect:
         serializedVersion: 2
-        x: 2614
-        y: 0
-        width: 148
-        height: 256
+        x: 2550
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,12 +424,12 @@ TextureImporter:
       name: jp_water_dragon_11
       rect:
         serializedVersion: 2
-        x: 2870
-        y: 138
-        width: 148
-        height: 118
+        x: 2805
+        y: 1
+        width: 255
+        height: 255
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -442,253 +442,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_12
-      rect:
-        serializedVersion: 2
-        x: 2898
-        y: 193
-        width: 13
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08ec0c2da6b100720800000000000000
-      internalID: 2810276313095523968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_13
-      rect:
-        serializedVersion: 2
-        x: 2902
-        y: 166
-        width: 13
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c49bdf2a14fb78e30800000000000000
-      internalID: 4505780240835787084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_14
-      rect:
-        serializedVersion: 2
-        x: 2919
-        y: 220
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4282bff293515bc50800000000000000
-      internalID: 6680268957636306980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_15
-      rect:
-        serializedVersion: 2
-        x: 2964
-        y: 180
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2396e52b779806c40800000000000000
-      internalID: 5503549891833391410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_16
-      rect:
-        serializedVersion: 2
-        x: 2976
-        y: 50
-        width: 16
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c6eed209638ab1760800000000000000
-      internalID: 7429716962578394732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_17
-      rect:
-        serializedVersion: 2
-        x: 1334
-        y: 0
-        width: 148
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aef6c0f26e2660790800000000000000
-      internalID: -7564249783350824982
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_18
-      rect:
-        serializedVersion: 2
-        x: 2870
-        y: 0
-        width: 54
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b81a4103807580a70800000000000000
-      internalID: 8793373965118906763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_19
-      rect:
-        serializedVersion: 2
-        x: 2922
-        y: 18
-        width: 14
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ff781ab13e5dfbc60800000000000000
-      internalID: 7836217048045815807
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_20
-      rect:
-        serializedVersion: 2
-        x: 2937
-        y: 12
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae44f7042e622f380800000000000000
-      internalID: -8939039557190466326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_21
-      rect:
-        serializedVersion: 2
-        x: 2954
-        y: 12
-        width: 19
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f9d28e1a78e4e820800000000000000
-      internalID: 2946735667402693109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: jp_water_dragon_22
-      rect:
-        serializedVersion: 2
-        x: 2973
-        y: 23
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 751c13889967c7370800000000000000
-      internalID: 8321656613260869975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e2b93444bdad67e488f4b987e7829b52
     internalID: 0
     vertices: []
     indices: 
@@ -696,24 +454,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":255.0,"y":255.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       jp_water_dragon_0: 3254532956649649876
       jp_water_dragon_1: 6072575973914303391
       jp_water_dragon_10: -6972714495730379824
       jp_water_dragon_11: -3982170599894810740
-      jp_water_dragon_12: 2810276313095523968
-      jp_water_dragon_13: 4505780240835787084
-      jp_water_dragon_14: 6680268957636306980
-      jp_water_dragon_15: 5503549891833391410
-      jp_water_dragon_16: 7429716962578394732
-      jp_water_dragon_17: -7564249783350824982
-      jp_water_dragon_18: 8793373965118906763
-      jp_water_dragon_19: 7836217048045815807
       jp_water_dragon_2: -7548944528905003994
-      jp_water_dragon_20: -8939039557190466326
-      jp_water_dragon_21: 2946735667402693109
-      jp_water_dragon_22: 8321656613260869975
       jp_water_dragon_3: -224901005665396169
       jp_water_dragon_4: -5741463232332540740
       jp_water_dragon_5: 6482366364699137891
