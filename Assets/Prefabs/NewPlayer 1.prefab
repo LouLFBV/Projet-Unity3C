@@ -3665,9 +3665,9 @@ MonoBehaviour:
   _groundAcceleration: 750
   _airAcceleration: 10
   _airDeceleration: 20
-  _fallingGravity: 50
-  _risingingGravity: 100
-  _jumpForce: 3500
+  _fallingGravity: 100
+  _risingingGravity: 50
+  _jumpForce: 3000
   _jumpInputBuffer: 0.1
   _coyoteTime: 0.065
   _castDistanceToWallJump: 0.3
