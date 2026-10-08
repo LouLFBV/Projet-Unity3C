@@ -44,14 +44,8 @@ public class GameMode : MonoBehaviour
 
 
         PlayerController playerController = playerControllerObj.GetComponent<PlayerController>();
-        TestController testController = playerControllerObj.GetComponent<TestController>();
-
-
         PlayerControllerPort playerControllerPort = playerCharacterObj.GetComponent<PlayerControllerPort>();
-        TestControllerPort testControllerPort = playerCharacterObj.GetComponent<TestControllerPort>();
-
         PlayerCharacter playerCharacter = playerCharacterObj.GetComponent<PlayerCharacter>();
-        TestMovement testMovement = playerCharacterObj.GetComponent<TestMovement>();
 
         GameObject cameraShakeManagerObj = Instantiate(_cameraShakeManagerPrefab);
         CameraShakeManager _cameraShakeManager = cameraShakeManagerObj.GetComponent<CameraShakeManager>();
@@ -65,16 +59,6 @@ public class GameMode : MonoBehaviour
             playerController.SetController(playerControllerPort);
             playerControllerPort.SetObject(playerCharacter);
             transform = playerCharacter.transform;
-
-        }
-        else
-        {
-            testControllerPort.SetController(testController);
-            testController.SetController(testControllerPort);
-            testControllerPort.SetObject(testMovement);
-            transform = testMovement.transform;
-
-
 
         }
 
