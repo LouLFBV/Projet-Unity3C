@@ -712,7 +712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -2059,7 +2059,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -3577,6 +3577,8 @@ GameObject:
   - component: {fileID: 4258555038826734946}
   - component: {fileID: 6646764680176759936}
   - component: {fileID: 4088022846469317713}
+  - component: {fileID: 8497754561433017696}
+  - component: {fileID: 8805672413943755167}
   m_Layer: 7
   m_Name: NewPlayer 1
   m_TagString: Player
@@ -3906,6 +3908,84 @@ MonoBehaviour:
     m_Bits: 4096
   _body: {fileID: 4496750156385597960}
   _player: {fileID: 3688742989628052496}
+--- !u!114 &8497754561433017696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8682556239004448390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e96e18e7188f04f84a9bb8dd2ce171, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GamepadMouseController
+  _cursorSpeed: 1000
+  _rightStickAction:
+    m_UseReference: 0
+    m_Action:
+      m_Name: Right Stick
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: 6ce29359-8f3b-4501-8190-dd0b365706f1
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings:
+      - m_Name: 2D Vector
+        m_Id: 4f20e417-8c6a-4d5d-90b8-8271565b7cbd
+        m_Path: 2DVector
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Right Stick
+        m_Flags: 4
+      - m_Name: up
+        m_Id: ffb317e5-db36-4868-8f62-438604ce61cf
+        m_Path: <Gamepad>/rightStick/up
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Right Stick
+        m_Flags: 8
+      - m_Name: down
+        m_Id: ad351396-b0d5-42d1-abe3-380394834172
+        m_Path: <Gamepad>/rightStick/down
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Right Stick
+        m_Flags: 8
+      - m_Name: left
+        m_Id: 4869ddb6-909d-43ce-870f-944950d394f4
+        m_Path: <Gamepad>/rightStick/left
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Right Stick
+        m_Flags: 8
+      - m_Name: right
+        m_Id: 24cbd7d1-1fed-4f86-b0ab-a101809ed7fe
+        m_Path: <Gamepad>/rightStick/right
+        m_Interactions: 
+        m_Processors: 
+        m_Groups: 
+        m_Action: Right Stick
+        m_Flags: 8
+      m_Flags: 0
+      m_Priority: 0
+    m_Reference: {fileID: 0}
+--- !u!114 &8805672413943755167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8682556239004448390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b479f4bfa7dbed34cb026ba992b91f25, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InputDeviceManager
 --- !u!1 &8729472879040380471
 GameObject:
   m_ObjectHideFlags: 0
@@ -4033,7 +4113,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -4170,7 +4250,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:

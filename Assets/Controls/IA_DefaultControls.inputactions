@@ -695,7 +695,7 @@
                 {
                     "name": "up",
                     "id": "e22087ce-e288-4588-aa7e-1a8c8ce4aff5",
-                    "path": "<Gamepad>/leftStick/left",
+                    "path": "<Gamepad>/rightStick/up",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -706,7 +706,7 @@
                 {
                     "name": "down",
                     "id": "816ac724-863e-4fcc-95ab-1fd83c12cdcd",
-                    "path": "<Gamepad>/leftStick/down",
+                    "path": "<Gamepad>/rightStick/down",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -717,7 +717,7 @@
                 {
                     "name": "left",
                     "id": "38d1117d-88b8-4983-abd3-38b8f752e1f2",
-                    "path": "<Gamepad>/dpad/left",
+                    "path": "<Gamepad>/rightStick/left",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -728,7 +728,7 @@
                 {
                     "name": "right",
                     "id": "570031ba-1833-438a-92f6-0e1d7b856b0a",
-                    "path": "<Gamepad>/dpad/right",
+                    "path": "<Gamepad>/rightStick/right",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
@@ -776,6 +776,17 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "XR",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "95f518df-966e-49e4-a5a9-eaaf79297ef5",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
                     "action": "Click",
                     "isComposite": false,
                     "isPartOfComposite": false

@@ -68,7 +68,21 @@ MonoBehaviour:
       - rid: 5251205007969353801
       - rid: 5251205007969353802
     m_RuntimeSettings:
-      m_List: []
+      m_List:
+      - rid: 2116135017267069190
+      - rid: 2116135017267069191
+      - rid: 2116135017267069193
+      - rid: 2116135017267069196
+      - rid: 2116135017267069197
+      - rid: 2116135017267069199
+      - rid: 2116135017267069201
+      - rid: 2116135017267069202
+      - rid: 2116135017267069206
+      - rid: 2116135017267069209
+      - rid: 2116135017267069210
+      - rid: 2116135017267069211
+      - rid: 2116135017267069214
+      - rid: 5251205007969353801
   m_AssetVersion: 10
   m_ObsoleteDefaultVolumeProfile: {fileID: 0}
   m_RenderingLayerNames:
@@ -92,8 +106,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: -2
-      type: {class: , ns: , asm: }
     - rid: 2116135017267069186
       type: {class: RayTracingRenderPipelineResources, ns: UnityEngine.Rendering.UnifiedRayTracing, asm: Unity.UnifiedRayTracing.Runtime}
       data:

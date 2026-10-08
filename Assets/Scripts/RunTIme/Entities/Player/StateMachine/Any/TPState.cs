@@ -63,7 +63,7 @@ class TPState : PlayerState
             return;
         }
 
-        UpdateGhostPosition(); 
+        UpdateGhostPosition();
         UpdateTPZoneTimer();
 
         bool timeOut = (Time.unscaledTime - _tpTimer) >= _tpAnimationDuration;
