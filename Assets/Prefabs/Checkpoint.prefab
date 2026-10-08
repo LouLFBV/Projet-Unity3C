@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2410332657697213782}
   - component: {fileID: 2381825823330462369}
   - component: {fileID: 1341737049096089467}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Checkpoint
   m_TagString: Untagged
   m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
@@ -152,7 +152,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -1
   m_MaskInteraction: 0
   m_Sprite: {fileID: 815424164945274260, guid: 37b9a83f33e3f4a45b26d2fefce4141b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -195,7 +195,7 @@ AudioSource:
   m_GameObject: {fileID: 1604515757123867381}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -2930579456641884841, guid: 25fe35180441468409552511bd8c646d, type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
@@ -299,6 +299,10 @@ PrefabInstance:
       propertyPath: m_Materials.Array.size
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4035903589778951152, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
     - target: {fileID: 4035903589778951165, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
       propertyPath: playOnAwake
       value: 0
@@ -314,6 +318,10 @@ PrefabInstance:
     - target: {fileID: 4035903590838406407, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4035903590838406425, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
+      propertyPath: m_Layer
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 4035903591278710481, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
       propertyPath: m_LocalScale.x
@@ -379,6 +387,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Flash_ellow
       objectReference: {fileID: 0}
+    - target: {fileID: 4035903591278710484, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4035903591288960073, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
+      propertyPath: m_Layer
+      value: 11
+      objectReference: {fileID: 0}
     - target: {fileID: 4035903591288960182, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
       propertyPath: playOnAwake
       value: 0
@@ -386,6 +402,10 @@ PrefabInstance:
     - target: {fileID: 4035903591288960183, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
       propertyPath: m_Materials.Array.size
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5377350757493852253, guid: aa122f157eac1c8428ae5db8a315ccd8, type: 3}
+      propertyPath: m_Layer
+      value: 11
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

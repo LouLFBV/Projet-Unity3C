@@ -7,6 +7,8 @@ using UnityEngine;
 /// <typeparam name="T">The type of <see cref="MonoBehaviour"/> managed by this port.</typeparam>
 public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
 {
+    #region --- MANAGED OBJECT ---
+
     /// <summary>
     /// The component managed by this port.
     /// </summary>
@@ -15,11 +17,20 @@ public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
     /// Gets the component managed by this port.
     /// </summary>
     public T Object => _object;
-    [Header("Properties")]
+
+    #endregion
+
+    #region --- CONTROLLER SETTINGS ---
+
     /// <summary>
     /// The controller authorized to execute actions through this port.
     /// </summary>
+    [Header("Properties")]
     [SerializeField] private Controller<T> _sender = null;
+    #endregion
+
+    #region --- UNITY LIFECYCLE ---
+
     /// <summary>
     /// Initializes the managed component by retrieving it from the current GameObject
     /// when it has not already been assigned.
@@ -32,6 +43,10 @@ public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
         if (!_object)
             Debug.LogError("no object found please set it manualy");
     }
+    #endregion
+
+    #region --- PORT MANAGEMENT ---
+
     /// <summary>
     /// Assigns the controller authorized to use this port.
     /// </summary>
@@ -40,11 +55,18 @@ public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
     {
         _sender = newSender;
     }
-
+    /// <summary>
+    /// Assigns the component managed by this port.
+    /// </summary>
+    /// <param name="targetObject">The component to manage through this port.</param>
     public void SetObject(T targetObject)
     {
         _object = targetObject;
     }
+    #endregion
+
+    #region --- ACTION EXECUTION ---
+
     /// <summary>
     /// Executes an action on the managed component if the specified controller
     /// matches the controller assigned to this port.
@@ -62,5 +84,6 @@ public class ControllerPort<T> : MonoBehaviour where T : MonoBehaviour
 
         action(_object);
    }
+    #endregion
 }
 

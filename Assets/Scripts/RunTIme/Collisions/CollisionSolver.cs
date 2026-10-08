@@ -7,9 +7,11 @@ using UnityEngine.UIElements;
 /// Contains the movement data used during a physics frame.
 /// </summary>
 public class FramePhysicsData
-{  
+{
+    #region --- MOVEMENT DATA ---
+
     /// <summary>
-    /// Current delta position betwen render and physics.
+    /// Current delta position between render and physics.
     /// </summary>
     public Vector2 Pos = Vector2.zero;
     /// <summary>
@@ -24,29 +26,33 @@ public class FramePhysicsData
     /// Gets the magnitude of the current movement vector.
     /// </summary>
     public float MoveMagnitude => Move.magnitude;
+#endregion
 }
 /// <summary>
 /// Resolves collisions by executing a series of collision checks
 /// on the current movement data.
 /// </summary>
+
 public class CollisionSolver : MonoBehaviour
 {
-    [Header("Properties")]
+    #region --- PROPERTIES ---
+
     /// <summary>
     /// List of collision checks executed by the collision solver.
     /// </summary>
-    [SerializeField] List<CollisionCheck> _checks = new(); 
-    private FramePhysicsData _frameData = new FramePhysicsData();
+    [Header("Properties")]
+    [SerializeField] List<CollisionCheck> _checks = new();
     /// <summary>
-    /// Processes the provided movement by applying the registered
-    /// collision checks sequentially.
+    /// Movement data used during the current physics frame.
     /// </summary>
-    /// <param name="move">
-    /// Movement to process. The value is updated with the result
-    /// of the collision resolution.
-    /// <param name="offsetPos">
-    /// The offset position betweew render and physics
-    /// </param>
+    private FramePhysicsData _frameData = new FramePhysicsData();
+    #endregion
+
+    #region --- COLLISION MANAGEMENT ---
+
+    /// <summary>
+    /// Processes all registered collision checks sequentially.
+    /// </summary>
     public void Dispatch()
     {
 
@@ -74,4 +80,5 @@ public class CollisionSolver : MonoBehaviour
     {
         _checks.Remove(check);
     }
+#endregion
 }

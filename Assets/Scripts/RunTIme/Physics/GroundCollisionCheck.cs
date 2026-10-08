@@ -1,4 +1,4 @@
-using NUnit.Framework;
+    using NUnit.Framework;
 using Unity.Burst.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -12,22 +12,44 @@ using UnityEngine;
 /// </summary>
 public class GroundCollisionCheck : CollisionCheck
 {
-    [Header("ChildProperties")]
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    #region --- REFERENCES ---
     /// <summary>
     /// Physics body whose movement and velocity are handled by this collision check.
     /// </summary>
+    [Header("ChildProperties")]
     [SerializeField] private PhysicBody _body;
     /// <summary>
-    /// Collision information updated with the current ground state and surface directions.
+    /// Collider associated with this collision check.
     /// </summary>
-    
- 
+
+
     Collider2D _collider = null;
+    #endregion
+
+    #region --- PHYSICS DATA ---
+
+    /// <summary>
+    /// Physics data used to process the current collision frame.
+    /// </summary>
     FramePhysicsData _physicData = new();
 
+    /// <summary>
+    /// Minimum collision normal detected during the current collision step.
+    /// </summary>
     private Vector2 _minNormal = Vector2.zero;
+    /// <summary>
+    /// Maximum number of iterations performed when resolving collisions.
+    /// </summary>
     [SerializeField, UnityEngine.Range(1, 10)] private int _maxIteration = 5;
+    #endregion
+
+    #region --- COLLISION PROCESSING ---
+
+    /// <summary>
+    /// Processes ground collisions and iteratively resolves detected overlaps
+    /// and movement constraints.
+    /// </summary>
+    /// <param name="hits">Array of raycast hits detected during the collision check.</param>
     protected override void ExecuteChildCollision(RaycastHit2D[] hits)
     {
        
@@ -48,7 +70,14 @@ public class GroundCollisionCheck : CollisionCheck
         
     
     }
-
+    /// <summary>
+    /// Performs a single collision resolution step using the detected raycasts.
+    /// Updates the body's velocity to prevent movement into the collision surface.
+    /// </summary>
+    /// <param name="rayCasts">Array of raycast hits used for collision processing.</param>
+    /// <returns>
+    /// <c>true</c> if a valid collision was found and resolved; otherwise, <c>false</c>.
+    /// </returns>
     private bool StepCollision2(RaycastHit2D[] rayCasts)
     {
         _physicData.Move = _body.Velocity * Time.fixedDeltaTime;
@@ -93,11 +122,23 @@ public class GroundCollisionCheck : CollisionCheck
         _body.SetVelocity(velocity + remainingVelocity);
         return true;
     }
-
+    /// <summary>
+    /// Processes the provided raycasts using the configured collision strategy and filter.
+    /// </summary>
+    /// <param name="frameData">Physics data describing the current frame.</param>
+    /// <param name="rayCasts">Array of raycast hits to process.</param>
+    /// <returns>The number of valid raycasts processed by the collision strategy.</returns>
     private int ProcessRayCasts(ref FramePhysicsData frameData, RaycastHit2D[] rayCasts)
     {
        return Strategy.ProcessRayCast(frameData, rayCasts, Filter);   
     }
+    /// <summary>
+    /// Resolves an overlap between the physics body and another collider.
+    /// Calculates a correction movement based on the collider distance and
+    /// applies a small separation offset.
+    /// </summary>
+    /// <param name="other">Collider overlapping the physics body.</param>
+    /// <param name="move">Movement vector used to resolve the overlap.</param>
     private void ResolveOverlap(Collider2D other, ref Vector2 move)
     {
         ColliderDistance2D dist = Strategy.ProcessDistance(_physicData, other);
@@ -112,6 +153,7 @@ public class GroundCollisionCheck : CollisionCheck
             move = dist.normal * Mathf.Min(dist.distance +0.015f, 0);
         }
     }
+    #endregion
 }
 
 
