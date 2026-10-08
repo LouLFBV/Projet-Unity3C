@@ -30,12 +30,22 @@ public enum ForceType
 
 public class PhysicBody : MonoBehaviour
 {
+    #region --- ACTIONS ---
+
+    /// <summary>
+    /// Actions scheduled to be executed during the next physics update.
+    /// </summary>
     public List<Action> Actions = new();
-    [Header("Properties")]
+
+    #endregion
+
+    #region --- PHYSICS PROPERTIES ---
+
     /// <summary>
     /// Mass of the physics body in kilograms.
     /// A mass of zero makes the body static.
     /// </summary>
+    [Header("Properties")]
     [SerializeField, Range(0, float.MaxValue)] private float _massKg = 0.0f;
     /// <summary>
     /// Determines whether the body's rendered position is interpolated between physics updates.
@@ -51,14 +61,17 @@ public class PhysicBody : MonoBehaviour
     /// </summary>
     [SerializeField] private bool _enableSolver = true;
     /// <summary>
-    /// The predefined celestial body used to determine the gravitational acceleration.
+    /// Predefined celestial body used to determine the gravitational acceleration.
     /// </summary>
     [SerializeField] private GravityPreset _gravity = GravityPreset.Earth;
     /// <summary>
-    /// A custom gravitational acceleration value.
+    /// Custom gravitational acceleration value.
     /// A value of <c>0.0f</c> causes the selected <see cref="GravityPreset"/> to be used instead.
     /// </summary>
     [SerializeField] private float _customGravity = 0.0f;
+    /// <summary>
+    /// Gets the custom gravitational acceleration value.
+    /// </summary>
     public float CustomGravity => _customGravity;
     /// <summary>
     /// Gets the effective gravitational acceleration.
@@ -70,7 +83,7 @@ public class PhysicBody : MonoBehaviour
     /// </summary>
     [SerializeField] private bool _enableGravity = true;
     /// <summary>
-    /// The magnitude of the drag coefficient applied by this object.
+    /// Magnitude of the drag coefficient applied by this object.
     /// </summary>
     [SerializeField, Range(0, float.MaxValue)] private float _dragCoefficient = 10;
 
@@ -79,10 +92,13 @@ public class PhysicBody : MonoBehaviour
     /// </summary>
     [SerializeField] private bool _enableFriction = true;
 
+    #endregion
+
+    #region --- PHYSICS STATE ---
+
     /// <summary>
     /// Sum of all forces currently accumulated on the body.
     /// </summary>
-
     private Vector2 _allForces = Vector2.zero;
     /// <summary>
     /// Current velocity of the body.
@@ -100,9 +116,10 @@ public class PhysicBody : MonoBehaviour
     /// <summary>
     /// Cached inverse of the fixed physics timestep used for interpolation.
     /// </summary>
-
     private float _inverseFixedDeltaTime = 0.0f;
-
+    /// <summary>
+    /// Gets the velocity calculated during the current physics frame.
+    /// </summary>
     public Vector2 FrameVelocity { private set; get; } = Vector2.zero;
 
     /// <summary>
@@ -140,11 +157,18 @@ public class PhysicBody : MonoBehaviour
     /// </summary>
     public Vector2 Position => _position;
     /// <summary>
-    /// Gets the current physics position of the body.
+    /// Gets the physics position of the body during the previous physics update.
     /// </summary>
     public Vector2 LastPosition => _lastPosition;
-
+    /// <summary>
+    /// Gets whether the physics body is static.
+    /// A body is static when its mass is zero.
+    /// </summary>
     public bool IsStatic => _massKg == 0;
+    #endregion
+
+    #region --- UNITY LIFECYCLE ---
+
     /// <summary>
     /// Initializes the body's physics state and retrieves the collision solver
     /// from the current GameObject when collision solving is enabled and no solver is assigned.
@@ -224,6 +248,10 @@ public class PhysicBody : MonoBehaviour
 
         _position += _velocity * Time.fixedDeltaTime;
     }
+    #endregion
+
+    #region --- PHYSICS STATE MANAGEMENT ---
+
     /// <summary>
     /// Sets the mass of the body.
     /// </summary>
@@ -248,11 +276,20 @@ public class PhysicBody : MonoBehaviour
     {
         _position = position;
     }
+    /// <summary>
+    /// Teleports the body to the specified position and synchronizes
+    /// the previous physics position to prevent interpolation from the old position.
+    /// </summary>
+    /// <param name="position">Target position for the teleportation.</param>
     public void Tp (Vector2 position)
     {
         _position = position;
         _lastPosition = position;
     }
+    #endregion
+
+    #region --- PHYSICS SETTINGS ---
+
     /// <summary>
     /// Enables or disables position interpolation.
     /// </summary>
@@ -292,11 +329,11 @@ public class PhysicBody : MonoBehaviour
         _enableGravity = active;
         _gravity = presept;
     }
-    /// <summary>   
+    /// <summary>
     /// Enables or disables gravity and sets a custom gravitational acceleration.
     /// </summary>
     /// <param name="active">Whether gravity should be enabled.</param>
-    /// <param name="customGravity">The custom gravitational acceleration to use.</param>   
+    /// <param name="customGravity">The custom gravitational acceleration to use.</param>  
     public void SetGravity(bool active, float customGravity)
     {
         _enableGravity = active;
@@ -344,4 +381,5 @@ public class PhysicBody : MonoBehaviour
                 break;
         }
     }
+    #endregion
 }

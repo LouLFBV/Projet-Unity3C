@@ -1,17 +1,24 @@
 ﻿using System.Collections.Generic;
 using System;
 using UnityEngine;
+
 /// <summary>
 /// Manages a collection of <see cref="State"/> instances and controls
 /// the active state through a stack-based state machine.
 /// </summary>
 public class StateMachine
 {
+    #region --- STATE ACCESS ---
+
     /// <summary>
     /// Gets the state currently at the top of the state stack.
     /// Returns the default value when the stack is empty.
     /// </summary>
     public State CurrentState => _stateStack.Count > 0 ? _stateStack.Peek() : default;
+    #endregion
+
+    #region --- STATE STORAGE ---
+
     /// <summary>
     /// Stores the registered states indexed by their concrete type.
     /// </summary>
@@ -20,6 +27,10 @@ public class StateMachine
     /// Stack containing the active states, with the current state at the top.
     /// </summary>
     private Stack<State> _stateStack = new Stack<State>();
+
+    #endregion
+
+    #region --- STATE REGISTRATION ---
 
     /// <summary>
     /// Registers a state in the state machine.
@@ -51,6 +62,10 @@ public class StateMachine
             Debug.LogWarning($"State of type {stateType} already exists in the state machine.");
         }
     }
+    #endregion
+
+    #region --- STATE TRANSITIONS ---
+
     /// <summary>
     /// Processes the requested state transitions for the current state.
     /// Handles state popping, pushing, and direct transitions to the next state.
@@ -111,6 +126,7 @@ public class StateMachine
             Debug.LogError($"State of type {pushStateType} not found in the state machine.");
         }
     }
+
     /// <summary>
     /// Handles a requested state transition by exiting the current state
     /// and activating the requested next state.
@@ -133,6 +149,10 @@ public class StateMachine
         }
     }
 
+    #endregion
+
+    #region --- STATE STACK MANAGEMENT ---
+
     /// <summary>
     /// Pushes a registered state of the specified type onto the state stack.
     /// </summary>
@@ -150,6 +170,10 @@ public class StateMachine
         _stateStack.Push(newState);
         newState.Enter();
     }
+    #endregion
+
+    #region --- UPDATE ---
+
     /// <summary>
     /// Updates the current state and processes any requested state transitions.
     /// </summary>
@@ -167,4 +191,5 @@ public class StateMachine
     {
         CurrentState?.FixedUpdate();
     }
+    #endregion
 }

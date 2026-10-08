@@ -84,7 +84,7 @@ public class PlayerController : Controller<PlayerCharacter>
     /// </param>
     private void ToggleSubscriptions(bool subscribe)
     {
-        BindAction("Move/Player", ReceiveMoveInput, subscribe,true);
+        BindAction("Move", ReceiveMoveInput, subscribe,true);
         BindAction("Jump", ReceiveJumpInput, subscribe);
         BindAction("Sprint", ReceiveSprintInput, subscribe, true);
         BindAction("TP", ReceiveTPInput, subscribe, true);

@@ -1,14 +1,35 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-
+/// <summary>
+/// Controls the mouse cursor position using the right stick of a gamepad.
+/// </summary>
 public class GamepadMouseController : MonoBehaviour
 {
+    #region --- CURSOR SETTINGS ---
+
+    /// <summary>
+    /// Speed at which the gamepad moves the mouse cursor.
+    /// </summary>
     [SerializeField] private float _cursorSpeed = 1000f;
-    [SerializeField] private InputActionProperty _rightStickAction;
+    /// <summary>
+    /// Input action used to read the gamepad right stick value.
+    /// </summary>
+    [SerializeField] private InputActionProperty _rightStickAction;   
+    #endregion
 
+    #region --- UNITY LIFECYCLE ---
+
+    /// <summary>
+    /// Enables the right stick input action when the component is enabled.
+    /// </summary>
     private void OnEnable() => _rightStickAction.action?.Enable();
+    /// <summary>
+    /// Disables the right stick input action when the component is disabled.
+    /// </summary>
     private void OnDisable() => _rightStickAction.action?.Disable();
-
+    /// <summary>
+    /// Updates the mouse cursor position according to the current gamepad right stick input.
+    /// </summary>
     private void Update()
     {
         if (Mouse.current == null) return;
@@ -26,4 +47,5 @@ public class GamepadMouseController : MonoBehaviour
             Mouse.current.WarpCursorPosition(newMousePos);
         }
     }
+    #endregion
 }

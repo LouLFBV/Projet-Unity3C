@@ -1,12 +1,16 @@
 ﻿using System;
+
 /// <summary>
 /// Base class for states managed by a <see cref="StateMachine"/>.
 /// Provides lifecycle methods and mechanisms for requesting state transitions.
 /// </summary>
 public abstract class State
-{    /// <summary>
-     /// Gets the type of the state to transition to.
-     /// </summary>
+{ 
+    #region --- STATE TRANSITION REQUESTS ---
+
+    /// <summary>
+    /// Gets the type of the state to transition to.
+    /// </summary>
     public Type NextState { get; private set; } = null;
     /// <summary>
     /// Gets the type of the state to push onto the state stack.
@@ -16,6 +20,10 @@ public abstract class State
     /// Gets the number of states requested to be popped from the state stack.
     /// </summary>
     public uint Pop { get; private set; } = 0;
+    #endregion
+
+    #region --- STATE LIFECYCLE ---
+
     /// <summary>
     /// Called when the state becomes the current active state.
     /// </summary>
@@ -32,6 +40,10 @@ public abstract class State
     /// Called when the state is no longer the current active state.
     /// </summary>
     public virtual void Exit() { }
+    #endregion
+
+    #region --- TRANSITION MANAGEMENT ---
+
     /// <summary>
     /// Clears all pending state transition requests.
     /// </summary>
@@ -94,12 +106,15 @@ public abstract class State
     {
         Pop = newPop;
     }
+    #endregion
 }
 /// <summary>
 /// Defines the types of state stack actions that can be requested.
 /// </summary>
 public enum ActionType
 {
+    #region --- ACTION TYPES ---
+
     /// <summary>
     /// Requests a transition to another state.
     /// </summary>
@@ -112,4 +127,5 @@ public enum ActionType
     /// Requests one or more states to be removed from the state stack.
     /// </summary>
     Pop
+    #endregion
 }
