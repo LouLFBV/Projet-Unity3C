@@ -47,19 +47,19 @@ public class ManaSystem : MonoBehaviour
     {
         if (!HasEnoughMana(amount))
         {
-            Debug.Log("Mana insuffisant !");
+            //Debug.Log("Mana insuffisant !");
             return ;
         }
 
         _currentMana -= amount;
         _lastManaUseTime = Time.time;
         OnManaChanged?.Invoke();
-        Debug.Log($"Mana consommé: {amount}. Mana restant: {_currentMana}");
+        //Debug.Log($"Mana consommé: {amount}. Mana restant: {_currentMana}");
     }
 
     public bool HasEnoughMana(float manaCost)
     {
-        Debug.Log($"Vérification du mana: {_currentMana} >= {manaCost} ?");
+        //Debug.Log($"Vérification du mana: {_currentMana} >= {manaCost} ?");
         return _currentMana >= manaCost;
     }
 

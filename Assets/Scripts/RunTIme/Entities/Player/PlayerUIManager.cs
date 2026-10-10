@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class PlayerUIManager : MonoBehaviour
 {
@@ -14,9 +15,28 @@ public class PlayerUIManager : MonoBehaviour
     [SerializeField] private GameObject _pauseMenu;
     [SerializeField] private GameObject _optionsPanel;
 
+    [Header("First Selected Buttons")]
+    [SerializeField] private GameObject _firstPauseButton;  
+    [SerializeField] private GameObject _firstOptionButton;
+
     void OnEnable()
     {
         _manaSystem.OnManaChanged += UpdateManaBar;
+
+        //if (InputDeviceManager.Instance != null)
+        //{
+        //    InputDeviceManager.OnControlSchemeChanged += OnControlSchemeChanged;
+        //    UpdateScheme(InputDeviceManager.Instance.CurrentScheme);
+        //}
+    }
+
+
+    private void OnDisable()
+    {
+        //if (InputDeviceManager.Instance != null)
+        //{
+        //    InputDeviceManager.OnControlSchemeChanged -= OnControlSchemeChanged;
+        //}
     }
 
     public void Start()
@@ -56,7 +76,7 @@ public class PlayerUIManager : MonoBehaviour
     }
     public void OnClickOptionsButton()
     {
-        _optionsPanel.SetActive(true);
+        OpenOptions();
     }
     public void OnClickMenuButton()
     {
@@ -71,13 +91,55 @@ public class PlayerUIManager : MonoBehaviour
             return;
         }
 
+
         bool willBeActive = !_pauseMenu.activeSelf;
+
+        if (_pauseMenu.activeSelf) CloseOptions();
         Debug.Log($"Toggling menu. Will be active: {willBeActive}");
         _pauseMenu.SetActive(willBeActive);
-        _optionsPanel.SetActive(false);
+        if (!_pauseMenu.activeSelf) CloseOptions();
+
         Time.timeScale = willBeActive ? 0f : 1f;
 
         string mapName = willBeActive ? "UI" : "Player";
         _playerInput?.SwitchCurrentActionMap(mapName);
+    }
+
+    private void OpenOptions()
+    {
+        _optionsPanel.SetActive(true);
+
+        EventSystem.current.SetSelectedGameObject(null);
+        EventSystem.current.SetSelectedGameObject(_firstOptionButton);
+    }
+
+    public void CloseOptions()
+    {
+        if (!_pauseMenu.activeSelf) return;
+        _optionsPanel.SetActive(false);
+
+        EventSystem.current.SetSelectedGameObject(null);
+        EventSystem.current.SetSelectedGameObject(_firstPauseButton);
+    }
+
+    private void OnControlSchemeChanged(ControlScheme scheme)
+    {
+        UpdateScheme(scheme);
+    }
+
+    private void UpdateScheme(ControlScheme scheme)
+    {
+        bool isGamepad = (scheme == ControlScheme.Gamepad);
+
+        if (isGamepad)
+        {
+            Cursor.visible = false;
+            Cursor.lockState = CursorLockMode.Confined;
+        }
+        else
+        {
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+        }
     }
 }

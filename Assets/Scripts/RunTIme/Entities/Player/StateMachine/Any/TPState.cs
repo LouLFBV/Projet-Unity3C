@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.InputSystem;
 
 /// <summary>
 /// Represents the state in which the player prepares and executes a teleport.
@@ -172,14 +173,27 @@ class TPState : PlayerState
     /// <returns>The desired teleport destination.</returns>
     private Vector2 CalculateTargetPosition(Vector2 origin)
     {
-        // Fallback in case the main camera cannot be found.
         Camera cam = Camera.main ?? Object.FindFirstObjectByType<Camera>();
-        if (cam == null) return origin;
+        if (cam == null)
+        {
+            Debug.LogWarning("[TPState] Camera.main est introuvable !");
+            return origin;
+        }
 
-        Vector3 mouseScreenPos = Input.mousePosition;
-        mouseScreenPos.z = Mathf.Abs(cam.transform.position.z - Character.transform.position.z);
+        bool hasController = CursorController.Instance != null;
+        string scheme = InputDeviceManager.Instance != null ? InputDeviceManager.Instance.CurrentScheme.ToString() : "Aucun InputDeviceManager";
 
-        Vector3 mouseWorldPos = cam.ScreenToWorldPoint(mouseScreenPos);
+        // Récupère la position écran (virtuelle si manette, physique si souris)
+        Vector3 cursorScreenPos = hasController
+            ? CursorController.Instance.CurrentScreenPosition
+            : (Mouse.current != null ? (Vector3)Mouse.current.position.ReadValue() : Input.mousePosition);
+
+        Debug.Log($"[TPState] Schéma: {scheme} | CursorController OK: {hasController} | ScreenPos: {cursorScreenPos}");
+
+        cursorScreenPos.z = Mathf.Abs(cam.transform.position.z - Character.transform.position.z);
+
+        Vector3 mouseWorldPos = cam.ScreenToWorldPoint(cursorScreenPos);
+
         Vector2 cursorDirection = (Vector2)mouseWorldPos - origin;
 
         if (cursorDirection.magnitude > Character.DistanceTP)
@@ -187,7 +201,9 @@ class TPState : PlayerState
             cursorDirection = cursorDirection.normalized * Character.DistanceTP;
         }
 
-        return origin + cursorDirection;
+        Vector2 finalTarget = origin + cursorDirection;
+
+        return finalTarget;
     }
     /// <summary>
     /// Resolves the final teleport position by checking for obstacles along the trajectory
