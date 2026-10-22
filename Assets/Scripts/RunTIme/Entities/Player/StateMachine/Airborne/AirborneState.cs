@@ -54,21 +54,39 @@ class AirboneState : PlayerState
     /// Checks for a wall in the player's facing direction and determines
     /// whether the player can enter a wall slide.
     /// </summary>
-    protected void ProcessWallSlide() 
+    protected void ProcessWallSlide()
     {
-        RaycastHit2D hit = Physics2D.BoxCast(
+        float castDistance = Character.CastDistanceToWallJump + Character.SkinWidth;
+
+        RaycastHit2D hitRight = Physics2D.BoxCast(
             Character.transform.position,
             Character.Collider.size,
             0,
-            Vector2.right * Character.FacingDirection,
-            Character.CastDistanceToWallJump + Character.SkinWidth,
+            Vector2.right,
+            castDistance,
             Character.GroundLayer
         );
 
-        if (hit && Mathf.Abs(hit.normal.y) < 0.1f)
+        RaycastHit2D hitLeft = Physics2D.BoxCast(
+            Character.transform.position,
+            Character.Collider.size,
+            0,
+            Vector2.left,
+            castDistance,
+            Character.GroundLayer
+        );
+
+        if (hitRight && Mathf.Abs(hitRight.normal.y) < 0.1f)
         {
             _canWallSlide = true;
-            _wallJumpDirection = (int)-Character.FacingDirection;
+            Character.FacingDirection = 1;
+            _wallJumpDirection = -1;       
+        }
+        else if (hitLeft && Mathf.Abs(hitLeft.normal.y) < 0.1f)
+        {
+            _canWallSlide = true;
+            Character.FacingDirection = -1; 
+            _wallJumpDirection = 1;         
         }
         else
         {

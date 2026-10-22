@@ -3841,7 +3841,7 @@ MonoBehaviour:
   _manaSystem: {fileID: 7927457315766396263}
   _costTP: 30
   _distanceTP: 6
-  _timeScaleInTP: 0.1
+  _timeScaleInTP: 0.05
   _TPZone: {fileID: 2206385887962690278}
   _TPZoneTimer: {fileID: 7075589555243239541}
   _spriteGhost: {fileID: 7704413382405384789}
